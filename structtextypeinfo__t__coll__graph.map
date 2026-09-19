@@ -1,0 +1,11 @@
+<map id="textypeinfo_t" name="textypeinfo_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="112,181,221,207"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,56,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="32,44,37,100,47,130,63,156,86,173,113,183,111,188,83,177,59,159,42,132,32,101,27,45"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="81,5,165,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="120,44,115,98,117,128,126,156,136,169,148,179,144,183,132,173,122,159,112,129,109,98,114,44"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="193,5,231,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="211,45,201,98,185,158,175,182,170,180,180,156,196,96,206,44"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="364,5,415,31"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="394,44,393,71,389,102,378,133,359,159,336,172,301,181,222,192,221,186,300,176,334,167,356,155,373,130,383,101,388,71,388,44"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="dsprite2frame_t" name="dsprite2frame_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="7,161,133,187"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,44,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="22,45,18,89,21,113,28,136,38,149,50,159,47,163,34,153,24,139,16,114,13,89,16,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="91,5,142,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="115,45,105,89,90,138,79,162,74,160,85,136,100,87,110,44"/>
+</map>

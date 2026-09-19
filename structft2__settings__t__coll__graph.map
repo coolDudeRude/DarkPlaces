@@ -1,0 +1,7 @@
+<map id="ft2_settings_t" name="ft2_settings_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="23,221,134,247"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,56,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="27,45,21,77,19,116,22,157,34,196,44,209,57,219,54,223,40,213,30,199,17,158,13,116,16,76,22,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="109,5,147,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="129,45,121,115,113,157,101,198,89,222,84,220,96,196,108,156,116,114,124,44"/>
+</map>

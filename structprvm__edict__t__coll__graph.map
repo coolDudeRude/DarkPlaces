@@ -1,0 +1,11 @@
+<map id="prvm_edict_t" name="prvm_edict_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="120,101,227,127"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,56,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="50,39,89,75,138,99,136,104,87,80,47,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="80,5,147,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="125,42,142,76,163,99,159,103,138,79,120,45"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="171,5,298,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="227,45,208,79,187,103,183,99,203,76,222,42"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="322,5,459,31"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="353,38,257,80,201,104,199,99,255,75,351,34"/>
+</map>

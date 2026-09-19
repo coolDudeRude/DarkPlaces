@@ -1,0 +1,9 @@
+<map id="portals.h" name="portals.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="111,5,189,31"/>
+<area shape="rect" id="Node000002" href="$gl__rsurf_8c.html" title=" " alt="" coords="5,79,87,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,41,65,81,62,76,120,36"/>
+<area shape="rect" id="Node000003" href="$portals_8c.html" title=" " alt="" coords="111,79,189,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="153,44,153,79,147,79,147,44"/>
+<area shape="rect" id="Node000004" href="$r__shadow_8c.html" title=" " alt="" coords="213,79,308,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="181,36,244,76,241,81,178,40"/>
+</map>

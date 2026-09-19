@@ -1,0 +1,9 @@
+<map id="q3shaderinfo_deform_t" name="q3shaderinfo_deform_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="66,121,239,147"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,103,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="64,43,76,70,93,96,109,109,127,119,124,124,106,113,89,99,71,73,59,45"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="127,5,178,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="155,45,155,121,150,121,150,45"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="249,5,288,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="267,45,258,73,241,99,222,114,201,124,199,119,220,109,237,96,253,71,262,43"/>
+</map>

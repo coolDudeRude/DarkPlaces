@@ -1,0 +1,8 @@
+<map id="snd_buffer_t" name="snd_buffer_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="24,275,127,300"/>
+<area shape="rect" id="Node000002" href="$structsnd__format__t.html" title=" " alt="" coords="133,160,241,185"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,197,89,276,85,272,164,193"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,87,31"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="44,44,35,116,35,160,41,203,54,242,70,273,66,276,49,244,35,205,30,160,30,116,38,44"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="68,39,179,158,175,162,64,42"/>
+</map>

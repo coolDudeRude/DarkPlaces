@@ -1,0 +1,9 @@
+<map id="snd_ogg.h" name="snd_ogg.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="131,5,219,31"/>
+<area shape="rect" id="Node000002" href="$snd__main_8c.html" title=" " alt="" coords="5,79,101,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,40,75,81,72,76,142,35"/>
+<area shape="rect" id="Node000003" href="$snd__mem_8c.html" title=" " alt="" coords="126,79,223,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="177,44,177,79,172,79,172,44"/>
+<area shape="rect" id="Node000004" href="$snd__ogg_8c.html" title=" " alt="" coords="247,79,334,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="206,35,273,76,270,81,203,40"/>
+</map>

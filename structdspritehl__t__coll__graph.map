@@ -1,0 +1,7 @@
+<map id="dspritehl_t" name="dspritehl_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="38,241,129,267"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,44,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="20,45,13,80,9,125,13,172,19,195,28,216,40,229,54,239,52,244,36,233,24,219,14,197,8,173,4,125,8,80,15,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="118,5,169,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="147,45,142,124,132,172,116,219,99,242,95,239,112,216,127,171,136,124,141,44"/>
+</map>

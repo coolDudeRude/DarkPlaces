@@ -1,0 +1,9 @@
+<map id="FT_CharMapRec" name="FT_CharMapRec">
+<area shape="rect" id="Node000001" title=" " alt="" coords="173,121,300,147"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,161,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,37,223,119,220,123,108,41"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="185,5,288,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="239,45,239,121,234,121,234,45"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="312,5,367,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="338,45,329,72,312,99,295,113,275,124,273,119,292,109,308,96,324,70,333,43"/>
+</map>

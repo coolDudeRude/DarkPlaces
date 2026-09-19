@@ -1,0 +1,17 @@
+<map id="my_destination_mgr" name="my_destination_mgr">
+<area shape="rect" id="Node000001" title=" " alt="" coords="513,217,669,243"/>
+<area shape="rect" id="Node000002" href="$structjpeg__destination__mgr.html" title=" " alt="" coords="290,121,453,147"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="412,150,566,215,563,220,410,154"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,87,31"/>
+<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="46,44,48,71,60,96,91,119,137,140,194,159,259,176,395,201,513,218,513,223,394,206,257,181,192,164,135,145,88,124,56,99,43,73,41,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="58,42,74,71,99,95,132,107,180,117,290,127,290,132,180,122,131,113,97,100,70,74,53,45"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="576,5,636,31"/>
+<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="638,38,650,54,654,75,650,98,640,134,626,168,600,218,596,216,621,165,635,132,645,97,649,76,645,56,634,41"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="573,40,551,57,542,68,537,78,531,89,520,100,488,116,454,126,452,121,486,111,516,95,526,86,532,76,537,65,547,53,569,36"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="187,5,254,31"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="225,44,232,71,248,96,268,110,291,120,289,125,265,114,244,99,228,73,220,45"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="324,5,419,31"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="374,45,374,121,369,121,369,45"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="747,121,820,147"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="756,156,686,196,627,220,625,215,684,191,753,152"/>
+</map>

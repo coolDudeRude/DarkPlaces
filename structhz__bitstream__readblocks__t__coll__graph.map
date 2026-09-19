@@ -1,0 +1,12 @@
+<map id="hz_bitstream_readblocks_t" name="hz_bitstream_readblocks_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="146,269,343,295"/>
+<area shape="rect" id="Node000002" href="$structhz__bitstream__readblock__t.html" title=" " alt="" coords="5,145,196,170"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,180,141,212,173,243,215,267,212,272,170,247,137,215,113,183"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="27,5,175,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="103,59,103,145,98,145,98,59"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="201,13,283,38"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="245,52,247,269,242,269,240,52"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="218,49,190,71,114,146,110,142,187,67,214,44"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="331,145,369,170"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="333,182,257,271,253,267,329,179"/>
+</map>

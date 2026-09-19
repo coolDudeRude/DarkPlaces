@@ -1,0 +1,7 @@
+<map id="lightmaptriangle_t" name="lightmaptriangle_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="20,201,163,227"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,44,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="20,44,15,73,12,107,16,143,28,176,40,189,56,199,53,204,37,193,24,179,10,144,7,107,10,72,15,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="133,5,183,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="161,45,154,107,145,144,131,179,109,203,105,200,126,176,140,142,149,107,155,44"/>
+</map>

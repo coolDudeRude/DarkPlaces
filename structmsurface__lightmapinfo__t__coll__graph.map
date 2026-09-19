@@ -1,0 +1,14 @@
+<map id="msurface_lightmapinfo_t" name="msurface_lightmapinfo_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="235,375,421,400"/>
+<area shape="rect" id="Node000002" href="$structmtexinfo__t.html" title=" " alt="" coords="111,200,204,225"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,236,206,291,229,322,256,349,276,362,297,372,294,377,273,367,253,353,225,325,201,294,167,239"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,56,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="31,44,34,99,42,129,56,156,68,170,84,181,117,198,115,202,81,186,65,174,51,159,37,131,29,100,26,45"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="249,5,287,31"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="300,38,312,53,321,82,327,121,333,217,331,375,326,374,328,217,322,122,316,84,307,56,296,41"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="238,35,211,56,197,81,192,104,189,128,181,158,165,201,160,199,176,157,183,127,186,103,192,79,207,53,235,31"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="80,5,131,31"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="103,45,99,98,101,128,109,156,124,180,143,198,139,202,120,183,104,158,96,128,94,98,98,44"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="457,200,538,225"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="478,237,341,376,337,373,474,234"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="xmp_stream_perchannel_t" name="xmp_stream_perchannel_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="63,141,257,167"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,56,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="33,44,40,81,47,100,58,116,75,129,95,139,93,144,72,134,54,119,42,102,35,83,28,45"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="141,5,179,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="163,44,163,141,157,141,157,44"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="279,5,361,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="322,45,314,83,305,102,293,119,273,134,251,144,249,139,270,129,289,115,301,100,309,81,316,44"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="yuv_buffer" name="yuv_buffer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="31,201,122,227"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,44,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="21,44,16,73,14,107,17,143,28,176,39,189,52,199,49,203,35,193,24,179,12,144,8,107,11,72,16,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="88,5,169,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="130,45,121,107,102,178,88,202,84,200,97,176,116,105,124,44"/>
+</map>

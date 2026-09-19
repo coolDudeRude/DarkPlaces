@@ -1,0 +1,9 @@
+<map id="explosion_t" name="explosion_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="82,181,179,207"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,56,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="31,44,35,99,43,129,58,156,73,169,91,179,88,184,70,174,54,159,38,131,30,100,26,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="93,5,168,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="133,44,133,181,128,181,128,44"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="192,5,243,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="220,45,214,100,205,131,190,159,176,173,160,183,157,179,173,169,186,156,200,129,209,99,215,44"/>
+</map>

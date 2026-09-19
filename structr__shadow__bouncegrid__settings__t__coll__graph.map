@@ -1,0 +1,9 @@
+<map id="r_shadow_bouncegrid_settings_t" name="r_shadow_bouncegrid_settings_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="121,241,284,281"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,56,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="29,45,25,82,26,128,35,175,45,196,58,216,87,238,122,251,120,256,84,243,54,219,40,199,30,176,20,128,19,82,23,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="183,5,222,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="205,45,205,241,200,241,200,45"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="297,5,348,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="329,44,331,81,328,127,318,175,308,198,295,219,282,233,266,243,263,239,278,229,291,216,304,196,313,173,323,126,325,81,323,45"/>
+</map>

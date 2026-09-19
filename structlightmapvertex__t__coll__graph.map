@@ -1,0 +1,7 @@
+<map id="lightmapvertex_t" name="lightmapvertex_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,181,140,207"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="16,5,55,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="33,45,28,98,31,128,39,156,47,169,58,179,54,183,43,172,34,158,26,129,23,98,27,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="86,5,137,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="109,45,85,158,79,182,73,180,79,157,104,44"/>
+</map>

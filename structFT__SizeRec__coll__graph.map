@@ -1,0 +1,19 @@
+<map id="FT_SizeRec" name="FT_SizeRec">
+<area shape="rect" id="Node000001" title=" " alt="" coords="253,297,348,323"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,201,161,227"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,230,208,271,270,295,268,300,206,276,118,235"/>
+<area shape="rect" id="Node000003" href="$structFT__Generic.html" title=" " alt="" coords="185,201,280,227"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="246,238,265,272,288,295,285,299,261,275,241,241"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="125,5,186,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="159,44,169,107,179,142,195,176,217,199,213,203,190,179,174,144,164,108,154,45"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="210,5,277,31"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="245,44,236,201,231,201,239,44"/>
+<area shape="rect" id="Node000006" href="$structFT__Size__Metrics.html" title=" " alt="" coords="304,201,431,227"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="353,239,311,299,307,296,349,236"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="329,5,384,31"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="358,45,356,105,361,177,366,200,361,202,355,178,351,105,352,45"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="423,5,474,31"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="452,45,447,108,438,145,422,179,409,193,394,203,391,199,405,189,417,176,433,143,442,107,447,44"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="455,201,666,227"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="518,234,404,276,335,300,334,295,402,271,516,229"/>
+</map>

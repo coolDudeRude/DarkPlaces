@@ -1,0 +1,15 @@
+<map id="challenge_t" name="challenge_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="267,197,365,223"/>
+<area shape="rect" id="Node000002" href="$structlhnetaddress__t.html" title=" " alt="" coords="139,101,258,127"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,136,252,171,291,195,289,199,249,175,214,140"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,152,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="87,42,94,60,106,75,125,89,147,99,145,104,122,94,102,79,90,63,82,45"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="179,5,218,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="201,45,201,101,196,101,196,45"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="242,5,323,31"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="269,44,241,79,215,103,211,99,237,76,265,40"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="283,101,349,127"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="319,141,319,197,313,197,313,141"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="373,101,424,127"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="388,140,362,175,334,199,331,195,358,172,383,137"/>
+</map>

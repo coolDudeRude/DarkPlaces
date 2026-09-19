@@ -1,0 +1,7 @@
+<map id="gamemode_info_t" name="gamemode_info_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="41,241,181,267"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,113,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="62,44,69,123,78,170,91,216,104,240,100,242,86,218,72,171,64,124,57,45"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="138,5,189,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="166,45,159,124,150,171,136,218,123,242,118,240,132,216,145,170,154,123,160,44"/>
+</map>

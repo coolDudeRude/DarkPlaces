@@ -1,0 +1,9 @@
+<map id="model_sprite_t" name="model_sprite_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="27,257,145,283"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,161,44,187"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="23,200,23,217,28,232,40,245,55,255,52,259,36,249,24,235,18,218,17,200"/>
+<area shape="rect" id="Node000003" href="$structmspriteframe__t.html" title=" " alt="" coords="87,161,210,187"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="141,201,122,235,101,259,97,255,117,232,136,198"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="123,5,174,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="151,44,151,161,146,161,146,44"/>
+</map>

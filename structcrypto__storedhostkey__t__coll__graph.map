@@ -1,0 +1,18 @@
+<map id="crypto_storedhostkey_t" name="crypto_storedhostkey_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="337,215,512,240"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,110,233,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,137,307,188,385,212,384,217,305,193,161,143"/>
+<area shape="rect" id="Node000003" href="$structlhnetaddress__t.html" title=" " alt="" coords="257,110,376,135"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="333,145,370,189,404,212,401,217,367,193,329,148"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="70,5,217,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="158,41,171,59,187,75,224,92,274,107,273,112,222,97,185,80,167,63,154,44"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="377,5,416,31"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="406,43,409,54,421,146,427,214,421,214,416,147,403,55,401,45"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="381,43,328,111,324,108,377,40"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="241,5,323,31"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="282,44,286,77,295,94,307,108,303,112,291,97,281,78,277,44"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="513,110,563,135"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="516,147,439,216,436,212,513,143"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="587,110,638,135"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="591,147,562,171,527,193,468,217,466,212,525,188,559,166,588,143"/>
+</map>

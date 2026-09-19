@@ -1,0 +1,11 @@
+<map id="pskboneinfo_t" name="pskboneinfo_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="49,297,164,323"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,161,56,187"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="35,200,42,236,58,272,70,285,85,295,82,299,67,289,54,275,37,238,30,201"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="87,161,126,187"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="109,200,109,297,104,297,104,200"/>
+<area shape="rect" id="Node000004" href="$structpskpose__t.html" title=" " alt="" coords="183,161,271,187"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="228,201,220,238,211,258,199,275,181,290,160,300,158,295,178,285,195,272,207,255,215,237,223,200"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="201,5,252,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="229,44,229,161,224,161,224,44"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="svbspmesh_t" name="svbspmesh_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="158,181,266,207"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,168,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,42,130,96,171,156,197,179,194,183,167,159,125,99,96,45"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="193,5,231,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="215,44,215,181,209,181,209,44"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="312,5,363,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="342,45,336,101,327,132,310,159,290,175,267,186,265,181,287,171,306,156,322,129,331,100,336,44"/>
+</map>

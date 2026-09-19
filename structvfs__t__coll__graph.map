@@ -1,0 +1,7 @@
+<map id="vfs_t" name="vfs_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="53,161,107,187"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,56,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="27,44,24,89,27,113,34,136,44,149,58,159,54,163,41,153,30,139,21,115,18,89,22,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="111,5,150,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="129,45,120,89,104,138,91,162,86,159,99,136,115,87,124,43"/>
+</map>

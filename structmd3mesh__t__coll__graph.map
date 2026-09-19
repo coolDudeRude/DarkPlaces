@@ -1,0 +1,7 @@
+<map id="md3mesh_t" name="md3mesh_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="29,301,128,327"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,56,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="26,45,17,91,12,150,15,215,23,246,34,276,44,289,57,299,54,303,40,293,30,279,18,248,10,215,6,150,12,90,21,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="109,5,147,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="131,45,126,148,117,213,101,278,89,302,85,300,96,276,112,212,121,148,126,45"/>
+</map>

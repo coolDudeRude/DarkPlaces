@@ -1,0 +1,8 @@
+<map id="snd_ringbuffer_t" name="snd_ringbuffer_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="12,295,139,320"/>
+<area shape="rect" id="Node000002" href="$structsnd__format__t.html" title=" " alt="" coords="133,170,241,195"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,208,88,296,84,293,165,204"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,87,31"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="44,45,34,125,34,174,41,223,54,262,70,293,66,296,49,264,35,225,29,175,29,125,38,44"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="67,39,179,168,175,172,63,43"/>
+</map>
