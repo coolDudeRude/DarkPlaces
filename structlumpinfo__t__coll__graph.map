@@ -1,0 +1,7 @@
+<map id="lumpinfo_t" name="lumpinfo_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="24,181,116,207"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,44,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="22,44,16,98,19,128,28,156,38,169,50,179,47,183,34,173,24,159,14,129,11,98,16,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="91,5,142,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="116,45,106,97,90,158,79,182,74,180,85,156,101,96,111,44"/>
+</map>

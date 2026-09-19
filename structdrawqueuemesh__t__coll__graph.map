@@ -1,0 +1,14 @@
+<map id="drawqueuemesh_t" name="drawqueuemesh_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="165,315,308,340"/>
+<area shape="rect" id="Node000002" href="$structrtexture__t.html" title=" " alt="" coords="145,160,232,185"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,199,195,243,208,289,225,313,221,316,203,292,189,244,185,199"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="13,5,52,31"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="26,44,16,78,9,119,10,162,15,183,24,203,39,224,58,243,102,274,148,297,191,312,189,317,146,302,99,279,54,247,35,228,19,205,10,185,5,163,4,119,11,77,20,43"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="36,44,43,81,51,99,62,115,77,127,91,131,107,133,127,139,167,158,165,162,125,144,106,138,90,136,74,131,58,119,46,102,38,83,31,45"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="192,5,243,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="216,45,193,160,188,159,210,44"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="256,160,337,185"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="294,199,283,243,264,292,249,316,244,313,259,289,278,242,289,198"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="410,160,460,185"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="438,199,430,247,420,271,404,293,388,302,365,310,308,321,307,315,363,305,386,297,400,289,415,269,425,245,432,199"/>
+</map>

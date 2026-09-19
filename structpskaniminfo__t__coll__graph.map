@@ -1,0 +1,9 @@
+<map id="pskaniminfo_t" name="pskaniminfo_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="49,221,164,247"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,56,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="31,44,30,77,33,116,41,158,58,196,70,209,84,219,81,223,66,213,54,199,36,159,28,117,25,77,26,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="87,5,126,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="109,44,109,221,104,221,104,44"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="196,5,247,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="227,44,228,78,225,118,215,161,194,199,178,214,159,224,156,219,175,209,190,196,210,159,220,118,223,78,222,44"/>
+</map>

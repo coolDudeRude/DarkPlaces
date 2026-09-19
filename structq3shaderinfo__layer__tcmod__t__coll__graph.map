@@ -1,0 +1,9 @@
+<map id="q3shaderinfo_layer_tcmod_t" name="q3shaderinfo_layer_tcmod_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="72,121,219,161"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,96,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="62,42,75,69,93,96,118,119,115,123,89,99,71,72,57,45"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="120,5,171,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="148,45,148,121,143,121,143,45"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="242,5,281,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="260,45,251,72,234,99,218,113,200,124,198,119,215,109,230,96,246,70,255,43"/>
+</map>

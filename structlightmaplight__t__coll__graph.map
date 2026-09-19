@@ -1,0 +1,14 @@
+<map id="lightmaplight_t" name="lightmaplight_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,711,127,736"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="97,5,147,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,45,119,55,96,271,79,488,69,710,64,710,74,488,90,271,114,54,115,44"/>
+<area shape="rect" id="Node000003" href="$structsvbsp__t.html" title=" " alt="" coords="129,615,201,640"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="124,44,124,220,129,341,138,464,151,550,165,614,159,615,146,551,133,464,123,341,119,220,119,44"/>
+<area shape="rect" id="Node000005" href="$structsvbsp__node__t.html" title=" " alt="" coords="192,290,303,315"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="137,42,143,54,205,191,245,289,240,291,200,194,138,56,132,44"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="144,652,80,712,76,709,141,648"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="291,5,329,31"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="330,41,335,54,339,86,335,117,337,216,340,293,337,369,318,465,297,535,281,563,253,593,228,609,202,620,200,615,226,605,250,589,276,560,292,533,313,463,332,368,335,293,331,216,330,117,333,86,330,55,325,43"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="285,41,274,56,261,88,252,121,244,189,245,249,248,289,243,290,239,249,239,189,247,120,256,86,269,53,280,38"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="244,329,170,615,165,614,238,328"/>
+</map>

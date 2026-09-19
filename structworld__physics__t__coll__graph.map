@@ -1,0 +1,11 @@
+<map id="world_physics_t" name="world_physics_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="125,141,251,167"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,56,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="35,44,44,81,52,100,64,115,93,134,125,144,124,150,90,139,61,119,48,102,39,83,30,45"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="80,5,141,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="107,44,104,81,107,99,114,116,127,129,144,139,141,144,124,134,110,119,102,101,99,81,101,44"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="247,5,286,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="266,45,258,82,240,119,227,133,212,143,209,139,223,129,235,116,252,80,261,44"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="399,5,449,31"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="426,45,418,84,409,103,395,119,371,132,335,141,252,152,251,146,334,136,369,127,392,115,404,100,413,82,421,44"/>
+</map>

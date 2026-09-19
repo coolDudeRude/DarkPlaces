@@ -1,0 +1,16 @@
+<map id="input.h" name="input.h">
+<area shape="rect" id="Node000001" title="&#45;&#45; external (non&#45;keyboard) input devices" alt="" coords="142,5,209,31"/>
+<area shape="rect" id="Node000002" href="$qtypes_8h.html" title=" " alt="" coords="103,152,181,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,32,150,139,145,138,170,31"/>
+<area shape="rect" id="Node000006" href="$cvar_8h.html" title=" " alt="" coords="179,79,241,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="183,30,201,65,196,67,179,32"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,225,76,251"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="127,180,70,219,67,215,124,175"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="101,225,183,251"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="145,178,145,212,139,212,139,178"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="208,225,295,251"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="161,175,223,215,220,220,158,180"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="201,106,165,144,161,140,197,102"/>
+<area shape="rect" id="Node000007" href="$qdefs_8h.html" title=" " alt="" coords="205,152,276,177"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="218,103,233,139,228,141,213,105"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="r_bufferdata_buffer_t" name="r_bufferdata_buffer_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="117,275,276,300"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,163,148,203"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,212,134,249,172,272,170,277,131,253,96,216"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="185,5,245,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,45,200,274,195,274,211,44"/>
+<area shape="rect" id="Node000004" href="$structr__meshbuffer__t.html" title=" " alt="" coords="319,170,439,195"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="219,44,228,91,238,115,253,135,284,157,320,170,318,175,282,162,249,139,234,117,223,92,214,45"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="348,204,219,277,216,272,346,200"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="287,5,325,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="301,44,294,89,296,114,304,136,322,155,344,168,342,172,318,159,300,139,291,115,289,89,295,43"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="393,5,454,31"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="420,44,397,138,386,171,381,169,391,137,415,43"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="518,5,569,31"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="545,45,537,92,527,117,512,139,478,163,441,176,439,171,476,158,508,135,523,115,532,91,540,44"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="658,5,709,31"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="687,45,681,93,672,118,656,139,640,149,618,158,562,170,440,182,439,177,562,165,617,153,638,145,652,135,667,115,676,91,682,44"/>
+</map>

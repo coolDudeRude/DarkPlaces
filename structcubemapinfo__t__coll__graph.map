@@ -1,0 +1,11 @@
+<map id="cubemapinfo_t" name="cubemapinfo_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="25,237,143,263"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,141,56,167"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="29,180,30,197,34,212,45,225,59,235,56,239,41,229,30,215,24,197,24,180"/>
+<area shape="rect" id="Node000003" href="$structrtexture__t.html" title=" " alt="" coords="95,141,182,167"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="130,180,112,215,95,239,91,236,107,212,125,178"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="38,5,77,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="53,45,50,81,53,99,61,116,76,131,96,141,94,146,73,135,56,119,48,101,45,81,48,44"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="196,5,247,31"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="221,45,213,82,194,119,180,133,165,143,162,139,177,129,190,116,208,80,216,44"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="rendermodule_t" name="rendermodule_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="42,181,167,207"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,44,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="26,44,31,98,39,128,52,156,64,169,79,179,76,183,61,173,48,159,34,130,25,99,21,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="79,5,130,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="107,44,107,181,102,181,102,44"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="154,5,221,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="189,45,182,99,172,130,158,159,145,173,130,183,127,179,141,169,153,156,167,128,177,98,184,44"/>
+</map>

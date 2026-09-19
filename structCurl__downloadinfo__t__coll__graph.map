@@ -1,0 +1,9 @@
+<map id="Curl_downloadinfo_t" name="Curl_downloadinfo_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="49,121,204,147"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,56,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="36,44,44,70,58,96,74,109,92,119,89,124,71,113,54,99,39,73,31,45"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="93,5,160,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="129,45,129,121,124,121,124,45"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="197,5,248,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="221,45,212,72,195,99,179,113,160,124,158,119,176,109,191,96,207,70,216,43"/>
+</map>

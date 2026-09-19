@@ -1,0 +1,7 @@
+<map id="eventqueueitem_t" name="eventqueueitem_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,121,147,147"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="22,5,61,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="40,44,40,70,45,96,53,109,63,119,59,123,49,112,40,98,34,71,35,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="85,5,136,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="106,45,82,122,77,120,101,43"/>
+</map>

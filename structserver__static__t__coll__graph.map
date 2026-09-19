@@ -1,0 +1,17 @@
+<map id="server_static_t" name="server_static_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="379,141,497,167"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,44,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="27,44,34,82,42,100,54,115,70,122,100,128,187,138,379,148,378,154,186,143,99,133,69,127,51,119,37,103,29,84,22,45"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="103,5,227,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="174,43,191,81,203,100,219,115,247,127,287,136,379,146,378,152,286,141,245,132,217,120,199,103,186,84,169,45"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="251,5,302,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="277,44,280,81,287,100,297,115,310,124,329,131,379,142,378,147,328,136,307,128,293,119,282,102,275,82,272,44"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="413,5,463,31"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="441,44,441,141,435,141,435,44"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="503,5,584,31"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="544,45,536,82,528,102,516,119,499,134,480,144,477,139,496,129,512,116,523,99,531,81,539,44"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="707,5,767,31"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="739,45,732,84,723,103,709,119,694,129,672,136,618,147,498,155,498,150,617,141,671,131,691,124,706,115,718,100,727,82,734,44"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="897,5,958,31"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="930,45,923,84,914,103,900,120,878,128,839,135,730,146,497,154,497,149,730,140,839,130,876,123,896,115,909,100,918,82,925,44"/>
+</map>

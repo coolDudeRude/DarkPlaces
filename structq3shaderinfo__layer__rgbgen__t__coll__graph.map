@@ -1,0 +1,9 @@
+<map id="q3shaderinfo_layer_rgbgen_t" name="q3shaderinfo_layer_rgbgen_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="77,121,223,161"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,100,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="64,43,76,69,93,96,120,119,117,123,89,99,71,72,59,45"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="125,5,175,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="153,45,153,121,147,121,147,45"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="247,5,285,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="264,45,255,72,239,99,223,113,205,124,202,119,220,109,235,96,250,70,259,43"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="mmodel_t" name="mmodel_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="24,161,112,187"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,56,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="28,45,25,89,28,113,34,136,43,149,53,159,50,163,38,152,30,138,22,114,20,89,23,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="87,5,126,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="103,45,80,138,74,162,69,160,75,137,98,43"/>
+</map>

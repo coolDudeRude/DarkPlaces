@@ -1,0 +1,9 @@
+<map id="daliashdr_t" name="daliashdr_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="92,301,187,327"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,44,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="22,45,15,92,14,153,17,186,24,218,36,248,52,276,70,292,93,302,91,307,67,296,48,279,31,250,19,219,12,186,9,153,10,92,17,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="102,5,177,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="142,44,142,301,137,301,137,44"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="231,5,282,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="264,44,270,92,270,154,259,219,247,250,229,279,211,296,188,306,186,301,208,291,225,276,242,248,254,218,265,153,264,92,259,45"/>
+</map>

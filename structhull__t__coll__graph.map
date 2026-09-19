@@ -1,0 +1,15 @@
+<map id="hull_t" name="hull_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="203,275,261,300"/>
+<area shape="rect" id="Node000002" href="$structmclipnode__t.html" title=" " alt="" coords="118,130,221,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,169,164,209,168,230,176,249,188,263,204,273,201,278,184,267,171,252,163,231,159,209,161,169"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="18,5,57,31"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="28,44,18,70,10,101,9,133,18,163,35,187,56,208,107,241,159,264,203,277,202,282,157,269,104,246,53,212,31,190,14,165,4,133,5,100,13,68,23,42"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="59,39,116,95,156,128,152,132,113,99,55,43"/>
+<area shape="rect" id="Node000004" href="$structmplane__t.html" title=" " alt="" coords="245,130,328,155"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="71,28,105,34,132,36,159,41,189,52,275,128,272,132,187,57,157,46,132,42,104,39,70,33"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="281,169,252,252,241,276,236,273,247,250,276,168"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="80,5,579,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="323,45,293,131,288,129,318,43"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="352,130,427,155"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="383,169,363,211,348,234,330,253,296,272,262,283,261,278,294,267,326,249,344,230,358,209,379,167"/>
+</map>

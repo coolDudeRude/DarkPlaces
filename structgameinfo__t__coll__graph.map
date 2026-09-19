@@ -1,0 +1,18 @@
+<map id="gameinfo_t" name="gameinfo_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="55,333,151,359"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,217,113,243"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="68,255,86,308,98,332,94,334,81,310,63,257"/>
+<area shape="rect" id="Node000003" href="$structgamelevels__t.html" title=" " alt="" coords="137,217,248,243"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,256,143,311,119,335,115,331,139,308,177,253"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="23,5,74,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="35,43,23,66,14,93,11,120,19,145,43,172,73,192,105,207,138,216,136,222,104,212,70,197,39,176,14,148,6,121,8,92,18,64,31,41"/>
+<area shape="rect" id="Node000005" href="$structlevel__t.html" title=" " alt="" coords="111,121,178,147"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="45,45,44,71,52,96,75,110,112,122,110,127,73,115,48,99,39,72,40,45"/>
+<area shape="rect" id="Node000006" href="$structepisode__t.html" title=" " alt="" coords="202,121,287,147"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="88,29,133,53,144,64,151,75,157,85,168,95,211,119,209,124,164,99,153,88,146,77,140,67,130,57,86,34"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="149,160,159,192,179,215,175,219,154,195,144,161"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="234,160,201,218,197,216,229,158"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="297,5,336,31"/>
+<area shape="poly" id="edge9_Node000003_Node000007" title=" " alt="" coords="339,41,346,54,350,76,346,98,332,152,320,173,298,195,275,211,249,221,247,216,273,206,295,191,315,170,327,150,341,97,345,76,341,56,335,43"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="290,41,276,56,259,91,250,122,244,120,254,89,272,53,286,37"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="svbsp_t" name="svbsp_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="118,535,190,560"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="37,5,87,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="56,44,33,119,21,170,13,226,8,286,11,347,22,407,43,463,60,486,81,505,127,532,124,537,78,510,56,490,38,465,17,408,5,348,3,286,7,226,16,169,28,118,50,43"/>
+<area shape="rect" id="Node000004" href="$structsvbsp__node__t.html" title=" " alt="" coords="99,290,209,315"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="73,43,153,289,148,290,67,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="192,5,231,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="235,40,242,54,246,71,246,86,242,117,241,292,237,368,223,464,220,490,210,512,196,526,180,537,177,532,192,522,205,509,215,488,218,464,231,367,235,291,237,117,240,85,241,72,237,56,230,43"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="190,42,180,56,169,88,160,122,152,190,152,249,155,290,150,290,147,250,147,190,155,121,163,86,176,53,185,39"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="157,330,157,534,151,534,151,330"/>
+</map>

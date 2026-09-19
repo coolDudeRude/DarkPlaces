@@ -1,0 +1,7 @@
+<map id="wadinfo_t" name="wadinfo_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="49,121,135,147"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,56,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="28,44,27,70,34,96,46,109,61,119,58,123,42,113,30,99,22,71,23,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="135,5,174,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="151,45,141,72,128,99,107,123,103,120,123,96,136,69,146,43"/>
+</map>

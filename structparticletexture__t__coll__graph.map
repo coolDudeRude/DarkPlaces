@@ -1,0 +1,11 @@
+<map id="particletexture_t" name="particletexture_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="87,297,218,323"/>
+<area shape="rect" id="Node000002" href="$structrtexture__t.html" title=" " alt="" coords="63,141,149,167"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,181,105,225,108,249,116,272,125,285,137,295,133,299,121,288,112,275,103,251,99,225,100,181"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,44,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="21,45,18,81,21,99,28,116,44,131,64,141,61,146,41,135,24,119,16,101,12,81,15,44"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="163,5,214,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="189,45,180,82,162,119,148,133,132,143,129,139,144,129,157,116,175,80,183,44"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="174,141,225,167"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="197,181,187,225,172,274,162,298,157,296,168,272,182,223,192,180"/>
+</map>

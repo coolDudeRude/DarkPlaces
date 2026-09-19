@@ -1,0 +1,7 @@
+<map id="objvertex_t" name="objvertex_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="46,141,142,167"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,44,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="21,45,18,81,21,99,28,116,41,129,57,139,54,144,37,133,24,119,16,101,13,81,16,45"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="139,5,190,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="164,45,155,81,138,119,114,143,110,139,133,116,150,79,159,44"/>
+</map>

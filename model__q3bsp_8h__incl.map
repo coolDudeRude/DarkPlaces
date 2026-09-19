@@ -1,0 +1,23 @@
+<map id="model_q3bsp.h" name="model_q3bsp.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="155,5,277,31"/>
+<area shape="rect" id="Node000002" href="$bspfile_8h.html" title=" " alt="" coords="5,79,83,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,33,86,76,84,71,187,28"/>
+<area shape="rect" id="Node000003" href="$r__qshader_8h.html" title=" " alt="" coords="107,79,205,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="208,33,177,70,172,66,204,29"/>
+<area shape="rect" id="Node000008" href="$r__textures_8h.html" title=" " alt="" coords="347,79,447,104"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="246,28,356,71,354,76,244,33"/>
+<area shape="rect" id="Node000010" href="$matrixlib_8h.html" title=" " alt="" coords="229,79,323,104"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="228,29,260,66,255,70,224,33"/>
+<area shape="rect" id="Node000004" href="$qtypes_8h.html" title=" " alt="" coords="237,152,315,177"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="177,102,246,142,243,147,174,106"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="139,225,210,251"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="261,180,204,219,201,215,258,175"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="235,225,317,251"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="279,178,279,212,273,212,273,178"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="342,225,429,251"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="295,175,357,215,354,220,292,180"/>
+<area shape="poly" id="edge8_Node000008_Node000004" title=" " alt="" coords="379,106,309,147,306,143,376,102"/>
+<area shape="rect" id="Node000009" href="$qdefs_8h.html" title=" " alt="" coords="362,152,433,177"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="400,104,400,138,395,138,395,104"/>
+<area shape="poly" id="edge11_Node000010_Node000004" title=" " alt="" coords="279,104,279,138,273,138,273,104"/>
+</map>

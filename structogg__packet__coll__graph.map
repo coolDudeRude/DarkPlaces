@@ -1,0 +1,9 @@
+<map id="ogg_packet" name="ogg_packet">
+<area shape="rect" id="Node000001" title=" " alt="" coords="89,141,185,167"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,87,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="52,44,62,80,81,116,95,129,111,139,108,143,92,133,77,119,57,82,47,45"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="111,5,162,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="139,44,139,141,134,141,134,44"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="186,5,253,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="218,45,209,81,190,119,176,133,161,143,158,139,173,129,185,116,204,80,213,44"/>
+</map>

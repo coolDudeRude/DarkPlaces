@@ -1,0 +1,9 @@
+<map id="cl_locnode_t" name="cl_locnode_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="161,121,263,147"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,163,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,39,171,95,199,119,196,123,168,99,105,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="187,5,237,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="215,45,215,121,209,121,209,45"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="261,5,336,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="294,45,282,72,265,99,235,123,232,119,261,96,277,70,289,43"/>
+</map>
