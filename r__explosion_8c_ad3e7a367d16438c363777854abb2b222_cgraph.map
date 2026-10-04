@@ -1,0 +1,7 @@
+<map id="R_MoveExplosion" name="R_MoveExplosion">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,143,55"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="46,31,40,21,43,11,55,5,74,3,97,6,107,15,103,19,95,11,74,8,56,10,47,15,45,20,50,28"/>
+<area shape="rect" id="Node000002" href="$cl__collision_8c.html#a3844376c9cc74935d902373d216acc75" title=" " alt="" coords="191,29,297,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,39,177,39,177,45,143,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="216,31,210,21,213,11,225,5,244,3,267,6,277,15,273,19,265,11,244,8,226,10,217,15,215,20,220,28"/>
+</map>

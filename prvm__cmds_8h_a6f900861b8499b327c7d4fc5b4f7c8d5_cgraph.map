@@ -1,0 +1,7 @@
+<map id="VM_stof" name="VM_stof">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,80,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="19,30,14,21,17,11,27,5,43,3,62,6,70,15,66,18,59,11,43,8,28,10,21,15,19,20,24,28"/>
+<area shape="rect" id="Node000002" href="$prvm__cmds_8c.html#a033052e704bd0d0ab40f3de58ac7824b" title="Returns the length of the *out string excluding the \0 terminator." alt="" coords="128,29,237,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="80,39,114,39,114,45,80,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="159,30,154,21,157,11,167,5,183,3,202,6,210,15,206,18,199,11,183,8,168,10,161,15,159,20,164,28"/>
+</map>

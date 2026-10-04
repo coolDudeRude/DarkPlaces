@@ -1,0 +1,10 @@
+<map id="VM_tokenize_console" name="VM_tokenize_console">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,168,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="50,68,42,58,46,48,62,42,87,40,118,44,130,53,127,57,116,49,87,45,63,47,50,52,47,58,54,65"/>
+<area shape="rect" id="Node000002" href="$common_8c.html#a7d8e38022cb81cc407c53a1cb3b33866" title=" " alt="" coords="216,29,407,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,64,221,54,221,60,164,69"/>
+<area shape="rect" id="Node000003" href="$prvm__edict_8c.html#a1d2244b6253cecef732afeb0bf1d393f" title="Takes an strlen (not a buffer size)." alt="" coords="231,103,392,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="167,89,218,98,218,103,166,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="275,31,267,21,271,11,286,5,311,3,343,7,355,16,352,20,341,11,311,8,287,10,275,15,272,20,279,27"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="275,104,267,94,271,84,286,78,311,76,343,80,355,89,352,93,341,85,311,81,287,83,275,88,272,94,279,101"/>
+</map>

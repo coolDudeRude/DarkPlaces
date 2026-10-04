@@ -1,0 +1,16 @@
+<map id="M_DrawSlider" name="M_DrawSlider">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,140,117,165"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="32,141,26,132,30,122,42,116,61,113,85,117,95,126,92,130,83,122,61,119,43,121,34,125,32,131,37,138"/>
+<area shape="rect" id="Node000002" href="$common_8c.html#ae36050083f45e395189fee6aa45fbb0c" title="Returns the number of printed characters, excluding the final &#39;\0&#39; or returns &#45;1 if the buffer isn&#39;t ..." alt="" coords="191,29,279,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,138,112,102,164,64,177,57,179,62,167,68,115,106,77,142"/>
+<area shape="rect" id="Node000005" href="$menudefs_8qc.html#accccfae161879454243b3a8695a9bf3b" title=" " alt="" coords="209,103,260,128"/>
+<area shape="poly" id="edge3_Node000001_Node000005" title=" " alt="" coords="117,138,195,121,196,126,118,143"/>
+<area shape="rect" id="Node000006" href="$menu_8c.html#a53c9547f036d13af371d6e8d97409656" title=" " alt="" coords="165,176,304,201"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="118,162,160,171,159,176,117,167"/>
+<area shape="rect" id="Node001352" href="$menu_8c.html#a90ea0ae04890d4b1b60cf35b5592fe87" title=" " alt="" coords="199,249,270,275"/>
+<area shape="poly" id="edge8_Node000001_Node001352" title=" " alt="" coords="84,163,204,240,201,244,81,168"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="206,31,200,21,203,11,215,5,235,3,259,6,269,15,265,19,256,11,235,8,216,10,207,15,205,20,210,28"/>
+<area shape="poly" id="edge4_Node000005_Node000005" title=" " alt="" coords="207,105,200,95,202,85,214,78,235,76,260,80,269,90,265,94,258,85,235,81,216,83,207,88,205,94,211,102"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="206,177,200,168,203,158,215,152,235,149,259,153,269,162,265,166,256,158,235,155,216,157,207,161,205,167,210,174"/>
+<area shape="poly" id="edge9_Node001352_Node001352" title=" " alt="" coords="206,251,200,241,203,231,215,225,235,223,259,226,269,235,265,239,256,231,235,228,216,230,207,235,205,240,210,248"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="R_Shadow_EditLights_CopyInfo_f" name="R_Shadow_EditLights_CopyInfo_f">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,59,165,99"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="53,60,51,50,56,41,68,35,85,33,105,36,116,43,113,47,103,41,85,38,69,40,60,45,57,51,58,58"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#a977f9318008de123876b168dfa86ad22" title=" " alt="" coords="230,29,281,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,59,216,48,217,53,166,64"/>
+<area shape="rect" id="Node000003" href="$console_8c.html#a1cf9711475097b11dc41f743254ec77e" title="Prints to all appropriate console targets, and adds timestamps." alt="" coords="213,103,297,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="166,94,200,101,199,106,165,99"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="228,31,221,21,224,11,236,5,255,3,279,6,288,15,285,19,276,11,255,8,238,10,228,15,227,20,232,28"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="227,104,221,94,224,85,236,78,255,76,278,79,288,88,285,92,276,84,255,81,238,83,229,88,227,94,232,101"/>
+</map>

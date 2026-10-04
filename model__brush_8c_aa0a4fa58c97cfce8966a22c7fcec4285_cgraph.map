@@ -1,0 +1,7 @@
+<map id="Mod_BSP_BoxTouchingPVS" name="Mod_BSP_BoxTouchingPVS">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,201,55"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="69,31,61,21,65,11,80,5,103,3,133,6,144,15,141,20,131,11,103,8,81,10,69,15,67,20,73,28"/>
+<area shape="rect" id="Node000002" href="$mathlib_8c.html#aea6de4286a37f9e063f4542490d672c2" title=" " alt="" coords="249,29,379,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,39,235,39,235,45,201,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="279,31,272,21,276,11,290,5,314,3,343,6,355,15,352,20,341,11,314,8,292,10,280,15,277,20,284,28"/>
+</map>

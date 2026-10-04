@@ -1,0 +1,11 @@
+<map id="phys.c" name="phys.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="91,5,155,31"/>
+<area shape="rect" id="Node000002" href="$phys_8h.html" title=" " alt="" coords="19,79,85,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,33,75,71,71,67,109,29"/>
+<area shape="rect" id="Node000003" href="$quakedef_8h.html" title=" " alt="" coords="5,152,99,177"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="123,31,115,65,100,105,74,143,70,140,95,103,110,64,118,30"/>
+<area shape="rect" id="Node000093" href="$cl__collision_8h.html" title=" " alt="" coords="160,79,267,104"/>
+<area shape="poly" id="edge5_Node000001_Node000093" title=" " alt="" coords="139,29,189,68,186,72,136,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="48,104,46,139,41,138,42,104"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="56,152,58,118,63,118,62,152"/>
+</map>

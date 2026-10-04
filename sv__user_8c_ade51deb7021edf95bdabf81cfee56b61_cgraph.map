@@ -1,0 +1,10 @@
+<map id="SV_FrameLost" name="SV_FrameLost">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,120,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="28,68,21,58,25,48,39,42,63,40,92,44,104,53,100,57,90,49,63,45,40,47,28,52,26,58,32,65"/>
+<area shape="rect" id="Node000002" href="$sv__ents5_8c.html#ace08ba0ea5e8a682a6cf9257638dc308" title=" " alt="" coords="182,29,366,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,67,188,54,189,60,121,72"/>
+<area shape="rect" id="Node000004" href="$protocol_8h.html#a6555c60437a8208753fad9f2bfa80574" title=" " alt="" coords="168,103,380,128"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="121,86,186,98,185,103,120,92"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="239,31,232,21,236,11,250,5,274,3,303,6,315,15,312,20,301,11,274,8,252,10,240,15,237,20,244,28"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="239,104,232,94,236,84,250,78,274,76,303,80,315,89,312,93,301,85,274,81,252,83,240,88,237,94,244,101"/>
+</map>

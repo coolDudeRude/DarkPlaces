@@ -1,0 +1,7 @@
+<map id="CDAudio_Shutdown" name="CDAudio_Shutdown">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,155,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="50,31,44,21,47,11,60,5,80,3,105,6,115,15,111,19,102,11,80,8,61,10,51,15,49,20,55,28"/>
+<area shape="rect" id="Node000002" href="$cd__shared_8c.html#a292b6c29d946e5f225f6f56b1ffdae30" title=" " alt="" coords="203,29,317,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="155,39,189,39,189,45,155,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="230,31,224,21,227,11,240,5,260,3,285,6,295,15,291,19,282,11,260,8,241,10,231,15,229,20,235,28"/>
+</map>

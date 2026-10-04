@@ -1,0 +1,10 @@
+<map id="PRVM_Prog_Reset" name="PRVM_Prog_Reset">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,145,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="44,68,37,58,41,48,54,42,75,40,101,44,112,52,109,56,99,48,75,45,55,47,45,52,43,58,48,65"/>
+<area shape="rect" id="Node000002" href="$prvm__edict_8c.html#a83a36ac1bc61c0e0ee85d829ff1000d3" title=" " alt="" coords="203,29,327,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,64,189,54,190,59,141,69"/>
+<area shape="rect" id="Node001349" href="$prvm__edict_8c.html#ac1260c994264d40b284ccaffffbefed6" title=" " alt="" coords="193,103,336,128"/>
+<area shape="poly" id="edge3_Node000001_Node001349" title=" " alt="" coords="143,89,185,97,184,103,142,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="233,31,227,21,230,11,243,5,265,3,291,6,302,15,298,19,289,11,265,8,245,10,234,15,232,20,238,28"/>
+<area shape="poly" id="edge4_Node001349_Node001349" title=" " alt="" coords="233,104,227,94,230,84,243,78,265,76,291,80,302,88,298,92,289,84,265,81,245,83,234,88,232,94,238,101"/>
+</map>

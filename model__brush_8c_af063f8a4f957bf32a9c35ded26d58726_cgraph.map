@@ -1,0 +1,16 @@
+<map id="Mod_BSP_MakePortals" name="Mod_BSP_MakePortals">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,166,175,191"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="50,168,41,158,46,148,62,142,90,139,125,143,135,148,139,154,134,157,131,152,124,148,90,145,63,147,49,152,46,157,54,164"/>
+<area shape="rect" id="Node000002" href="$zone_8c.html#af23fe0fce9cfaf4fdbc6a6989ac24821" title=" " alt="" coords="252,29,425,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,164,153,122,186,99,221,79,238,72,240,77,224,84,189,104,156,127,107,168"/>
+<area shape="rect" id="Node000003" href="$zone_8c.html#a211e7367323b1791e87715797bdee714" title=" " alt="" coords="252,117,425,157"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="166,163,237,151,238,157,167,169"/>
+<area shape="rect" id="Node000004" href="$model__brush_8c.html#a5cb19d68e7dfde86ce4c3fac82fd613b" title=" " alt="" coords="247,206,431,231"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="170,189,246,201,246,206,169,194"/>
+<area shape="rect" id="Node000010" href="$model__brush_8c.html#add60d2fdd85ebc13d13b2184bdc89381" title=" " alt="" coords="223,279,455,305"/>
+<area shape="poly" id="edge8_Node000001_Node000010" title=" " alt="" coords="118,189,224,240,295,271,293,276,222,245,116,194"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="293,30,290,20,297,10,314,5,339,3,367,6,383,13,381,18,366,11,339,8,315,10,300,15,295,21,298,28"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="293,118,290,108,297,98,314,93,339,91,367,94,383,101,381,106,366,99,339,96,315,98,300,103,295,109,298,116"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="298,208,290,198,294,188,311,182,339,179,374,183,384,188,387,194,383,197,380,192,372,188,339,185,312,187,298,192,295,197,302,204"/>
+<area shape="poly" id="edge9_Node000010_Node000010" title=" " alt="" coords="298,281,290,271,294,261,311,255,339,253,374,257,384,261,387,267,383,270,380,265,372,262,339,258,312,260,298,265,295,270,302,277"/>
+</map>

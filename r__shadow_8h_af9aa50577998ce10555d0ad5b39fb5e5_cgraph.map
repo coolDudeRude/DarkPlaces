@@ -1,0 +1,16 @@
+<map id="R_CompleteLightPoint" name="R_CompleteLightPoint">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,172,180"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="53,156,46,146,50,136,64,130,89,128,119,132,131,141,127,145,117,137,89,133,66,135,53,140,51,146,57,153"/>
+<area shape="rect" id="Node000002" href="$cl__collision_8c.html#a3844376c9cc74935d902373d216acc75" title=" " alt="" coords="253,29,360,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,152,151,110,184,86,219,65,239,56,242,61,221,70,186,90,154,114,105,156"/>
+<area shape="rect" id="Node000591" href="$zone_8c.html#a1b1599deb1c7db8a64afe5cf4cdbd539" title=" " alt="" coords="220,103,393,143"/>
+<area shape="poly" id="edge3_Node000001_Node000591" title=" " alt="" coords="152,152,206,141,207,146,153,157"/>
+<area shape="rect" id="Node000592" href="$zone_8c.html#ac3c570c2a60e19b44ed16e7e0ba844fa" title=" " alt="" coords="220,191,393,231"/>
+<area shape="poly" id="edge5_Node000001_Node000592" title=" " alt="" coords="153,177,207,189,206,194,152,183"/>
+<area shape="rect" id="Node000285" href="$menudefs_8qc.html#a83f4d3f317a80e82e6b16ea61ea5efc3" title=" " alt="" coords="283,280,330,305"/>
+<area shape="poly" id="edge8_Node000001_Node000285" title=" " alt="" coords="113,178,221,241,273,271,270,275,219,246,110,182"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="271,31,264,21,268,11,282,5,307,3,337,6,349,15,345,20,335,11,307,8,284,10,271,15,269,20,275,28"/>
+<area shape="poly" id="edge4_Node000591_Node000591" title=" " alt="" coords="266,104,264,94,270,84,285,79,307,77,332,80,346,87,343,92,330,85,307,82,286,84,273,89,269,95,271,102"/>
+<area shape="poly" id="edge6_Node000592_Node000592" title=" " alt="" coords="266,192,264,182,270,172,285,167,307,165,332,168,346,175,343,180,330,173,307,170,286,172,273,177,269,183,271,190"/>
+<area shape="poly" id="edge9_Node000285_Node000285" title=" " alt="" coords="282,288,266,277,265,265,279,256,307,253,330,255,345,261,350,270,344,280,340,277,344,270,341,265,329,261,307,259,281,261,270,267,271,274,285,283"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="VM_remove" name="VM_remove">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,105,92"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="29,68,23,58,26,49,37,42,55,40,77,43,86,52,83,56,75,48,55,45,39,47,30,52,29,58,33,65"/>
+<area shape="rect" id="Node000002" href="$prvm__edict_8c.html#ad5bcf2df9c7165cf1cce84dfcc8c0e33" title=" " alt="" coords="153,29,273,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,65,145,55,146,61,106,70"/>
+<area shape="rect" id="Node000003" href="$prvm__cmds_8c.html#a839f28438a1ca0de7c2d772295e1763a" title=" " alt="" coords="162,103,265,128"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="106,88,149,98,148,103,105,93"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="187,31,181,21,184,11,195,5,213,3,235,6,244,15,241,19,233,11,213,8,197,10,188,15,187,20,191,28"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="187,104,181,94,184,85,195,78,213,76,235,79,244,88,241,92,233,84,213,81,197,83,188,88,187,94,191,101"/>
+</map>

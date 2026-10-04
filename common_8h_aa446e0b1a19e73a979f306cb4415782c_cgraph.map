@@ -1,0 +1,7 @@
+<map id="MSG_ReadCoord16i" name="MSG_ReadCoord16i">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,156,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="47,31,40,21,44,11,58,5,81,3,109,6,120,16,117,20,107,11,81,8,59,10,48,15,45,20,52,28"/>
+<area shape="rect" id="Node000002" href="$com__msg_8c.html#aa7a9ec4cc694b7bb97ff7d87cd772ffb" title=" " alt="" coords="204,29,363,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="156,39,190,39,190,45,156,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="250,31,243,21,247,11,260,5,283,3,312,6,323,16,319,20,309,11,283,8,262,10,250,15,248,20,254,28"/>
+</map>

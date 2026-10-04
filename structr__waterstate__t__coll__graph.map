@@ -1,0 +1,13 @@
+<map id="r_waterstate_t" name="r_waterstate_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="290,375,406,400"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="54,5,93,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="62,43,37,91,15,154,9,188,9,221,15,253,31,282,56,310,86,332,119,349,154,362,226,378,290,384,290,389,226,384,153,368,117,354,83,337,52,314,26,286,10,255,4,222,4,187,10,153,33,89,57,41"/>
+<area shape="rect" id="Node000003" href="$structr__waterstate__waterplane__t.html" title=" " alt="" coords="158,190,354,215"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="97,39,247,188,243,192,93,42"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="260,229,270,287,281,319,297,349,310,362,325,372,322,377,307,366,293,352,276,322,265,288,255,230"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="319,5,370,31"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="376,38,387,53,396,81,402,117,407,202,402,288,395,324,387,352,378,366,367,376,363,373,374,362,382,350,390,322,396,287,401,202,397,118,391,83,382,56,371,41"/>
+<area shape="poly" id="edge4_Node000003_Node000007" title=" " alt="" coords="331,43,323,56,286,132,263,191,258,189,282,130,318,53,326,40"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="536,190,587,215"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="554,229,540,258,520,286,486,317,448,342,380,377,377,372,446,338,483,312,516,282,535,255,550,227"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="VM_ftos" name="VM_ftos">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,80,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="15,68,9,58,12,49,24,42,43,40,65,43,75,52,72,56,63,48,43,45,25,47,16,52,14,58,19,65"/>
+<area shape="rect" id="Node000002" href="$common_8c.html#ae36050083f45e395189fee6aa45fbb0c" title="Returns the number of printed characters, excluding the final &#39;\0&#39; or returns &#45;1 if the buffer isn&#39;t ..." alt="" coords="165,29,253,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,68,150,52,151,58,81,74"/>
+<area shape="rect" id="Node000005" href="$prvm__edict_8c.html#a1d2244b6253cecef732afeb0bf1d393f" title="Takes an strlen (not a buffer size)." alt="" coords="128,103,289,128"/>
+<area shape="poly" id="edge3_Node000001_Node000005" title=" " alt="" coords="81,85,137,97,136,102,80,90"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="181,31,175,21,178,11,190,5,209,3,231,6,241,15,238,19,229,11,209,8,191,10,182,15,180,20,185,28"/>
+<area shape="poly" id="edge4_Node000005_Node000005" title=" " alt="" coords="181,104,175,94,178,85,190,78,209,76,231,79,241,88,238,92,229,84,209,81,191,83,182,88,180,94,185,101"/>
+</map>

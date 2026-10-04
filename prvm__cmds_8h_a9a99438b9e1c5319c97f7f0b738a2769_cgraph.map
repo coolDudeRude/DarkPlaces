@@ -1,0 +1,10 @@
+<map id="VM_strzone" name="VM_strzone">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,104,92"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="27,68,21,58,24,49,36,42,55,40,77,43,87,52,84,56,75,48,55,45,37,47,28,52,26,58,31,65"/>
+<area shape="rect" id="Node000002" href="$prvm__edict_8c.html#a679626582a997f361875065d8a3c1ca3" title=" " alt="" coords="152,29,289,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,66,150,55,151,60,105,71"/>
+<area shape="rect" id="Node001351" href="$prvm__cmds_8c.html#a033052e704bd0d0ab40f3de58ac7824b" title="Returns the length of the *out string excluding the \0 terminator." alt="" coords="166,103,275,128"/>
+<area shape="poly" id="edge4_Node000001_Node001351" title=" " alt="" coords="105,87,153,98,152,103,104,93"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="193,31,187,21,190,11,202,5,221,3,243,6,253,15,250,19,241,11,221,8,203,10,194,15,192,20,197,28"/>
+<area shape="poly" id="edge5_Node001351_Node001351" title=" " alt="" coords="193,104,187,94,190,85,202,78,221,76,243,79,253,88,250,92,241,84,221,81,203,83,194,88,192,94,197,101"/>
+</map>

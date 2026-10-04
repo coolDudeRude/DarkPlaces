@@ -1,0 +1,8 @@
+<map id="lightmaplight_t" name="lightmaplight_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,275,127,300"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="41,5,91,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="65,45,59,101,59,204,67,274,62,275,54,204,54,101,60,44"/>
+<area shape="rect" id="Node000003" href="$structsvbsp__t.html" title=" " alt="" coords="126,140,198,165"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="85,40,156,138,151,141,80,43"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="148,178,77,276,72,273,143,175"/>
+</map>

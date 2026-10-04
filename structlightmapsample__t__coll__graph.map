@@ -1,0 +1,7 @@
+<map id="lightmapsample_t" name="lightmapsample_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="21,141,161,167"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,56,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="27,45,25,80,28,99,34,116,46,129,61,139,58,143,42,133,30,119,22,100,20,81,22,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="110,5,191,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="149,45,140,80,124,119,105,143,101,140,119,116,134,79,144,43"/>
+</map>

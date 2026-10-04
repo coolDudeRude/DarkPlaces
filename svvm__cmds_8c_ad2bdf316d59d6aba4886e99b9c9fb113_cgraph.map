@@ -1,0 +1,13 @@
+<map id="VM_SV_te_plasmaburn" name="VM_SV_te_plasmaburn">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,176,128"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="52,104,44,94,48,84,64,78,91,76,124,80,137,89,133,94,122,85,91,81,65,83,52,88,49,94,56,101"/>
+<area shape="rect" id="Node000002" href="$com__msg_8c.html#a7e32b0a419941b93644ba097bb64af96" title=" " alt="" coords="267,29,391,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,100,223,63,253,55,255,60,225,69,123,105"/>
+<area shape="rect" id="Node001351" href="$com__msg_8c.html#a68647d195bf6bb737b63063272a8bc86" title=" " alt="" coords="263,103,395,128"/>
+<area shape="poly" id="edge3_Node000001_Node001351" title=" " alt="" coords="177,113,250,113,250,118,177,118"/>
+<area shape="rect" id="Node001218" href="$sv__send_8c.html#a5168dc1804c9aab6f18be82fbaad6e67" title=" " alt="" coords="224,176,435,201"/>
+<area shape="poly" id="edge5_Node000001_Node001218" title=" " alt="" coords="134,126,275,169,273,175,132,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="291,31,282,21,287,11,303,5,329,3,363,7,375,16,372,20,361,11,329,8,304,10,290,15,288,20,295,27"/>
+<area shape="poly" id="edge4_Node001351_Node001351" title=" " alt="" coords="291,104,282,94,287,84,303,78,329,76,363,80,375,89,372,94,361,85,329,81,304,83,290,88,288,94,295,101"/>
+<area shape="poly" id="edge6_Node001218_Node001218" title=" " alt="" coords="291,178,282,168,287,158,303,152,329,149,363,153,375,163,372,167,361,158,329,155,304,157,290,162,288,167,295,174"/>
+</map>

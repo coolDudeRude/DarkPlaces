@@ -1,0 +1,10 @@
+<map id="R_SkinFrame_LoadNoTexture" name="R_SkinFrame_LoadNoTexture">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,216,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="67,68,58,58,63,48,81,42,111,40,149,44,160,49,163,55,159,58,156,53,148,49,111,45,82,47,66,52,63,58,71,65"/>
+<area shape="rect" id="Node000002" href="$image_8c.html#a1b865bec4e3a376e0fd9656e8f9d7fa5" title=" " alt="" coords="282,29,478,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,64,274,54,274,59,203,69"/>
+<area shape="rect" id="Node000003" href="$gl__rmain_8c.html#a6254a8f908da05ab79804175be40aec9" title=" " alt="" coords="264,103,496,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="206,89,272,98,271,103,206,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="337,31,327,21,332,11,350,5,380,3,419,7,429,12,433,18,428,20,426,16,417,12,380,8,351,10,335,15,332,20,340,27"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="337,104,327,94,332,84,350,78,380,76,419,80,429,85,433,91,428,94,426,89,417,85,380,81,351,83,335,88,332,94,340,101"/>
+</map>

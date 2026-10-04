@@ -1,0 +1,10 @@
+<map id="M_Menu_Options_Effects_AdjustSliders" name="M_Menu_Options_Effects_AdjustSliders">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,59,191,99"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="57,60,55,50,62,40,76,35,98,33,123,36,137,43,135,48,122,41,98,38,77,40,65,45,60,51,63,58"/>
+<area shape="rect" id="Node000002" href="$cvar_8c.html#a65b55ce35a5bd18e379065651d5d6e15" title=" " alt="" coords="239,29,392,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,61,227,54,228,60,191,66"/>
+<area shape="rect" id="Node001348" href="$snd__main_8c.html#a4d633abdbed318fd5b12833e0ca6cbcf" title=" " alt="" coords="260,103,371,128"/>
+<area shape="poly" id="edge4_Node000001_Node001348" title=" " alt="" coords="191,92,247,101,246,107,191,97"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="280,31,272,21,276,11,291,5,315,3,345,6,357,15,354,20,343,11,315,8,292,10,280,15,278,20,284,28"/>
+<area shape="poly" id="edge5_Node001348_Node001348" title=" " alt="" coords="280,104,272,94,276,84,291,78,315,76,345,80,357,89,354,93,343,85,315,81,292,83,280,88,278,94,284,101"/>
+</map>

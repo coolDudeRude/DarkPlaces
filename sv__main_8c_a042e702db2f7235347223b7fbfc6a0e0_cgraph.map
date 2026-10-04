@@ -1,0 +1,10 @@
+<map id="SV_AreaStats_f" name="SV_AreaStats_f">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,127,92"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="35,68,29,58,32,48,45,42,66,40,92,44,102,52,99,56,90,48,66,45,46,47,36,52,34,58,39,65"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#a977f9318008de123876b168dfa86ad22" title=" " alt="" coords="229,29,279,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,65,215,47,216,52,128,70"/>
+<area shape="rect" id="Node000003" href="$world_8c.html#a1f23efe054955819439612e756333b0f" title=" " alt="" coords="175,103,333,128"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="128,88,175,97,174,103,126,94"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="226,33,217,23,219,12,232,5,254,3,283,8,290,14,291,21,286,22,286,16,281,12,254,8,233,10,223,15,222,22,230,30"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="223,104,217,94,220,84,233,78,254,76,280,80,290,88,287,92,278,84,254,81,234,83,224,88,222,94,227,101"/>
+</map>

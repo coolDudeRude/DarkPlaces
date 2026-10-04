@@ -1,0 +1,10 @@
+<map id="theora_state" name="theora_state">
+<area shape="rect" id="Node000001" title="Codec internal state and context." alt="" coords="148,215,252,240"/>
+<area shape="rect" id="Node000002" href="$structtheora__info.html" title="Theora bitstream info." alt="" coords="152,110,248,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,149,203,214,197,214,197,149"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="5,5,67,31"/>
+<area shape="poly" id="edge4_Node000001_Node000007" title=" " alt="" coords="29,44,18,92,20,119,29,143,53,170,83,190,116,205,149,214,147,219,115,210,81,195,49,174,24,145,15,120,13,92,24,43"/>
+<area shape="poly" id="edge2_Node000002_Node000007" title=" " alt="" coords="68,36,183,108,180,112,65,40"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="272,110,339,135"/>
+<area shape="poly" id="edge3_Node000001_Node000010" title=" " alt="" coords="285,147,214,216,210,213,282,143"/>
+</map>

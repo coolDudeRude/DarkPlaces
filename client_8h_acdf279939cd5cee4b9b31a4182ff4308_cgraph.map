@@ -1,0 +1,26 @@
+<map id="CL_ForwardToServer" name="CL_ForwardToServer">
+<area shape="rect" id="Node000001" title="adds the string as a clc_stringcmd to the client message." alt="" coords="5,228,159,253"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="45,230,38,220,42,210,57,204,82,201,114,205,126,215,122,219,112,210,82,207,58,209,45,214,43,219,50,226"/>
+<area shape="rect" id="Node000002" href="$cl__main_8c.html#a5cafd3f8bc97195f703f7bc50725fd69" title=" " alt="" coords="207,29,409,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="87,226,103,195,129,154,163,110,205,72,232,57,235,62,208,76,167,113,134,157,108,198,92,229"/>
+<area shape="rect" id="Node000004" href="$common_8c.html#ae36050083f45e395189fee6aa45fbb0c" title="Returns the number of printed characters, excluding the final &#39;\0&#39; or returns &#45;1 if the buffer isn&#39;t ..." alt="" coords="457,55,545,80"/>
+<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="90,226,135,172,168,141,205,116,266,91,330,76,391,68,443,65,444,70,391,73,331,81,268,96,208,120,171,145,138,175,94,229"/>
+<area shape="rect" id="Node000007" href="$console_8c.html#a49b71fe9a87e57a440e07af4a869a9f6" title="Prints to all appropriate console targets." alt="" coords="263,155,353,180"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="111,225,206,189,249,177,250,182,208,194,113,230"/>
+<area shape="rect" id="Node000191" href="$menudefs_8qc.html#ad5a3e16aa960bd72d3ca37a618eea802" title=" " alt="" coords="283,228,333,253"/>
+<area shape="poly" id="edge9_Node000001_Node000191" title=" " alt="" coords="159,238,269,238,269,243,159,243"/>
+<area shape="rect" id="Node000072" href="$com__msg_8c.html#a7e32b0a419941b93644ba097bb64af96" title=" " alt="" coords="246,301,370,327"/>
+<area shape="poly" id="edge11_Node000001_Node000072" title=" " alt="" coords="123,251,256,294,254,299,121,256"/>
+<area shape="rect" id="Node000030" href="$menudefs_8qc.html#a274680f571a231ddf29421b93d434bfa" title=" " alt="" coords="279,375,337,400"/>
+<area shape="poly" id="edge13_Node000001_Node000030" title=" " alt="" coords="99,251,146,291,208,336,268,367,265,372,205,340,143,295,96,255"/>
+<area shape="rect" id="Node000085" href="$common_8c.html#add6a3bc72776ec150afac55558c52a3c" title=" " alt="" coords="267,448,349,473"/>
+<area shape="poly" id="edge15_Node000001_Node000085" title=" " alt="" coords="92,252,135,324,169,369,208,409,233,427,260,440,257,445,230,431,205,413,165,373,131,327,87,255"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="276,31,270,21,273,11,286,5,308,3,334,6,345,15,342,19,332,11,308,8,288,10,277,15,275,20,281,28"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="406,52,444,57,443,63,405,57"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="470,56,463,46,466,36,480,30,501,28,528,32,539,40,535,44,526,36,501,33,481,35,470,40,468,46,474,53"/>
+<area shape="poly" id="edge7_Node000007_Node000007" title=" " alt="" coords="276,156,270,146,273,136,286,130,308,128,334,132,345,140,342,144,332,136,308,133,288,135,277,140,275,146,281,153"/>
+<area shape="poly" id="edge10_Node000191_Node000191" title=" " alt="" coords="280,232,270,222,272,211,285,204,308,201,338,207,346,213,346,221,341,221,341,215,336,211,308,207,286,209,276,214,275,220,284,229"/>
+<area shape="poly" id="edge12_Node000072_Node000072" title=" " alt="" coords="276,303,270,293,273,283,286,277,308,275,334,278,345,287,342,291,332,283,308,280,288,282,277,287,275,292,281,300"/>
+<area shape="poly" id="edge14_Node000030_Node000030" title=" " alt="" coords="276,376,270,366,273,356,286,350,308,348,334,352,345,360,342,364,332,356,308,353,288,355,277,360,275,366,281,373"/>
+<area shape="poly" id="edge16_Node000085_Node000085" title=" " alt="" coords="276,449,270,440,273,430,286,424,308,421,334,425,345,434,342,438,332,430,308,427,288,429,277,433,275,439,281,446"/>
+</map>

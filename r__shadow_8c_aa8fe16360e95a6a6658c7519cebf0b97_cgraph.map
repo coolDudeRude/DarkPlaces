@@ -1,0 +1,13 @@
+<map id="R_Shadow_ClearWorldLights" name="R_Shadow_ClearWorldLights">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,125,212,150"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="68,126,60,116,64,106,81,100,109,98,144,102,154,107,157,112,153,115,150,111,142,107,109,103,82,105,68,110,65,116,72,123"/>
+<area shape="rect" id="Node000002" href="$zone_8c.html#a1b1599deb1c7db8a64afe5cf4cdbd539" title=" " alt="" coords="270,29,443,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,122,259,79,281,71,282,76,261,84,144,127"/>
+<area shape="rect" id="Node000003" href="$zone_8c.html#ac3c570c2a60e19b44ed16e7e0ba844fa" title=" " alt="" coords="270,117,443,157"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="212,135,256,135,256,140,212,140"/>
+<area shape="rect" id="Node000004" href="$r__shadow_8c.html#afaad26a7103dc4357b063cbcc81fcb64" title=" " alt="" coords="260,206,453,231"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="149,148,305,199,303,204,147,153"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="311,30,308,20,315,10,332,5,357,3,385,6,401,13,399,18,384,11,357,8,333,10,318,15,313,21,316,28"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="311,118,308,108,315,98,332,93,357,91,385,94,401,101,399,106,384,99,357,96,333,98,318,103,313,109,316,116"/>
+<area shape="poly" id="edge7_Node000004_Node000004" title=" " alt="" coords="316,208,308,198,312,188,329,182,357,179,392,183,402,188,405,194,401,197,398,192,390,188,357,185,330,187,316,192,313,197,320,204"/>
+</map>

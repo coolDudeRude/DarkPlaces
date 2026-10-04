@@ -1,0 +1,25 @@
+<map id="R_Sky_Init" name="R_Sky_Init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,249,95,275"/>
+<area shape="poly" id="edge9_Node000001_Node000001" title=" " alt="" coords="21,251,15,241,18,231,30,225,50,223,74,226,84,235,81,239,72,231,50,228,31,230,22,235,20,240,25,248"/>
+<area shape="rect" id="Node000002" href="$cmd_8c.html#a86fa905462db75436af48f27298204e5" title="called by the init functions of other parts of the program to register commands and functions to call..." alt="" coords="151,29,301,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="51,249,59,212,76,163,102,110,120,85,141,64,147,59,150,64,144,68,124,89,107,113,81,165,64,214,56,250"/>
+<area shape="rect" id="Node001352" href="$cvar_8c.html#a9bd27026ed325ffe5276549c11c7379d" title="registers a cvar that already has the name, string, and optionally the archive elements set." alt="" coords="143,103,309,128"/>
+<area shape="poly" id="edge3_Node000001_Node001352" title=" " alt="" coords="55,248,87,194,111,164,141,137,151,131,153,136,144,141,115,167,91,197,60,250"/>
+<area shape="rect" id="Node001353" href="$r__sky_8c.html#af3a3f01d4b969a34dade55bc7bedd826" title=" " alt="" coords="182,176,270,201"/>
+<area shape="poly" id="edge5_Node000001_Node001353" title=" " alt="" coords="71,247,142,210,168,201,170,206,144,215,73,252"/>
+<area shape="rect" id="Node001354" href="$r__modules_8c.html#a7f982eee49a26b26f015596ac96edea0" title=" " alt="" coords="156,249,296,275"/>
+<area shape="poly" id="edge7_Node000001_Node001354" title=" " alt="" coords="95,259,142,259,142,265,95,265"/>
+<area shape="rect" id="Node001355" href="$r__sky_8c.html#a37178307901712c1538c9f0de26c0cf1" title=" " alt="" coords="167,323,285,348"/>
+<area shape="poly" id="edge10_Node000001_Node001355" title=" " alt="" coords="83,272,183,315,181,320,80,277"/>
+<area shape="rect" id="Node001356" href="$r__sky_8c.html#aa790b1923867c906049deb5d1347cc68" title=" " alt="" coords="163,396,289,421"/>
+<area shape="poly" id="edge12_Node000001_Node001356" title=" " alt="" coords="64,273,98,313,144,357,189,387,186,392,141,361,94,317,60,277"/>
+<area shape="rect" id="Node001357" href="$r__sky_8c.html#ab647da10d533fa3195ab2037f527cf88" title=" " alt="" coords="179,469,273,495"/>
+<area shape="poly" id="edge14_Node000001_Node001357" title=" " alt="" coords="58,274,88,346,113,390,145,431,164,447,185,461,182,465,160,451,141,435,109,393,83,348,53,276"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="197,31,191,21,194,11,206,5,226,3,250,6,260,15,257,19,248,11,226,8,207,10,198,15,196,20,201,28"/>
+<area shape="poly" id="edge4_Node001352_Node001352" title=" " alt="" coords="197,104,191,94,194,85,206,78,226,76,250,80,260,88,257,92,248,84,226,81,207,83,198,88,196,94,201,101"/>
+<area shape="poly" id="edge6_Node001353_Node001353" title=" " alt="" coords="197,177,191,168,194,158,206,152,226,149,250,153,260,162,257,166,248,158,226,155,207,157,198,161,196,167,201,174"/>
+<area shape="poly" id="edge8_Node001354_Node001354" title=" " alt="" coords="197,251,191,241,194,231,206,225,226,223,250,226,260,235,257,239,248,231,226,228,207,230,198,235,196,240,201,248"/>
+<area shape="poly" id="edge11_Node001355_Node001355" title=" " alt="" coords="197,324,191,314,194,305,206,298,226,296,250,300,260,308,257,312,248,304,226,301,207,303,198,308,196,314,201,321"/>
+<area shape="poly" id="edge13_Node001356_Node001356" title=" " alt="" coords="197,397,191,388,194,378,206,372,226,369,250,373,260,382,257,386,248,378,226,375,207,377,198,381,196,387,201,394"/>
+<area shape="poly" id="edge15_Node001357_Node001357" title=" " alt="" coords="197,471,191,461,194,451,206,445,226,443,250,446,260,455,257,459,248,451,226,448,207,450,198,455,196,460,201,468"/>
+</map>

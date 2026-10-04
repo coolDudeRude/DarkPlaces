@@ -1,0 +1,18 @@
+<map id="S_LocalSoundEx" name="S_LocalSoundEx">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,124,132,149"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#a49b71fe9a87e57a440e07af4a869a9f6" title="Prints to all appropriate console targets." alt="" coords="378,29,467,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,122,123,89,150,73,179,59,227,47,276,39,364,36,364,41,276,45,228,52,181,65,153,77,126,94,85,126"/>
+<area shape="rect" id="Node001349" href="$snd__main_8c.html#ac1803d70c82da4000fc23e8cc16fee60" title=" " alt="" coords="180,99,307,124"/>
+<area shape="poly" id="edge3_Node000001_Node001349" title=" " alt="" coords="132,125,166,120,167,125,132,130"/>
+<area shape="rect" id="Node000479" href="$snd__main_8c.html#ae509fe89ef6b5f9b32bfb967153523b9" title=" " alt="" coords="355,107,491,132"/>
+<area shape="poly" id="edge10_Node000001_Node000479" title=" " alt="" coords="132,136,215,136,306,133,341,129,341,135,307,138,215,142,132,141"/>
+<area shape="rect" id="Node000494" href="$snd__main_8c.html#a418d13b1c4fe19c2ef0ed171ae339426" title="S_StartSound returns the channel index, or &#45;1 if an error occurred." alt="" coords="369,187,477,212"/>
+<area shape="poly" id="edge11_Node000001_Node000494" title=" " alt="" coords="132,145,356,185,355,190,132,150"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="393,31,387,21,390,11,402,5,423,3,447,6,458,15,454,19,445,11,423,8,404,10,394,15,392,20,397,28"/>
+<area shape="poly" id="edge4_Node001349_Node000002" title=" " alt="" coords="276,96,375,57,377,62,278,101"/>
+<area shape="poly" id="edge5_Node001349_Node001349" title=" " alt="" coords="214,100,208,90,212,81,224,74,243,72,267,76,277,84,274,88,265,80,243,77,225,79,216,84,214,90,219,97"/>
+<area shape="poly" id="edge6_Node001349_Node000479" title=" " alt="" coords="307,111,341,113,340,118,307,117"/>
+<area shape="poly" id="edge8_Node001349_Node000494" title=" " alt="" coords="272,122,385,178,382,183,269,127"/>
+<area shape="poly" id="edge7_Node000479_Node000479" title=" " alt="" coords="393,108,387,98,390,89,402,82,423,80,447,84,458,92,454,96,445,88,423,85,404,87,394,92,392,98,397,105"/>
+<area shape="poly" id="edge9_Node000494_Node000494" title=" " alt="" coords="393,188,387,178,390,169,402,162,423,160,447,164,458,172,454,176,445,168,423,165,404,167,394,172,392,178,397,185"/>
+</map>

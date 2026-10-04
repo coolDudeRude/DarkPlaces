@@ -1,0 +1,7 @@
+<map id="CL_Disconnect" name="CL_Disconnect">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,123,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="35,31,29,21,32,11,44,5,64,3,88,6,98,15,94,19,86,11,64,8,46,10,36,15,34,20,40,28"/>
+<area shape="rect" id="Node000002" href="$cl__main_8c.html#a013b6540af7a61d82d9125bd499b268b" title=" " alt="" coords="171,29,304,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="123,39,157,39,157,45,123,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="208,31,202,21,206,11,218,5,237,3,261,6,271,15,268,19,259,11,237,8,219,10,210,15,208,20,213,28"/>
+</map>

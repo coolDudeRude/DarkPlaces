@@ -1,0 +1,16 @@
+<map id="OGG_LoadVorbisFile" name="OGG_LoadVorbisFile">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,140,159,165"/>
+<area shape="poly" id="edge9_Node000001_Node000001" title=" " alt="" coords="50,141,44,132,47,122,60,116,82,113,108,117,119,126,116,130,106,122,82,119,62,121,51,125,49,131,55,138"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#a49b71fe9a87e57a440e07af4a869a9f6" title="Prints to all appropriate console targets." alt="" coords="231,29,320,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,138,144,102,205,64,219,57,221,62,208,68,147,106,100,142"/>
+<area shape="rect" id="Node000170" href="$fs_8c.html#a46b9b5ad3cc14f77ae63016505163128" title=" " alt="" coords="226,103,325,128"/>
+<area shape="poly" id="edge3_Node000001_Node000170" title=" " alt="" coords="148,137,211,125,212,130,149,143"/>
+<area shape="rect" id="Node000528" href="$csprogsdefs_8qc.html#a97b8e36976f1beb4970fe4ae7fb677fe" title=" " alt="" coords="254,176,297,201"/>
+<area shape="poly" id="edge5_Node000001_Node000528" title=" " alt="" coords="151,163,241,180,240,185,150,168"/>
+<area shape="rect" id="Node001351" href="$snd__ogg_8c.html#aaf01e30609316aa8480737ed567ac310" title=" " alt="" coords="207,249,344,275"/>
+<area shape="poly" id="edge7_Node000001_Node001351" title=" " alt="" coords="107,163,242,240,239,245,104,168"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="244,31,237,21,240,11,254,5,275,3,302,6,313,15,309,19,300,11,275,8,255,10,244,15,242,20,248,28"/>
+<area shape="poly" id="edge4_Node000170_Node000170" title=" " alt="" coords="244,104,237,94,240,84,254,78,275,76,302,80,313,88,309,92,300,84,275,81,255,83,244,88,242,94,248,101"/>
+<area shape="poly" id="edge6_Node000528_Node000528" title=" " alt="" coords="252,183,239,172,238,160,251,152,275,149,296,151,309,156,314,165,311,174,306,172,309,165,305,161,294,156,275,155,253,157,243,163,244,170,255,179"/>
+<area shape="poly" id="edge8_Node001351_Node001351" title=" " alt="" coords="244,251,237,241,240,231,254,225,275,223,302,226,313,235,309,239,300,231,275,228,255,230,244,235,242,240,248,248"/>
+</map>

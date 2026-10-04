@@ -1,0 +1,6 @@
+<map id="Sys_SDL_Dialog" name="Sys_SDL_Dialog">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,132,55"/>
+<area shape="rect" id="Node000002" href="$sys__wasm_8c.html#a5d8b38d94cc2a82fdbd53e4ea0bd53e1" title=" " alt="" coords="180,29,307,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,39,167,39,167,45,132,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="214,31,208,21,212,11,224,5,243,3,267,6,277,15,274,19,265,11,243,8,225,10,216,15,214,20,219,28"/>
+</map>

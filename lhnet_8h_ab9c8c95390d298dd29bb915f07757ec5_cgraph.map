@@ -1,0 +1,7 @@
+<map id="LHNETADDRESS_GetInterfaceName" name="LHNETADDRESS_GetInterfaceName">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,259,55"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="96,31,89,21,93,11,107,5,132,3,162,6,174,15,171,20,160,11,132,8,109,10,96,15,94,20,100,28"/>
+<area shape="rect" id="Node000002" href="$common_8c.html#ae36050083f45e395189fee6aa45fbb0c" title="Returns the number of printed characters, excluding the final &#39;\0&#39; or returns &#45;1 if the buffer isn&#39;t ..." alt="" coords="307,29,395,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="259,39,293,39,293,45,259,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="315,31,307,21,311,11,326,5,351,3,381,6,393,15,390,20,379,11,351,8,327,10,315,15,312,20,319,28"/>
+</map>

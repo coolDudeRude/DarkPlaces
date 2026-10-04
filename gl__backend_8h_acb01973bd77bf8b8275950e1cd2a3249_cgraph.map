@@ -1,0 +1,7 @@
+<map id="R_ScissorForBBox" name="R_ScissorForBBox">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,144,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="37,31,29,21,33,11,49,5,75,3,107,7,119,16,116,20,105,11,75,8,50,10,37,15,34,20,41,27"/>
+<area shape="rect" id="Node000002" href="$gl__backend_8c.html#a68398411ffba59492f224261524ce970" title=" " alt="" coords="192,29,419,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="144,39,178,39,178,45,144,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="268,31,260,21,264,11,280,5,305,3,338,7,350,16,347,20,336,11,305,8,281,10,268,15,265,20,272,27"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="SVVM_begin_increase_edicts" name="SVVM_begin_increase_edicts">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,171,69"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="52,30,50,20,55,11,68,5,88,3,111,6,123,13,120,17,109,11,88,8,70,10,59,15,55,21,57,28"/>
+<area shape="rect" id="Node000002" href="$world_8c.html#a77e1d5c998886e521323fde8b9973f7d" title="unlinks all entities (used before reallocation of edicts)" alt="" coords="219,37,344,62"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="171,47,205,47,205,52,171,52"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="250,38,243,28,246,18,260,12,281,10,308,14,319,22,315,26,306,18,281,15,261,17,250,22,248,28,254,35"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="q3deffect_t" name="q3deffect_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="43,121,138,147"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,56,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="28,44,27,70,34,96,46,109,61,119,58,123,42,113,30,99,22,71,23,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="131,5,170,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="146,45,137,71,124,99,105,123,101,119,119,96,132,69,141,43"/>
+</map>

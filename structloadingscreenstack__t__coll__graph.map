@@ -1,0 +1,9 @@
+<map id="loadingscreenstack_t" name="loadingscreenstack_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="190,181,350,207"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,220,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,40,174,94,229,155,257,179,253,183,225,159,170,98,127,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="245,5,295,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="273,44,273,181,267,181,267,44"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="319,5,370,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="346,45,338,99,329,130,315,159,291,183,287,179,310,156,324,128,333,98,341,44"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="R_Shadow_DrawEntityLight" name="R_Shadow_DrawEntityLight">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,205,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="65,31,56,21,61,11,78,5,105,3,140,7,150,11,154,17,150,20,147,15,139,12,105,8,79,10,65,15,62,20,69,27"/>
+<area shape="rect" id="Node000002" href="$r__shadow_8c.html#a0f9ba7a3fe1f071a82dbd0329c8fd6d1" title=" " alt="" coords="253,29,456,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="206,39,240,39,240,45,206,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="314,31,306,21,310,11,327,5,355,3,390,7,400,11,403,17,399,20,396,15,388,12,355,8,328,10,314,15,311,20,318,27"/>
+</map>

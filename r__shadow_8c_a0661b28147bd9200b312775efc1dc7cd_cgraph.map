@@ -1,0 +1,10 @@
+<map id="R_Shadow_EditLights_Clear_f" name="R_Shadow_EditLights_Clear_f">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,59,165,99"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="42,60,40,50,47,40,62,35,85,33,112,36,127,43,124,48,111,41,85,38,63,40,50,45,45,51,48,58"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#a977f9318008de123876b168dfa86ad22" title=" " alt="" coords="291,29,342,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,64,278,45,278,51,166,69"/>
+<area shape="rect" id="Node000003" href="$r__shadow_8c.html#aa8fe16360e95a6a6658c7519cebf0b97" title=" " alt="" coords="213,103,420,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="166,89,222,98,221,103,165,94"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="290,37,274,26,273,14,288,6,317,3,342,5,357,10,362,20,356,30,352,26,357,20,354,15,341,10,317,8,289,11,277,16,278,23,293,32"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="279,104,271,94,275,84,291,78,317,76,349,80,361,89,358,94,347,85,317,81,292,83,279,88,276,94,283,101"/>
+</map>

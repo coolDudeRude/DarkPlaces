@@ -1,0 +1,10 @@
+<map id="Cvar_ResetToDefaults_NoSaveOnly_f" name="Cvar_ResetToDefaults_NoSaveOnly_f">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,59,171,99"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="52,60,50,50,56,41,69,35,88,33,110,36,123,43,120,47,109,41,88,38,70,40,59,45,55,51,57,58"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#a977f9318008de123876b168dfa86ad22" title=" " alt="" coords="252,29,303,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,60,238,47,239,52,172,66"/>
+<area shape="rect" id="Node000003" href="$cvar_8c.html#a6f37a084abf4715928f1a004181866f8" title=" " alt="" coords="219,103,336,128"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="172,93,206,99,205,104,171,98"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="250,34,240,23,242,13,255,5,277,3,307,8,314,14,315,22,310,22,310,17,305,13,277,8,256,10,246,16,245,22,254,30"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="246,104,239,94,243,84,256,78,277,76,303,80,314,88,311,92,301,84,277,81,257,83,247,88,245,94,250,101"/>
+</map>

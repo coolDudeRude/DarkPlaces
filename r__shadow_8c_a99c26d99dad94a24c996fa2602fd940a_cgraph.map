@@ -1,0 +1,13 @@
+<map id="R_Shadow_DrawLightSprite_TransparentCallback" name="R_Shadow_DrawLightSprite_TransparentCallback">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,95,205,135"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="60,96,57,86,65,76,81,71,105,69,134,72,149,79,147,84,132,77,105,74,82,76,68,81,63,87,65,94"/>
+<area shape="rect" id="Node000002" href="$gl__rmain_8c.html#ab095e44ba81e415f6b29e8a3bf0fb7e7" title=" " alt="" coords="267,29,433,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,93,253,63,281,56,283,61,254,69,164,98"/>
+<area shape="rect" id="Node000003" href="$gl__rmain_8c.html#a36f19cdd7a555b8122917b8c887d7750" title=" " alt="" coords="265,103,435,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="205,113,251,113,251,118,205,118"/>
+<area shape="rect" id="Node000654" href="$gl__rmain_8c.html#af224655903019505e9e0a05624281315" title=" " alt="" coords="253,176,447,201"/>
+<area shape="poly" id="edge6_Node000001_Node000654" title=" " alt="" coords="174,133,294,169,293,174,172,138"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="311,31,302,21,307,11,323,5,350,3,384,7,394,11,398,17,393,20,390,15,383,12,350,8,324,10,310,15,307,20,315,27"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="311,104,302,94,307,84,323,78,350,76,384,80,394,85,398,90,393,93,390,89,383,85,350,81,324,83,310,88,307,94,315,101"/>
+<area shape="poly" id="edge7_Node000654_Node000654" title=" " alt="" coords="311,178,302,168,307,158,323,152,350,149,384,153,394,158,398,164,393,167,390,162,383,158,350,155,324,157,310,162,307,167,315,174"/>
+</map>

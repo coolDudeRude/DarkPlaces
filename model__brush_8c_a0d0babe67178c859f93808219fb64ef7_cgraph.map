@@ -1,0 +1,7 @@
+<map id="Mod_Q1BSP_RecursiveHullCheckPoint" name="Mod_Q1BSP_RecursiveHullCheckPoint">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,243,69"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="72,30,69,20,77,10,96,5,124,3,157,5,174,13,172,18,155,11,124,8,97,10,80,15,74,21,77,28"/>
+<area shape="rect" id="Node000002" href="$model__brush_8c.html#a235b8af89a030c6fb731267b0ef36e8e" title=" " alt="" coords="291,29,525,69"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="243,47,277,47,277,52,243,52"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="356,30,353,20,361,10,380,5,408,3,441,5,458,13,456,18,439,11,408,8,381,10,364,15,358,21,361,28"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="VM_CL_tracebox" name="VM_CL_tracebox">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,136,128"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="33,104,24,94,29,84,44,78,71,76,104,80,116,89,113,94,102,85,71,81,46,83,32,88,29,94,36,101"/>
+<area shape="rect" id="Node000002" href="$cl__collision_8c.html#a2e0efc42489e4c2948fb6ccd4b7abeb0" title=" " alt="" coords="184,29,428,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,100,136,81,183,63,214,55,215,60,185,69,138,86,98,105"/>
+<area shape="rect" id="Node000003" href="$cl__collision_8c.html#a50475cdb678c8e50022410f30b3e398a" title=" " alt="" coords="254,103,358,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="136,113,240,113,240,118,136,118"/>
+<area shape="rect" id="Node001354" href="$clvm__cmds_8c.html#a2a54ab4dc705bd824006d4fbdc75dab9" title=" " alt="" coords="217,176,395,201"/>
+<area shape="poly" id="edge5_Node000001_Node001354" title=" " alt="" coords="113,126,252,169,250,174,112,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="268,31,260,21,264,11,280,5,306,3,339,7,352,16,348,20,337,11,306,8,281,10,267,15,265,20,272,27"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="268,104,260,94,264,84,280,78,306,76,339,80,352,89,348,94,337,85,306,81,281,83,267,88,265,94,272,101"/>
+<area shape="poly" id="edge6_Node001354_Node001354" title=" " alt="" coords="268,178,260,168,264,158,280,152,306,149,339,153,352,163,348,167,337,158,306,155,281,157,267,162,265,167,272,174"/>
+</map>

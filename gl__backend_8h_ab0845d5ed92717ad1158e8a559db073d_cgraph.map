@@ -1,0 +1,7 @@
+<map id="R_Mesh_ResetTextureState" name="R_Mesh_ResetTextureState">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,204,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="70,31,63,21,67,11,81,5,105,3,134,6,146,15,142,20,132,11,105,8,82,10,70,15,68,20,74,28"/>
+<area shape="rect" id="Node000002" href="$gl__backend_8c.html#a5985fea6817d8d7cc74f11b96e1267dc" title=" " alt="" coords="252,29,383,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="204,39,238,39,238,45,204,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="283,31,275,21,279,11,294,5,317,3,347,6,358,15,355,20,345,11,317,8,295,10,283,15,281,20,287,28"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="World_UnlinkAll" name="World_UnlinkAll">
+<area shape="rect" id="Node000001" title="unlinks all entities (used before reallocation of edicts)" alt="" coords="5,29,131,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="38,31,32,21,35,11,48,5,68,3,93,6,103,15,99,19,90,11,68,8,49,10,39,15,37,20,43,28"/>
+<area shape="rect" id="Node000002" href="$world_8c.html#a8c6996bc42664906fb655c854bc00d68" title=" " alt="" coords="179,29,319,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="131,39,165,39,165,45,131,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="219,31,213,21,216,11,228,5,249,3,273,6,284,15,280,19,271,11,249,8,230,10,220,15,218,20,223,28"/>
+</map>

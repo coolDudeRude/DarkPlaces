@@ -1,0 +1,10 @@
+<map id="thread_cond_t" name="thread_cond_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="118,217,233,243"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,81,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="37,44,29,84,30,106,36,125,58,156,87,181,118,201,147,215,144,219,116,205,84,185,54,160,32,128,25,106,24,84,31,43"/>
+<area shape="rect" id="Node000004" href="$structthread__semaphore__t.html" title=" " alt="" coords="97,101,253,127"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="72,37,161,99,157,103,69,41"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="277,101,316,127"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="279,139,224,195,193,219,190,215,220,191,276,135"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="178,141,178,217,173,217,173,141"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="CL_ClientMovement_Physics_PM_AirAccelerate" name="CL_ClientMovement_Physics_PM_AirAccelerate">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,215,69"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="65,30,63,20,70,10,86,5,110,3,138,6,153,13,151,18,136,11,110,8,87,10,73,15,68,21,70,28"/>
+<area shape="rect" id="Node000002" href="$mathlib_8c.html#aa0f8c2537c1cf8bd8c418b1a9a854de5" title="returns vector length" alt="" coords="263,37,437,62"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="215,47,249,47,249,52,215,52"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="311,38,303,28,307,18,323,12,350,10,384,14,397,23,393,28,382,19,350,15,324,17,311,22,308,28,315,35"/>
+</map>

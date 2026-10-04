@@ -1,0 +1,10 @@
+<map id="VID_Restart_f" name="VID_Restart_f">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,116,92"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="36,68,31,58,34,49,44,42,61,40,81,44,89,52,85,56,78,48,61,45,46,47,38,52,36,58,41,65"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#a977f9318008de123876b168dfa86ad22" title=" " alt="" coords="180,29,231,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,64,166,49,167,54,111,69"/>
+<area shape="rect" id="Node000003" href="$vid__shared_8c.html#a2a981faa18b360530dae07fcda89ac14" title=" " alt="" coords="164,103,247,128"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="113,89,151,99,150,104,111,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="181,30,176,21,178,11,189,5,205,3,225,6,234,15,230,18,223,11,205,8,190,10,183,15,181,20,185,28"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="181,104,176,94,178,85,189,78,205,76,225,80,234,88,230,92,223,84,205,81,190,83,183,88,181,94,185,101"/>
+</map>

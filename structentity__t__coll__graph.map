@@ -1,0 +1,9 @@
+<map id="entity_t" name="entity_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="177,141,249,167"/>
+<area shape="rect" id="Node000002" href="$structentity__state__t.html" title=" " alt="" coords="5,5,117,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="68,43,81,81,91,99,104,115,121,127,140,136,178,146,176,152,138,141,118,132,101,119,87,102,76,83,63,45"/>
+<area shape="rect" id="Node000011" href="$structentity__persistent__t.html" title=" " alt="" coords="141,5,285,31"/>
+<area shape="poly" id="edge2_Node000001_Node000011" title=" " alt="" coords="216,44,216,141,211,141,211,44"/>
+<area shape="rect" id="Node000014" href="$structentity__render__t.html" title=" " alt="" coords="310,5,431,31"/>
+<area shape="poly" id="edge3_Node000001_Node000014" title=" " alt="" coords="359,44,331,82,294,119,272,133,249,144,247,139,269,129,290,115,327,78,355,41"/>
+</map>

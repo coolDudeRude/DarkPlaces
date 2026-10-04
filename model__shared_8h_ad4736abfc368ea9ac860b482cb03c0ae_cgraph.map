@@ -1,0 +1,20 @@
+<map id="Mod_AllocSurfMesh" name="Mod_AllocSurfMesh">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,148,156,173"/>
+<area shape="rect" id="Node000002" href="$csprogsdefs_8qc.html#a5ad5fb7c2db4df14f809d0ae435fd5b3" title=" " alt="" coords="451,221,501,246"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,146,105,120,131,89,164,58,203,35,258,14,307,3,330,4,353,9,378,19,404,35,424,52,439,73,461,119,472,167,477,207,471,207,467,168,456,121,435,76,420,56,401,40,375,24,352,14,329,9,307,9,260,19,205,40,167,63,135,93,109,124,92,149"/>
+<area shape="rect" id="Node000003" href="$model__shared_8c.html#a455c3cfb0b7e57f8e4dbe4ee0e8fd37e" title=" " alt="" coords="228,74,379,100"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="109,145,203,108,230,100,232,106,205,113,111,150"/>
+<area shape="rect" id="Node000004" href="$model__shared_8c.html#a7c7a5f1ce32faf220d25380eb24bd1ad" title=" " alt="" coords="241,148,366,173"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="156,158,227,158,227,163,156,163"/>
+<area shape="rect" id="Node001352" href="$model__shared_8c.html#aa8c710db4d67bb0e0759c01235c827e7" title=" " alt="" coords="208,221,399,246"/>
+<area shape="poly" id="edge7_Node000001_Node001352" title=" " alt="" coords="121,170,252,214,250,219,119,175"/>
+<area shape="rect" id="Node001086" href="$model__shared_8c.html#af5bb8e6dccd0096a95cca1db54d8cdc7" title="Sets the mod&#45;&gt;DrawSky and mod&#45;&gt;DrawAddWaterPlanes pointers conditionally based on whether surfaces in..." alt="" coords="204,294,403,320"/>
+<area shape="poly" id="edge10_Node000001_Node001086" title=" " alt="" coords="98,171,144,210,205,255,262,286,259,291,203,260,141,215,94,175"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="448,223,442,213,444,203,456,197,476,194,500,198,510,208,506,211,498,203,476,200,458,202,448,206,447,212,453,220"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="275,76,269,66,272,56,284,50,303,48,327,51,337,59,333,63,324,56,303,53,285,55,276,60,274,65,279,73"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="275,149,269,139,272,129,284,123,303,121,327,124,337,133,333,137,324,129,303,126,285,128,276,133,274,138,279,146"/>
+<area shape="poly" id="edge8_Node001352_Node000002" title=" " alt="" coords="399,231,437,231,437,236,399,236"/>
+<area shape="poly" id="edge9_Node001352_Node001352" title=" " alt="" coords="275,222,269,212,272,203,284,196,303,194,327,198,337,206,333,210,324,202,303,200,285,202,276,206,274,212,279,219"/>
+<area shape="poly" id="edge11_Node001086_Node000002" title=" " alt="" coords="333,292,437,247,439,252,335,297"/>
+<area shape="poly" id="edge12_Node001086_Node001086" title=" " alt="" coords="275,296,269,286,272,276,284,270,303,268,327,271,337,279,333,283,324,276,303,273,285,275,276,280,274,285,279,293"/>
+</map>

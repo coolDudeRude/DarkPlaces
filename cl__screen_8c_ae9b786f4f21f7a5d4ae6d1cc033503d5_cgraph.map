@@ -1,0 +1,16 @@
+<map id="SCR_DrawNetGraph_DrawGraph" name="SCR_DrawNetGraph_DrawGraph">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,140,236,165"/>
+<area shape="poly" id="edge9_Node000001_Node000001" title=" " alt="" coords="85,142,77,132,81,122,96,116,121,113,151,117,163,126,160,130,149,122,121,119,97,121,85,126,82,131,89,138"/>
+<area shape="rect" id="Node000002" href="$common_8c.html#ae36050083f45e395189fee6aa45fbb0c" title="Returns the number of printed characters, excluding the final &#39;\0&#39; or returns &#45;1 if the buffer isn&#39;t ..." alt="" coords="295,29,383,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,137,283,64,294,58,297,63,285,68,146,142"/>
+<area shape="rect" id="Node000005" href="$gl__draw_8c.html#a22c12f7dabc03f2e086052521a2ec2fc" title=" " alt="" coords="293,103,385,128"/>
+<area shape="poly" id="edge3_Node000001_Node000005" title=" " alt="" coords="195,137,279,123,280,128,196,143"/>
+<area shape="rect" id="Node000816" href="$gl__draw_8c.html#a79f7c69bd9addde0d081a6aa5f4b6987" title=" " alt="" coords="289,176,389,201"/>
+<area shape="poly" id="edge5_Node000001_Node000816" title=" " alt="" coords="199,163,276,176,275,181,198,168"/>
+<area shape="rect" id="Node000288" href="$gl__draw_8c.html#aad880bba40abd3688c15d7ac022318a1" title=" " alt="" coords="284,249,395,275"/>
+<area shape="poly" id="edge7_Node000001_Node000288" title=" " alt="" coords="148,163,302,241,300,246,146,168"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="304,31,296,21,300,11,315,5,339,3,370,6,382,15,379,20,368,11,339,8,316,10,304,15,301,20,308,28"/>
+<area shape="poly" id="edge4_Node000005_Node000005" title=" " alt="" coords="304,104,296,94,300,84,315,78,339,76,370,80,382,89,379,93,368,85,339,81,316,83,304,88,301,94,308,101"/>
+<area shape="poly" id="edge6_Node000816_Node000816" title=" " alt="" coords="304,178,296,168,300,158,315,152,339,149,370,153,382,162,379,166,368,158,339,155,316,157,304,162,301,167,308,174"/>
+<area shape="poly" id="edge8_Node000288_Node000288" title=" " alt="" coords="304,251,296,241,300,231,315,225,339,223,370,226,382,235,379,240,368,231,339,228,316,230,304,235,301,240,308,248"/>
+</map>

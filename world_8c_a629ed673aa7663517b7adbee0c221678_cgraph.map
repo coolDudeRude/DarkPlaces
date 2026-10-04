@@ -1,0 +1,10 @@
+<map id="World_SetSize" name="World_SetSize">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,120,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="35,68,29,58,32,49,43,42,63,40,86,43,96,52,92,56,83,48,63,45,45,47,36,52,34,58,39,65"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#a2696300802453d9333e9f52e5fae15bc" title="A Con_Printf that only shows up if the &quot;developer&quot; cvar is set." alt="" coords="182,29,281,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,64,168,53,169,59,121,69"/>
+<area shape="rect" id="Node001349" href="$world_8c.html#a484cf63244fdd3f3b461ed5e29669daa" title="World_ClearLink is used for new headnodes." alt="" coords="168,103,295,128"/>
+<area shape="poly" id="edge3_Node000001_Node001349" title=" " alt="" coords="121,89,159,97,158,102,120,94"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="203,31,197,21,200,11,212,5,231,3,254,6,264,15,261,19,252,11,231,8,214,10,205,15,203,20,208,28"/>
+<area shape="poly" id="edge4_Node001349_Node001349" title=" " alt="" coords="203,104,197,94,200,85,212,78,231,76,254,79,264,88,261,92,252,84,231,81,214,83,205,88,203,94,208,101"/>
+</map>

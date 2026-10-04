@@ -1,0 +1,10 @@
+<map id="r_bufferdata_buffer_t" name="r_bufferdata_buffer_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="117,215,276,240"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,103,148,143"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,152,134,189,172,212,170,217,131,193,96,156"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="188,5,248,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="218,45,211,102,200,215,195,214,206,101,212,44"/>
+<area shape="rect" id="Node000004" href="$structr__meshbuffer__t.html" title=" " alt="" coords="275,110,395,135"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="243,38,324,108,320,112,240,42"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="310,146,214,217,211,212,307,142"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="R_DrawEntityBBoxes" name="R_DrawEntityBBoxes">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,78,164,103"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="46,80,38,70,42,60,58,54,85,51,118,55,131,65,127,69,116,60,85,57,59,59,46,64,43,69,50,76"/>
+<area shape="rect" id="Node000002" href="$gl__rmain_8c.html#a101d8767374cacd5839c9e5a9c59d1ce" title=" " alt="" coords="244,29,403,69"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="158,75,230,63,231,68,159,81"/>
+<area shape="rect" id="Node000411" href="$meshqueue_8c.html#a407895e2984e8902bc64d8221e2e6e4d" title=" " alt="" coords="212,118,435,143"/>
+<area shape="poly" id="edge4_Node000001_Node000411" title=" " alt="" coords="162,101,234,113,233,118,161,106"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="279,30,276,20,284,10,299,5,323,3,351,6,366,13,364,18,350,11,323,8,300,10,287,15,282,21,284,28"/>
+<area shape="poly" id="edge5_Node000411_Node000411" title=" " alt="" coords="285,120,276,110,281,100,297,94,323,91,357,95,369,105,366,109,355,100,323,97,298,99,284,104,282,109,289,116"/>
+</map>

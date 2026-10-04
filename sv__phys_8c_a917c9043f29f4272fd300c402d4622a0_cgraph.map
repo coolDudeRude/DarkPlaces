@@ -1,0 +1,7 @@
+<map id="SV_EntitiesInBox" name="SV_EntitiesInBox">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,137,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="40,31,33,21,37,11,50,5,71,3,97,6,108,15,105,19,95,11,71,8,51,10,41,15,39,20,44,28"/>
+<area shape="rect" id="Node000002" href="$world_8c.html#a1a424fb7d73a4ec5f47107b88f852a8b" title=" " alt="" coords="185,29,337,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="138,39,171,39,171,45,138,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="230,31,223,21,227,11,240,5,261,3,287,6,298,15,295,19,285,11,261,8,241,10,231,15,229,20,234,28"/>
+</map>

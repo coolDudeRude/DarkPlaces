@@ -1,0 +1,13 @@
+<map id="Log_Close" name="Log_Close">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,93,128"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="23,104,18,94,21,85,32,78,49,76,71,79,80,88,76,92,68,84,49,81,33,83,25,88,23,94,28,101"/>
+<area shape="rect" id="Node000002" href="$fs_8c.html#abcf26e98f08b7bbcc5645486294ebb5c" title=" " alt="" coords="165,29,245,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,100,140,64,154,57,157,62,142,68,73,105"/>
+<area shape="rect" id="Node000006" href="$fs_8c.html#ae1e3a888c966ea1276ad5dab8d731414" title=" " alt="" coords="167,103,242,128"/>
+<area shape="poly" id="edge3_Node000001_Node000006" title=" " alt="" coords="94,113,153,113,153,118,94,118"/>
+<area shape="rect" id="Node001346" href="$console_8c.html#a92cedd4cbe755e05855c7ee1463dff11" title=" " alt="" coords="141,176,268,201"/>
+<area shape="poly" id="edge6_Node000001_Node001346" title=" " alt="" coords="78,126,165,168,163,172,76,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="179,31,173,21,176,11,187,5,205,3,226,6,235,15,231,19,224,11,205,8,189,10,180,15,178,20,183,28"/>
+<area shape="poly" id="edge4_Node000006_Node000006" title=" " alt="" coords="179,104,173,94,176,85,187,78,205,76,226,79,235,88,231,92,224,84,205,81,189,83,180,88,178,94,183,101"/>
+<area shape="poly" id="edge7_Node001346_Node001346" title=" " alt="" coords="179,177,173,168,176,158,187,152,205,149,226,153,235,161,231,165,224,158,205,155,189,157,180,161,178,167,183,175"/>
+</map>

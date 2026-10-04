@@ -1,0 +1,7 @@
+<map id="DropPunchAngle" name="DropPunchAngle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,135,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="37,31,30,21,34,11,47,5,70,3,98,6,109,16,106,20,96,11,70,8,49,10,38,15,35,20,41,28"/>
+<area shape="rect" id="Node000002" href="$mathlib_8c.html#aa0f8c2537c1cf8bd8c418b1a9a854de5" title="returns vector length" alt="" coords="183,29,357,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="135,39,169,39,169,45,135,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="237,31,230,21,234,11,247,5,270,3,298,6,309,16,306,20,296,11,270,8,249,10,238,15,235,20,241,28"/>
+</map>

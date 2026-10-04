@@ -1,0 +1,13 @@
+<map id="SVBSP_AddPolygonNode" name="SVBSP_AddPolygonNode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,188,128"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="56,104,48,94,52,84,69,78,97,76,132,80,142,85,145,90,141,93,138,89,130,85,97,81,70,83,56,88,53,94,60,101"/>
+<area shape="rect" id="Node000002" href="$polygon_8c.html#ac647de7de716b8a007307c3104aee85b" title=" " alt="" coords="279,29,410,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,100,235,63,267,55,268,60,237,69,131,105"/>
+<area shape="rect" id="Node000003" href="$svbsp_8c.html#a5c00ec1b06ce3dfa85cc81b766085c72" title=" " alt="" coords="262,103,427,128"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="188,113,248,113,248,118,188,118"/>
+<area shape="rect" id="Node000004" href="$svbsp_8c.html#ac24acfd61489f5ed6a2fdf75f9d60652" title=" " alt="" coords="236,177,453,217"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="137,126,271,170,269,175,135,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="304,31,296,21,300,11,317,5,345,3,380,7,390,11,393,17,389,20,386,15,378,12,345,8,318,10,304,15,301,20,308,27"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="304,104,296,94,300,84,317,78,345,76,380,80,390,85,393,90,389,93,386,89,378,85,345,81,318,83,304,88,301,94,308,101"/>
+<area shape="poly" id="edge7_Node000004_Node000004" title=" " alt="" coords="299,177,296,167,303,158,320,152,345,150,373,153,389,160,387,165,372,158,345,155,321,157,306,162,301,168,304,176"/>
+</map>

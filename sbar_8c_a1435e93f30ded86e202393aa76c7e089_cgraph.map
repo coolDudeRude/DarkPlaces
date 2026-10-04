@@ -1,0 +1,19 @@
+<map id="Sbar_SoloScoreboard" name="Sbar_SoloScoreboard">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,176,164,201"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="53,177,46,168,50,158,63,152,85,149,111,153,122,162,119,166,109,158,85,155,64,157,54,161,51,167,57,174"/>
+<area shape="rect" id="Node000002" href="$common_8c.html#ae36050083f45e395189fee6aa45fbb0c" title="Returns the number of printed characters, excluding the final &#39;\0&#39; or returns &#45;1 if the buffer isn&#39;t ..." alt="" coords="233,29,321,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,174,141,122,174,91,211,64,221,58,224,63,213,68,177,95,145,125,98,178"/>
+<area shape="rect" id="Node000005" href="$menudefs_8qc.html#ad5a3e16aa960bd72d3ca37a618eea802" title=" " alt="" coords="252,103,303,128"/>
+<area shape="poly" id="edge3_Node000001_Node000005" title=" " alt="" coords="117,173,211,137,238,127,239,132,213,142,119,178"/>
+<area shape="rect" id="Node000006" href="$sbar_8c.html#a71ce26ca906ae6fbf128a3074edb80cc" title=" " alt="" coords="212,176,343,201"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="164,186,198,186,198,191,164,191"/>
+<area shape="rect" id="Node000037" href="$menudefs_8qc.html#a274680f571a231ddf29421b93d434bfa" title=" " alt="" coords="248,249,307,275"/>
+<area shape="poly" id="edge8_Node000001_Node000037" title=" " alt="" coords="120,199,236,244,234,249,118,204"/>
+<area shape="rect" id="Node000053" href="$common_8c.html#a4a8220fa88226bf9cf39b12a051a20d7" title=" " alt="" coords="258,323,297,348"/>
+<area shape="poly" id="edge10_Node000001_Node000053" title=" " alt="" coords="104,199,214,284,250,312,247,316,210,288,101,204"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="246,31,239,21,242,11,256,5,277,3,304,6,315,15,311,19,302,11,277,8,257,10,246,15,244,20,250,28"/>
+<area shape="poly" id="edge4_Node000005_Node000005" title=" " alt="" coords="250,107,240,97,241,86,254,79,277,76,308,81,315,88,315,95,310,95,310,90,305,86,277,81,256,84,245,89,245,95,253,103"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="246,177,239,168,242,158,256,152,277,149,304,153,315,162,311,166,302,158,277,155,257,157,246,161,244,167,250,174"/>
+<area shape="poly" id="edge9_Node000037_Node000037" title=" " alt="" coords="246,251,239,241,242,231,256,225,277,223,304,226,315,235,311,239,302,231,277,228,257,230,246,235,244,240,250,248"/>
+<area shape="poly" id="edge11_Node000053_Node000053" title=" " alt="" coords="256,331,241,320,240,308,253,299,277,296,299,298,312,304,316,313,310,323,306,320,311,313,308,308,297,303,277,301,254,304,245,310,246,317,260,326"/>
+</map>

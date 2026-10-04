@@ -1,0 +1,10 @@
+<map id="searchpath_t" name="searchpath_t">
+<area shape="rect" id="Node000001" title="Search paths for files (including packages)." alt="" coords="79,217,185,243"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,56,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="24,45,15,93,16,120,24,145,40,169,61,188,106,215,103,219,58,192,36,172,19,148,11,121,10,93,19,44"/>
+<area shape="rect" id="Node000003" href="$structpack__t.html" title=" " alt="" coords="99,121,165,147"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="52,40,123,119,119,123,49,43"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="135,161,135,217,129,217,129,161"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="189,121,349,147"/>
+<area shape="poly" id="edge4_Node000001_Node000008" title=" " alt="" coords="243,157,150,219,147,215,240,152"/>
+</map>

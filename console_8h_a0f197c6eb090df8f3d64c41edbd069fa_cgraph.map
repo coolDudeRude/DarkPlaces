@@ -1,0 +1,14 @@
+<map id="Con_CenterPrint" name="Con_CenterPrint">
+<area shape="rect" id="Node000001" title="Prints a center&#45;aligned message to the console." alt="" coords="5,80,132,105"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="39,81,33,72,36,62,49,56,69,53,93,57,103,66,100,70,91,62,69,59,50,61,40,65,38,71,44,78"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#a81a65a5bf5b159859b5440cc6a49e9d1" title="Left&#45;pad a string with spaces to make it appear centered." alt="" coords="180,29,312,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="113,77,187,56,188,61,115,82"/>
+<area shape="rect" id="Node000003" href="$console_8c.html#a349329eb315198abd1f580bf040447df" title=" " alt="" coords="360,55,484,80"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="132,86,346,70,346,75,132,91"/>
+<area shape="rect" id="Node001349" href="$console_8c.html#ad34f480b5e0e1b00ab14fc7f7d7d8eb4" title="Returns a horizontal line." alt="" coords="188,155,304,180"/>
+<area shape="poly" id="edge7_Node000001_Node001349" title=" " alt="" coords="101,103,204,147,202,152,99,108"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="217,31,211,21,214,11,226,5,246,3,270,6,280,15,277,19,268,11,246,8,227,10,218,15,216,20,221,28"/>
+<area shape="poly" id="edge4_Node000002_Node000003" title=" " alt="" coords="313,49,347,54,346,59,312,54"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="393,56,387,46,390,37,402,30,422,28,446,32,456,40,453,44,444,36,422,33,403,35,394,40,392,46,397,53"/>
+<area shape="poly" id="edge8_Node001349_Node001349" title=" " alt="" coords="217,156,211,146,214,137,226,130,246,128,270,132,280,140,277,144,268,136,246,133,227,135,218,140,216,146,221,153"/>
+</map>

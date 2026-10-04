@@ -1,0 +1,17 @@
+<map id="SV_ConnectClient" name="SV_ConnectClient">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,97,143,123"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="42,99,35,89,39,79,52,73,74,71,101,74,112,83,109,87,99,79,74,76,53,78,42,83,40,88,46,96"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#a2696300802453d9333e9f52e5fae15bc" title="A Con_Printf that only shows up if the &quot;developer&quot; cvar is set." alt="" coords="397,96,496,121"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,95,128,56,157,36,190,21,234,8,270,3,307,7,350,21,374,33,396,49,429,83,426,87,392,53,371,37,348,26,306,12,270,8,235,13,192,26,160,40,131,60,89,99"/>
+<area shape="rect" id="Node000015" href="$console_8c.html#a49b71fe9a87e57a440e07af4a869a9f6" title="Prints to all appropriate console targets." alt="" coords="225,60,315,85"/>
+<area shape="poly" id="edge3_Node000001_Node000015" title=" " alt="" coords="141,95,211,81,212,86,142,100"/>
+<area shape="rect" id="Node001136" href="$prvm__edict_8c.html#a199a8b61fc283cdd53ddbb6973600861" title=" " alt="" coords="191,133,349,159"/>
+<area shape="poly" id="edge5_Node000001_Node001136" title=" " alt="" coords="143,120,187,128,186,133,142,125"/>
+<area shape="rect" id="Node001351" href="$sv__main_8c.html#a797dac15ad03b31bfc08de02ceed6090" title=" " alt="" coords="197,207,343,232"/>
+<area shape="poly" id="edge8_Node000001_Node001351" title=" " alt="" coords="99,120,236,198,233,202,97,125"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="417,97,411,88,414,78,427,71,447,69,471,73,481,82,478,86,469,78,447,75,428,77,418,81,416,87,422,94"/>
+<area shape="poly" id="edge4_Node000015_Node000015" title=" " alt="" coords="241,61,235,52,238,42,250,35,270,33,294,37,304,46,301,50,292,42,270,39,251,41,242,45,240,51,245,58"/>
+<area shape="poly" id="edge6_Node001136_Node001136" title=" " alt="" coords="241,135,235,125,238,115,250,109,270,107,294,110,304,119,301,123,292,115,270,112,251,114,242,119,240,124,245,132"/>
+<area shape="poly" id="edge9_Node001351_Node000002" title=" " alt="" coords="290,204,348,168,413,126,415,131,351,172,293,209"/>
+<area shape="poly" id="edge10_Node001351_Node001351" title=" " alt="" coords="241,208,235,198,238,188,250,182,270,180,294,184,304,192,301,196,292,188,270,185,251,187,242,192,240,198,245,205"/>
+</map>

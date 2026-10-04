@@ -1,0 +1,7 @@
+<map id="Mod_Skeletal_AnimateVertices" name="Mod_Skeletal_AnimateVertices">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,228,62"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="73,38,64,28,69,18,87,12,117,10,155,14,166,19,169,25,165,28,162,23,154,19,117,15,88,17,72,22,69,28,77,35"/>
+<area shape="rect" id="Node000002" href="$mod__skeletal__animatevertices__generic_8c.html#af7509d192c1d19d358a26f5f4271ed7d" title=" " alt="" coords="276,29,499,69"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="228,47,262,47,262,52,228,52"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="337,30,334,20,343,10,360,5,387,3,419,5,436,13,433,18,417,11,387,8,361,10,345,15,340,21,343,28"/>
+</map>

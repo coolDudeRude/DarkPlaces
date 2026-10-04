@@ -1,0 +1,10 @@
+<map id="SV_UserFriction" name="SV_UserFriction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,129,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="30,68,21,58,26,48,41,42,67,40,100,44,112,53,109,58,98,49,67,45,42,47,29,52,27,58,34,65"/>
+<area shape="rect" id="Node000002" href="$sv__phys_8c.html#a50467ff3df4ef36847a93af296c57d2c" title="calculates hitsupercontentsmask for a generic qc entity" alt="" coords="177,29,423,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,67,207,54,207,60,130,72"/>
+<area shape="rect" id="Node000003" href="$sv__phys_8c.html#a70632daf1b4426714e43ccb49d60368d" title=" " alt="" coords="247,103,353,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="130,86,233,102,232,108,129,92"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="262,31,254,21,258,11,274,5,300,3,333,7,345,16,342,20,331,11,300,8,275,10,262,15,259,20,266,27"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="262,104,254,94,258,84,274,78,300,76,333,80,345,89,342,94,331,85,300,81,275,83,262,88,259,94,266,101"/>
+</map>

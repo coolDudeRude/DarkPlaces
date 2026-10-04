@@ -1,0 +1,7 @@
+<map id="R_LoadTextureCubeMap" name="R_LoadTextureCubeMap">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,184,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="62,31,55,21,59,11,72,5,95,3,122,6,133,15,130,19,120,11,95,8,74,10,63,15,60,20,66,28"/>
+<area shape="rect" id="Node000002" href="$gl__textures_8c.html#a75b53126e085ffee3023c351c3c8bbcf" title=" " alt="" coords="232,29,355,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="184,39,218,39,218,45,184,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="261,31,254,21,257,11,271,5,293,3,320,6,332,15,328,19,318,11,293,8,272,10,261,15,259,20,265,28"/>
+</map>

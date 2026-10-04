@@ -1,0 +1,16 @@
+<map id="R_Q1BSP_RecursiveGetLightInfo_BSP" name="R_Q1BSP_RecursiveGetLightInfo_BSP">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,133,212,173"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="66,133,63,123,70,114,85,108,109,106,135,109,150,116,148,121,134,114,109,111,87,113,73,118,68,124,71,132"/>
+<area shape="rect" id="Node000002" href="$mathlib_8c.html#aea6de4286a37f9e063f4542490d672c2" title=" " alt="" coords="274,29,403,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,130,193,97,259,64,276,57,278,62,261,68,196,102,141,135"/>
+<area shape="rect" id="Node000003" href="$gl__rmain_8c.html#aa05549217fc8dd06da062b617140ffe6" title=" " alt="" coords="295,103,383,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="212,133,281,122,282,127,213,138"/>
+<area shape="rect" id="Node000006" href="$gl__rmain_8c.html#a88863163d382dd39104c8cf484b9a890" title=" " alt="" coords="260,176,417,201"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="213,166,247,172,246,177,212,172"/>
+<area shape="rect" id="Node001352" href="$svbsp_8c.html#a92b7a96f58dca72dcdb8b59360ae580b" title=" " alt="" coords="265,249,413,275"/>
+<area shape="poly" id="edge8_Node000001_Node001352" title=" " alt="" coords="153,170,300,241,297,246,151,175"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="301,31,293,21,297,11,313,5,339,3,371,7,383,16,380,20,369,11,339,8,314,10,301,15,298,20,305,27"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="301,104,293,94,297,84,313,78,339,76,371,80,383,89,380,94,369,85,339,81,314,83,301,88,298,94,305,101"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="301,178,293,168,297,158,313,152,339,149,371,153,383,163,380,167,369,158,339,155,314,157,301,162,298,167,305,174"/>
+<area shape="poly" id="edge9_Node001352_Node001352" title=" " alt="" coords="301,251,293,241,297,231,313,225,339,223,371,227,383,236,380,240,369,231,339,228,314,230,301,235,298,240,305,247"/>
+</map>

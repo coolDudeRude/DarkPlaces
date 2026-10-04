@@ -1,0 +1,10 @@
+<map id="VM_getsurfacetriangle" name="VM_getsurfacetriangle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,175,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="61,68,55,58,58,49,70,42,90,40,114,44,124,52,121,56,112,48,90,45,71,47,62,52,60,58,65,65"/>
+<area shape="rect" id="Node000002" href="$prvm__cmds_8c.html#ab23edbce37833c0d73997cacec4cd944" title=" " alt="" coords="226,29,310,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,64,212,51,213,56,152,69"/>
+<area shape="rect" id="Node000006" href="$prvm__cmds_8c.html#af79beb67393117a6f1a8c24a74a3575f" title=" " alt="" coords="223,103,313,128"/>
+<area shape="poly" id="edge3_Node000001_Node000006" title=" " alt="" coords="154,89,210,101,209,106,153,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="239,31,233,21,236,11,248,5,268,3,292,6,302,15,299,19,290,11,268,8,249,10,240,15,238,20,243,28"/>
+<area shape="poly" id="edge4_Node000006_Node000006" title=" " alt="" coords="239,104,233,94,236,85,248,78,268,76,292,80,302,88,299,92,290,84,268,81,249,83,240,88,238,94,243,101"/>
+</map>

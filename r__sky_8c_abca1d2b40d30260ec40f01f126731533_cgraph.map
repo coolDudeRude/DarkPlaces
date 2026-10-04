@@ -1,0 +1,10 @@
+<map id="R_UnloadSkyBox" name="R_UnloadSkyBox">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,137,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="35,68,27,58,31,48,46,42,71,40,103,44,115,53,112,57,101,49,71,45,47,47,35,52,32,58,39,65"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#a49b71fe9a87e57a440e07af4a869a9f6" title="Prints to all appropriate console targets." alt="" coords="251,29,340,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,66,237,49,238,54,138,71"/>
+<area shape="rect" id="Node000134" href="$gl__rmain_8c.html#ab57d3b15b1bdb498f4b0173fa69e9ccf" title=" " alt="" coords="185,103,405,128"/>
+<area shape="poly" id="edge3_Node000001_Node000134" title=" " alt="" coords="138,87,203,98,202,103,137,93"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="259,31,251,21,255,11,270,5,295,3,327,7,339,16,336,20,325,11,295,8,271,10,259,15,256,20,263,27"/>
+<area shape="poly" id="edge4_Node000134_Node000134" title=" " alt="" coords="259,104,251,94,255,84,270,78,295,76,327,80,339,89,336,93,325,85,295,81,271,83,259,88,256,94,263,101"/>
+</map>

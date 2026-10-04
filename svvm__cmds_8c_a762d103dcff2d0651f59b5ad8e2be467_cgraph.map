@@ -1,0 +1,10 @@
+<map id="VM_SV_pointcontents" name="VM_SV_pointcontents">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,78,168,103"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="49,80,41,70,45,60,61,54,87,51,119,55,132,65,128,69,117,60,87,57,62,59,49,64,46,69,53,76"/>
+<area shape="rect" id="Node000002" href="$model__brush_8c.html#a5a5b192b1222eacd1e23dfdeab66ab62" title=" " alt="" coords="216,29,424,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,75,202,68,203,73,160,81"/>
+<area shape="rect" id="Node000003" href="$sv__phys_8c.html#abc73364265c2ee1c656afa098ebb712c" title=" " alt="" coords="233,118,407,143"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="162,101,232,113,231,118,161,106"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="277,30,274,20,281,10,296,5,320,3,347,6,362,13,359,18,346,11,320,8,298,10,284,15,279,21,282,28"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="282,120,274,110,278,100,294,94,320,91,353,95,365,105,362,109,351,100,320,97,295,99,282,104,279,109,286,116"/>
+</map>

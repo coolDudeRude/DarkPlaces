@@ -1,0 +1,13 @@
+<map id="CL_ClientMovement_PlayerMove" name="CL_ClientMovement_PlayerMove">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,243,128"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="77,105,67,94,72,84,92,78,124,76,166,80,177,85,181,92,176,94,174,89,165,85,124,81,93,83,76,88,72,94,81,101"/>
+<area shape="rect" id="Node000002" href="$cl__input_8c.html#a24d5b32005928854dc5156716b8f2b35" title=" " alt="" coords="291,29,543,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,100,290,63,329,55,330,60,291,69,165,105"/>
+<area shape="rect" id="Node001357" href="$cl__input_8c.html#a8c53f5db1cc5b4e8f1971e2beaa2a760" title=" " alt="" coords="293,103,541,128"/>
+<area shape="poly" id="edge3_Node000001_Node001357" title=" " alt="" coords="243,113,279,113,279,118,243,118"/>
+<area shape="rect" id="Node000007" href="$cl__input_8c.html#a4c5d9b703a13dea13a3c553802d5238a" title=" " alt="" coords="313,177,520,217"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="171,125,332,170,330,176,170,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="370,31,360,21,365,11,384,5,417,3,459,7,470,12,473,18,469,21,466,16,457,12,417,8,385,10,368,15,365,20,374,27"/>
+<area shape="poly" id="edge4_Node001357_Node001357" title=" " alt="" coords="370,105,360,94,365,84,384,78,417,76,459,80,470,85,473,92,469,94,466,89,457,85,417,81,385,83,368,88,365,94,374,101"/>
+<area shape="poly" id="edge7_Node000007_Node000007" title=" " alt="" coords="363,177,360,167,368,158,387,152,417,150,450,153,469,160,467,165,449,158,417,155,388,157,371,162,365,168,368,175"/>
+</map>

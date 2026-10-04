@@ -1,0 +1,16 @@
+<map id="R_DrawTextureSurfaceList_GL20" name="R_DrawTextureSurfaceList_GL20">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,140,237,165"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="76,142,66,132,72,122,90,115,121,113,162,118,173,123,176,129,171,131,169,127,161,123,121,119,91,121,75,126,72,131,80,138"/>
+<area shape="rect" id="Node000002" href="$gl__backend_8c.html#a369132de82d4015a01e164c63255403f" title=" " alt="" coords="343,29,463,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,137,203,101,284,63,329,51,330,56,286,69,206,106,144,142"/>
+<area shape="rect" id="Node000003" href="$gl__rmain_8c.html#ace4a2750caaa0bcbe5bbaa56e8fd306d" title=" " alt="" coords="315,103,491,128"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="217,137,300,126,301,131,218,143"/>
+<area shape="rect" id="Node000382" href="$gl__rmain_8c.html#a3d9e4102d980a25f2241b1801076ee19" title=" " alt="" coords="335,176,470,201"/>
+<area shape="poly" id="edge6_Node000001_Node000382" title=" " alt="" coords="221,163,322,176,321,181,221,168"/>
+<area shape="rect" id="Node001349" href="$gl__rmain_8c.html#a6d788c6aa2d35cfeb01299e8141551da" title=" " alt="" coords="285,249,520,275"/>
+<area shape="poly" id="edge8_Node000001_Node001349" title=" " alt="" coords="156,163,357,242,355,247,154,168"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="358,31,348,21,353,11,371,5,403,3,443,7,454,12,458,18,453,21,450,16,442,12,403,8,372,10,356,15,353,20,361,27"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="358,104,348,94,353,84,371,78,403,76,443,80,454,85,458,92,453,94,450,89,442,85,403,81,372,83,356,88,353,94,361,101"/>
+<area shape="poly" id="edge7_Node000382_Node000382" title=" " alt="" coords="358,178,348,168,353,158,371,151,403,149,443,154,454,159,458,165,453,167,450,163,442,159,403,155,372,157,356,162,353,167,361,174"/>
+<area shape="poly" id="edge9_Node001349_Node001349" title=" " alt="" coords="358,251,348,241,353,231,371,225,403,223,443,227,454,232,458,238,453,241,450,236,442,232,403,228,372,230,356,235,353,240,361,247"/>
+</map>

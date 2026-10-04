@@ -1,0 +1,10 @@
+<map id="Cmd_Shutdown" name="Cmd_Shutdown">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,128,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="40,68,34,58,37,49,48,42,67,40,89,43,98,52,95,56,86,48,67,45,50,47,41,52,39,58,44,65"/>
+<area shape="rect" id="Node000002" href="$cmd_8c.html#a44bd53a2829453feeba72b5a2f4c16c9" title=" " alt="" coords="176,29,280,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,64,162,54,163,60,123,69"/>
+<area shape="rect" id="Node000003" href="$menudefs_8qc.html#a977f9318008de123876b168dfa86ad22" title=" " alt="" coords="203,103,253,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="125,89,190,104,189,109,123,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="201,31,195,21,198,11,210,5,228,3,250,6,259,15,256,19,248,11,228,8,211,10,203,15,201,20,206,28"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="201,104,195,94,198,85,210,78,228,76,250,79,259,88,256,92,248,84,228,81,211,83,203,88,201,94,206,101"/>
+</map>

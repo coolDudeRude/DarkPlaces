@@ -1,0 +1,13 @@
+<map id="jpeg.c" name="jpeg.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="261,5,322,31"/>
+<area shape="rect" id="Node000002" href="$darkplaces_8h.html" title=" " alt="" coords="5,79,111,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="261,31,109,77,108,72,260,26"/>
+<area shape="rect" id="Node000037" href="$cl__screen_8h.html" title=" " alt="" coords="135,79,229,104"/>
+<area shape="poly" id="edge2_Node000001_Node000037" title=" " alt="" coords="275,33,213,73,210,69,272,28"/>
+<area shape="rect" id="Node000038" href="$image_8h.html" title=" " alt="" coords="254,79,329,104"/>
+<area shape="poly" id="edge3_Node000001_Node000038" title=" " alt="" coords="294,31,294,65,289,65,289,31"/>
+<area shape="rect" id="Node000040" href="$jpeg_8h.html" title=" " alt="" coords="353,79,416,104"/>
+<area shape="poly" id="edge4_Node000001_Node000040" title=" " alt="" coords="308,29,360,68,357,72,305,33"/>
+<area shape="rect" id="Node000041" href="$image__png_8h.html" title=" " alt="" coords="441,79,547,104"/>
+<area shape="poly" id="edge5_Node000001_Node000041" title=" " alt="" coords="323,28,449,72,447,77,321,33"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="IN_BestWeapon_f" name="IN_BestWeapon_f">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,141,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="46,68,41,58,44,49,55,42,73,40,95,43,105,52,101,56,93,48,73,45,57,47,48,52,46,58,51,65"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#a977f9318008de123876b168dfa86ad22" title=" " alt="" coords="209,29,259,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,64,194,48,196,53,129,69"/>
+<area shape="rect" id="Node000003" href="$console_8c.html#a49b71fe9a87e57a440e07af4a869a9f6" title="Prints to all appropriate console targets." alt="" coords="189,103,279,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="131,89,176,100,175,105,130,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="207,31,201,21,204,11,216,5,234,3,256,6,265,15,262,19,254,11,234,8,217,10,209,15,207,20,212,28"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="207,104,201,94,204,85,216,78,234,76,256,79,265,88,262,92,254,84,234,81,217,83,209,88,207,94,212,101"/>
+</map>

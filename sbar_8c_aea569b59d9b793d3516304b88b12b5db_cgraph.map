@@ -1,0 +1,13 @@
+<map id="Sbar_PrintScoreboardItem" name="Sbar_PrintScoreboardItem">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,196,128"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="68,104,61,94,65,84,78,78,101,76,128,80,139,88,136,93,126,84,101,81,80,83,69,88,66,94,72,101"/>
+<area shape="rect" id="Node000002" href="$gl__draw_8c.html#a22c12f7dabc03f2e086052521a2ec2fc" title=" " alt="" coords="253,29,345,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,100,250,57,252,62,137,105"/>
+<area shape="rect" id="Node000288" href="$gl__draw_8c.html#aad880bba40abd3688c15d7ac022318a1" title=" " alt="" coords="244,103,355,128"/>
+<area shape="poly" id="edge3_Node000001_Node000288" title=" " alt="" coords="197,113,230,113,230,118,197,118"/>
+<area shape="rect" id="Node000047" href="$common_8c.html#a4a8220fa88226bf9cf39b12a051a20d7" title=" " alt="" coords="280,176,319,201"/>
+<area shape="poly" id="edge6_Node000001_Node000047" title=" " alt="" coords="137,126,268,174,266,179,135,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="267,31,260,21,263,11,277,5,299,3,326,6,338,15,334,19,324,11,299,8,278,10,267,15,265,20,271,28"/>
+<area shape="poly" id="edge4_Node000288_Node000288" title=" " alt="" coords="267,104,260,94,263,84,277,78,299,76,326,80,338,88,334,93,324,84,299,81,278,83,267,88,265,94,271,101"/>
+<area shape="poly" id="edge7_Node000047_Node000047" title=" " alt="" coords="278,184,263,174,261,161,274,152,299,149,321,151,335,157,339,167,333,177,328,174,334,167,331,161,320,157,299,155,276,157,266,163,267,171,281,180"/>
+</map>

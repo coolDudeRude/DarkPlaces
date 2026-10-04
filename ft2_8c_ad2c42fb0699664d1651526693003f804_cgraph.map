@@ -1,0 +1,7 @@
+<map id="alert_legacy_font_api" name="alert_legacy_font_api">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,168,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="57,31,51,21,54,11,66,5,87,3,111,6,122,15,118,19,109,11,87,8,68,10,58,15,56,20,61,28"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#a2696300802453d9333e9f52e5fae15bc" title="A Con_Printf that only shows up if the &quot;developer&quot; cvar is set." alt="" coords="216,29,315,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="168,39,202,39,202,45,168,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="236,31,229,21,233,11,245,5,265,3,290,6,300,15,297,19,288,11,265,8,246,10,237,15,235,20,240,28"/>
+</map>

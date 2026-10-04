@@ -1,0 +1,14 @@
+<map id="entityframe4_database_t" name="entityframe4_database_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="185,411,371,436"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,295,156,320"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,333,91,361,106,385,137,399,185,409,184,414,136,404,103,389,86,363,79,334"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="393,5,432,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="382,35,337,58,285,91,236,135,215,161,198,189,188,220,188,252,195,284,208,316,240,371,270,409,265,412,236,374,203,318,190,286,183,253,183,219,193,187,210,158,232,132,282,87,335,53,380,30"/>
+<area shape="rect" id="Node000004" href="$structentity__state__t.html" title=" " alt="" coords="357,120,469,145"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="415,45,415,120,410,120,410,45"/>
+<area shape="rect" id="Node000012" href="$structentity__database4__commit__t.html" title=" " alt="" coords="481,295,685,320"/>
+<area shape="poly" id="edge6_Node000012_Node000003" title=" " alt="" coords="446,32,473,53,499,83,520,116,553,186,573,250,584,294,579,295,568,251,548,188,515,119,494,86,470,57,443,37"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="404,159,286,412,281,409,399,157"/>
+<area shape="poly" id="edge7_Node000012_Node000004" title=" " alt="" coords="425,157,456,212,478,242,504,269,524,282,546,292,544,297,521,287,500,273,474,246,451,215,421,159"/>
+<area shape="poly" id="edge5_Node000001_Node000012" title=" " alt="" coords="541,327,310,413,308,408,539,322"/>
+</map>

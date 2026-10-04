@@ -1,0 +1,7 @@
+<map id="SCR_PushLoadingScreen" name="SCR_PushLoadingScreen">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,187,55"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="62,31,55,21,59,11,73,5,96,3,125,6,136,15,133,20,122,11,96,8,74,10,63,15,60,20,66,28"/>
+<area shape="rect" id="Node000002" href="$cl__screen_8c.html#a5ff57a5d5e9aa51e8a171ad14d3436ae" title=" " alt="" coords="235,29,371,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,39,221,39,221,45,187,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="269,31,262,21,265,11,279,5,303,3,331,6,343,15,339,20,329,11,303,8,281,10,269,15,267,20,273,28"/>
+</map>

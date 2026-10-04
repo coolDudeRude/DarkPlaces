@@ -1,0 +1,10 @@
+<map id="Host_Quit_f" name="Host_Quit_f">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,104,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="31,68,26,58,28,49,38,42,55,40,74,44,83,52,79,56,72,48,55,45,40,47,33,52,31,58,35,65"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#a977f9318008de123876b168dfa86ad22" title=" " alt="" coords="171,29,222,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,64,157,49,159,55,104,69"/>
+<area shape="rect" id="Node000003" href="$console_8c.html#a49b71fe9a87e57a440e07af4a869a9f6" title="Prints to all appropriate console targets." alt="" coords="152,103,241,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="105,89,139,98,138,103,104,94"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="173,30,168,21,170,11,180,5,197,3,216,6,225,15,221,18,214,11,197,8,182,10,175,15,173,20,177,28"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="173,104,168,94,170,85,180,78,197,76,216,80,225,88,221,92,214,84,197,81,182,83,175,88,173,94,177,101"/>
+</map>

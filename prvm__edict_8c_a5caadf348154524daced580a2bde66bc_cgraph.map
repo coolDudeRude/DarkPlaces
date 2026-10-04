@@ -1,0 +1,16 @@
+<map id="PRVM_ED_PrintEdict_f" name="PRVM_ED_PrintEdict_f">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,140,172,165"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="50,142,41,132,46,122,62,116,89,113,122,117,135,127,132,131,120,122,89,119,63,121,49,126,47,131,54,138"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#a977f9318008de123876b168dfa86ad22" title=" " alt="" coords="304,29,355,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,138,153,101,185,81,219,64,255,52,289,44,290,50,256,57,221,68,187,85,156,105,107,142"/>
+<area shape="rect" id="Node000003" href="$console_8c.html#a1cf9711475097b11dc41f743254ec77e" title="Prints to all appropriate console targets, and adds timestamps." alt="" coords="287,103,371,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="171,137,273,121,274,126,172,143"/>
+<area shape="rect" id="Node001351" href="$prvm__edict_8c.html#a5637e066ae9a10ac4c16afa74ed0b143" title=" " alt="" coords="253,176,406,201"/>
+<area shape="poly" id="edge6_Node000001_Node001351" title=" " alt="" coords="173,162,240,173,239,178,172,168"/>
+<area shape="rect" id="Node001352" href="$prvm__edict_8c.html#a8e0ed6694761d617ff94437802a513bd" title="for console commands (prints error if name unknown and returns NULL, prints error if prog not loaded ..." alt="" coords="220,249,439,275"/>
+<area shape="poly" id="edge8_Node000001_Node001352" title=" " alt="" coords="118,163,221,210,289,241,286,246,219,215,116,168"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="302,37,285,26,283,14,299,6,329,3,356,5,372,11,377,20,369,30,365,27,372,20,369,15,355,10,329,8,301,11,288,17,289,23,305,33"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="290,104,282,94,286,84,302,78,329,76,363,80,376,89,373,94,361,85,329,81,304,83,290,88,287,94,294,101"/>
+<area shape="poly" id="edge7_Node001351_Node001351" title=" " alt="" coords="290,178,282,168,286,158,302,152,329,149,363,153,376,163,373,167,361,158,329,155,304,157,290,162,287,167,294,174"/>
+<area shape="poly" id="edge9_Node001352_Node001352" title=" " alt="" coords="290,251,282,241,286,231,302,225,329,223,363,227,376,236,373,240,361,231,329,228,304,230,290,235,287,240,294,247"/>
+</map>

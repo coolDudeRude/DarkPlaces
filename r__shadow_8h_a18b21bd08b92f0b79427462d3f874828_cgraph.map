@@ -1,0 +1,7 @@
+<map id="R_Shadow_CalcTriangleSideMask" name="R_Shadow_CalcTriangleSideMask">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,244,55"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="93,31,86,21,90,11,103,5,125,3,151,6,162,15,159,19,149,11,125,8,104,10,94,15,91,20,97,28"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#accccfae161879454243b3a8695a9bf3b" title=" " alt="" coords="292,29,343,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,39,278,39,278,45,244,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="290,34,280,23,281,12,294,5,317,3,348,8,355,14,355,22,350,22,350,17,345,13,317,8,296,10,285,16,285,22,293,30"/>
+</map>

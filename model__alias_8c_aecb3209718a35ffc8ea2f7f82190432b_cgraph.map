@@ -1,0 +1,7 @@
+<map id="Mod_Alias_CalculateBoundingBox" name="Mod_Alias_CalculateBoundingBox">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,248,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="95,31,88,21,92,11,105,5,127,3,153,6,164,15,161,19,151,11,127,8,106,10,96,15,93,20,99,28"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#a83f4d3f317a80e82e6b16ea61ea5efc3" title=" " alt="" coords="296,29,343,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="248,39,282,39,282,45,248,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="294,35,282,24,283,13,296,5,319,3,338,4,351,9,358,16,356,24,351,24,352,18,348,13,337,9,319,8,297,10,287,16,287,22,297,31"/>
+</map>

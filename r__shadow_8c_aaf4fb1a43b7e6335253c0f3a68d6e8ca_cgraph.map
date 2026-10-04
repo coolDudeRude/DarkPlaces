@@ -1,0 +1,25 @@
+<map id="R_Shadow_BounceGrid_AssignPhotons_Task" name="R_Shadow_BounceGrid_AssignPhotons_Task">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,265,176,305"/>
+<area shape="poly" id="edge13_Node000001_Node000001" title=" " alt="" coords="46,265,44,255,51,246,67,240,91,238,118,241,133,248,131,253,117,246,91,243,68,245,54,250,49,256,52,264"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#ad5a3e16aa960bd72d3ca37a618eea802" title=" " alt="" coords="305,29,355,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,263,112,221,138,167,174,111,197,86,223,64,256,48,290,41,291,46,257,53,225,68,201,89,179,114,142,169,117,223,101,265"/>
+<area shape="rect" id="Node000003" href="$mathlib_8c.html#a29120a8a83f3d44b83c77ee8c508055f" title=" " alt="" coords="224,103,436,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="103,263,150,201,184,167,223,138,238,131,241,135,225,143,187,171,154,204,107,266"/>
+<area shape="rect" id="Node000004" href="$zone_8c.html#a1b1599deb1c7db8a64afe5cf4cdbd539" title=" " alt="" coords="243,177,417,217"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="135,262,223,226,245,218,247,223,225,231,137,267"/>
+<area shape="rect" id="Node000005" href="$zone_8c.html#ac3c570c2a60e19b44ed16e7e0ba844fa" title=" " alt="" coords="243,265,417,305"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="176,282,230,282,230,287,176,287"/>
+<area shape="rect" id="Node000006" href="$gl__rmain_8c.html#a0c00b6cff8149799615236dd08a34616" title=" " alt="" coords="274,353,386,379"/>
+<area shape="poly" id="edge9_Node000001_Node000006" title=" " alt="" coords="151,302,280,346,278,351,150,307"/>
+<area shape="rect" id="Node000373" href="$gl__rmain_8c.html#ad828a2865ae4baf75678ea5ba4e74242" title=" " alt="" coords="272,427,388,452"/>
+<area shape="poly" id="edge11_Node000001_Node000373" title=" " alt="" coords="116,303,165,344,225,388,285,419,283,423,223,392,161,348,112,307"/>
+<area shape="rect" id="Node000787" href="$r__shadow_8c.html#a5078f7b2b8e1ef5cfcefa05402f06831" title=" " alt="" coords="241,501,419,541"/>
+<area shape="poly" id="edge14_Node000001_Node000787" title=" " alt="" coords="105,304,153,378,187,422,226,461,272,492,269,497,222,465,183,425,148,381,101,307"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="303,37,286,26,284,14,300,6,330,3,356,5,372,11,377,20,370,30,365,27,372,20,369,15,355,10,330,8,302,11,289,17,290,23,306,33"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="291,104,283,94,287,84,303,78,330,76,363,80,376,89,373,94,361,85,330,81,305,83,291,88,288,94,295,101"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="286,177,283,167,290,158,306,152,330,150,358,153,373,160,370,165,356,158,330,155,307,157,293,162,288,168,291,176"/>
+<area shape="poly" id="edge8_Node000005_Node000005" title=" " alt="" coords="286,265,283,255,290,246,306,240,330,238,358,241,373,248,370,253,356,246,330,243,307,245,293,250,288,256,291,264"/>
+<area shape="poly" id="edge10_Node000006_Node000006" title=" " alt="" coords="291,355,283,345,287,335,303,329,330,327,363,331,376,340,373,344,361,335,330,332,305,334,291,339,288,344,295,351"/>
+<area shape="poly" id="edge12_Node000373_Node000373" title=" " alt="" coords="291,428,283,418,287,408,303,402,330,400,363,404,376,413,373,418,361,409,330,405,305,407,291,412,288,418,295,425"/>
+<area shape="poly" id="edge15_Node000787_Node000787" title=" " alt="" coords="286,501,283,491,290,482,306,476,330,474,358,477,373,484,370,489,356,482,330,479,307,481,293,486,288,492,291,500"/>
+</map>

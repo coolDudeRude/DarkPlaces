@@ -1,0 +1,13 @@
+<map id="VM_getkeybind" name="VM_getkeybind">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,128,128"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="35,104,29,94,32,84,45,78,67,76,93,80,104,88,100,92,91,84,67,81,47,83,36,88,34,94,40,101"/>
+<area shape="rect" id="Node000002" href="$keys_8c.html#aadbfa7287808eb7832931c92b2ba6a26" title=" " alt="" coords="204,29,309,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,100,175,64,195,56,197,61,177,68,94,105"/>
+<area shape="rect" id="Node000003" href="$prvm__edict_8c.html#a1d2244b6253cecef732afeb0bf1d393f" title="Takes an strlen (not a buffer size)." alt="" coords="176,103,337,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="128,113,162,113,162,118,128,118"/>
+<area shape="rect" id="Node000030" href="$menudefs_8qc.html#a274680f571a231ddf29421b93d434bfa" title=" " alt="" coords="227,176,286,201"/>
+<area shape="poly" id="edge5_Node000001_Node000030" title=" " alt="" coords="102,126,215,170,213,175,100,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="225,31,219,21,222,11,235,5,257,3,283,6,294,15,290,19,281,11,257,8,237,10,226,15,224,20,230,28"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="225,104,219,94,222,84,235,78,257,76,283,80,294,88,290,92,281,84,257,81,237,83,226,88,224,94,230,101"/>
+<area shape="poly" id="edge6_Node000030_Node000030" title=" " alt="" coords="225,177,219,168,222,158,235,152,257,149,283,153,294,162,290,166,281,158,257,155,237,157,226,161,224,167,230,174"/>
+</map>

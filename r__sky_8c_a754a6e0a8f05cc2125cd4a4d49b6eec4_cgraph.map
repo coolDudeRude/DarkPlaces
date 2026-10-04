@@ -1,0 +1,13 @@
+<map id="skyspherecalc" name="skyspherecalc">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,120,128"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="41,104,36,94,38,85,48,78,63,76,80,79,88,88,84,91,78,84,63,81,50,83,43,88,41,94,45,101"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#a5b48ade84c6b8b9ccb89e94c5d95ae88" title=" " alt="" coords="169,29,213,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,100,156,59,159,63,87,105"/>
+<area shape="rect" id="Node000003" href="$menudefs_8qc.html#aaabd4c5f172530d93a3b9c30a9e21b88" title=" " alt="" coords="171,103,212,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="120,113,157,113,157,118,120,118"/>
+<area shape="rect" id="Node000004" href="$menudefs_8qc.html#a83f4d3f317a80e82e6b16ea61ea5efc3" title=" " alt="" coords="168,176,215,201"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="87,126,158,167,155,171,85,130"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="169,30,165,21,167,11,176,5,191,3,209,6,217,14,213,18,206,11,191,8,178,10,172,14,170,20,174,28"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="169,104,165,94,167,85,176,78,191,76,209,79,217,88,213,91,206,84,191,81,178,83,172,88,170,94,174,101"/>
+<area shape="poly" id="edge7_Node000004_Node000004" title=" " alt="" coords="169,177,165,168,167,158,176,152,191,149,209,153,217,161,213,165,206,157,191,155,178,157,172,161,170,167,174,175"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="VM_registercvar" name="VM_registercvar">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,116,133,141"/>
+<area shape="poly" id="edge9_Node000001_Node000001" title=" " alt="" coords="42,117,36,108,39,98,51,92,69,89,92,93,101,101,98,105,89,98,69,95,52,97,43,101,42,107,47,114"/>
+<area shape="rect" id="Node000002" href="$cmd_8c.html#aba791f49ae0a78265e0950e3410b7da3" title="used by the cvar code to check for cvar / command name overlap" alt="" coords="336,29,435,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,114,124,81,151,64,180,51,216,42,253,37,323,35,323,40,254,42,217,47,182,57,154,69,127,85,86,118"/>
+<area shape="rect" id="Node000004" href="$cvar_8c.html#abb4c73909d750b61a354db139a9f6e40" title=" " alt="" coords="332,116,439,141"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="134,126,318,126,318,131,134,131"/>
+<area shape="rect" id="Node000007" href="$cvar_8c.html#aa70cf293c9806dedb2f3b8427a5df03d" title="allocates a cvar by name and returns its address, or merely sets its value if it already exists." alt="" coords="191,91,274,116"/>
+<area shape="poly" id="edge5_Node000001_Node000007" title=" " alt="" coords="133,116,177,109,178,114,134,121"/>
+<area shape="rect" id="Node000516" href="$prvm__cmds_8c.html#a839f28438a1ca0de7c2d772295e1763a" title=" " alt="" coords="181,216,284,241"/>
+<area shape="poly" id="edge10_Node000001_Node000516" title=" " alt="" coords="93,139,201,207,198,211,90,144"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="360,31,354,21,357,11,368,5,385,3,406,6,415,15,412,19,404,11,385,8,370,10,361,15,360,20,364,28"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="360,117,354,108,357,98,368,92,385,89,406,93,415,101,412,105,404,98,385,95,370,97,361,101,360,107,364,115"/>
+<area shape="poly" id="edge6_Node000007_Node000002" title=" " alt="" coords="264,88,339,57,341,62,266,93"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="275,107,319,115,318,120,274,113"/>
+<area shape="poly" id="edge8_Node000007_Node000007" title=" " alt="" coords="207,92,202,82,204,73,215,66,233,64,254,67,263,76,259,80,251,72,233,69,217,71,209,76,207,82,212,89"/>
+<area shape="poly" id="edge11_Node000516_Node000516" title=" " alt="" coords="207,217,202,208,204,198,215,192,233,189,254,193,263,201,259,205,251,198,233,195,217,197,209,201,207,207,212,215"/>
+</map>

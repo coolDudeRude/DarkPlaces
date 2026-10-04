@@ -1,0 +1,10 @@
+<map id="Protocol_WriteStatsReliable" name="Protocol_WriteStatsReliable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,208,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="72,68,65,58,69,48,83,42,107,40,136,44,148,53,144,57,134,49,107,45,84,47,72,52,70,58,76,65"/>
+<area shape="rect" id="Node000002" href="$com__msg_8c.html#a7e32b0a419941b93644ba097bb64af96" title=" " alt="" coords="257,29,381,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,64,243,53,244,58,180,69"/>
+<area shape="rect" id="Node000148" href="$com__msg_8c.html#a5da2d044d88eea95488c4f537b13b35d" title=" " alt="" coords="256,103,381,128"/>
+<area shape="poly" id="edge3_Node000001_Node000148" title=" " alt="" coords="182,89,243,100,242,105,181,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="284,31,277,21,281,11,295,5,319,3,348,6,360,15,356,20,346,11,319,8,296,10,284,15,282,20,288,28"/>
+<area shape="poly" id="edge4_Node000148_Node000148" title=" " alt="" coords="284,104,277,94,281,84,295,78,319,76,348,80,360,89,356,93,346,85,319,81,296,83,284,88,282,94,288,101"/>
+</map>

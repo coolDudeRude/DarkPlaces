@@ -1,0 +1,6 @@
+<map id="R_Mod_GetLightInfo" name="R_Mod_GetLightInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,159,55"/>
+<area shape="rect" id="Node000002" href="$gl__rsurf_8c.html#a60a24c695566f11f38f592dc83d76869" title=" " alt="" coords="207,29,360,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,39,193,39,193,45,159,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="250,31,243,21,247,11,261,5,283,3,311,6,322,16,319,20,309,11,283,8,262,10,251,15,249,20,255,28"/>
+</map>

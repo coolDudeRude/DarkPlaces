@@ -1,0 +1,10 @@
+<map id="VID_Shared_SetJoystick" name="VID_Shared_SetJoystick">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,181,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="59,68,51,58,55,48,70,42,93,40,123,44,134,53,131,57,121,49,93,45,71,47,59,52,57,58,63,65"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#a49b71fe9a87e57a440e07af4a869a9f6" title="Prints to all appropriate console targets." alt="" coords="261,29,351,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,64,247,50,248,55,167,69"/>
+<area shape="rect" id="Node000099" href="$cvar_8c.html#a65b55ce35a5bd18e379065651d5d6e15" title=" " alt="" coords="229,103,383,128"/>
+<area shape="poly" id="edge3_Node000001_Node000099" title=" " alt="" coords="169,89,218,98,217,103,168,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="271,31,264,21,268,11,282,5,306,3,335,6,347,15,344,20,333,11,306,8,284,10,272,15,269,20,276,28"/>
+<area shape="poly" id="edge4_Node000099_Node000099" title=" " alt="" coords="271,104,264,94,268,84,282,78,306,76,335,80,347,89,344,93,333,85,306,81,284,83,272,88,269,94,276,101"/>
+</map>

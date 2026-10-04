@@ -1,0 +1,11 @@
+<map id="SCR_DrawTurtle" name="SCR_DrawTurtle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,131,55"/>
+<area shape="poly" id="edge6_Node000001_Node000001" title=" " alt="" coords="42,31,36,21,39,11,50,5,68,3,89,6,98,15,95,19,87,11,68,8,52,10,44,15,42,20,46,28"/>
+<area shape="rect" id="Node000002" href="$gl__draw_8c.html#a0cc15719c695a2ca1072332dee512a11" title=" " alt="" coords="319,29,441,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,31,179,27,271,27,305,30,305,35,271,33,179,33,131,37"/>
+<area shape="rect" id="Node000555" href="$gl__draw_8c.html#a42f38f468dbff7db26f70058ed779b06" title=" " alt="" coords="179,67,271,92"/>
+<area shape="poly" id="edge3_Node000001_Node000555" title=" " alt="" coords="123,52,166,63,164,68,121,57"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="354,31,348,21,351,11,362,5,380,3,401,6,410,15,407,19,399,11,380,8,364,10,356,15,354,20,358,28"/>
+<area shape="poly" id="edge4_Node000555_Node000002" title=" " alt="" coords="270,66,313,55,314,61,272,71"/>
+<area shape="poly" id="edge5_Node000555_Node000555" title=" " alt="" coords="199,68,193,58,196,49,207,42,225,40,246,43,255,52,251,56,244,48,225,45,209,47,200,52,198,58,203,65"/>
+</map>

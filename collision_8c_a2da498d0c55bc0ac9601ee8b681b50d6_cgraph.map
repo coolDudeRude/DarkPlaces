@@ -1,0 +1,7 @@
+<map id="Collision_TraceLineTriangleFloat" name="Collision_TraceLineTriangleFloat">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,203,69"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="72,30,70,20,75,11,87,5,104,3,124,6,135,13,132,17,122,11,104,8,88,10,79,15,75,21,77,28"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#a83f4d3f317a80e82e6b16ea61ea5efc3" title=" " alt="" coords="251,37,297,62"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="203,47,237,47,237,52,203,52"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="248,40,240,30,242,20,254,12,274,10,299,14,306,20,308,26,303,28,302,23,297,19,274,15,256,18,247,23,246,29,252,37"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="CL_RotateMoves" name="CL_RotateMoves">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,136,105"/>
+<area shape="poly" id="edge6_Node000001_Node000001" title=" " alt="" coords="39,81,32,72,36,62,49,56,71,53,97,57,108,66,105,70,95,62,71,59,50,61,40,65,37,71,43,78"/>
+<area shape="rect" id="Node000002" href="$mathlib_8c.html#a50e17db42d20e147704148d0a03032bf" title="LadyHavoc: calculates pitch/yaw/roll angles from forward and up vectors." alt="" coords="191,29,337,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,77,201,56,202,61,121,82"/>
+<area shape="rect" id="Node000003" href="$mathlib_8c.html#abcfd2eb08af2296b6ea28caf16717a09" title=" " alt="" coords="392,55,499,80"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="136,86,378,69,378,74,137,91"/>
+<area shape="rect" id="Node000242" href="$matrixlib_8c.html#a2c67a69e5ad398eda2624c8507e8b5fa" title=" " alt="" coords="184,155,344,180"/>
+<area shape="poly" id="edge7_Node000001_Node000242" title=" " alt="" coords="106,103,219,147,217,152,104,108"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="234,31,228,21,231,11,243,5,264,3,289,6,299,15,296,19,287,11,264,8,245,10,235,15,233,20,238,28"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="338,50,379,55,378,61,337,55"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="415,56,409,46,412,37,425,30,445,28,470,32,481,40,477,44,468,36,445,33,426,35,416,40,414,46,420,53"/>
+<area shape="poly" id="edge8_Node000242_Node000242" title=" " alt="" coords="234,156,228,146,231,137,243,130,264,128,289,132,299,140,296,144,287,136,264,133,245,135,235,140,233,146,238,153"/>
+</map>

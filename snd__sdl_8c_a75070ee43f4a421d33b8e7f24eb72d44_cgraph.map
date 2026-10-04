@@ -1,0 +1,28 @@
+<map id="SndSys_Init" name="SndSys_Init">
+<area shape="rect" id="Node000001" title="Create &quot;snd_renderbuffer&quot;, attempting to use the chosen sound format, but accepting if the driver wan..." alt="" coords="5,287,103,312"/>
+<area shape="poly" id="edge17_Node000001_Node000001" title=" " alt="" coords="24,288,18,278,21,269,34,262,54,260,79,264,89,272,85,276,76,268,54,265,35,267,25,272,23,278,29,285"/>
+<area shape="rect" id="Node000002" href="$snd__sdl_8c.html#a7e330bc69c3447a53c7a56d0cc1517db" title=" " alt="" coords="171,29,295,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="54,286,61,244,77,184,105,120,125,90,149,64,157,58,160,62,152,68,129,93,110,123,82,186,66,245,59,287"/>
+<area shape="rect" id="Node000312" href="$menudefs_8qc.html#a22f100d9039928edd4e410c7d68858e7" title=" " alt="" coords="210,103,255,128"/>
+<area shape="poly" id="edge3_Node000001_Node000312" title=" " alt="" coords="57,285,68,255,87,215,114,173,149,137,172,125,196,117,197,122,174,129,152,141,118,177,92,218,73,257,62,287"/>
+<area shape="rect" id="Node001349" href="$mathlib_8c.html#a8f525b87151d499911bb9d8d4a6f0b8d" title="returns the smallest integer greater than or equal to &quot;value&quot;, or 0 if &quot;value&quot; is too big" alt="" coords="177,176,288,201"/>
+<area shape="poly" id="edge5_Node000001_Node001349" title=" " alt="" coords="64,284,100,248,149,210,163,204,165,208,152,215,103,252,68,288"/>
+<area shape="rect" id="Node000297" href="$console_8c.html#aae665de4dbcbf2047ee305901e2f6627" title="A Con_Print that only shows up if the &quot;developer&quot; cvar is set." alt="" coords="185,249,280,275"/>
+<area shape="poly" id="edge7_Node000001_Node000297" title=" " alt="" coords="102,287,171,272,172,277,104,292"/>
+<area shape="rect" id="Node000015" href="$console_8c.html#a1cf9711475097b11dc41f743254ec77e" title="Prints to all appropriate console targets, and adds timestamps." alt="" coords="191,323,275,348"/>
+<area shape="poly" id="edge9_Node000001_Node000015" title=" " alt="" coords="103,306,177,322,176,327,102,312"/>
+<area shape="rect" id="Node000016" href="$console_8c.html#a49b71fe9a87e57a440e07af4a869a9f6" title="Prints to all appropriate console targets." alt="" coords="188,396,277,421"/>
+<area shape="poly" id="edge11_Node000001_Node000016" title=" " alt="" coords="77,310,152,357,200,387,197,391,149,362,74,314"/>
+<area shape="rect" id="Node000100" href="$cvar_8c.html#a65b55ce35a5bd18e379065651d5d6e15" title=" " alt="" coords="156,469,309,495"/>
+<area shape="poly" id="edge13_Node000001_Node000100" title=" " alt="" coords="65,311,99,366,124,400,152,431,194,461,191,465,149,435,120,403,94,369,60,314"/>
+<area shape="rect" id="Node000483" href="$snd__mem_8c.html#a460ce1acb5d1d0b811054380160ae0b9" title="If &quot;buffer&quot; is NULL, the function allocates one buffer of &quot;sampleframes&quot; sample frames itself (if &quot;sa..." alt="" coords="151,543,315,568"/>
+<area shape="poly" id="edge15_Node000001_Node000483" title=" " alt="" coords="61,312,72,348,90,398,117,454,153,504,171,521,191,534,189,539,168,525,149,508,112,456,85,400,67,350,56,313"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="203,31,197,21,200,11,212,5,233,3,257,6,268,15,264,19,255,11,233,8,214,10,204,15,202,20,207,28"/>
+<area shape="poly" id="edge4_Node000312_Node000312" title=" " alt="" coords="208,108,198,97,198,86,211,79,233,76,262,82,268,89,268,97,263,96,263,91,259,86,233,81,212,84,203,89,203,96,212,104"/>
+<area shape="poly" id="edge6_Node001349_Node001349" title=" " alt="" coords="203,177,197,168,200,158,212,152,233,149,257,153,268,162,264,166,255,158,233,155,214,157,204,161,202,167,207,174"/>
+<area shape="poly" id="edge8_Node000297_Node000297" title=" " alt="" coords="203,251,197,241,200,231,212,225,233,223,257,226,268,235,264,239,255,231,233,228,214,230,204,235,202,240,207,248"/>
+<area shape="poly" id="edge10_Node000015_Node000015" title=" " alt="" coords="203,324,197,314,200,305,212,298,233,296,257,300,268,308,264,312,255,304,233,301,214,303,204,308,202,314,207,321"/>
+<area shape="poly" id="edge12_Node000016_Node000016" title=" " alt="" coords="203,397,197,388,200,378,212,372,233,369,257,373,268,382,264,386,255,378,233,375,214,377,204,381,202,387,207,394"/>
+<area shape="poly" id="edge14_Node000100_Node000100" title=" " alt="" coords="203,471,197,461,200,451,212,445,233,443,257,446,268,455,264,459,255,451,233,448,214,450,204,455,202,460,207,468"/>
+<area shape="poly" id="edge16_Node000483_Node000483" title=" " alt="" coords="203,544,197,534,200,525,212,518,233,516,257,520,268,528,264,532,255,524,233,521,214,523,204,528,202,534,207,541"/>
+</map>

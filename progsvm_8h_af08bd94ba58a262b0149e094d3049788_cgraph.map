@@ -1,0 +1,16 @@
+<map id="PRVM_ShortStackTrace" name="PRVM_ShortStackTrace">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,140,176,165"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="58,141,51,132,55,122,68,116,91,113,118,117,129,126,126,130,116,122,91,119,70,121,59,125,56,131,62,138"/>
+<area shape="rect" id="Node000002" href="$common_8c.html#a5e0d354ab9daa3291e8ca5564c4a5e5e" title="Chain&#45;copies a string with truncation and efficiency (compared to strlcat())." alt="" coords="240,29,336,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,138,158,102,223,64,235,58,237,63,225,68,161,107,110,142"/>
+<area shape="rect" id="Node000023" href="$common_8c.html#ae36050083f45e395189fee6aa45fbb0c" title="Returns the number of printed characters, excluding the final &#39;\0&#39; or returns &#45;1 if the buffer isn&#39;t ..." alt="" coords="244,103,332,128"/>
+<area shape="poly" id="edge3_Node000001_Node000023" title=" " alt="" coords="158,137,230,124,231,129,159,143"/>
+<area shape="rect" id="Node000514" href="$prvm__edict_8c.html#a69666cdc9628aebc4b380b6ad1868140" title=" " alt="" coords="224,176,352,201"/>
+<area shape="poly" id="edge5_Node000001_Node000514" title=" " alt="" coords="161,163,211,172,210,177,160,168"/>
+<area shape="rect" id="Node000045" href="$common_8c.html#a4a8220fa88226bf9cf39b12a051a20d7" title=" " alt="" coords="269,249,307,275"/>
+<area shape="poly" id="edge8_Node000001_Node000045" title=" " alt="" coords="116,163,258,243,255,247,113,168"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="255,31,249,21,252,11,266,5,288,3,315,6,326,15,323,19,313,11,288,8,267,10,256,15,254,20,260,28"/>
+<area shape="poly" id="edge4_Node000023_Node000023" title=" " alt="" coords="255,104,249,94,252,84,266,78,288,76,315,80,326,88,323,93,313,84,288,81,267,83,256,88,254,94,260,101"/>
+<area shape="poly" id="edge6_Node000514_Node000514" title=" " alt="" coords="255,177,249,168,252,158,266,152,288,149,315,153,326,162,323,166,313,158,288,155,267,157,256,161,254,167,260,174"/>
+<area shape="poly" id="edge9_Node000045_Node000045" title=" " alt="" coords="267,258,251,247,249,235,262,226,288,223,310,225,324,231,328,240,321,250,317,247,322,240,320,235,309,230,288,228,264,231,254,237,256,244,270,253"/>
+</map>

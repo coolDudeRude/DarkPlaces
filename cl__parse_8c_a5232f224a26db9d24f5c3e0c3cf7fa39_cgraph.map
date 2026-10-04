@@ -1,0 +1,13 @@
+<map id="CL_SendPlayerInfo" name="CL_SendPlayerInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,148,128"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="46,104,40,94,43,85,56,78,77,76,102,80,113,88,109,92,100,84,77,81,57,83,47,88,45,94,50,101"/>
+<area shape="rect" id="Node000002" href="$com__msg_8c.html#a7e32b0a419941b93644ba097bb64af96" title=" " alt="" coords="200,29,324,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="106,100,195,64,212,57,214,62,197,68,108,105"/>
+<area shape="rect" id="Node000083" href="$com__msg_8c.html#a3e0a67e5c8fa483be5e3e1513ff50d0d" title=" " alt="" coords="196,103,328,128"/>
+<area shape="poly" id="edge4_Node000001_Node000083" title=" " alt="" coords="148,113,182,113,182,118,148,118"/>
+<area shape="rect" id="Node000046" href="$common_8c.html#a4a8220fa88226bf9cf39b12a051a20d7" title=" " alt="" coords="243,176,281,201"/>
+<area shape="poly" id="edge6_Node000001_Node000046" title=" " alt="" coords="111,126,231,174,229,179,109,131"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="231,31,225,21,228,11,241,5,262,3,287,6,298,15,295,19,285,11,262,8,243,10,232,15,230,20,236,28"/>
+<area shape="poly" id="edge5_Node000083_Node000083" title=" " alt="" coords="231,104,225,94,228,85,241,78,262,76,287,80,298,88,295,92,285,84,262,81,243,83,232,88,230,94,236,101"/>
+<area shape="poly" id="edge7_Node000046_Node000046" title=" " alt="" coords="241,184,227,173,226,161,238,152,262,149,282,151,294,157,299,165,295,174,291,172,294,166,291,161,280,156,262,155,240,157,231,163,232,170,244,179"/>
+</map>

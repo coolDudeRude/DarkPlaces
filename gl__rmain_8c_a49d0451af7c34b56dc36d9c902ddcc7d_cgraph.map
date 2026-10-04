@@ -1,0 +1,20 @@
+<map id="R_Mesh_AddBrushMeshFromPlanes" name="R_Mesh_AddBrushMeshFromPlanes">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,138,259,163"/>
+<area shape="poly" id="edge10_Node000001_Node000001" title=" " alt="" coords="89,140,80,130,85,119,103,113,132,111,170,115,180,120,184,126,179,129,177,124,168,120,132,116,104,119,88,123,85,129,93,136"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#accccfae161879454243b3a8695a9bf3b" title=" " alt="" coords="536,100,587,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,136,170,110,209,79,255,48,306,25,357,10,399,3,440,7,489,25,508,37,525,53,549,86,545,90,521,57,505,42,487,30,439,13,399,9,358,15,308,30,257,53,212,83,174,114,148,139"/>
+<area shape="rect" id="Node000003" href="$menudefs_8qc.html#ad5a3e16aa960bd72d3ca37a618eea802" title=" " alt="" coords="372,64,423,90"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="177,135,306,99,358,85,359,90,307,104,178,140"/>
+<area shape="rect" id="Node000004" href="$polygon_8c.html#ab6a3b39f3616e9f085e56f657ee71cf2" title=" " alt="" coords="331,138,464,163"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="259,148,317,148,317,153,259,153"/>
+<area shape="rect" id="Node000005" href="$polygon_8c.html#a8a656b23dda9bcedd27801f6b65a6955" title=" " alt="" coords="307,211,488,236"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="180,161,338,205,337,210,178,166"/>
+<area shape="rect" id="Node000007" href="$gl__rmain_8c.html#abd463a3519de406e67062ffa1b2c5f00" title=" " alt="" coords="311,284,484,310"/>
+<area shape="poly" id="edge11_Node000001_Node000007" title=" " alt="" coords="158,161,308,245,362,276,360,280,305,250,155,166"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="534,102,528,92,531,82,543,76,561,74,584,77,593,86,590,90,581,82,561,79,544,81,535,86,534,91,539,99"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="370,66,364,56,367,46,379,40,397,38,420,41,429,50,426,54,417,46,397,43,380,45,371,50,370,55,375,63"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="370,139,364,129,367,120,379,113,397,111,420,115,429,123,426,127,417,119,397,116,380,118,371,123,370,129,375,136"/>
+<area shape="poly" id="edge8_Node000005_Node000002" title=" " alt="" coords="424,209,486,172,535,133,538,137,490,177,426,213"/>
+<area shape="poly" id="edge9_Node000005_Node000005" title=" " alt="" coords="370,212,364,203,367,193,379,187,397,184,420,188,429,196,426,200,417,193,397,190,380,192,371,196,370,202,375,210"/>
+<area shape="poly" id="edge12_Node000007_Node000007" title=" " alt="" coords="370,286,364,276,367,266,379,260,397,258,420,261,429,270,426,274,417,266,397,263,380,265,371,270,370,275,375,283"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="colplanef_t" name="colplanef_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="957,74,1052,99"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="167,21,342,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="356,26,474,24,619,27,777,38,934,60,973,71,972,77,933,65,776,43,619,33,474,30,356,31"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="235,74,274,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="288,84,957,84,957,89,288,89"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,127,504,153"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="518,148,617,147,722,141,829,130,933,112,977,97,978,102,934,117,830,135,723,146,617,152,518,154"/>
+</map>

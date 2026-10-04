@@ -1,0 +1,13 @@
+<map id="SV_ClientCommands" name="SV_ClientCommands">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,164,128"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="53,104,46,94,50,84,63,78,85,76,111,80,122,88,119,92,109,84,85,81,64,83,54,88,51,94,57,101"/>
+<area shape="rect" id="Node000002" href="$common_8c.html#a17e9040af1baa7e1a61a6a47f776eca5" title="Returns the number of printed characters, excluding the final &#39;\0&#39; or returns &#45;1 if the buffer isn&#39;t ..." alt="" coords="230,29,326,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,100,211,64,228,57,230,62,213,68,119,105"/>
+<area shape="rect" id="Node000004" href="$com__msg_8c.html#a7e32b0a419941b93644ba097bb64af96" title=" " alt="" coords="216,103,340,128"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="164,113,202,113,202,118,164,118"/>
+<area shape="rect" id="Node000083" href="$com__msg_8c.html#a3e0a67e5c8fa483be5e3e1513ff50d0d" title=" " alt="" coords="212,176,344,201"/>
+<area shape="poly" id="edge5_Node000001_Node000083" title=" " alt="" coords="120,126,232,168,230,173,118,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="246,31,240,21,243,11,256,5,278,3,304,6,315,15,312,19,302,11,278,8,258,10,247,15,245,20,251,28"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="246,104,240,94,243,84,256,78,278,76,304,80,315,88,312,92,302,84,278,81,258,83,247,88,245,94,251,101"/>
+<area shape="poly" id="edge6_Node000083_Node000083" title=" " alt="" coords="246,177,240,168,243,158,256,152,278,149,304,153,315,162,312,166,302,158,278,155,258,157,247,161,245,167,251,174"/>
+</map>

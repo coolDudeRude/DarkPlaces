@@ -1,0 +1,9 @@
+<map id="phys.h" name="phys.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="47,5,113,31"/>
+<area shape="rect" id="Node000002" href="$phys_8c.html" title=" " alt="" coords="5,152,69,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="54,41,37,59,24,80,20,98,22,118,34,151,29,153,17,119,15,98,19,78,33,55,51,37"/>
+<area shape="rect" id="Node000003" href="$quakedef_8h.html" title=" " alt="" coords="33,79,127,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="74,44,76,78,70,79,69,45"/>
+<area shape="poly" id="edge4_Node000003_Node000001" title=" " alt="" coords="86,65,84,31,90,31,91,65"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="68,117,47,153,42,151,64,114"/>
+</map>

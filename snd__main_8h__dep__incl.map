@@ -1,0 +1,25 @@
+<map id="snd_main.h" name="snd_main.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="555,5,652,31"/>
+<area shape="rect" id="Node000002" href="$cl__main_8c.html" title=" " alt="" coords="5,79,89,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="542,27,345,48,101,81,90,83,89,78,100,76,344,43,541,22"/>
+<area shape="rect" id="Node000003" href="$cl__screen_8c.html" title=" " alt="" coords="113,79,208,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="541,31,220,81,208,83,208,78,219,76,540,26"/>
+<area shape="rect" id="Node000004" href="$client_8h.html" title=" " alt="" coords="232,79,303,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="541,34,316,81,304,84,302,79,315,76,540,29"/>
+<area shape="rect" id="Node000032" href="$csprogs_8c.html" title=" " alt="" coords="327,79,410,104"/>
+<area shape="poly" id="edge4_Node000001_Node000032" title=" " alt="" coords="553,37,407,81,406,76,552,32"/>
+<area shape="rect" id="Node000082" href="$snd__main_8c.html" title=" " alt="" coords="434,79,530,104"/>
+<area shape="poly" id="edge5_Node000001_Node000082" title=" " alt="" coords="573,40,503,81,501,76,570,35"/>
+<area shape="rect" id="Node000107" href="$snd__mem_8c.html" title=" " alt="" coords="555,79,652,104"/>
+<area shape="poly" id="edge6_Node000001_Node000107" title=" " alt="" coords="606,44,606,79,601,79,601,44"/>
+<area shape="rect" id="Node000083" href="$snd__mix_8c.html" title=" " alt="" coords="677,79,765,104"/>
+<area shape="poly" id="edge7_Node000001_Node000083" title=" " alt="" coords="635,35,703,76,700,81,633,40"/>
+<area shape="rect" id="Node000108" href="$snd__ogg_8c.html" title=" " alt="" coords="789,79,876,104"/>
+<area shape="poly" id="edge8_Node000001_Node000108" title=" " alt="" coords="654,32,796,76,795,81,653,37"/>
+<area shape="rect" id="Node000109" href="$snd__sdl_8c.html" title=" " alt="" coords="901,79,983,104"/>
+<area shape="poly" id="edge9_Node000001_Node000109" title=" " alt="" coords="666,30,889,76,901,79,900,84,888,81,665,35"/>
+<area shape="rect" id="Node000110" href="$snd__wav_8c.html" title=" " alt="" coords="1008,79,1097,104"/>
+<area shape="poly" id="edge10_Node000001_Node000110" title=" " alt="" coords="666,25,996,76,1008,78,1007,84,995,81,665,31"/>
+<area shape="rect" id="Node000111" href="$snd__xmp_8c.html" title=" " alt="" coords="1121,79,1213,104"/>
+<area shape="poly" id="edge11_Node000001_Node000111" title=" " alt="" coords="666,22,864,43,1110,76,1122,78,1121,83,1110,81,864,49,665,28"/>
+</map>

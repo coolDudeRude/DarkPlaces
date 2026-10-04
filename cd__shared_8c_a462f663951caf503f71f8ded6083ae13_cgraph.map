@@ -1,0 +1,13 @@
+<map id="CDAudio_SetVolume" name="CDAudio_SetVolume">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,160,128"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="49,104,42,94,45,84,59,78,83,76,111,80,123,89,119,93,109,85,83,81,61,83,49,88,47,94,53,101"/>
+<area shape="rect" id="Node000002" href="$cd__shared_8c.html#af763dd717e691176780eba76fee8911c" title=" " alt="" coords="227,29,349,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,100,207,63,229,56,231,61,209,69,115,105"/>
+<area shape="rect" id="Node000004" href="$cd__shared_8c.html#a27b7081d2467bf7c676793b758c948ac" title=" " alt="" coords="219,103,357,128"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="160,113,205,113,205,118,160,118"/>
+<area shape="rect" id="Node000005" href="$snd__main_8c.html#a37d4ed14b0b2cfb37ac5e35c9699138e" title=" " alt="" coords="208,176,368,201"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="120,126,239,169,238,174,118,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="254,31,247,21,251,11,265,5,288,3,317,6,328,15,325,20,314,11,288,8,266,10,255,15,252,20,258,28"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="254,104,247,94,251,84,265,78,288,76,317,80,328,89,325,93,314,85,288,81,266,83,255,88,252,94,258,101"/>
+<area shape="poly" id="edge7_Node000005_Node000005" title=" " alt="" coords="254,178,247,168,251,158,265,152,288,149,317,153,328,162,325,166,314,158,288,155,266,157,255,161,252,167,258,174"/>
+</map>

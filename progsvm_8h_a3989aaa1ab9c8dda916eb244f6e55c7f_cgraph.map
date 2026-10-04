@@ -1,0 +1,7 @@
+<map id="PRVM_ED_FindGlobal" name="PRVM_ED_FindGlobal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,167,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="54,31,48,21,51,11,64,5,86,3,112,6,123,15,120,19,110,11,86,8,66,10,55,15,53,20,59,28"/>
+<area shape="rect" id="Node000002" href="$prvm__edict_8c.html#a69666cdc9628aebc4b380b6ad1868140" title=" " alt="" coords="215,29,343,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="167,39,201,39,201,45,167,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="247,31,240,21,244,11,257,5,279,3,305,6,316,15,313,19,303,11,279,8,258,10,248,15,245,20,251,28"/>
+</map>

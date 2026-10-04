@@ -1,0 +1,7 @@
+<map id="ratetable_t" name="ratetable_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="13,101,106,127"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,44,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="26,44,32,76,49,99,44,102,28,78,21,45"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="69,5,119,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="88,44,66,102,61,100,83,43"/>
+</map>

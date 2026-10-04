@@ -1,0 +1,7 @@
+<map id="VM_CL_skel_set_bone" name="VM_CL_skel_set_bone">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,171,55"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="52,31,45,21,49,11,63,5,88,3,118,6,130,15,127,20,116,11,88,8,65,10,52,15,50,20,56,28"/>
+<area shape="rect" id="Node000002" href="$matrixlib_8c.html#ab70336ea109de2ef2ee9b621ca9e6ee0" title=" " alt="" coords="219,29,395,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,39,205,39,205,45,171,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="271,31,263,21,267,11,282,5,307,3,337,6,349,15,346,20,335,11,307,8,283,10,271,15,268,20,275,28"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="R_Shadow_BounceGrid_EnqueuePhotons_Task" name="R_Shadow_BounceGrid_EnqueuePhotons_Task">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,148,179,188"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="44,148,42,138,49,129,66,123,92,121,122,124,138,131,136,136,120,129,92,127,67,129,52,133,47,139,50,147"/>
+<area shape="rect" id="Node000002" href="$r__shadow_8c.html#a70712833e104b0bcd7eec639054bd164" title=" " alt="" coords="260,29,440,69"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="117,146,166,112,226,79,245,71,247,76,228,84,169,116,120,150"/>
+<area shape="rect" id="Node000791" href="$taskqueue_8c.html#ad3874e08e0963699402a0d894b9102df" title=" " alt="" coords="272,118,428,143"/>
+<area shape="poly" id="edge4_Node000001_Node000791" title=" " alt="" coords="178,153,258,141,259,146,179,158"/>
+<area shape="rect" id="Node000792" href="$taskqueue_8c.html#a9d3bce934d8556370189575fc769691e" title=" " alt="" coords="281,191,419,217"/>
+<area shape="poly" id="edge6_Node000001_Node000792" title=" " alt="" coords="179,177,268,190,267,195,178,183"/>
+<area shape="rect" id="Node000793" href="$taskqueue_8c.html#ae4ea029dfef884645b521265061de550" title=" " alt="" coords="227,265,473,290"/>
+<area shape="poly" id="edge8_Node000001_Node000793" title=" " alt="" coords="138,186,228,226,304,257,302,262,226,230,136,191"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="302,30,300,20,307,10,324,5,350,3,380,6,396,13,394,18,378,11,350,8,325,10,310,15,305,21,308,28"/>
+<area shape="poly" id="edge5_Node000791_Node000791" title=" " alt="" coords="309,120,300,110,304,100,321,93,350,91,386,95,396,100,400,106,396,109,393,104,385,100,350,97,322,99,308,104,305,109,312,116"/>
+<area shape="poly" id="edge7_Node000792_Node000792" title=" " alt="" coords="309,193,300,183,304,173,321,167,350,165,386,169,396,173,400,179,396,182,393,177,385,174,350,170,322,172,308,177,305,182,312,189"/>
+<area shape="poly" id="edge9_Node000793_Node000793" title=" " alt="" coords="309,266,300,256,304,246,321,240,350,238,386,242,396,247,400,252,396,255,393,251,385,247,350,243,322,245,308,250,305,256,312,263"/>
+</map>

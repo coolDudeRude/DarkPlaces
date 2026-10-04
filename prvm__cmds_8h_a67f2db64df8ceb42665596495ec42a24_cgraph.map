@@ -1,0 +1,7 @@
+<map id="VM_spawn" name="VM_spawn">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,97,55"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="25,31,20,21,23,11,34,5,51,3,73,6,82,15,78,19,70,11,51,8,35,10,27,15,25,20,30,28"/>
+<area shape="rect" id="Node000002" href="$prvm__edict_8c.html#afcdcbd71d3749b7f5b38293bf511467a" title=" " alt="" coords="145,29,269,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,39,131,39,131,45,97,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="181,31,176,21,179,11,190,5,207,3,229,6,238,15,234,19,226,11,207,8,191,10,183,15,181,20,186,28"/>
+</map>

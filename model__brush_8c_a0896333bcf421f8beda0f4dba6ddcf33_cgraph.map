@@ -1,0 +1,10 @@
+<map id="Mod_Q3BSP_LoadPlanes" name="Mod_Q3BSP_LoadPlanes">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,187,92"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="64,68,58,58,61,48,74,42,96,40,122,44,133,52,130,56,120,48,96,45,76,47,65,52,63,58,69,65"/>
+<area shape="rect" id="Node000002" href="$host_8c.html#a6207a721d43b13be42aa21a2bb4d3350" title=" " alt="" coords="244,29,335,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,64,230,51,231,56,163,69"/>
+<area shape="rect" id="Node000431" href="$mathlib_8c.html#ac6346bdac2617a1fce578c20b3520a79" title=" " alt="" coords="235,103,344,128"/>
+<area shape="poly" id="edge4_Node000001_Node000431" title=" " alt="" coords="165,89,221,100,220,105,164,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="258,31,251,21,254,11,268,5,289,3,316,6,327,15,323,19,314,11,289,8,269,10,258,15,256,20,262,28"/>
+<area shape="poly" id="edge5_Node000431_Node000431" title=" " alt="" coords="258,104,251,94,254,84,268,78,289,76,316,80,327,88,323,92,314,84,289,81,269,83,258,88,256,94,262,101"/>
+</map>

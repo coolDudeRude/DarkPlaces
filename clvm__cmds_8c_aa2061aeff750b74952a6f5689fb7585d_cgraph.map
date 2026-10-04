@@ -1,0 +1,10 @@
+<map id="CL_Trace_Toss" name="CL_Trace_Toss">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,120,92"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="26,68,18,58,22,48,37,42,63,40,95,44,107,53,103,57,93,49,63,45,38,47,26,52,23,58,30,65"/>
+<area shape="rect" id="Node000002" href="$cl__collision_8c.html#a2e0efc42489e4c2948fb6ccd4b7abeb0" title=" " alt="" coords="168,29,412,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,67,198,54,199,60,121,73"/>
+<area shape="rect" id="Node000003" href="$cl__collision_8c.html#a50475cdb678c8e50022410f30b3e398a" title=" " alt="" coords="238,103,342,128"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="121,86,225,102,224,108,120,91"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="253,31,245,21,249,11,265,5,290,3,322,7,334,16,331,20,320,11,290,8,266,10,253,15,250,20,257,27"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="253,104,245,94,249,84,265,78,290,76,322,80,334,89,331,93,320,85,290,81,266,83,253,88,250,94,257,101"/>
+</map>

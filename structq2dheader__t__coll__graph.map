@@ -1,0 +1,8 @@
+<map id="q2dheader_t" name="q2dheader_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,235,108,260"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="37,5,76,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="56,45,51,99,50,164,58,234,52,235,45,164,45,99,51,44"/>
+<area shape="rect" id="Node000003" href="$structlump__t.html" title=" " alt="" coords="117,130,183,155"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="76,40,143,128,139,131,72,43"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="132,167,69,236,65,233,128,164"/>
+</map>

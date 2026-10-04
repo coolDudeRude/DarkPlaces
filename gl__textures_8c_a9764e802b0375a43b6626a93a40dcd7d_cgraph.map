@@ -1,0 +1,16 @@
+<map id="r_textures_start" name="r_textures_start">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,144,131,169"/>
+<area shape="poly" id="edge9_Node000001_Node000001" title=" " alt="" coords="35,145,29,136,32,126,46,120,68,117,95,121,106,130,103,134,93,126,68,123,47,125,36,129,34,135,40,142"/>
+<area shape="rect" id="Node000002" href="$cvar_8c.html#a65b55ce35a5bd18e379065651d5d6e15" title=" " alt="" coords="189,29,342,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,142,121,103,148,82,177,64,192,57,195,62,180,68,151,86,124,107,83,145"/>
+<area shape="rect" id="Node001351" href="$jpeg_8c.html#aa11ad53af48f7a9158cbfe2913e227d6" title=" " alt="" coords="196,103,335,128"/>
+<area shape="poly" id="edge3_Node000001_Node001351" title=" " alt="" coords="129,141,191,128,192,133,130,147"/>
+<area shape="rect" id="Node000425" href="$zone_8c.html#a211e7367323b1791e87715797bdee714" title=" " alt="" coords="179,177,352,217"/>
+<area shape="poly" id="edge5_Node000001_Node000425" title=" " alt="" coords="131,167,166,174,165,179,130,172"/>
+<area shape="rect" id="Node001352" href="$image__png_8c.html#ab2cde959841139dac426ea8b3ad72042" title=" " alt="" coords="197,265,333,291"/>
+<area shape="poly" id="edge7_Node000001_Node001352" title=" " alt="" coords="90,167,180,226,231,256,228,261,177,231,87,172"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="233,31,226,21,229,11,243,5,265,3,292,6,304,15,300,19,290,11,265,8,244,10,233,15,231,20,237,28"/>
+<area shape="poly" id="edge4_Node001351_Node001351" title=" " alt="" coords="233,104,226,94,229,84,243,78,265,76,292,80,304,88,300,93,290,84,265,81,244,83,233,88,231,94,237,101"/>
+<area shape="poly" id="edge6_Node000425_Node000425" title=" " alt="" coords="228,177,226,167,232,158,245,152,265,150,289,153,301,160,299,165,287,158,265,155,246,157,235,162,231,168,233,176"/>
+<area shape="poly" id="edge8_Node001352_Node001352" title=" " alt="" coords="233,267,226,257,229,247,243,241,265,239,292,242,304,251,300,255,290,247,265,244,244,246,233,251,231,256,237,264"/>
+</map>

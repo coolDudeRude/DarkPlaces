@@ -1,0 +1,10 @@
+<map id="SCR_PopLoadingScreen" name="SCR_PopLoadingScreen">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,180,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="59,68,52,58,56,48,70,42,93,40,121,44,132,53,129,57,119,49,93,45,71,47,60,52,57,58,64,65"/>
+<area shape="rect" id="Node000002" href="$cl__screen_8c.html#a5ff57a5d5e9aa51e8a171ad14d3436ae" title=" " alt="" coords="228,29,364,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,64,214,54,215,60,163,69"/>
+<area shape="rect" id="Node000020" href="$console_8c.html#a2696300802453d9333e9f52e5fae15bc" title="A Con_Printf that only shows up if the &quot;developer&quot; cvar is set." alt="" coords="247,103,345,128"/>
+<area shape="poly" id="edge3_Node000001_Node000020" title=" " alt="" coords="165,89,233,102,232,107,164,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="263,31,256,21,259,11,273,5,296,3,324,6,336,16,332,20,322,11,296,8,274,10,263,15,261,20,267,28"/>
+<area shape="poly" id="edge4_Node000020_Node000020" title=" " alt="" coords="263,104,256,94,259,84,273,78,296,76,324,80,336,89,332,93,322,85,296,81,274,83,263,88,261,94,267,101"/>
+</map>

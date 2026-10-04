@@ -1,0 +1,9 @@
+<map id="protocolversioninfo_s" name="protocolversioninfo_s">
+<area shape="rect" id="Node000001" title=" " alt="" coords="54,101,217,127"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,44,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="41,40,73,75,111,99,108,104,70,79,37,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="68,5,203,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="138,45,138,101,133,101,133,45"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="227,5,278,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="236,43,200,79,161,103,158,99,196,75,233,40"/>
+</map>

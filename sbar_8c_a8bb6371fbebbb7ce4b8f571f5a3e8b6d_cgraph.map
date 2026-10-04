@@ -1,0 +1,13 @@
+<map id="Sbar_DrawWeapon" name="Sbar_DrawWeapon">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,149,128"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="48,104,42,94,46,85,58,78,77,76,101,80,111,88,108,92,99,84,77,81,59,83,50,88,48,94,53,101"/>
+<area shape="rect" id="Node000002" href="$gl__draw_8c.html#a42f38f468dbff7db26f70058ed779b06" title=" " alt="" coords="207,29,299,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,100,207,58,209,63,110,105"/>
+<area shape="rect" id="Node000288" href="$gl__draw_8c.html#aad880bba40abd3688c15d7ac022318a1" title=" " alt="" coords="197,103,308,128"/>
+<area shape="poly" id="edge3_Node000001_Node000288" title=" " alt="" coords="149,113,183,113,183,118,149,118"/>
+<area shape="rect" id="Node000047" href="$common_8c.html#a4a8220fa88226bf9cf39b12a051a20d7" title=" " alt="" coords="233,176,272,201"/>
+<area shape="poly" id="edge6_Node000001_Node000047" title=" " alt="" coords="110,126,222,173,220,178,108,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="224,31,218,21,221,11,233,5,253,3,277,6,287,15,283,19,274,11,253,8,234,10,225,15,223,20,228,28"/>
+<area shape="poly" id="edge4_Node000288_Node000288" title=" " alt="" coords="224,104,218,94,221,85,233,78,253,76,277,80,287,88,283,92,274,84,253,81,234,83,225,88,223,94,228,101"/>
+<area shape="poly" id="edge7_Node000047_Node000047" title=" " alt="" coords="231,183,219,172,219,160,231,152,253,149,271,151,283,156,288,164,285,173,280,171,282,165,279,160,269,156,253,155,233,157,224,163,224,170,235,179"/>
+</map>

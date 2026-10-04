@@ -1,0 +1,8 @@
+<map id="mod_alloclightmap_state_t" name="mod_alloclightmap_state_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,255,204,280"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="85,5,124,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,45,100,108,99,184,106,254,101,255,94,184,95,108,99,44"/>
+<area shape="rect" id="Node000003" href="$structmod__alloclightmap__row__t.html" title=" " alt="" coords="171,140,361,165"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="131,38,254,138,250,142,128,42"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="239,176,123,257,119,252,236,171"/>
+</map>

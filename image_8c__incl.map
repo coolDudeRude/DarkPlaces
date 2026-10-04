@@ -1,0 +1,17 @@
+<map id="image.c" name="image.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="325,5,400,31"/>
+<area shape="rect" id="Node000002" href="$quakedef_8h.html" title=" " alt="" coords="5,79,99,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="326,30,113,79,111,74,325,25"/>
+<area shape="rect" id="Node000093" href="$image_8h.html" title=" " alt="" coords="123,79,197,104"/>
+<area shape="poly" id="edge2_Node000001_Node000093" title=" " alt="" coords="331,33,206,77,205,72,329,28"/>
+<area shape="rect" id="Node000094" href="$jpeg_8h.html" title=" " alt="" coords="222,79,285,104"/>
+<area shape="poly" id="edge3_Node000001_Node000094" title=" " alt="" coords="347,33,284,73,281,69,344,28"/>
+<area shape="rect" id="Node000095" href="$image__png_8h.html" title=" " alt="" coords="309,79,416,104"/>
+<area shape="poly" id="edge4_Node000001_Node000095" title=" " alt="" coords="365,31,365,65,360,65,360,31"/>
+<area shape="rect" id="Node000096" href="$r__shadow_8h.html" title=" " alt="" coords="441,79,535,104"/>
+<area shape="poly" id="edge5_Node000001_Node000096" title=" " alt="" coords="384,28,457,69,454,74,381,33"/>
+<area shape="rect" id="Node000098" href="$wad_8h.html" title=" " alt="" coords="560,79,621,104"/>
+<area shape="poly" id="edge6_Node000001_Node000098" title=" " alt="" coords="400,28,548,74,546,79,399,33"/>
+<area shape="rect" id="Node000099" href="$lhfont_8h.html" title=" " alt="" coords="645,79,717,104"/>
+<area shape="poly" id="edge7_Node000001_Node000099" title=" " alt="" coords="401,25,632,76,631,81,400,30"/>
+</map>

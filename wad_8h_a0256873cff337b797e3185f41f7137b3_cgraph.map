@@ -1,0 +1,6 @@
+<map id="W_ConvertWAD3TextureBGRA" name="W_ConvertWAD3TextureBGRA">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,223,55"/>
+<area shape="rect" id="Node000002" href="$wad_8c.html#aacfa16ea693c2d6a4fcbaedd7992408c" title=" " alt="" coords="271,29,488,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,39,257,39,257,45,223,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="337,31,327,21,332,11,350,5,379,3,417,7,428,12,431,18,427,20,424,16,416,12,379,8,351,10,336,15,333,20,341,27"/>
+</map>

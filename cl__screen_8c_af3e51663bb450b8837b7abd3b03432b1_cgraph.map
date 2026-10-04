@@ -1,0 +1,13 @@
+<map id="SCR_DrawCenterString" name="SCR_DrawCenterString">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,176,128"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="57,104,50,94,54,84,68,78,91,76,119,80,130,89,127,93,117,85,91,81,69,83,58,88,55,94,62,101"/>
+<area shape="rect" id="Node000002" href="$gl__draw_8c.html#aad880bba40abd3688c15d7ac022318a1" title=" " alt="" coords="238,29,349,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,100,223,63,242,57,244,62,225,69,127,105"/>
+<area shape="rect" id="Node000293" href="$gl__draw_8c.html#aa4629677424af2c7a2d8b6771723cfeb" title=" " alt="" coords="224,103,363,128"/>
+<area shape="poly" id="edge3_Node000001_Node000293" title=" " alt="" coords="176,113,210,113,210,118,176,118"/>
+<area shape="rect" id="Node000035" href="$menudefs_8qc.html#a274680f571a231ddf29421b93d434bfa" title=" " alt="" coords="264,176,323,201"/>
+<area shape="poly" id="edge6_Node000001_Node000035" title=" " alt="" coords="128,126,252,171,250,176,126,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="260,31,253,21,257,11,270,5,293,3,322,6,333,16,329,20,319,11,293,8,272,10,260,15,258,20,264,28"/>
+<area shape="poly" id="edge4_Node000293_Node000293" title=" " alt="" coords="260,104,253,94,257,84,270,78,293,76,322,80,333,89,329,93,319,85,293,81,272,83,260,88,258,94,264,101"/>
+<area shape="poly" id="edge7_Node000035_Node000035" title=" " alt="" coords="262,179,253,169,256,158,270,152,293,149,323,154,332,159,334,166,329,167,327,162,321,159,293,155,271,157,260,162,258,168,266,175"/>
+</map>

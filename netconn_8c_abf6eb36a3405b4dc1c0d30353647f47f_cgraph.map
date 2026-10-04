@@ -1,0 +1,10 @@
+<map id="NetConn_ServerFrame" name="NetConn_ServerFrame">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,173,92"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="52,68,43,58,48,48,63,42,89,40,122,44,134,53,131,58,120,49,89,45,64,47,51,52,49,58,56,65"/>
+<area shape="rect" id="Node000002" href="$netconn_8c.html#a32cdef72a697789efb6435689f0c51a2" title=" " alt="" coords="264,29,383,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,64,250,51,251,56,170,69"/>
+<area shape="rect" id="Node001351" href="$netconn_8c.html#a6b6332f4f197dd20f3353373721b6a9d" title=" " alt="" coords="221,103,425,128"/>
+<area shape="poly" id="edge4_Node000001_Node001351" title=" " alt="" coords="173,89,227,98,226,103,172,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="286,31,277,21,282,11,297,5,323,3,356,7,368,16,365,20,354,11,323,8,298,10,285,15,283,20,290,27"/>
+<area shape="poly" id="edge5_Node001351_Node001351" title=" " alt="" coords="286,104,277,94,282,84,297,78,323,76,356,80,368,89,365,94,354,85,323,81,298,83,285,88,283,94,290,101"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="VM_SetTraceGlobals" name="VM_SetTraceGlobals">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,160,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="49,68,42,58,45,48,59,42,83,40,111,44,123,53,119,57,109,49,83,45,61,47,49,52,47,58,53,65"/>
+<area shape="rect" id="Node000002" href="$prvm__edict_8c.html#a1d2244b6253cecef732afeb0bf1d393f" title="Takes an strlen (not a buffer size)." alt="" coords="208,29,369,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,64,204,55,205,60,154,69"/>
+<area shape="rect" id="Node000029" href="$menudefs_8qc.html#a274680f571a231ddf29421b93d434bfa" title=" " alt="" coords="259,103,318,128"/>
+<area shape="poly" id="edge3_Node000001_Node000029" title=" " alt="" coords="156,89,246,105,245,111,155,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="255,31,248,21,251,11,265,5,289,3,317,6,329,15,325,20,315,11,289,8,267,10,255,15,253,20,259,28"/>
+<area shape="poly" id="edge4_Node000029_Node000029" title=" " alt="" coords="257,106,248,96,251,85,265,78,289,76,320,81,328,87,330,93,324,95,323,90,318,86,289,81,266,84,255,89,253,94,261,102"/>
+</map>

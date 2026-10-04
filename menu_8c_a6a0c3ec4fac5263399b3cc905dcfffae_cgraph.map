@@ -1,0 +1,7 @@
+<map id="M_Menu_Transfusion_Skill_f" name="M_Menu_Transfusion_Skill_f">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,164,69"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="55,29,54,20,58,11,69,5,85,3,103,6,113,13,110,17,101,11,85,8,70,10,62,14,59,21,61,28"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#a977f9318008de123876b168dfa86ad22" title=" " alt="" coords="212,37,263,62"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,47,198,47,198,52,164,52"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="212,38,206,28,209,19,220,12,237,10,258,13,267,22,264,26,256,18,237,15,222,17,213,22,212,28,216,35"/>
+</map>

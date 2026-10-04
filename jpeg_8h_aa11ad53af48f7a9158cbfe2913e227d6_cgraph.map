@@ -1,0 +1,11 @@
+<map id="JPEG_OpenLibrary" name="JPEG_OpenLibrary">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,144,55"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="42,31,35,21,39,11,52,5,75,3,102,6,113,15,110,19,100,11,75,8,54,10,43,15,40,20,46,28"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#a49b71fe9a87e57a440e07af4a869a9f6" title="Prints to all appropriate console targets." alt="" coords="404,29,493,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,31,192,27,274,24,356,27,391,31,390,36,356,33,274,29,192,33,145,36"/>
+<area shape="rect" id="Node001308" href="$sys__shared_8c.html#a7d5fb719236d753c6487958a306b51c6" title=" " alt="" coords="192,67,356,92"/>
+<area shape="poly" id="edge4_Node000001_Node001308" title=" " alt="" coords="144,52,193,61,192,67,143,57"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="420,31,414,21,417,11,429,5,449,3,473,6,483,15,479,19,470,11,449,8,430,10,421,15,419,20,424,28"/>
+<area shape="poly" id="edge5_Node001308_Node000002" title=" " alt="" coords="333,64,390,52,391,57,335,69"/>
+<area shape="poly" id="edge6_Node001308_Node001308" title=" " alt="" coords="245,68,239,58,242,49,254,42,274,40,298,44,308,52,304,56,296,48,274,45,256,47,246,52,244,58,250,65"/>
+</map>

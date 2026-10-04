@@ -1,0 +1,10 @@
+<map id="R_CanSeeBox" name="R_CanSeeBox">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,117,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="27,68,20,58,24,48,38,42,61,40,90,44,102,53,98,57,88,49,61,45,39,47,27,52,25,58,31,65"/>
+<area shape="rect" id="Node000002" href="$cl__collision_8c.html#afaf23d22697d0f04fa66b5ee89b6157d" title=" " alt="" coords="165,29,375,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,67,185,54,186,60,118,72"/>
+<area shape="rect" id="Node000249" href="$cl__collision_8c.html#a3844376c9cc74935d902373d216acc75" title=" " alt="" coords="217,103,323,128"/>
+<area shape="poly" id="edge3_Node000001_Node000249" title=" " alt="" coords="118,86,203,101,203,106,117,92"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="236,31,229,21,232,11,247,5,270,3,299,6,310,15,307,20,297,11,270,8,248,10,236,15,234,20,240,28"/>
+<area shape="poly" id="edge4_Node000249_Node000249" title=" " alt="" coords="236,104,229,94,232,84,247,78,270,76,299,80,310,89,307,93,297,85,270,81,248,83,236,88,234,94,240,101"/>
+</map>

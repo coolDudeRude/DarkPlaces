@@ -1,0 +1,10 @@
+<map id="VM_CL_R_ClearScene" name="VM_CL_R_ClearScene">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,78,168,103"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="51,80,44,70,48,60,62,54,87,51,117,55,129,64,125,68,115,60,87,57,64,59,51,64,49,69,55,76"/>
+<area shape="rect" id="Node000002" href="$cl__main_8c.html#ae427d810d8aaba2afb4c2aa214a0e1fa" title=" " alt="" coords="216,29,391,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,75,202,66,203,71,154,81"/>
+<area shape="rect" id="Node000005" href="$clvm__cmds_8c.html#ade858d01aac535562d5a396ffffd9e54" title=" " alt="" coords="225,118,381,143"/>
+<area shape="poly" id="edge3_Node000001_Node000005" title=" " alt="" coords="157,101,221,113,220,118,156,106"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="263,30,260,20,267,10,281,5,303,3,329,6,342,13,340,18,327,11,303,8,283,10,270,15,266,21,268,28"/>
+<area shape="poly" id="edge4_Node000005_Node000005" title=" " alt="" coords="268,120,260,110,264,100,279,94,303,91,333,95,345,104,342,108,331,100,303,97,280,99,268,104,266,109,272,116"/>
+</map>

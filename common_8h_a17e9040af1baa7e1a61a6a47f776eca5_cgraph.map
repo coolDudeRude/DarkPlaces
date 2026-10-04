@@ -1,0 +1,7 @@
+<map id="dpvsnprintf" name="dpvsnprintf">
+<area shape="rect" id="Node000001" title="Returns the number of printed characters, excluding the final &#39;\0&#39; or returns &#45;1 if the buffer isn&#39;t ..." alt="" coords="5,29,101,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="30,30,25,21,28,11,37,5,53,3,72,6,80,14,76,18,69,11,53,8,39,10,32,15,31,20,35,28"/>
+<area shape="rect" id="Node000002" href="$sys__shared_8c.html#a277828e69bb595765f2e8fbd5e5eeb7c" title="(may) output text to terminal which launched program is POSIX async&#45;signal&#45;safe textlen excludes any ..." alt="" coords="149,29,232,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="101,39,136,39,136,45,101,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="167,30,163,21,165,11,175,5,191,3,209,6,218,14,214,18,207,11,191,8,177,10,169,15,168,20,172,28"/>
+</map>

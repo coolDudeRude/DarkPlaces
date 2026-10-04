@@ -1,0 +1,16 @@
+<map id="CL_LinkEdict" name="CL_LinkEdict">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,140,109,165"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="28,141,21,132,25,122,37,116,57,113,82,117,92,126,89,130,80,122,57,119,38,121,29,125,27,131,32,138"/>
+<area shape="rect" id="Node000002" href="$cl__collision_8c.html#ae90c4b3c44dc920dd1786bf25f5dae57" title=" " alt="" coords="157,29,319,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="68,138,105,101,156,64,170,57,172,62,159,68,108,105,72,141"/>
+<area shape="rect" id="Node000003" href="$console_8c.html#a2696300802453d9333e9f52e5fae15bc" title="A Con_Printf that only shows up if the &quot;developer&quot; cvar is set." alt="" coords="189,103,287,128"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="109,139,174,126,175,131,110,145"/>
+<area shape="rect" id="Node000016" href="$console_8c.html#a49b71fe9a87e57a440e07af4a869a9f6" title="Prints to all appropriate console targets." alt="" coords="193,176,283,201"/>
+<area shape="poly" id="edge6_Node000001_Node000016" title=" " alt="" coords="110,160,180,174,179,180,109,166"/>
+<area shape="rect" id="Node001234" href="$world_8c.html#ade035adcf665e21698b17337bb024848" title=" " alt="" coords="175,249,301,275"/>
+<area shape="poly" id="edge8_Node000001_Node001234" title=" " alt="" coords="81,163,206,240,203,245,78,168"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="208,31,202,21,205,11,218,5,238,3,263,6,273,15,269,19,260,11,238,8,219,10,209,15,207,20,213,28"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="208,104,202,94,205,85,218,78,238,76,263,80,273,88,269,92,260,84,238,81,219,83,209,88,207,94,213,101"/>
+<area shape="poly" id="edge7_Node000016_Node000016" title=" " alt="" coords="208,177,202,168,205,158,218,152,238,149,263,153,273,162,269,166,260,158,238,155,219,157,209,161,207,167,213,174"/>
+<area shape="poly" id="edge9_Node001234_Node001234" title=" " alt="" coords="208,251,202,241,205,231,218,225,238,223,263,226,273,235,269,239,260,231,238,228,219,230,209,235,207,240,213,248"/>
+</map>

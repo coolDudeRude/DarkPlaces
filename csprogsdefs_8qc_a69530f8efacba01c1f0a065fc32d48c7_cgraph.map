@@ -1,0 +1,10 @@
+<map id="float" name="float">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,56,80"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#ae2ab19f6497321ea0345ed9b0e35bbe7" title=" " alt="" coords="104,29,219,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="56,60,90,53,91,58,57,65"/>
+<area shape="rect" id="Node000003" href="$csprogsdefs_8qc.html#a4f0b78b1785821ba47129edb68e70f9e" title=" " alt="" coords="267,55,329,80"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="56,65,253,65,253,70,56,70"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="139,30,134,21,137,11,146,5,161,3,179,6,187,14,183,18,177,11,161,8,148,10,141,14,140,20,144,28"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="219,50,254,56,253,62,218,55"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="275,56,270,46,272,37,282,30,298,28,317,31,325,40,321,43,314,36,298,33,284,35,277,40,275,46,279,53"/>
+</map>

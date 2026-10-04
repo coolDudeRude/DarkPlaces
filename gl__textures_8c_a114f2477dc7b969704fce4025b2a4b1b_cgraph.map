@@ -1,0 +1,11 @@
+<map id="R_FreeTexturePool" name="R_FreeTexturePool">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,148,55"/>
+<area shape="poly" id="edge6_Node000001_Node000001" title=" " alt="" coords="47,31,41,21,44,11,57,5,77,3,101,6,111,15,108,19,99,11,77,8,58,10,48,15,46,20,52,28"/>
+<area shape="rect" id="Node000002" href="$host_8c.html#a6207a721d43b13be42aa21a2bb4d3350" title=" " alt="" coords="359,29,449,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,31,196,27,253,25,311,27,345,31,345,36,310,33,253,30,196,33,149,36"/>
+<area shape="rect" id="Node000254" href="$gl__textures_8c.html#ab79bf8e042a462735d6d70f02822d98d" title=" " alt="" coords="196,67,311,92"/>
+<area shape="poly" id="edge3_Node000001_Node000254" title=" " alt="" coords="138,52,183,62,182,67,137,57"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="379,31,373,21,376,11,387,5,404,3,425,6,434,15,430,19,422,11,404,8,389,10,380,15,379,20,383,28"/>
+<area shape="poly" id="edge4_Node000254_Node000002" title=" " alt="" coords="305,64,345,54,346,59,306,69"/>
+<area shape="poly" id="edge5_Node000254_Node000254" title=" " alt="" coords="228,68,223,58,226,49,236,42,253,40,274,44,283,52,279,56,271,48,253,45,238,47,230,52,228,58,233,65"/>
+</map>

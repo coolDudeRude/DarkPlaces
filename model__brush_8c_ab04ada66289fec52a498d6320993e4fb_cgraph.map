@@ -1,0 +1,16 @@
+<map id="Mod_Q1BSP_ParseWadsFromEntityLump" name="Mod_Q1BSP_ParseWadsFromEntityLump">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,140,289,165"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="102,142,92,132,98,122,116,115,147,113,188,118,199,123,202,129,197,131,195,127,187,123,147,119,117,121,101,126,98,131,106,138"/>
+<area shape="rect" id="Node000002" href="$common_8c.html#acc99aea15e3d929ef5cfac822ee7040d" title=" " alt="" coords="337,29,521,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,137,245,102,336,63,360,56,361,61,338,69,247,107,174,142"/>
+<area shape="rect" id="Node000003" href="$common_8c.html#ae36050083f45e395189fee6aa45fbb0c" title="Returns the number of printed characters, excluding the final &#39;\0&#39; or returns &#45;1 if the buffer isn&#39;t ..." alt="" coords="385,103,473,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="243,137,371,120,372,125,244,143"/>
+<area shape="rect" id="Node000006" href="$menudefs_8qc.html#a274680f571a231ddf29421b93d434bfa" title=" " alt="" coords="400,176,459,201"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="247,163,387,181,386,186,247,168"/>
+<area shape="rect" id="Node000007" href="$wad_8c.html#a8f032cc4e1b0648f7e1b7e62473e7c17" title=" " alt="" coords="343,249,515,275"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="182,163,384,242,382,247,180,168"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="384,31,374,21,380,11,398,5,429,3,470,7,481,12,484,18,479,21,477,16,469,12,429,8,399,10,383,15,380,20,388,27"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="384,104,374,94,380,84,398,78,429,76,470,80,481,85,484,92,479,94,477,89,469,85,429,81,399,83,383,88,380,94,388,101"/>
+<area shape="poly" id="edge7_Node000006_Node000006" title=" " alt="" coords="399,184,378,174,374,167,376,160,394,152,429,149,461,152,480,158,484,168,473,178,470,174,479,167,476,162,460,157,429,155,395,157,380,164,380,166,382,170,401,179"/>
+<area shape="poly" id="edge9_Node000007_Node000007" title=" " alt="" coords="384,251,374,241,380,231,398,225,429,223,470,227,481,232,484,238,479,241,477,236,469,232,429,228,399,230,383,235,380,240,388,247"/>
+</map>

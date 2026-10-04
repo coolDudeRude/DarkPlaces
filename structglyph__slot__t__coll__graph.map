@@ -1,0 +1,7 @@
+<map id="glyph_slot_t" name="glyph_slot_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="20,301,121,327"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,56,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="27,45,19,90,14,149,17,214,24,246,34,276,43,289,54,299,51,303,39,292,30,279,19,247,12,215,8,149,14,89,22,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="85,5,136,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="112,44,103,147,84,278,77,302,72,300,79,277,98,146,107,44"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="R_Mod_DrawAddWaterPlanes" name="R_Mod_DrawAddWaterPlanes">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,219,55"/>
+<area shape="rect" id="Node000002" href="$gl__rsurf_8c.html#aab6edde929aa09b6f2ba17cd469f97ac" title=" " alt="" coords="267,29,480,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,39,253,39,253,45,219,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="331,31,322,21,327,11,344,5,373,3,411,7,421,12,425,18,420,20,417,16,409,12,373,8,345,10,330,15,327,20,335,27"/>
+</map>

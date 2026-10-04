@@ -1,0 +1,7 @@
+<map id="pcx_t" name="pcx_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="66,261,123,287"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,56,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="26,44,18,84,13,134,16,187,23,212,34,236,48,251,67,261,64,266,45,255,30,239,18,214,11,188,7,133,12,83,21,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="119,5,201,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="164,44,165,83,162,133,152,187,133,239,112,263,108,260,128,236,147,185,156,132,159,83,159,44"/>
+</map>

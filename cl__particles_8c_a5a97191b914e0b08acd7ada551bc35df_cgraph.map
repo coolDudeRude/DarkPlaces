@@ -1,0 +1,11 @@
+<map id="CL_ParticleExplosion2" name="CL_ParticleExplosion2">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,169,55"/>
+<area shape="poly" id="edge6_Node000001_Node000001" title=" " alt="" coords="53,31,45,21,49,11,64,5,87,3,117,6,128,15,125,20,115,11,87,8,65,10,53,15,51,20,57,28"/>
+<area shape="rect" id="Node000002" href="$cl__particles_8c.html#a184c475c75758d6c027a244e337e7dbe" title="Creates a new particle and returns a pointer to it." alt="" coords="428,29,551,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,31,217,27,299,25,380,27,414,30,414,35,380,33,299,30,217,33,170,36"/>
+<area shape="rect" id="Node001012" href="$cl__particles_8c.html#a779af911ae013b8586e51a369ad906ed" title="Creates a simple particle, a square like Quake, or a disc like GLQuake." alt="" coords="217,67,380,92"/>
+<area shape="poly" id="edge3_Node000001_Node001012" title=" " alt="" coords="160,52,214,62,213,67,159,57"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="458,31,451,21,455,11,468,5,489,3,515,6,526,15,523,19,513,11,489,8,469,10,459,15,457,20,462,28"/>
+<area shape="poly" id="edge4_Node001012_Node000002" title=" " alt="" coords="364,64,414,54,415,59,365,69"/>
+<area shape="poly" id="edge5_Node001012_Node001012" title=" " alt="" coords="267,68,261,58,264,48,277,42,299,40,325,44,336,52,332,56,323,48,299,45,279,47,268,52,266,58,272,65"/>
+</map>

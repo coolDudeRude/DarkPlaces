@@ -1,0 +1,20 @@
+<map id="xmp_module" name="xmp_module">
+<area shape="rect" id="Node000001" title=" " alt="" coords="400,403,507,428"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="191,5,241,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,22,283,31,308,48,346,92,376,141,401,193,420,245,444,340,453,402,448,403,438,341,415,247,396,195,372,143,342,95,305,52,281,36,254,27"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,307,44,332"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="55,298,67,294,84,292,101,294,181,293,245,290,276,293,307,299,340,312,377,332,399,348,418,366,445,401,441,404,414,370,395,352,375,336,338,317,305,304,275,298,245,296,181,298,101,299,85,298,69,299,57,303"/>
+<area shape="rect" id="Node000008" href="$structxmp__channel.html" title=" " alt="" coords="161,327,271,352"/>
+<area shape="poly" id="edge8_Node000008_Node000003" title=" " alt="" coords="46,340,69,357,85,359,108,358,161,349,162,355,108,364,85,365,67,362,43,345"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="134,376,298,401"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="312,397,400,407,399,412,311,402"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="141,429,291,455"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="305,438,376,431,406,425,407,431,376,437,305,443"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="125,483,307,508"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="320,481,375,465,409,446,436,426,439,430,411,451,377,470,321,486"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="137,536,295,561"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="308,533,343,522,375,506,397,488,416,467,443,427,447,430,420,470,401,492,377,511,345,527,310,539"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="285,347,331,357,377,372,433,400,431,405,375,376,329,362,284,352"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="175,589,257,615"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="269,595,323,583,350,571,374,556,403,525,424,489,446,427,451,429,428,492,407,529,378,560,353,576,325,588,271,601"/>
+</map>

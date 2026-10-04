@@ -1,0 +1,7 @@
+<map id="CL_MeshEntities_Scene_Clear" name="CL_MeshEntities_Scene_Clear">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,180,69"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="54,30,52,20,58,11,72,5,93,3,116,6,129,13,127,18,115,11,93,8,73,10,62,15,57,21,60,28"/>
+<area shape="rect" id="Node000002" href="$model__shared_8c.html#a191e480db71fa680ca320583e42060bb" title=" " alt="" coords="228,37,364,62"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="180,47,214,47,214,52,180,52"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="263,38,256,28,259,18,273,12,296,10,324,14,336,23,332,27,322,19,296,15,274,17,263,22,261,28,267,35"/>
+</map>

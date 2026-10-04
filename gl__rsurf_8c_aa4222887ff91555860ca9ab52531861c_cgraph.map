@@ -1,0 +1,25 @@
+<map id="R_Mod_DrawShadowMap" name="R_Mod_DrawShadowMap">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,249,192,275"/>
+<area shape="poly" id="edge11_Node000001_Node000001" title=" " alt="" coords="59,251,51,241,55,231,72,225,99,223,133,227,143,231,146,237,142,240,139,235,132,232,99,228,73,230,59,235,56,240,63,247"/>
+<area shape="rect" id="Node000002" href="$gl__backend_8c.html#a28f12ab6551743428797e62bf183ebde" title=" " alt="" coords="293,29,393,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,248,120,211,149,161,189,108,212,84,239,64,258,54,279,47,281,52,260,58,241,68,216,88,193,112,153,164,125,214,108,250"/>
+<area shape="rect" id="Node000003" href="$gl__rmain_8c.html#a13b4f59e3ee0aaddd39baf188b714b08" title="discard recent memory allocations (rewind to marker)" alt="" coords="240,103,447,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="109,247,161,193,198,163,239,137,255,130,257,135,241,142,201,167,164,197,113,251"/>
+<area shape="rect" id="Node000004" href="$gl__rmain_8c.html#a01cb2adf1d532722b7b349786a3d55f3" title="set a marker that allows you to discard the following temporary memory allocations" alt="" coords="258,176,429,201"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="132,247,239,210,269,202,271,207,241,215,134,252"/>
+<area shape="rect" id="Node000005" href="$gl__rmain_8c.html#a88863163d382dd39104c8cf484b9a890" title=" " alt="" coords="265,249,422,275"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="192,259,251,259,251,265,192,265"/>
+<area shape="rect" id="Node000392" href="$gl__backend_8c.html#a160faabf0f2b8616f192c5d3046ac477" title=" " alt="" coords="252,323,435,363"/>
+<area shape="poly" id="edge9_Node000001_Node000392" title=" " alt="" coords="139,272,270,316,268,321,137,277"/>
+<area shape="rect" id="Node000379" href="$gl__rmain_8c.html#a3d9e4102d980a25f2241b1801076ee19" title=" " alt="" coords="276,412,411,437"/>
+<area shape="poly" id="edge12_Node000001_Node000379" title=" " alt="" coords="115,273,169,319,241,373,300,404,298,409,239,378,165,324,112,277"/>
+<area shape="rect" id="Node000338" href="$gl__rmain_8c.html#a0ca297a89eef7f0e1dcf0c12676700da" title=" " alt="" coords="250,486,437,526"/>
+<area shape="poly" id="edge14_Node000001_Node000338" title=" " alt="" coords="109,273,159,352,197,401,242,447,287,477,284,482,238,451,193,405,155,355,105,276"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="304,31,295,21,300,11,316,5,343,3,378,7,387,11,391,17,387,20,384,15,376,12,343,8,317,10,303,15,301,20,308,27"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="304,104,295,94,300,84,316,78,343,76,378,80,387,85,391,90,387,93,384,89,376,85,343,81,317,83,303,88,301,94,308,101"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="304,178,295,168,300,158,316,152,343,149,378,153,387,158,391,164,387,167,384,162,376,158,343,155,317,157,303,162,301,167,308,174"/>
+<area shape="poly" id="edge8_Node000005_Node000005" title=" " alt="" coords="304,251,295,241,300,231,316,225,343,223,378,227,387,231,391,237,387,240,384,235,376,232,343,228,317,230,303,235,301,240,308,247"/>
+<area shape="poly" id="edge10_Node000392_Node000392" title=" " alt="" coords="298,324,295,314,303,304,319,299,343,297,372,300,387,307,385,312,370,305,343,302,320,304,306,309,301,315,303,322"/>
+<area shape="poly" id="edge13_Node000379_Node000379" title=" " alt="" coords="304,414,295,404,300,394,316,388,343,385,378,389,387,394,391,400,387,403,384,398,376,394,343,391,317,393,303,398,301,403,308,410"/>
+<area shape="poly" id="edge15_Node000338_Node000338" title=" " alt="" coords="298,486,295,476,303,467,319,461,343,459,372,462,387,469,385,474,370,467,343,465,320,467,306,471,301,477,303,485"/>
+</map>

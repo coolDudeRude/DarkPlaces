@@ -1,0 +1,13 @@
+<map id="R_Textures_Frame" name="R_Textures_Frame">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,147,128"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="44,104,37,94,41,84,54,78,76,76,103,80,114,88,111,93,101,84,76,81,55,83,44,88,42,94,48,101"/>
+<area shape="rect" id="Node000002" href="$cvar_8c.html#a65b55ce35a5bd18e379065651d5d6e15" title=" " alt="" coords="195,29,348,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,100,194,64,214,56,216,61,196,68,107,105"/>
+<area shape="rect" id="Node000132" href="$gl__backend_8c.html#a0b2dead0877ad8931b2887e1db6d8e1b" title=" " alt="" coords="204,103,339,128"/>
+<area shape="poly" id="edge3_Node000001_Node000132" title=" " alt="" coords="147,113,190,113,190,118,147,118"/>
+<area shape="rect" id="Node000215" href="$gl__backend_8c.html#a47892b50a3a14b0aac522099722d6092" title=" " alt="" coords="200,176,343,201"/>
+<area shape="poly" id="edge5_Node000001_Node000215" title=" " alt="" coords="112,126,224,168,223,173,110,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="239,31,232,21,236,11,249,5,271,3,298,6,309,15,306,19,296,11,271,8,251,10,240,15,238,20,243,28"/>
+<area shape="poly" id="edge4_Node000132_Node000132" title=" " alt="" coords="239,104,232,94,236,84,249,78,271,76,298,80,309,88,306,93,296,84,271,81,251,83,240,88,238,94,243,101"/>
+<area shape="poly" id="edge6_Node000215_Node000215" title=" " alt="" coords="239,177,232,168,236,158,249,152,271,149,298,153,309,162,306,166,296,158,271,155,251,157,240,161,238,167,243,174"/>
+</map>

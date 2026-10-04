@@ -1,0 +1,7 @@
+<map id="plane_t" name="plane_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="437,101,507,127"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,504,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="251,44,252,61,258,76,269,84,287,91,334,101,436,109,436,115,334,107,285,96,267,89,254,79,246,62,246,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="653,5,728,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="686,45,677,63,663,79,635,92,594,101,508,112,507,107,593,96,633,87,660,75,673,60,682,42"/>
+</map>

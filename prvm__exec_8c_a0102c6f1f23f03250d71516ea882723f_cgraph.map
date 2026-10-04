@@ -1,0 +1,10 @@
+<map id="PRVM_StatementCoverageEvent" name="PRVM_StatementCoverageEvent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,240,92"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="85,68,77,58,81,48,97,42,123,40,155,44,168,53,164,58,153,49,123,45,98,47,85,52,82,58,89,65"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#a49b71fe9a87e57a440e07af4a869a9f6" title="Prints to all appropriate console targets." alt="" coords="311,29,400,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,64,297,49,298,54,203,69"/>
+<area shape="rect" id="Node000512" href="$prvm__exec_8c.html#a3f7c0a4f0ba7384208793cf4becbbcbb" title=" " alt="" coords="288,103,423,128"/>
+<area shape="poly" id="edge4_Node000001_Node000512" title=" " alt="" coords="206,89,274,100,274,105,205,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="318,31,309,21,314,11,329,5,355,3,388,7,400,16,397,20,386,11,355,8,330,10,317,15,315,20,322,27"/>
+<area shape="poly" id="edge5_Node000512_Node000512" title=" " alt="" coords="318,104,309,94,314,84,329,78,355,76,388,80,400,89,397,94,386,85,355,81,330,83,317,88,315,94,322,101"/>
+</map>

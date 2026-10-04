@@ -1,0 +1,10 @@
+<map id="VM_CL_te_plasmaburn" name="VM_CL_te_plasmaburn">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,176,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="54,68,46,58,50,48,66,42,91,40,122,44,134,53,131,57,120,49,91,45,67,47,54,52,51,58,58,65"/>
+<area shape="rect" id="Node000002" href="$cl__collision_8c.html#ac7dbc515a87649cf46e59ac91ba1803f" title=" " alt="" coords="224,29,409,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,64,225,54,226,60,169,69"/>
+<area shape="rect" id="Node000003" href="$cl__particles_8c.html#a16fed15808e5743d5e8c36915eb80452" title=" " alt="" coords="251,103,382,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="171,89,238,100,238,106,170,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="280,31,272,21,276,11,292,5,317,3,348,7,360,16,357,20,346,11,317,8,293,10,280,15,277,20,284,27"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="280,104,272,94,276,84,292,78,317,76,348,80,360,89,357,93,346,85,317,81,293,83,280,88,277,94,284,101"/>
+</map>

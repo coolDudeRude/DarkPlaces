@@ -1,0 +1,16 @@
+<map id="R_UpdateTexture" name="R_UpdateTexture">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,140,139,165"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="39,141,32,132,36,122,49,116,72,113,100,117,111,126,108,130,98,122,72,119,51,121,40,125,37,131,43,138"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#a2696300802453d9333e9f52e5fae15bc" title="A Con_Printf that only shows up if the &quot;developer&quot; cvar is set." alt="" coords="224,29,323,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,138,128,101,185,64,210,54,212,59,188,68,131,105,89,142"/>
+<area shape="rect" id="Node000072" href="$host_8c.html#a6207a721d43b13be42aa21a2bb4d3350" title=" " alt="" coords="228,103,319,128"/>
+<area shape="poly" id="edge3_Node000001_Node000072" title=" " alt="" coords="138,138,214,124,215,129,139,143"/>
+<area shape="rect" id="Node000214" href="$gl__textures_8c.html#ad94936028216d33162edc80fe5145eb7" title=" " alt="" coords="196,176,351,201"/>
+<area shape="poly" id="edge6_Node000001_Node000214" title=" " alt="" coords="139,162,189,171,188,176,138,167"/>
+<area shape="rect" id="Node001349" href="$gl__textures_8c.html#a22649d292f9daa6aac55492cdfae2639" title=" " alt="" coords="187,249,360,275"/>
+<area shape="poly" id="edge8_Node000001_Node001349" title=" " alt="" coords="98,163,238,240,235,245,95,168"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="240,31,233,21,237,11,251,5,273,3,301,6,312,16,309,20,299,11,273,8,252,10,241,15,239,20,245,28"/>
+<area shape="poly" id="edge4_Node000072_Node000072" title=" " alt="" coords="240,104,233,94,237,84,251,78,273,76,301,80,312,89,309,93,299,85,273,81,252,83,241,88,239,94,245,101"/>
+<area shape="poly" id="edge7_Node000214_Node000214" title=" " alt="" coords="240,177,233,168,237,158,251,152,273,149,301,153,312,162,309,166,299,158,273,155,252,157,241,161,239,167,245,174"/>
+<area shape="poly" id="edge9_Node001349_Node001349" title=" " alt="" coords="240,251,233,241,237,231,251,225,273,223,301,226,312,236,309,240,299,231,273,228,252,230,241,235,239,240,245,248"/>
+</map>

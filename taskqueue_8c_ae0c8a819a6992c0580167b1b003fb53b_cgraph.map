@@ -1,0 +1,7 @@
+<map id="TaskQueue_DistributeTasks" name="TaskQueue_DistributeTasks">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,205,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="67,31,58,21,63,11,79,5,105,3,139,7,151,16,148,20,137,11,105,8,80,10,66,15,64,20,71,27"/>
+<area shape="rect" id="Node000002" href="$taskqueue_8c.html#ad69881c9f26ac8406d39efecfe279c61" title=" " alt="" coords="253,29,433,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="205,39,240,39,240,45,205,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="305,31,296,21,301,11,317,5,343,3,377,7,389,16,386,20,375,11,343,8,318,10,304,15,302,20,309,27"/>
+</map>

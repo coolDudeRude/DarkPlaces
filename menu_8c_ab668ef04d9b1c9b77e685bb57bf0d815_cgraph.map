@@ -1,0 +1,18 @@
+<map id="M_Transfusion_Skill_Key" name="M_Transfusion_Skill_Key">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,121,187,147"/>
+<area shape="poly" id="edge9_Node000001_Node000001" title=" " alt="" coords="61,123,53,113,57,103,72,97,96,95,126,98,138,107,135,112,124,103,96,100,73,102,61,107,58,112,65,120"/>
+<area shape="rect" id="Node000002" href="$cmd_8c.html#a5c3911da1bff8f0bebb1fcaf6b4c78c6" title=" " alt="" coords="259,29,369,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,119,234,72,268,57,270,62,236,76,127,124"/>
+<area shape="rect" id="Node000007" href="$menudefs_8qc.html#a977f9318008de123876b168dfa86ad22" title=" " alt="" coords="441,80,492,105"/>
+<area shape="poly" id="edge5_Node000001_Node000007" title=" " alt="" coords="186,121,234,115,427,94,428,99,235,121,187,126"/>
+<area shape="rect" id="Node001351" href="$menu_8c.html#a33116284e389d7b040b6712eeacf48f9" title=" " alt="" coords="235,154,393,194"/>
+<area shape="poly" id="edge6_Node000001_Node001351" title=" " alt="" coords="167,144,222,154,221,160,166,149"/>
+<area shape="rect" id="Node001348" href="$snd__main_8c.html#a4d633abdbed318fd5b12833e0ca6cbcf" title=" " alt="" coords="259,243,369,268"/>
+<area shape="poly" id="edge10_Node000001_Node001348" title=" " alt="" coords="121,144,279,233,277,238,119,149"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="288,31,283,21,286,11,296,5,314,3,335,6,344,15,340,19,333,11,314,8,298,10,290,15,288,20,293,28"/>
+<area shape="poly" id="edge3_Node000002_Node000007" title=" " alt="" coords="354,52,429,77,427,83,352,57"/>
+<area shape="poly" id="edge4_Node000007_Node000007" title=" " alt="" coords="441,81,436,72,438,62,449,56,467,53,488,57,497,65,493,69,485,62,467,59,451,61,443,65,441,71,446,79"/>
+<area shape="poly" id="edge7_Node001351_Node000007" title=" " alt="" coords="351,152,428,110,431,114,354,156"/>
+<area shape="poly" id="edge8_Node001351_Node001351" title=" " alt="" coords="285,154,283,144,288,135,298,129,314,127,332,130,342,138,339,142,330,135,314,133,300,135,291,139,288,145,290,153"/>
+<area shape="poly" id="edge11_Node001348_Node001348" title=" " alt="" coords="288,244,283,234,286,225,296,218,314,216,335,219,344,228,340,232,333,224,314,221,298,223,290,228,288,234,293,241"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="LoadPCX_BGRA" name="LoadPCX_BGRA">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,128,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="41,68,36,58,38,49,49,42,67,40,88,43,97,52,93,56,85,48,67,45,51,47,43,52,41,58,46,65"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#a1cf9711475097b11dc41f743254ec77e" title="Prints to all appropriate console targets, and adds timestamps." alt="" coords="179,29,263,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,64,165,53,166,58,120,69"/>
+<area shape="rect" id="Node000014" href="$console_8c.html#a49b71fe9a87e57a440e07af4a869a9f6" title="Prints to all appropriate console targets." alt="" coords="176,103,265,128"/>
+<area shape="poly" id="edge3_Node000001_Node000014" title=" " alt="" coords="122,89,163,99,162,104,121,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="195,31,190,21,192,11,203,5,221,3,242,6,251,15,247,19,239,11,221,8,205,10,197,15,195,20,200,28"/>
+<area shape="poly" id="edge4_Node000014_Node000014" title=" " alt="" coords="195,104,190,94,192,85,203,78,221,76,242,79,251,88,247,92,239,84,221,81,205,83,197,88,195,94,200,101"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="sys_wasm.c" name="sys_wasm.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="232,5,333,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,64,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,33,78,80,76,75,242,28"/>
+<area shape="rect" id="Node000003" href="$darkplaces_8h.html" title=" " alt="" coords="139,79,245,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="270,33,219,72,216,68,266,29"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="113,152,183,177"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="232,27,205,33,176,44,151,59,130,80,125,94,125,109,136,139,131,141,120,110,120,93,126,77,147,55,174,39,203,28,231,22"/>
+<area shape="rect" id="Node000029" href="$fs_8h.html" title=" " alt="" coords="211,152,258,177"/>
+<area shape="poly" id="edge5_Node000001_Node000029" title=" " alt="" coords="282,32,260,105,247,140,242,138,255,103,277,30"/>
+<area shape="rect" id="Node000038" href="$vid_8h.html" title=" " alt="" coords="321,79,375,104"/>
+<area shape="poly" id="edge6_Node000001_Node000038" title=" " alt="" coords="295,29,330,67,326,70,291,33"/>
+<area shape="rect" id="Node000039" title=" " alt="" coords="400,79,507,104"/>
+<area shape="poly" id="edge7_Node000001_Node000039" title=" " alt="" coords="311,28,414,71,412,76,309,33"/>
+<area shape="rect" id="Node000040" title=" " alt="" coords="531,79,680,104"/>
+<area shape="poly" id="edge8_Node000001_Node000040" title=" " alt="" coords="334,28,541,73,539,78,333,33"/>
+<area shape="poly" id="edge3_Node000003_Node000007" title=" " alt="" coords="187,106,165,142,160,139,182,103"/>
+<area shape="poly" id="edge4_Node000003_Node000029" title=" " alt="" coords="201,103,223,139,219,142,197,106"/>
+</map>

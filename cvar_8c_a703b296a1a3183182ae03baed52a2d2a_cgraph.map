@@ -1,0 +1,17 @@
+<map id="Cvar_Delete" name="Cvar_Delete">
+<area shape="rect" id="Node000001" title="For &quot;quiet&quot; mode pass NULL as the callername." alt="" coords="5,117,108,143"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="29,119,23,109,26,99,38,93,57,91,79,94,89,103,86,107,77,99,57,96,39,98,30,103,28,108,33,116"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#a49b71fe9a87e57a440e07af4a869a9f6" title="Prints to all appropriate console targets." alt="" coords="179,29,268,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,115,155,72,181,58,184,63,157,76,81,119"/>
+<area shape="rect" id="Node000117" href="$menudefs_8qc.html#a47b9823939aa0a157d1bede7847cb488" title=" " alt="" coords="339,117,389,143"/>
+<area shape="poly" id="edge3_Node000001_Node000117" title=" " alt="" coords="108,120,156,115,223,112,291,115,325,120,325,125,290,121,223,117,156,121,109,125"/>
+<area shape="rect" id="Node001351" href="$cvar_8c.html#aa89edf7a8965efbe92542a0015656e38" title="Returns a pointer to the pointer stored in hashtable[] (or the one it links to) because we&#39;ll need to..." alt="" coords="156,155,291,180"/>
+<area shape="poly" id="edge6_Node000001_Node001351" title=" " alt="" coords="109,139,153,149,152,154,108,144"/>
+<area shape="rect" id="Node001352" href="$cvar_8c.html#ac66b687ac0a79474d30224b6db47ff09" title="Check if a cvar is held by some progs in which case its name is returned, otherwise NULL." alt="" coords="158,228,289,253"/>
+<area shape="poly" id="edge9_Node000001_Node001352" title=" " alt="" coords="78,140,193,218,190,222,75,145"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="200,30,195,21,197,11,207,5,223,3,243,6,251,15,247,18,240,11,223,8,209,10,202,15,200,20,204,28"/>
+<area shape="poly" id="edge4_Node000117_Node000117" title=" " alt="" coords="340,118,335,109,338,99,348,93,364,91,383,94,392,103,388,106,381,99,364,96,350,98,342,103,341,108,345,116"/>
+<area shape="poly" id="edge7_Node001351_Node000117" title=" " alt="" coords="271,152,325,137,326,143,272,157"/>
+<area shape="poly" id="edge8_Node001351_Node001351" title=" " alt="" coords="200,156,195,146,197,137,207,130,223,128,243,132,251,140,247,144,240,136,223,133,209,135,202,140,200,146,204,153"/>
+<area shape="poly" id="edge10_Node001352_Node001352" title=" " alt="" coords="200,229,195,220,197,210,207,204,223,201,243,205,251,213,247,217,240,210,223,207,209,209,202,213,200,219,204,227"/>
+</map>

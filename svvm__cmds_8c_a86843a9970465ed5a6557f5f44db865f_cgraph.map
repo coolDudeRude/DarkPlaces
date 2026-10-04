@@ -1,0 +1,13 @@
+<map id="VM_SV_clientcommand" name="VM_SV_clientcommand">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,180,128"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="59,104,51,94,55,84,69,78,93,76,122,80,133,89,130,93,120,85,93,81,71,83,59,88,56,94,63,101"/>
+<area shape="rect" id="Node000002" href="$cmd_8c.html#a9d082d072369cd9483d5017a1909251f" title="Parses a single line of text into arguments and tries to execute it." alt="" coords="228,29,376,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,100,227,63,247,57,249,62,229,69,128,105"/>
+<area shape="rect" id="Node000024" href="$console_8c.html#a1cf9711475097b11dc41f743254ec77e" title="Prints to all appropriate console targets, and adds timestamps." alt="" coords="260,103,344,128"/>
+<area shape="poly" id="edge3_Node000001_Node000024" title=" " alt="" coords="180,113,246,113,246,118,180,118"/>
+<area shape="rect" id="Node000038" href="$menudefs_8qc.html#a274680f571a231ddf29421b93d434bfa" title=" " alt="" coords="273,176,331,201"/>
+<area shape="poly" id="edge5_Node000001_Node000038" title=" " alt="" coords="131,126,261,172,259,177,129,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="268,31,261,21,264,11,279,5,302,3,331,6,342,15,339,20,329,11,302,8,280,10,268,15,266,20,272,28"/>
+<area shape="poly" id="edge4_Node000024_Node000024" title=" " alt="" coords="268,104,261,94,264,84,279,78,302,76,331,80,342,89,339,93,329,85,302,81,280,83,268,88,266,94,272,101"/>
+<area shape="poly" id="edge6_Node000038_Node000038" title=" " alt="" coords="270,179,261,169,264,159,278,152,302,149,333,154,342,160,343,167,338,168,337,163,332,159,302,155,279,157,268,162,266,168,274,176"/>
+</map>

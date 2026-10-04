@@ -1,0 +1,10 @@
+<map id="EntityFrame_AddFrame_Client" name="EntityFrame_AddFrame_Client">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,59,180,99"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="48,60,46,50,53,40,69,35,93,33,120,36,135,43,133,48,119,41,93,38,70,40,56,45,51,51,54,58"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#a1cf9711475097b11dc41f743254ec77e" title="Prints to all appropriate console targets, and adds timestamps." alt="" coords="288,29,372,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,63,274,48,275,53,180,68"/>
+<area shape="rect" id="Node001349" href="$com__ents_8c.html#ac9e8376b1255ca5df337bd2a6b0dd8a1" title=" " alt="" coords="228,103,432,128"/>
+<area shape="poly" id="edge4_Node000001_Node001349" title=" " alt="" coords="180,90,232,98,232,103,180,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="291,31,283,21,287,11,303,5,330,3,363,7,376,16,373,20,361,11,330,8,305,10,291,15,288,20,295,27"/>
+<area shape="poly" id="edge5_Node001349_Node001349" title=" " alt="" coords="291,104,283,94,287,84,303,78,330,76,363,80,376,89,373,94,361,85,330,81,305,83,291,88,288,94,295,101"/>
+</map>

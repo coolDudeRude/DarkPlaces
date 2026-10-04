@@ -1,0 +1,13 @@
+<map id="R_TextureStats_Print" name="R_TextureStats_Print">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,161,128"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="50,104,43,94,47,84,60,78,83,76,112,80,123,89,119,93,109,85,83,81,62,83,50,88,48,94,54,101"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#a1cf9711475097b11dc41f743254ec77e" title="Prints to all appropriate console targets, and adds timestamps." alt="" coords="246,29,330,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,100,208,63,232,56,234,61,210,69,116,105"/>
+<area shape="rect" id="Node000014" href="$console_8c.html#a49b71fe9a87e57a440e07af4a869a9f6" title="Prints to all appropriate console targets." alt="" coords="243,103,333,128"/>
+<area shape="poly" id="edge3_Node000001_Node000014" title=" " alt="" coords="162,113,230,113,230,118,162,118"/>
+<area shape="rect" id="Node001351" href="$gl__textures_8c.html#ade01b6f3cf881f656a96be9c90571740" title=" " alt="" coords="209,176,367,201"/>
+<area shape="poly" id="edge5_Node000001_Node001351" title=" " alt="" coords="121,126,240,169,238,174,119,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="255,31,248,21,251,11,265,5,288,3,316,6,328,16,324,20,314,11,288,8,266,10,255,15,253,20,259,28"/>
+<area shape="poly" id="edge4_Node000014_Node000014" title=" " alt="" coords="255,104,248,94,251,84,265,78,288,76,316,80,328,89,324,93,314,85,288,81,266,83,255,88,253,94,259,101"/>
+<area shape="poly" id="edge6_Node001351_Node001351" title=" " alt="" coords="255,178,248,168,251,158,265,152,288,149,316,153,328,162,324,166,314,158,288,155,266,157,255,161,253,167,259,174"/>
+</map>

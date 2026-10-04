@@ -1,0 +1,10 @@
+<map id="S_StopAllSounds_f" name="S_StopAllSounds_f">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,148,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="46,68,40,58,43,49,56,42,77,40,102,44,113,52,109,56,100,48,77,45,57,47,47,52,45,58,50,65"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#a977f9318008de123876b168dfa86ad22" title=" " alt="" coords="236,29,287,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,64,222,47,223,52,141,69"/>
+<area shape="rect" id="Node000003" href="$snd__main_8c.html#a3b8faa2badf2d5800ebba1c18f9f464c" title=" " alt="" coords="196,103,327,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="143,89,183,97,182,103,142,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="233,33,225,23,227,12,240,5,261,3,289,7,297,13,298,20,293,21,292,16,287,12,261,8,241,10,231,15,230,21,237,29"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="231,104,224,94,228,85,240,78,261,76,287,80,297,88,294,92,285,84,261,81,242,83,232,88,230,94,235,101"/>
+</map>

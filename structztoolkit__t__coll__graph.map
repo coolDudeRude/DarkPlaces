@@ -1,0 +1,10 @@
+<map id="ztoolkit_t" name="ztoolkit_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="90,397,173,423"/>
+<area shape="rect" id="Node000002" href="$structz__stream.html" title=" " alt="" coords="90,241,173,267"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,280,134,397,129,397,129,280"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,87,31"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="42,45,34,88,28,143,28,205,39,266,56,306,79,342,122,395,118,399,74,345,51,308,34,267,23,205,23,143,29,87,37,44"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="58,43,130,240,125,242,53,45"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="197,241,257,267"/>
+<area shape="poly" id="edge3_Node000001_Node000007" title=" " alt="" coords="230,281,222,327,214,352,200,375,185,389,167,400,164,395,181,385,196,372,209,350,217,326,224,280"/>
+</map>

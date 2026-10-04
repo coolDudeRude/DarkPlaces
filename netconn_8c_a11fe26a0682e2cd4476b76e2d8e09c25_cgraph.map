@@ -1,0 +1,13 @@
+<map id="NetConn_BuildStatusResponse" name="NetConn_BuildStatusResponse">
+<area shape="rect" id="Node000001" title="(div0) build the full response only if possible; better a getinfo response than no response at all if..." alt="" coords="5,118,228,143"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="74,120,64,110,69,100,87,93,117,91,155,95,165,100,169,106,164,109,162,104,153,101,117,97,88,99,73,104,70,109,77,116"/>
+<area shape="rect" id="Node000002" href="$crypto_8c.html#ae0a13832c196fc6cb7e25fd6f55aa489" title=" " alt="" coords="276,29,491,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,115,275,79,302,71,303,76,277,84,159,121"/>
+<area shape="rect" id="Node000003" href="$common_8c.html#ae36050083f45e395189fee6aa45fbb0c" title="Returns the number of printed characters, excluding the final &#39;\0&#39; or returns &#45;1 if the buffer isn&#39;t ..." alt="" coords="339,118,427,143"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="228,128,326,128,326,133,228,133"/>
+<area shape="rect" id="Node000006" href="$prvm__edict_8c.html#a69666cdc9628aebc4b380b6ad1868140" title=" " alt="" coords="319,191,447,217"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="165,141,324,185,322,190,163,146"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="334,30,331,20,339,10,356,5,383,3,414,5,431,13,429,18,413,11,383,8,357,10,342,15,336,21,339,28"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="340,120,331,110,336,100,354,93,383,91,422,95,432,100,436,106,431,109,428,104,420,101,383,97,355,99,339,104,336,109,344,116"/>
+<area shape="poly" id="edge7_Node000006_Node000006" title=" " alt="" coords="340,193,331,183,336,173,354,167,383,165,422,169,432,174,436,180,431,182,428,178,420,174,383,170,355,172,339,177,336,182,344,189"/>
+</map>

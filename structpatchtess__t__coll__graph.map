@@ -1,0 +1,10 @@
+<map id="patchtess_t" name="patchtess_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="103,237,200,263"/>
+<area shape="rect" id="Node000002" href="$structpatchinfo__t.html" title=" " alt="" coords="104,121,199,147"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,161,154,237,149,237,149,161"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,44,31"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="18,44,9,93,10,120,18,145,39,176,67,201,98,221,125,235,123,240,95,225,64,205,35,180,13,148,5,121,4,93,13,43"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="50,38,140,119,137,123,46,42"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="223,121,274,147"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="235,160,192,215,167,239,163,235,188,212,231,156"/>
+</map>

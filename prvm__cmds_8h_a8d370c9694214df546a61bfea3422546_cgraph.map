@@ -1,0 +1,10 @@
+<map id="VM_strtoupper" name="VM_strtoupper">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,123,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="33,68,27,58,30,48,43,42,64,40,90,44,100,52,97,56,88,48,64,45,44,47,34,52,32,58,37,65"/>
+<area shape="rect" id="Node000002" href="$common_8c.html#a84e0d9c19b6567d2ee424b44afdf83b6" title="Returns the number of bytes written to *out excluding the \0 terminator." alt="" coords="176,29,327,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,65,173,55,174,60,123,70"/>
+<area shape="rect" id="Node000007" href="$prvm__edict_8c.html#a1d2244b6253cecef732afeb0bf1d393f" title="Takes an strlen (not a buffer size)." alt="" coords="171,103,332,128"/>
+<area shape="poly" id="edge3_Node000001_Node000007" title=" " alt="" coords="123,88,172,97,171,103,122,93"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="220,31,214,21,217,11,230,5,251,3,277,6,288,15,284,19,275,11,251,8,232,10,221,15,219,20,225,28"/>
+<area shape="poly" id="edge4_Node000007_Node000007" title=" " alt="" coords="220,104,214,94,217,84,230,78,251,76,277,80,288,88,284,92,275,84,251,81,232,83,221,88,219,94,225,101"/>
+</map>

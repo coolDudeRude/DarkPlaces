@@ -1,0 +1,18 @@
+<map id="VID_InitMode" name="VID_InitMode">
+<area shape="rect" id="Node000001" title="allocates and opens an appropriate OpenGL context (and its window)" alt="" coords="5,117,115,143"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="32,119,26,109,30,99,41,93,60,91,83,94,92,103,89,107,80,99,60,96,43,98,34,103,32,108,37,116"/>
+<area shape="rect" id="Node000002" href="$cvar_8c.html#abb4c73909d750b61a354db139a9f6e40" title=" " alt="" coords="173,29,279,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,115,161,72,186,59,188,64,164,76,85,119"/>
+<area shape="rect" id="Node000005" href="$cvar_8c.html#a65b55ce35a5bd18e379065651d5d6e15" title=" " alt="" coords="337,93,491,119"/>
+<area shape="poly" id="edge3_Node000001_Node000005" title=" " alt="" coords="115,120,162,115,323,106,323,111,163,121,115,126"/>
+<area shape="rect" id="Node000068" href="$sys__shared_8c.html#a2fe6e82a2dd55741246a156d74cc7dab" title="Causes the entire program to exit ASAP." alt="" coords="373,180,455,205"/>
+<area shape="poly" id="edge5_Node000001_Node000068" title=" " alt="" coords="77,141,115,168,138,180,163,190,214,200,266,203,358,198,359,204,266,209,213,205,162,195,136,185,112,172,74,145"/>
+<area shape="rect" id="Node001340" href="$vid__sdl_8c.html#a82302c01ee7b77b9c3b5dc349970f707" title=" " alt="" coords="163,155,289,180"/>
+<area shape="poly" id="edge8_Node000001_Node001340" title=" " alt="" coords="115,140,156,149,155,154,114,145"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="198,31,192,21,196,11,207,5,226,3,249,6,258,15,255,19,246,11,226,8,209,10,200,15,198,20,203,28"/>
+<area shape="poly" id="edge4_Node000005_Node000005" title=" " alt="" coords="383,95,377,85,380,75,393,69,414,67,440,70,450,79,447,83,438,75,414,72,394,74,384,79,382,84,387,92"/>
+<area shape="poly" id="edge6_Node000068_Node000068" title=" " alt="" coords="383,181,377,172,380,162,393,156,414,153,440,157,450,166,447,170,438,162,414,159,394,161,384,165,382,171,387,178"/>
+<area shape="poly" id="edge9_Node001340_Node000005" title=" " alt="" coords="265,152,361,120,362,125,267,157"/>
+<area shape="poly" id="edge10_Node001340_Node000068" title=" " alt="" coords="290,173,359,183,358,188,289,178"/>
+<area shape="poly" id="edge11_Node001340_Node001340" title=" " alt="" coords="198,156,192,146,196,137,207,130,226,128,249,131,258,140,255,144,246,136,226,133,209,135,200,140,198,146,203,153"/>
+</map>

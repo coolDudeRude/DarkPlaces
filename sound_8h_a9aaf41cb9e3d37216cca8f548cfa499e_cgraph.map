@@ -1,0 +1,14 @@
+<map id="S_PrecacheSound" name="S_PrecacheSound">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,91,141,116"/>
+<area shape="rect" id="Node000002" href="$snd__main_8c.html#a9525d272a06cd21c550afa4edc661b76" title=" " alt="" coords="376,29,479,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,88,138,68,189,51,279,39,362,37,362,42,279,44,190,57,140,73,99,93"/>
+<area shape="rect" id="Node000481" href="$snd__main_8h.html#a57e46beaac3795b44750eedfd1500be2" title=" " alt="" coords="373,116,481,141"/>
+<area shape="poly" id="edge3_Node000001_Node000481" title=" " alt="" coords="122,113,190,126,278,131,360,130,360,135,278,136,189,131,121,119"/>
+<area shape="rect" id="Node000480" href="$snd__main_8c.html#ae509fe89ef6b5f9b32bfb967153523b9" title=" " alt="" coords="189,91,325,116"/>
+<area shape="poly" id="edge5_Node000001_Node000480" title=" " alt="" coords="142,101,176,101,176,106,142,106"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="399,31,393,21,396,11,408,5,427,3,450,6,460,15,457,19,448,11,427,8,410,10,401,15,399,20,404,28"/>
+<area shape="poly" id="edge4_Node000481_Node000481" title=" " alt="" coords="399,117,393,108,396,98,408,92,427,89,450,93,460,101,457,105,448,98,427,95,410,97,401,101,399,107,404,114"/>
+<area shape="poly" id="edge6_Node000480_Node000002" title=" " alt="" coords="292,88,378,57,380,62,294,93"/>
+<area shape="poly" id="edge7_Node000480_Node000481" title=" " alt="" coords="326,111,360,116,359,121,325,116"/>
+<area shape="poly" id="edge8_Node000480_Node000480" title=" " alt="" coords="229,92,223,82,226,73,238,66,257,64,280,67,290,76,287,80,278,72,257,69,240,71,231,76,229,82,234,89"/>
+</map>

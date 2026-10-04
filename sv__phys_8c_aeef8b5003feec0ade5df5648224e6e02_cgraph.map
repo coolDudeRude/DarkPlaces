@@ -1,0 +1,7 @@
+<map id="SV_WallFriction" name="SV_WallFriction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,128,55"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="39,31,34,21,37,11,48,5,67,3,89,6,99,15,95,19,87,11,67,8,50,10,41,15,39,20,44,28"/>
+<area shape="rect" id="Node000002" href="$mathlib_8c.html#abcfd2eb08af2296b6ea28caf16717a09" title=" " alt="" coords="176,29,283,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,39,162,39,162,45,128,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="202,31,196,21,199,11,211,5,229,3,252,6,261,15,258,19,249,11,229,8,212,10,203,15,202,20,207,28"/>
+</map>

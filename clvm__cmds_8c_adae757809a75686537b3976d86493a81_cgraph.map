@@ -1,0 +1,10 @@
+<map id="VM_CL_SpawnParticleDelayed" name="VM_CL_SpawnParticleDelayed">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,224,92"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="79,68,71,58,75,48,90,42,115,40,145,44,157,53,154,57,143,49,115,45,91,47,79,52,76,58,83,65"/>
+<area shape="rect" id="Node000002" href="$cl__particles_8c.html#a184c475c75758d6c027a244e337e7dbe" title="Creates a new particle and returns a pointer to it." alt="" coords="272,29,395,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,64,258,52,259,57,190,69"/>
+<area shape="rect" id="Node000495" href="$prvm__cmds_8c.html#a839f28438a1ca0de7c2d772295e1763a" title=" " alt="" coords="282,103,385,128"/>
+<area shape="poly" id="edge4_Node000001_Node000495" title=" " alt="" coords="193,89,269,102,268,107,192,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="298,31,290,21,294,11,309,5,333,3,364,6,376,15,373,20,362,11,333,8,310,10,298,15,295,20,302,28"/>
+<area shape="poly" id="edge5_Node000495_Node000495" title=" " alt="" coords="298,104,290,94,294,84,309,78,333,76,364,80,376,89,373,93,362,85,333,81,310,83,298,88,295,94,302,101"/>
+</map>

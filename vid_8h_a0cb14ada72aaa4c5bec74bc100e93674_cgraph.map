@@ -1,0 +1,19 @@
+<map id="VID_Shared_Init" name="VID_Shared_Init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,176,131,201"/>
+<area shape="poly" id="edge11_Node000001_Node000001" title=" " alt="" coords="36,177,30,168,33,158,46,152,68,149,94,153,105,162,102,166,92,158,68,155,48,157,37,161,35,167,41,174"/>
+<area shape="rect" id="Node000002" href="$cmd_8c.html#a86fa905462db75436af48f27298204e5" title="called by the init functions of other parts of the program to register commands and functions to call..." alt="" coords="187,29,337,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,174,114,121,144,90,177,64,188,58,191,62,180,68,147,94,118,124,79,177"/>
+<area shape="rect" id="Node001352" href="$cvar_8c.html#a9bd27026ed325ffe5276549c11c7379d" title="registers a cvar that already has the name, string, and optionally the archive elements set." alt="" coords="179,103,345,128"/>
+<area shape="poly" id="edge3_Node000001_Node001352" title=" " alt="" coords="94,173,178,137,199,130,201,135,180,142,96,178"/>
+<area shape="rect" id="Node001353" href="$vid__shared_8c.html#a3f3c5d6937164221f85f3a30d12706b5" title=" " alt="" coords="187,176,337,201"/>
+<area shape="poly" id="edge5_Node000001_Node001353" title=" " alt="" coords="131,186,173,186,173,191,131,191"/>
+<area shape="rect" id="Node001309" href="$sys__shared_8c.html#a7d5fb719236d753c6487958a306b51c6" title=" " alt="" coords="180,249,344,275"/>
+<area shape="poly" id="edge7_Node000001_Node001309" title=" " alt="" coords="104,199,215,242,214,247,102,204"/>
+<area shape="rect" id="Node001354" href="$vid_8h.html#ad8605edbae8892eeb0dacf9a7432d49f" title=" " alt="" coords="207,323,317,348"/>
+<area shape="poly" id="edge9_Node000001_Node001354" title=" " alt="" coords="84,200,126,239,180,284,227,314,224,318,177,288,122,243,80,203"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="230,31,224,21,227,11,240,5,262,3,288,6,299,15,296,19,286,11,262,8,242,10,231,15,229,20,235,28"/>
+<area shape="poly" id="edge4_Node001352_Node001352" title=" " alt="" coords="230,104,224,94,227,84,240,78,262,76,288,80,299,88,296,92,286,84,262,81,242,83,231,88,229,94,235,101"/>
+<area shape="poly" id="edge6_Node001353_Node001353" title=" " alt="" coords="230,177,224,168,227,158,240,152,262,149,288,153,299,162,296,166,286,158,262,155,242,157,231,161,229,167,235,174"/>
+<area shape="poly" id="edge8_Node001309_Node001309" title=" " alt="" coords="230,251,224,241,227,231,240,225,262,223,288,226,299,235,296,239,286,231,262,228,242,230,231,235,229,240,235,248"/>
+<area shape="poly" id="edge10_Node001354_Node001354" title=" " alt="" coords="230,324,224,314,227,304,240,298,262,296,288,300,299,308,296,312,286,304,262,301,242,303,231,308,229,314,235,321"/>
+</map>

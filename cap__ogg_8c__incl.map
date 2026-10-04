@@ -1,0 +1,12 @@
+<map id="cap_ogg.c" name="cap_ogg.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="170,5,257,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,101,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,33,93,75,91,71,187,28"/>
+<area shape="rect" id="Node000003" href="$quakedef_8h.html" title=" " alt="" coords="125,79,219,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,32,188,68,183,65,204,30"/>
+<area shape="rect" id="Node000067" href="$client_8h.html" title=" " alt="" coords="178,152,249,177"/>
+<area shape="poly" id="edge4_Node000001_Node000067" title=" " alt="" coords="221,30,231,63,234,84,233,104,225,139,220,138,228,104,229,84,226,64,216,32"/>
+<area shape="rect" id="Node000093" href="$cap__ogg_8h.html" title=" " alt="" coords="293,79,381,104"/>
+<area shape="poly" id="edge5_Node000001_Node000093" title=" " alt="" coords="235,28,307,69,304,74,232,33"/>
+<area shape="poly" id="edge3_Node000003_Node000067" title=" " alt="" coords="181,103,202,139,197,141,177,106"/>
+</map>

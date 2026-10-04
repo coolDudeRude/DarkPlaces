@@ -1,0 +1,10 @@
+<map id="CL_ClientMovement_Replay" name="CL_ClientMovement_Replay">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,81,211,106"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="67,82,58,72,63,62,80,56,108,54,144,58,154,63,158,68,153,71,150,67,142,63,108,59,81,61,66,66,63,72,71,79"/>
+<area shape="rect" id="Node000002" href="$cl__input_8c.html#a89efa51fed2943d9bd800923aa7b305c" title=" " alt="" coords="261,29,463,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,78,248,66,249,72,182,83"/>
+<area shape="rect" id="Node000009" href="$cl__input_8c.html#a4c5d9b703a13dea13a3c553802d5238a" title=" " alt="" coords="259,117,465,157"/>
+<area shape="poly" id="edge4_Node000001_Node000009" title=" " alt="" coords="182,103,246,114,245,120,181,109"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="315,30,312,20,320,10,336,5,362,3,391,6,407,13,405,18,390,11,362,8,337,10,323,15,317,21,320,28"/>
+<area shape="poly" id="edge5_Node000009_Node000009" title=" " alt="" coords="315,118,312,108,320,98,336,93,362,91,391,94,407,101,405,106,390,99,362,96,337,98,323,103,317,109,320,116"/>
+</map>

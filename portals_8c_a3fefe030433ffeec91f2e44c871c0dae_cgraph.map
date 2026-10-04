@@ -1,0 +1,7 @@
+<map id="Portal_PortalThroughPortalPlanes" name="Portal_PortalThroughPortalPlanes">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,201,69"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="64,30,61,20,68,10,82,5,103,3,128,6,141,13,139,18,126,11,103,8,83,10,71,15,67,21,69,28"/>
+<area shape="rect" id="Node000002" href="$polygon_8c.html#ac647de7de716b8a007307c3104aee85b" title=" " alt="" coords="249,37,380,62"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,47,235,47,235,52,202,52"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="280,38,273,28,277,18,291,12,315,10,344,14,356,23,352,27,342,19,315,15,292,17,280,22,278,28,284,35"/>
+</map>

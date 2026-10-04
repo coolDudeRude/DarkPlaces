@@ -1,0 +1,13 @@
+<map id="SCR_Centerprint_f" name="SCR_Centerprint_f">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,145,128"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="45,104,39,94,42,85,55,78,75,76,100,80,111,88,107,92,98,84,75,81,56,83,46,88,44,94,50,101"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#a977f9318008de123876b168dfa86ad22" title=" " alt="" coords="232,29,283,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,100,192,64,218,54,220,58,194,68,107,105"/>
+<area shape="rect" id="Node000003" href="$cl__screen_8c.html#a28a327fa91073f50e5ee5589d0a0cd61" title=" " alt="" coords="193,103,321,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="145,113,179,113,179,118,145,118"/>
+<area shape="rect" id="Node000033" href="$menudefs_8qc.html#a274680f571a231ddf29421b93d434bfa" title=" " alt="" coords="228,176,287,201"/>
+<area shape="poly" id="edge6_Node000001_Node000033" title=" " alt="" coords="109,126,216,169,214,174,107,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="230,33,221,23,223,12,236,5,257,3,285,7,292,13,294,20,289,21,288,16,283,12,257,8,237,10,228,15,226,21,234,29"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="227,104,221,94,224,85,237,78,257,76,282,80,293,88,289,92,280,84,257,81,238,83,228,88,226,94,232,101"/>
+<area shape="poly" id="edge7_Node000033_Node000033" title=" " alt="" coords="227,177,221,168,224,158,237,152,257,149,282,153,293,162,289,166,280,158,257,155,238,157,228,161,226,167,232,174"/>
+</map>

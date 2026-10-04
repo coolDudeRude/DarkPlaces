@@ -1,0 +1,7 @@
+<map id="Cvar_UpdateAutoCvar" name="Cvar_UpdateAutoCvar">
+<area shape="rect" id="Node000001" title="we assume that prog is already set to the target progs" alt="" coords="5,29,172,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="51,31,43,21,47,11,63,5,89,3,121,7,133,16,130,20,119,11,89,8,64,10,51,15,48,20,55,27"/>
+<area shape="rect" id="Node000002" href="$prvm__edict_8c.html#a4d483fd21d67e6befa5748658fe53d76" title=" " alt="" coords="220,29,419,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="172,39,206,39,206,45,172,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="282,31,274,21,278,11,294,5,319,3,352,7,364,16,361,20,350,11,319,8,295,10,282,15,279,20,286,27"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="VM_SV_skel_mul_bone" name="VM_SV_skel_mul_bone">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,176,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="55,68,47,58,51,48,66,42,91,40,121,44,134,53,130,57,119,49,91,45,67,47,54,52,52,58,59,65"/>
+<area shape="rect" id="Node000002" href="$matrixlib_8c.html#a0f17f61f7e6dd5b4f8dc94ff587526c0" title=" " alt="" coords="242,29,382,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,64,228,53,229,59,167,69"/>
+<area shape="rect" id="Node000003" href="$matrixlib_8c.html#ab70336ea109de2ef2ee9b621ca9e6ee0" title=" " alt="" coords="224,103,400,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="170,89,221,98,220,103,169,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="276,31,268,21,272,11,287,5,312,3,343,6,355,15,352,20,341,11,312,8,288,10,276,15,273,20,280,28"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="276,104,268,94,272,84,287,78,312,76,343,80,355,89,352,93,341,85,312,81,288,83,276,88,273,94,280,101"/>
+</map>

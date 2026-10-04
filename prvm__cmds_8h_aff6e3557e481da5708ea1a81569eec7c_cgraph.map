@@ -1,0 +1,13 @@
+<map id="VM_cin_setstate" name="VM_cin_setstate">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,135,128"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="37,104,31,94,34,84,48,78,70,76,97,80,108,88,105,93,95,84,70,81,49,83,38,88,36,94,42,101"/>
+<area shape="rect" id="Node000002" href="$cl__video_8c.html#a0ad2b20f8ced769072f40843c75abad2" title=" " alt="" coords="187,29,349,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,100,182,64,204,56,205,61,184,68,99,105"/>
+<area shape="rect" id="Node001352" href="$cl__video_8c.html#a092c47c1c4a8c3184ecc0b28959f322e" title=" " alt="" coords="199,103,337,128"/>
+<area shape="poly" id="edge3_Node000001_Node001352" title=" " alt="" coords="135,113,186,113,186,118,135,118"/>
+<area shape="rect" id="Node001354" href="$prvm__cmds_8c.html#a3dd626860c3e43f124a862761d088447" title=" " alt="" coords="183,176,353,201"/>
+<area shape="poly" id="edge5_Node000001_Node001354" title=" " alt="" coords="106,126,220,168,219,173,104,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="235,31,229,21,232,11,246,5,268,3,295,6,306,15,303,19,293,11,268,8,247,10,236,15,234,20,240,28"/>
+<area shape="poly" id="edge4_Node001352_Node001352" title=" " alt="" coords="235,104,229,94,232,84,246,78,268,76,295,80,306,88,303,93,293,84,268,81,247,83,236,88,234,94,240,101"/>
+<area shape="poly" id="edge6_Node001354_Node001354" title=" " alt="" coords="235,177,229,168,232,158,246,152,268,149,295,153,306,162,303,166,293,158,268,155,247,157,236,161,234,167,240,174"/>
+</map>

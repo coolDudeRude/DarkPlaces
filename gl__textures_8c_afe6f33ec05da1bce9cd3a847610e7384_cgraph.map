@@ -1,0 +1,7 @@
+<map id="R_LoadTexture2D" name="R_LoadTexture2D">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,140,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="43,31,37,21,40,11,53,5,73,3,97,6,107,15,104,19,95,11,73,8,54,10,44,15,42,20,48,28"/>
+<area shape="rect" id="Node000002" href="$gl__textures_8c.html#a75b53126e085ffee3023c351c3c8bbcf" title=" " alt="" coords="188,29,311,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="140,39,174,39,174,45,140,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="220,31,214,21,217,11,229,5,249,3,274,6,284,15,280,19,271,11,249,8,231,10,221,15,219,20,224,28"/>
+</map>

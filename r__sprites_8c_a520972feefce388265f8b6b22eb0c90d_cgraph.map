@@ -1,0 +1,13 @@
+<map id="R_TrackSprite" name="R_TrackSprite">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,116,128"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="31,104,24,94,28,85,40,78,61,76,86,80,96,88,93,92,83,84,61,81,42,83,32,88,29,94,35,101"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#accccfae161879454243b3a8695a9bf3b" title=" " alt="" coords="219,29,269,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,100,163,64,205,50,206,55,165,68,87,105"/>
+<area shape="rect" id="Node000003" href="$matrixlib_8c.html#a2c67a69e5ad398eda2624c8507e8b5fa" title=" " alt="" coords="164,103,324,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="116,113,150,113,150,118,116,118"/>
+<area shape="rect" id="Node000004" href="$menudefs_8qc.html#a83f4d3f317a80e82e6b16ea61ea5efc3" title=" " alt="" coords="221,176,267,201"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="94,126,209,172,207,177,92,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="216,33,208,23,210,12,222,5,244,3,271,7,279,13,280,20,275,21,274,16,269,12,244,8,224,10,214,15,213,21,221,29"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="214,104,208,94,211,85,223,78,244,76,269,80,279,88,276,92,267,84,244,81,225,83,215,88,213,94,218,101"/>
+<area shape="poly" id="edge7_Node000004_Node000004" title=" " alt="" coords="218,181,208,170,210,159,222,152,244,149,273,155,280,161,280,169,275,169,275,164,270,159,244,155,224,157,214,162,213,169,222,177"/>
+</map>

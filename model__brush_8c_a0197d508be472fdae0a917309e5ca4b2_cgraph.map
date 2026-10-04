@@ -1,0 +1,7 @@
+<map id="Mod_Q1BSP_PointSuperContents" name="Mod_Q1BSP_PointSuperContents">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,240,62"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="78,38,68,28,73,18,91,12,123,10,163,14,174,19,178,26,173,28,170,23,162,19,123,15,92,17,76,22,73,28,81,35"/>
+<area shape="rect" id="Node000002" href="$model__brush_8c.html#a235b8af89a030c6fb731267b0ef36e8e" title=" " alt="" coords="288,29,523,69"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="240,47,274,47,274,52,240,52"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="354,30,350,20,359,10,377,5,405,3,438,5,455,13,453,18,436,11,405,8,378,10,362,15,356,21,359,28"/>
+</map>

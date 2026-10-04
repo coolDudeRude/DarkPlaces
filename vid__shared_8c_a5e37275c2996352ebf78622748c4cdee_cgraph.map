@@ -1,0 +1,13 @@
+<map id="GL_InitFunctions" name="GL_InitFunctions">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,135,128"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="39,104,33,94,36,84,49,78,70,76,96,80,106,88,103,92,94,84,70,81,50,83,40,88,38,94,43,101"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#a2696300802453d9333e9f52e5fae15bc" title="A Con_Printf that only shows up if the &quot;developer&quot; cvar is set." alt="" coords="208,29,307,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,100,182,64,201,57,203,62,184,68,99,105"/>
+<area shape="rect" id="Node001349" href="$vid__sdl_8c.html#a8e814020c7b61b0510c8646b9f44004e" title=" " alt="" coords="183,103,332,128"/>
+<area shape="poly" id="edge3_Node000001_Node001349" title=" " alt="" coords="135,113,169,113,169,118,135,118"/>
+<area shape="rect" id="Node000064" href="$sys__shared_8c.html#a2fe6e82a2dd55741246a156d74cc7dab" title="Causes the entire program to exit ASAP." alt="" coords="216,176,299,201"/>
+<area shape="poly" id="edge6_Node000001_Node000064" title=" " alt="" coords="104,126,212,168,210,173,103,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="226,31,220,21,223,11,236,5,257,3,283,6,294,15,290,19,281,11,257,8,238,10,227,15,225,20,231,28"/>
+<area shape="poly" id="edge4_Node001349_Node001349" title=" " alt="" coords="226,104,220,94,223,84,236,78,257,76,283,80,294,88,290,92,281,84,257,81,238,83,227,88,225,94,231,101"/>
+<area shape="poly" id="edge7_Node000064_Node000064" title=" " alt="" coords="226,177,220,168,223,158,236,152,257,149,283,153,294,162,290,166,281,158,257,155,238,157,227,161,225,167,231,174"/>
+</map>

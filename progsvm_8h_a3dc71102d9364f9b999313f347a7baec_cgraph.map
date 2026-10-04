@@ -1,0 +1,10 @@
+<map id="VM_UpdateEdictSkeleton" name="VM_UpdateEdictSkeleton">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,191,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="58,68,49,58,54,48,70,42,98,40,133,44,143,49,147,54,142,57,139,53,132,49,98,45,71,47,57,52,54,58,62,65"/>
+<area shape="rect" id="Node000002" href="$prvm__exec_8c.html#a9e352d75917663f4ccdd5526de7203d4" title=" " alt="" coords="239,29,453,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,64,247,54,248,59,183,69"/>
+<area shape="rect" id="Node001195" href="$prvm__cmds_8c.html#a93b27651b62ec0a8572e5428594e9058" title=" " alt="" coords="250,103,442,128"/>
+<area shape="poly" id="edge3_Node000001_Node001195" title=" " alt="" coords="186,89,245,98,244,103,185,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="306,31,297,21,302,11,318,5,346,3,381,7,391,11,395,17,390,20,387,15,380,12,346,8,319,10,305,15,302,20,310,27"/>
+<area shape="poly" id="edge4_Node001195_Node001195" title=" " alt="" coords="306,104,297,94,302,84,318,78,346,76,381,80,391,85,395,90,390,93,387,89,380,85,346,81,319,83,305,88,302,94,310,101"/>
+</map>

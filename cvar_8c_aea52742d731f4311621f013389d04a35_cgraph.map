@@ -1,0 +1,10 @@
+<map id="Cvar_RegisterCallback" name="Cvar_RegisterCallback">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,175,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="60,68,54,58,57,49,69,42,90,40,115,44,125,52,122,56,113,48,90,45,71,47,61,52,59,58,64,65"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#a2696300802453d9333e9f52e5fae15bc" title="A Con_Printf that only shows up if the &quot;developer&quot; cvar is set." alt="" coords="223,29,321,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,64,208,52,209,58,153,69"/>
+<area shape="rect" id="Node000014" href="$console_8c.html#a1cf9711475097b11dc41f743254ec77e" title="Prints to all appropriate console targets, and adds timestamps." alt="" coords="230,103,314,128"/>
+<area shape="poly" id="edge3_Node000001_Node000014" title=" " alt="" coords="155,89,217,102,216,107,154,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="242,31,236,21,239,11,251,5,272,3,297,6,307,15,304,19,295,11,272,8,253,10,243,15,241,20,246,28"/>
+<area shape="poly" id="edge4_Node000014_Node000014" title=" " alt="" coords="242,104,236,94,239,85,251,78,272,76,297,80,307,88,304,92,295,84,272,81,253,83,243,88,241,94,246,101"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="SCR_ScreenShot_f" name="SCR_ScreenShot_f">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,145,55"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#a977f9318008de123876b168dfa86ad22" title=" " alt="" coords="381,29,432,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,31,193,27,263,24,334,27,368,32,367,37,333,33,263,30,193,33,146,36"/>
+<area shape="rect" id="Node000003" href="$cl__screen_8c.html#a433823b117b0718e88219afba66357d2" title=" " alt="" coords="193,67,333,92"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="140,52,186,61,185,67,139,57"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="383,30,378,21,380,11,390,5,407,3,426,6,435,15,431,18,424,11,407,8,392,10,385,15,383,20,387,28"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="312,64,367,49,369,55,313,69"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="239,68,234,58,237,49,247,42,263,40,283,44,291,52,288,56,280,48,263,45,249,47,241,52,240,58,244,65"/>
+</map>

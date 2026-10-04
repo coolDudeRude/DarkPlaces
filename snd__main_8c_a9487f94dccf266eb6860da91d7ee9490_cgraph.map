@@ -1,0 +1,7 @@
+<map id="S_PauseGameSounds" name="S_PauseGameSounds">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,167,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="53,31,47,21,50,11,64,5,86,3,113,6,124,15,121,19,111,11,86,8,65,10,54,15,52,20,58,28"/>
+<area shape="rect" id="Node000002" href="$snd__main_8c.html#ab16d95df142e5569687863559c471eeb" title=" " alt="" coords="215,29,353,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="167,39,201,39,201,45,167,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="251,31,245,21,248,11,262,5,284,3,311,6,322,15,319,19,309,11,284,8,263,10,252,15,250,20,256,28"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="IN_Button12Down" name="IN_Button12Down">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,144,55"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="48,31,43,21,46,11,57,5,75,3,96,6,106,15,102,19,94,11,75,8,58,10,50,15,48,20,53,28"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#a977f9318008de123876b168dfa86ad22" title=" " alt="" coords="323,29,373,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,30,207,26,275,27,309,32,309,37,274,33,208,31,144,36"/>
+<area shape="rect" id="Node000003" href="$cl__input_8c.html#a377305100eadf925fa60b7a240d24ace" title=" " alt="" coords="192,67,275,92"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="130,52,179,64,178,69,129,57"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="328,30,324,21,326,12,334,5,348,3,364,6,371,14,367,18,361,11,348,8,336,10,331,14,329,20,333,28"/>
+<area shape="poly" id="edge5_Node000003_Node000002" title=" " alt="" coords="272,64,308,52,310,57,274,69"/>
+<area shape="poly" id="edge6_Node000003_Node000003" title=" " alt="" coords="213,68,209,58,211,49,220,42,233,40,249,43,256,52,252,55,247,48,233,45,222,47,216,52,215,58,218,65"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="MSG_WriteAngle" name="MSG_WriteAngle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,136,92"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="40,68,33,58,37,48,49,42,71,40,96,44,107,52,104,56,94,48,71,45,51,47,41,52,38,58,44,65"/>
+<area shape="rect" id="Node000002" href="$com__msg_8c.html#a4108fa6adf4d9574daf6ac16acfbbbf4" title=" " alt="" coords="184,29,335,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="135,64,181,55,182,60,136,69"/>
+<area shape="rect" id="Node001352" href="$com__msg_8c.html#ace07e4a54655a6fa4ffa8cb584ac5678" title=" " alt="" coords="188,103,331,128"/>
+<area shape="poly" id="edge4_Node000001_Node001352" title=" " alt="" coords="137,89,179,97,178,103,136,94"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="228,31,222,21,225,11,238,5,259,3,285,6,296,15,292,19,283,11,259,8,240,10,229,15,227,20,233,28"/>
+<area shape="poly" id="edge5_Node001352_Node001352" title=" " alt="" coords="228,104,222,94,225,84,238,78,259,76,285,80,296,88,292,92,283,84,259,81,240,83,229,88,227,94,233,101"/>
+</map>

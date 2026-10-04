@@ -1,0 +1,15 @@
+<map id="Con_CenterPrintf" name="Con_CenterPrintf">
+<area shape="rect" id="Node000001" title="Left&#45;pad a string with spaces to make it appear centered." alt="" coords="5,80,137,105"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="42,81,36,72,39,62,51,56,71,53,96,57,106,66,102,70,93,62,71,59,53,61,43,65,41,71,46,78"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#a349329eb315198abd1f580bf040447df" title=" " alt="" coords="185,29,309,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="116,77,188,56,190,61,117,82"/>
+<area shape="rect" id="Node000016" href="$common_8c.html#a17e9040af1baa7e1a61a6a47f776eca5" title="Returns the number of printed characters, excluding the final &#39;\0&#39; or returns &#45;1 if the buffer isn&#39;t ..." alt="" coords="357,80,453,105"/>
+<area shape="poly" id="edge9_Node000001_Node000016" title=" " alt="" coords="137,90,344,90,344,95,137,95"/>
+<area shape="rect" id="Node000015" href="$console_8c.html#a49b71fe9a87e57a440e07af4a869a9f6" title="Prints to all appropriate console targets." alt="" coords="203,155,292,180"/>
+<area shape="poly" id="edge6_Node000001_Node000015" title=" " alt="" coords="104,103,205,147,203,152,101,108"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="221,31,215,21,218,11,229,5,247,3,269,6,278,15,275,19,267,11,247,8,231,10,222,15,221,20,225,28"/>
+<area shape="poly" id="edge4_Node000002_Node000016" title=" " alt="" coords="289,52,352,73,351,78,287,57"/>
+<area shape="poly" id="edge5_Node000016_Node000016" title=" " alt="" coords="379,81,373,72,376,62,387,56,405,53,427,57,436,65,433,69,425,62,405,59,389,61,380,65,379,71,383,79"/>
+<area shape="poly" id="edge8_Node000015_Node000016" title=" " alt="" coords="274,152,364,109,367,114,277,157"/>
+<area shape="poly" id="edge7_Node000015_Node000015" title=" " alt="" coords="221,156,215,146,218,137,229,130,247,128,269,131,278,140,275,144,267,136,247,133,231,135,222,140,221,146,225,153"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="SV_PrepareEntityForSending" name="SV_PrepareEntityForSending">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,212,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="71,68,63,58,67,48,83,42,109,40,141,44,154,53,150,58,139,49,109,45,84,47,71,52,68,58,75,65"/>
+<area shape="rect" id="Node000002" href="$prvm__edict_8c.html#a69666cdc9628aebc4b380b6ad1868140" title=" " alt="" coords="277,29,405,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,64,263,52,264,57,189,69"/>
+<area shape="rect" id="Node001237" href="$sv__main_8c.html#a68a8fec8cdaef88c9719912c527fa7cf" title=" " alt="" coords="260,103,423,128"/>
+<area shape="poly" id="edge3_Node000001_Node001237" title=" " alt="" coords="192,89,247,98,246,103,191,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="304,31,295,21,300,11,315,5,341,3,374,7,386,16,383,20,372,11,341,8,316,10,303,15,301,20,308,27"/>
+<area shape="poly" id="edge4_Node001237_Node001237" title=" " alt="" coords="304,104,295,94,300,84,315,78,341,76,374,80,386,89,383,94,372,85,341,81,316,83,303,88,301,94,308,101"/>
+</map>

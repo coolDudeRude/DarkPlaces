@@ -1,0 +1,16 @@
+<map id="VID_Mode" name="VID_Mode">
+<area shape="rect" id="Node000001" title="NULL mode means read it from the cvars." alt="" coords="5,140,93,165"/>
+<area shape="poly" id="edge9_Node000001_Node000001" title=" " alt="" coords="21,141,15,132,18,122,30,116,49,113,73,117,83,125,79,129,70,122,49,119,31,121,22,125,20,131,25,138"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#a49b71fe9a87e57a440e07af4a869a9f6" title="Prints to all appropriate console targets." alt="" coords="175,29,265,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="59,138,92,101,140,64,161,54,163,59,143,68,96,105,63,141"/>
+<area shape="rect" id="Node000044" href="$common_8c.html#a4a8220fa88226bf9cf39b12a051a20d7" title=" " alt="" coords="201,103,239,128"/>
+<area shape="poly" id="edge3_Node000001_Node000044" title=" " alt="" coords="93,141,187,120,188,125,94,146"/>
+<area shape="rect" id="Node001338" href="$vid__shared_8c.html#ab457b9e85c12fbcc65ef8f7e47d192d9" title=" " alt="" coords="141,176,299,201"/>
+<area shape="poly" id="edge5_Node000001_Node001338" title=" " alt="" coords="94,159,147,170,145,176,93,164"/>
+<area shape="rect" id="Node001339" href="$vid__sdl_8c.html#a8d0b5b32a2dca4207ae1c2503918bbcb" title="allocates and opens an appropriate OpenGL context (and its window)" alt="" coords="165,249,275,275"/>
+<area shape="poly" id="edge7_Node000001_Node001339" title=" " alt="" coords="71,163,143,210,188,240,185,244,140,215,68,168"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="191,31,185,21,189,11,201,5,220,3,243,6,253,15,250,19,241,11,220,8,202,10,193,15,191,20,196,28"/>
+<area shape="poly" id="edge4_Node000044_Node000044" title=" " alt="" coords="199,109,187,99,187,87,198,79,220,76,237,78,249,83,254,90,253,99,248,98,249,91,246,87,236,83,220,81,200,84,192,90,192,96,202,105"/>
+<area shape="poly" id="edge6_Node001338_Node001338" title=" " alt="" coords="191,177,185,168,189,158,201,152,220,149,243,153,253,161,250,165,241,158,220,155,202,157,193,161,191,167,196,174"/>
+<area shape="poly" id="edge8_Node001339_Node001339" title=" " alt="" coords="191,251,185,241,189,231,201,225,220,223,243,226,253,235,250,239,241,231,220,228,202,230,193,235,191,240,196,248"/>
+</map>

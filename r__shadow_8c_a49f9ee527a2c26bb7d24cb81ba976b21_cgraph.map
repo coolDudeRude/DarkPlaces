@@ -1,0 +1,13 @@
+<map id="R_Shadow_EditLights_ToggleCorona_f" name="R_Shadow_EditLights_ToggleCorona_f">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,95,165,135"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="42,96,39,86,46,76,62,71,85,69,112,72,127,79,125,84,111,77,85,74,63,76,50,81,45,87,47,94"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#a977f9318008de123876b168dfa86ad22" title=" " alt="" coords="294,29,345,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,93,213,63,279,47,281,52,214,69,135,98"/>
+<area shape="rect" id="Node000003" href="$console_8c.html#a1cf9711475097b11dc41f743254ec77e" title="Prints to all appropriate console targets, and adds timestamps." alt="" coords="277,103,361,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="166,113,263,113,263,118,166,118"/>
+<area shape="rect" id="Node001351" href="$r__shadow_8c.html#af8b412ff853a18ec537a9a8f40c12b29" title=" " alt="" coords="213,176,425,201"/>
+<area shape="poly" id="edge6_Node000001_Node001351" title=" " alt="" coords="151,133,266,169,264,174,149,138"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="292,37,276,26,275,14,290,6,319,3,345,5,360,10,365,20,359,30,355,26,360,20,357,15,343,10,319,8,292,11,280,16,280,23,295,32"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="282,104,273,94,278,84,293,78,319,76,352,80,364,89,361,94,350,85,319,81,294,83,281,88,279,94,286,101"/>
+<area shape="poly" id="edge7_Node001351_Node001351" title=" " alt="" coords="282,178,273,168,278,158,293,152,319,149,352,153,364,163,361,167,350,158,319,155,294,157,281,162,279,167,286,174"/>
+</map>

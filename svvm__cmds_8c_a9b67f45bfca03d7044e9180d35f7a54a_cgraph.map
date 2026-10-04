@@ -1,0 +1,16 @@
+<map id="VM_SV_te_blood" name="VM_SV_te_blood">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,140,136,165"/>
+<area shape="poly" id="edge9_Node000001_Node000001" title=" " alt="" coords="35,142,28,132,32,122,46,116,71,113,101,117,113,126,109,130,99,122,71,119,48,121,35,126,33,131,39,138"/>
+<area shape="rect" id="Node000002" href="$com__msg_8c.html#a7e32b0a419941b93644ba097bb64af96" title=" " alt="" coords="227,29,351,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,138,125,101,153,81,183,64,213,52,215,57,185,68,156,85,128,105,86,142"/>
+<area shape="rect" id="Node000084" href="$com__msg_8c.html#ac6e426b0172856ed312ba223726b33bd" title=" " alt="" coords="227,103,351,128"/>
+<area shape="poly" id="edge3_Node000001_Node000084" title=" " alt="" coords="136,139,213,126,214,131,137,144"/>
+<area shape="rect" id="Node001351" href="$com__msg_8c.html#a68647d195bf6bb737b63063272a8bc86" title=" " alt="" coords="223,176,355,201"/>
+<area shape="poly" id="edge5_Node000001_Node001351" title=" " alt="" coords="137,161,211,173,210,178,136,166"/>
+<area shape="rect" id="Node001218" href="$sv__send_8c.html#a5168dc1804c9aab6f18be82fbaad6e67" title=" " alt="" coords="184,249,395,275"/>
+<area shape="poly" id="edge7_Node000001_Node001218" title=" " alt="" coords="96,163,185,210,249,241,246,246,183,215,94,168"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="254,31,246,21,250,11,265,5,289,3,319,6,331,15,328,20,317,11,289,8,266,10,254,15,252,20,258,28"/>
+<area shape="poly" id="edge4_Node000084_Node000084" title=" " alt="" coords="254,104,246,94,250,84,265,78,289,76,319,80,331,89,328,93,317,85,289,81,266,83,254,88,252,94,258,101"/>
+<area shape="poly" id="edge6_Node001351_Node001351" title=" " alt="" coords="254,178,246,168,250,158,265,152,289,149,319,153,331,162,328,166,317,158,289,155,266,157,254,162,252,167,258,174"/>
+<area shape="poly" id="edge8_Node001218_Node001218" title=" " alt="" coords="254,251,246,241,250,231,265,225,289,223,319,226,331,235,328,240,317,231,289,228,266,230,254,235,252,240,258,248"/>
+</map>

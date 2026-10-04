@@ -1,0 +1,13 @@
+<map id="IN_Move_TouchScreen_SteelStorm" name="IN_Move_TouchScreen_SteelStorm">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,95,172,135"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="48,96,45,86,52,76,66,71,89,69,114,72,128,79,126,84,113,77,89,74,68,76,55,81,50,87,53,94"/>
+<area shape="rect" id="Node000002" href="$vid__sdl_8c.html#a8f8a1923d500d8b6ca4c5bde7f1934ee" title=" " alt="" coords="223,29,391,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="139,93,219,63,244,56,245,61,221,69,141,98"/>
+<area shape="rect" id="Node000003" href="$vid__sdl_8c.html#a0987a1ffb40a3d31f0ab9edde75496d1" title=" " alt="" coords="226,103,389,128"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="172,113,212,113,212,118,172,118"/>
+<area shape="rect" id="Node001353" href="$vid__sdl_8c.html#a1502ace311860fb55511f38bff29e493" title=" " alt="" coords="220,176,395,201"/>
+<area shape="poly" id="edge6_Node000001_Node001353" title=" " alt="" coords="150,133,256,169,254,174,148,138"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="272,31,264,21,268,11,283,5,307,3,338,6,350,15,347,20,336,11,307,8,284,10,272,15,269,20,276,28"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="272,104,264,94,268,84,283,78,307,76,338,80,350,89,347,93,336,85,307,81,284,83,272,88,269,94,276,101"/>
+<area shape="poly" id="edge7_Node001353_Node001353" title=" " alt="" coords="272,178,264,168,268,158,283,152,307,149,338,153,350,162,347,166,336,158,307,155,284,157,272,162,269,167,276,174"/>
+</map>

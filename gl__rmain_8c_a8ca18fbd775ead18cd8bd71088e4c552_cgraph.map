@@ -1,0 +1,16 @@
+<map id="R_ProcessModelTextureSurfaceList" name="R_ProcessModelTextureSurfaceList">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,152,253,177"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="83,154,73,144,78,134,97,127,129,125,171,130,182,135,186,141,181,143,179,139,170,135,129,131,98,133,82,138,78,143,87,150"/>
+<area shape="rect" id="Node000002" href="$gl__rmain_8c.html#a428e17bf58cec11422b12ba6f4d50d04" title=" " alt="" coords="301,29,533,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,150,213,108,256,85,300,65,329,56,330,61,302,70,258,90,215,113,150,154"/>
+<area shape="rect" id="Node001346" href="$gl__rmain_8c.html#aeefeb8c9e836f100de88aadf91b5e94a" title=" " alt="" coords="321,103,513,143"/>
+<area shape="poly" id="edge3_Node000001_Node001346" title=" " alt="" coords="218,149,307,136,308,142,219,155"/>
+<area shape="rect" id="Node001347" href="$gl__rmain_8c.html#a9cf0624a426c70097329fdb3f9c69378" title=" " alt="" coords="306,192,529,217"/>
+<area shape="poly" id="edge5_Node000001_Node001347" title=" " alt="" coords="222,175,312,187,312,193,221,180"/>
+<area shape="rect" id="Node001348" href="$gl__rmain_8c.html#a9f39a2b157f2f08ecc09e4548199692c" title=" " alt="" coords="311,266,523,306"/>
+<area shape="poly" id="edge8_Node000001_Node001348" title=" " alt="" coords="162,175,357,258,355,263,160,180"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="371,31,361,21,366,11,385,5,417,3,459,7,470,12,474,18,469,21,467,16,458,12,417,8,386,10,370,15,366,20,375,27"/>
+<area shape="poly" id="edge4_Node001346_Node001346" title=" " alt="" coords="364,104,361,94,370,84,388,79,417,77,451,79,469,87,467,92,449,85,417,82,389,84,372,89,366,95,369,102"/>
+<area shape="poly" id="edge6_Node001347_Node001347" title=" " alt="" coords="371,194,361,184,366,174,385,167,417,165,459,170,470,175,474,181,469,183,467,179,458,175,417,171,386,173,370,178,366,183,375,190"/>
+<area shape="poly" id="edge9_Node001348_Node001348" title=" " alt="" coords="364,267,361,256,370,247,388,241,417,239,451,242,469,249,467,254,449,247,417,245,389,247,372,252,366,257,369,265"/>
+</map>

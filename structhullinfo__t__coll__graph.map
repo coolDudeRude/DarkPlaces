@@ -1,0 +1,7 @@
+<map id="hullinfo_t" name="hullinfo_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="29,101,111,127"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,44,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="23,44,24,61,28,76,38,89,50,99,47,103,34,93,24,79,19,61,18,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="90,5,141,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="106,44,78,102,73,100,101,42"/>
+</map>

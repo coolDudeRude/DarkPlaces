@@ -1,0 +1,10 @@
+<map id="Draw_Frame" name="Draw_Frame">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,109,92"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="23,68,16,58,20,48,34,42,57,40,86,44,98,53,94,57,84,49,57,45,35,47,23,52,21,58,27,65"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#a2696300802453d9333e9f52e5fae15bc" title="A Con_Printf that only shows up if the &quot;developer&quot; cvar is set." alt="" coords="218,29,317,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,68,204,50,205,56,110,73"/>
+<area shape="rect" id="Node000134" href="$gl__rmain_8c.html#ab57d3b15b1bdb498f4b0173fa69e9ccf" title=" " alt="" coords="157,103,377,128"/>
+<area shape="poly" id="edge4_Node000001_Node000134" title=" " alt="" coords="110,86,179,98,178,103,109,91"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="233,31,226,21,230,11,244,5,267,3,296,6,308,15,304,20,294,11,267,8,245,10,233,15,231,20,237,28"/>
+<area shape="poly" id="edge5_Node000134_Node000134" title=" " alt="" coords="233,104,226,94,230,84,244,78,267,76,296,80,308,89,304,93,294,85,267,81,245,83,233,88,231,94,237,101"/>
+</map>

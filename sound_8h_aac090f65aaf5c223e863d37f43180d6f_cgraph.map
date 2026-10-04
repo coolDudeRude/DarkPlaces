@@ -1,0 +1,14 @@
+<map id="S_Shutdown" name="S_Shutdown">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,91,107,116"/>
+<area shape="rect" id="Node000002" href="$cd__shared_8c.html#acb77f855434ee30ba03466b12ee0128d" title=" " alt="" coords="304,29,453,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,88,111,68,154,51,223,39,290,36,290,41,223,45,155,57,113,73,78,93"/>
+<area shape="rect" id="Node001352" href="$snd__main_8c.html#aac090f65aaf5c223e863d37f43180d6f" title=" " alt="" coords="155,91,256,116"/>
+<area shape="poly" id="edge3_Node000001_Node001352" title=" " alt="" coords="107,101,141,101,141,106,107,106"/>
+<area shape="rect" id="Node000485" href="$snd__sdl_8c.html#abd6aef3b99a16ac8098a00e22a9d3c70" title="Stop the sound card, delete &quot;snd_renderbuffer&quot; and free its other resources." alt="" coords="309,116,449,141"/>
+<area shape="poly" id="edge8_Node000001_Node000485" title=" " alt="" coords="97,113,155,126,226,131,294,131,294,136,226,137,154,131,96,119"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="350,31,344,21,347,11,359,5,379,3,403,6,413,15,409,19,400,11,379,8,360,10,351,15,349,20,354,28"/>
+<area shape="poly" id="edge4_Node001352_Node000002" title=" " alt="" coords="241,88,328,57,330,62,243,93"/>
+<area shape="poly" id="edge5_Node001352_Node001352" title=" " alt="" coords="180,92,175,82,178,73,188,66,205,64,226,68,235,76,231,80,223,72,205,69,190,71,182,76,180,82,185,89"/>
+<area shape="poly" id="edge6_Node001352_Node000485" title=" " alt="" coords="256,108,296,114,295,119,256,113"/>
+<area shape="poly" id="edge7_Node000485_Node000485" title=" " alt="" coords="350,117,344,108,347,98,359,92,379,89,403,93,413,102,409,106,400,98,379,95,360,97,351,101,349,107,354,114"/>
+</map>

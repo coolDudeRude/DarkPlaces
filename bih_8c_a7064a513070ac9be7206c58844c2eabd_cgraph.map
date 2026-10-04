@@ -1,0 +1,7 @@
+<map id="BIH_GetTriangleListForBox" name="BIH_GetTriangleListForBox">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,200,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="60,31,51,21,56,11,73,5,103,3,140,7,150,12,154,18,149,20,147,16,139,12,103,8,75,10,60,15,57,20,64,27"/>
+<area shape="rect" id="Node000002" href="$bih_8c.html#a7c04e83ad83eeb8ec08f01d22b7a4fbf" title=" " alt="" coords="248,29,483,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="200,39,234,39,234,45,200,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="323,31,314,21,319,11,336,5,365,3,403,7,413,12,417,18,412,20,409,16,401,12,365,8,337,10,322,15,319,20,327,27"/>
+</map>

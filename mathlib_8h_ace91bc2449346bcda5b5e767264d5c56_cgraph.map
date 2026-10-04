@@ -1,0 +1,19 @@
+<map id="ByteToNormal" name="ByteToNormal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,176,120,201"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="31,177,24,168,27,158,41,152,63,149,89,153,101,162,97,166,87,158,63,155,42,157,31,161,29,167,35,174"/>
+<area shape="rect" id="Node000002" href="$mathlib_8c.html#abcfd2eb08af2296b6ea28caf16717a09" title=" " alt="" coords="206,29,313,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="69,174,106,121,134,90,167,64,192,52,194,57,169,68,137,94,110,124,73,177"/>
+<area shape="rect" id="Node000005" href="$mathlib_8c.html#a238ad8cc78eb566939bca649fc174b81" title="divVerent: improper matrix version of AngleVectors" alt="" coords="168,103,351,128"/>
+<area shape="poly" id="edge3_Node000001_Node000005" title=" " alt="" coords="87,173,167,137,190,129,192,134,169,142,89,178"/>
+<area shape="rect" id="Node000008" href="$mathlib_8c.html#a68343c3e63e5a3525b343622bd6c81e7" title="LadyHavoc: proper matrix version of AngleVectors." alt="" coords="193,176,325,201"/>
+<area shape="poly" id="edge5_Node000001_Node000008" title=" " alt="" coords="120,186,180,186,180,191,120,191"/>
+<area shape="rect" id="Node000009" href="$mathlib_8c.html#ae13838ed221db9a75c610ad2a8809f55" title=" " alt="" coords="187,249,332,275"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="99,199,212,242,210,247,97,204"/>
+<area shape="rect" id="Node000010" href="$mathlib_8c.html#a9585f01d076a6e7ba394542c30dce373" title=" " alt="" coords="182,323,337,348"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="78,200,117,239,170,284,220,314,217,319,166,288,113,243,74,204"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="227,31,220,21,224,11,237,5,259,3,286,6,297,15,294,19,284,11,259,8,239,10,228,15,226,20,231,28"/>
+<area shape="poly" id="edge4_Node000005_Node000005" title=" " alt="" coords="227,104,220,94,224,84,237,78,259,76,286,80,297,88,294,93,284,84,259,81,239,83,228,88,226,94,231,101"/>
+<area shape="poly" id="edge6_Node000008_Node000008" title=" " alt="" coords="227,177,220,168,224,158,237,152,259,149,286,153,297,162,294,166,284,158,259,155,239,157,228,161,226,167,231,174"/>
+<area shape="poly" id="edge9_Node000009_Node000009" title=" " alt="" coords="227,251,220,241,224,231,237,225,259,223,286,226,297,235,294,239,284,231,259,228,239,230,228,235,226,240,231,248"/>
+<area shape="poly" id="edge11_Node000010_Node000010" title=" " alt="" coords="227,324,220,314,224,304,237,298,259,296,286,300,297,308,294,313,284,304,259,301,239,303,228,308,226,314,231,321"/>
+</map>

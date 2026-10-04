@@ -1,0 +1,11 @@
+<map id="Sys_Printf" name="Sys_Printf">
+<area shape="rect" id="Node000001" title="used to report failures inside Con_Printf()" alt="" coords="5,55,92,80"/>
+<area shape="poly" id="edge6_Node000001_Node000001" title=" " alt="" coords="25,56,20,46,23,37,33,30,49,28,68,32,76,40,72,44,65,36,49,33,34,35,27,40,25,46,30,53"/>
+<area shape="rect" id="Node000002" href="$common_8c.html#a17e9040af1baa7e1a61a6a47f776eca5" title="Returns the number of printed characters, excluding the final &#39;\0&#39; or returns &#45;1 if the buffer isn&#39;t ..." alt="" coords="140,29,236,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,57,126,51,127,56,93,62"/>
+<area shape="rect" id="Node000003" href="$sys__shared_8c.html#a277828e69bb595765f2e8fbd5e5eeb7c" title="(may) output text to terminal which launched program is POSIX async&#45;signal&#45;safe textlen excludes any ..." alt="" coords="284,55,367,80"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="92,65,270,65,270,70,92,70"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="165,30,160,21,162,11,172,5,188,3,207,6,215,14,211,18,204,11,188,8,174,10,167,15,165,20,169,28"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="237,48,271,55,270,60,236,53"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="302,56,297,46,300,37,309,30,325,28,344,31,352,40,348,43,341,36,325,33,311,35,304,40,303,46,307,53"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="Collision_ClipTrace_Box" name="Collision_ClipTrace_Box">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,118,181,143"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="52,120,43,110,48,100,65,94,93,91,129,95,139,100,143,106,139,109,136,104,128,100,93,97,66,99,52,104,49,109,56,116"/>
+<area shape="rect" id="Node000002" href="$collision_8c.html#ace76d9667f9f0091625cc36c56562c94" title=" " alt="" coords="257,29,439,69"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="126,115,228,79,255,71,257,76,230,84,128,120"/>
+<area shape="rect" id="Node000007" href="$console_8c.html#a49b71fe9a87e57a440e07af4a869a9f6" title="Prints to all appropriate console targets." alt="" coords="303,118,393,143"/>
+<area shape="poly" id="edge4_Node000001_Node000007" title=" " alt="" coords="181,128,289,128,289,133,181,133"/>
+<area shape="rect" id="Node001348" href="$model__brush_8c.html#a8d43db3c6411b8f6185db74c7466b15a" title=" " alt="" coords="229,191,467,217"/>
+<area shape="poly" id="edge6_Node000001_Node001348" title=" " alt="" coords="139,141,291,185,289,190,138,146"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="301,30,298,20,306,10,322,5,348,3,377,6,393,13,391,18,376,11,348,8,323,10,309,15,303,21,306,28"/>
+<area shape="poly" id="edge5_Node000007_Node000007" title=" " alt="" coords="307,120,298,110,303,100,320,94,348,91,384,95,394,100,398,106,393,109,390,104,382,100,348,97,321,99,306,104,303,109,311,116"/>
+<area shape="poly" id="edge7_Node001348_Node001348" title=" " alt="" coords="307,193,298,183,303,173,320,167,348,165,384,169,394,173,398,179,393,182,390,177,382,174,348,170,321,172,306,177,303,182,311,189"/>
+</map>

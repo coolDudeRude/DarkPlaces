@@ -1,0 +1,10 @@
+<map id="VM_SV_dropclient" name="VM_SV_dropclient">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,144,92"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="46,68,40,58,43,49,55,42,75,40,99,44,109,52,105,56,96,48,75,45,56,47,47,52,45,58,50,65"/>
+<area shape="rect" id="Node000002" href="$sv__main_8c.html#a5868c1171c396bbf823341f8a6559d78" title=" " alt="" coords="192,29,307,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,64,178,54,179,60,135,69"/>
+<area shape="rect" id="Node000515" href="$prvm__cmds_8c.html#a839f28438a1ca0de7c2d772295e1763a" title=" " alt="" coords="198,103,301,128"/>
+<area shape="poly" id="edge4_Node000001_Node000515" title=" " alt="" coords="137,89,185,99,184,105,136,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="220,31,214,21,218,11,230,5,249,3,273,6,283,15,280,19,271,11,249,8,231,10,222,15,220,20,225,28"/>
+<area shape="poly" id="edge5_Node000515_Node000515" title=" " alt="" coords="220,104,214,94,218,85,230,78,249,76,273,80,283,88,280,92,271,84,249,81,231,83,222,88,220,94,225,101"/>
+</map>

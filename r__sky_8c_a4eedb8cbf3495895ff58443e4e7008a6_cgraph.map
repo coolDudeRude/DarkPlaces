@@ -1,0 +1,10 @@
+<map id="R_SkyBox" name="R_SkyBox">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,92,92"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="18,68,11,58,15,48,27,42,49,40,74,44,85,52,82,56,72,48,49,45,29,47,19,52,16,58,22,65"/>
+<area shape="rect" id="Node000002" href="$gl__rmain_8c.html#a36f19cdd7a555b8122917b8c887d7750" title=" " alt="" coords="151,29,322,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,68,159,55,160,60,93,73"/>
+<area shape="rect" id="Node000653" href="$gl__rmain_8c.html#af224655903019505e9e0a05624281315" title=" " alt="" coords="140,103,333,128"/>
+<area shape="poly" id="edge4_Node000001_Node000653" title=" " alt="" coords="93,85,157,97,156,103,92,90"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="206,31,199,21,203,11,215,5,237,3,262,6,273,15,270,19,260,11,237,8,217,10,207,15,204,20,210,28"/>
+<area shape="poly" id="edge5_Node000653_Node000653" title=" " alt="" coords="206,104,199,94,203,84,215,78,237,76,262,80,273,88,270,92,260,84,237,81,217,83,207,88,204,94,210,101"/>
+</map>

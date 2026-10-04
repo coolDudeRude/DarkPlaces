@@ -1,0 +1,13 @@
+<map id="ConBuffer_AddLine" name="ConBuffer_AddLine">
+<area shape="rect" id="Node000001" title="Appends a given string as a new line to the console." alt="" coords="5,103,151,128"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="45,104,38,94,42,84,55,78,78,76,106,80,117,89,114,93,104,85,78,81,57,83,46,88,43,94,49,101"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#af894c57d604438464aac8127041c3305" title=" " alt="" coords="203,29,357,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="107,100,198,63,220,56,221,61,200,69,109,105"/>
+<area shape="rect" id="Node000003" href="$console_8c.html#a54e572d817a4b16e430bb528e4de8f29" title="Deletes the first line from the console history." alt="" coords="199,103,361,128"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="151,113,185,113,185,118,151,118"/>
+<area shape="rect" id="Node000004" href="$console_8c.html#a254291ab0a3e6c4bec025b7c83538310" title=" " alt="" coords="204,176,356,201"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="115,126,232,169,230,174,113,131"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="247,31,240,21,244,11,257,5,280,3,308,6,319,16,316,20,306,11,280,8,259,10,248,15,245,20,251,28"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="247,104,240,94,244,84,257,78,280,76,308,80,319,89,316,93,306,85,280,81,259,83,248,88,245,94,251,101"/>
+<area shape="poly" id="edge7_Node000004_Node000004" title=" " alt="" coords="247,177,240,168,244,158,257,152,280,149,308,153,319,162,316,166,306,158,280,155,259,157,248,161,245,167,251,174"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="VM_modulo" name="VM_modulo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,104,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="30,31,25,21,27,11,38,5,55,3,75,6,84,15,80,18,72,11,55,8,39,10,32,15,30,20,34,28"/>
+<area shape="rect" id="Node000002" href="$prvm__cmds_8c.html#a839f28438a1ca0de7c2d772295e1763a" title=" " alt="" coords="152,29,255,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="104,39,138,39,138,45,104,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="178,31,173,21,176,11,186,5,203,3,224,6,232,15,229,18,221,11,203,8,188,10,180,15,179,20,183,28"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="Collision_ClipLineToWorld" name="Collision_ClipLineToWorld">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,193,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="60,68,51,58,56,48,72,42,99,40,134,44,143,49,147,54,143,57,140,53,132,49,99,45,73,47,59,52,57,58,64,65"/>
+<area shape="rect" id="Node000002" href="$collision_8c.html#a2ef7f3264dca43fa47f029e0cd2375ca" title=" " alt="" coords="247,29,441,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,64,246,54,247,59,183,69"/>
+<area shape="rect" id="Node000003" href="$collision_8c.html#aab34543bca68a0695653e01716dc8a10" title=" " alt="" coords="241,103,447,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="186,89,245,98,244,103,186,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="305,31,296,21,301,11,317,5,344,3,378,7,388,11,392,17,387,20,384,15,377,12,344,8,318,10,304,15,301,20,309,27"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="305,104,296,94,301,84,317,78,344,76,378,80,388,85,392,90,387,93,384,89,377,85,344,81,318,83,304,88,301,94,309,101"/>
+</map>

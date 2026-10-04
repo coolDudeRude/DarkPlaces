@@ -1,0 +1,14 @@
+<map id="R_SetupShader_SetPermutationGLSL" name="R_SetupShader_SetPermutationGLSL">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,265,92"/>
+<area shape="poly" id="edge8_Node000001_Node000001" title=" " alt="" coords="90,69,80,58,85,48,104,42,135,40,176,44,187,49,191,56,186,58,184,53,175,49,135,45,105,47,88,52,85,58,94,65"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#a2696300802453d9333e9f52e5fae15bc" title="A Con_Printf that only shows up if the &quot;developer&quot; cvar is set." alt="" coords="572,29,671,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,64,236,44,313,27,372,21,418,20,524,27,558,30,558,36,524,33,418,26,372,26,314,33,237,49,172,69"/>
+<area shape="rect" id="Node001344" href="$gl__rmain_8c.html#a77aeb1178b8ba911a1063f2f4d956b21" title=" " alt="" coords="313,67,524,92"/>
+<area shape="poly" id="edge3_Node000001_Node001344" title=" " alt="" coords="265,77,300,77,300,82,265,82"/>
+<area shape="rect" id="Node001349" href="$gl__rmain_8c.html#abbed883682caa6dd73dbd7c4bf1ab15d" title=" " alt="" coords="327,140,511,165"/>
+<area shape="poly" id="edge6_Node000001_Node001349" title=" " alt="" coords="186,90,356,134,355,139,185,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="588,31,581,21,585,11,598,5,621,3,650,6,661,16,657,20,647,11,621,8,600,10,588,15,586,20,592,28"/>
+<area shape="poly" id="edge4_Node001344_Node000002" title=" " alt="" coords="488,64,558,51,559,56,489,69"/>
+<area shape="poly" id="edge5_Node001344_Node001344" title=" " alt="" coords="385,68,378,58,382,48,396,42,419,40,447,44,458,53,455,57,445,49,419,45,397,47,386,52,383,58,390,65"/>
+<area shape="poly" id="edge7_Node001349_Node001349" title=" " alt="" coords="385,142,378,132,382,122,396,116,419,113,447,117,458,126,455,130,445,122,419,119,397,121,386,125,383,131,390,138"/>
+</map>

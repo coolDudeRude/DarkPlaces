@@ -1,0 +1,7 @@
+<map id="CDAudio_Resume" name="CDAudio_Resume">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,144,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="44,31,37,21,41,11,53,5,75,3,100,6,111,15,108,19,98,11,75,8,55,10,45,15,42,20,48,28"/>
+<area shape="rect" id="Node000002" href="$snd__main_8c.html#ab16d95df142e5569687863559c471eeb" title=" " alt="" coords="192,29,331,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="145,39,178,39,178,45,145,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="230,31,224,21,227,11,240,5,261,3,287,6,298,15,294,19,285,11,261,8,242,10,231,15,229,20,235,28"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="R_Shadow_LoadWorldLights" name="R_Shadow_LoadWorldLights">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,249,208,275"/>
+<area shape="poly" id="edge9_Node000001_Node000001" title=" " alt="" coords="66,251,57,241,61,231,78,225,107,223,142,227,153,231,156,237,152,240,149,235,141,232,107,228,79,230,65,235,62,240,70,247"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#a1cf9711475097b11dc41f743254ec77e" title="Prints to all appropriate console targets, and adds timestamps." alt="" coords="320,29,404,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,248,130,211,161,161,203,108,227,84,255,64,279,52,306,44,307,50,281,57,257,68,231,88,207,112,165,164,135,213,116,250"/>
+<area shape="rect" id="Node000014" href="$console_8c.html#a49b71fe9a87e57a440e07af4a869a9f6" title="Prints to all appropriate console targets." alt="" coords="317,103,407,128"/>
+<area shape="poly" id="edge3_Node000001_Node000014" title=" " alt="" coords="118,247,173,193,212,163,255,137,303,121,305,126,257,142,215,167,177,197,121,251"/>
+<area shape="rect" id="Node000022" href="$common_8c.html#ae36050083f45e395189fee6aa45fbb0c" title="Returns the number of printed characters, excluding the final &#39;\0&#39; or returns &#45;1 if the buffer isn&#39;t ..." alt="" coords="318,176,406,201"/>
+<area shape="poly" id="edge5_Node000001_Node000022" title=" " alt="" coords="142,247,255,210,304,198,305,203,257,215,144,252"/>
+<area shape="rect" id="Node000170" href="$fs_8c.html#a46b9b5ad3cc14f77ae63016505163128" title=" " alt="" coords="313,249,411,275"/>
+<area shape="poly" id="edge7_Node000001_Node000170" title=" " alt="" coords="208,259,299,259,299,265,208,265"/>
+<area shape="rect" id="Node001351" href="$r__shadow_8c.html#aa576ab139fb12bd530a37b2710500086" title=" " alt="" coords="265,323,459,348"/>
+<area shape="poly" id="edge10_Node000001_Node001351" title=" " alt="" coords="153,272,304,316,303,321,151,277"/>
+<area shape="rect" id="Node001352" href="$r__shadow_8c.html#af8b412ff853a18ec537a9a8f40c12b29" title=" " alt="" coords="256,396,468,421"/>
+<area shape="poly" id="edge12_Node000001_Node001352" title=" " alt="" coords="127,273,184,312,257,357,319,388,317,393,255,362,181,316,124,277"/>
+<area shape="rect" id="Node000028" href="$menudefs_8qc.html#a274680f571a231ddf29421b93d434bfa" title=" " alt="" coords="333,469,391,495"/>
+<area shape="poly" id="edge14_Node000001_Node000028" title=" " alt="" coords="118,273,172,345,212,390,258,431,289,450,321,465,318,470,286,455,254,435,208,394,168,349,114,276"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="321,31,312,21,317,11,334,5,362,3,398,7,408,11,412,17,407,20,404,15,396,12,362,8,335,10,320,15,317,20,325,27"/>
+<area shape="poly" id="edge4_Node000014_Node000014" title=" " alt="" coords="321,104,312,94,317,84,334,78,362,76,398,80,408,85,412,90,407,93,404,89,396,85,362,81,335,83,320,88,317,94,325,101"/>
+<area shape="poly" id="edge6_Node000022_Node000022" title=" " alt="" coords="321,178,312,168,317,158,334,152,362,149,398,153,408,158,412,164,407,167,404,162,396,158,362,155,335,157,320,162,317,167,325,174"/>
+<area shape="poly" id="edge8_Node000170_Node000170" title=" " alt="" coords="321,251,312,241,317,231,334,225,362,223,398,227,408,231,412,237,407,240,404,235,396,232,362,228,335,230,320,235,317,240,325,247"/>
+<area shape="poly" id="edge11_Node001351_Node001351" title=" " alt="" coords="321,324,312,314,317,304,334,298,362,296,398,300,408,305,412,310,407,313,404,309,396,305,362,301,335,303,320,308,317,314,325,321"/>
+<area shape="poly" id="edge13_Node001352_Node001352" title=" " alt="" coords="321,398,312,388,317,378,334,372,362,369,398,373,408,378,412,384,407,387,404,382,396,378,362,375,335,377,320,382,317,387,325,394"/>
+<area shape="poly" id="edge15_Node000028_Node000028" title=" " alt="" coords="331,476,314,465,314,454,331,445,362,443,389,445,406,450,412,459,406,469,401,466,407,459,403,454,388,450,362,448,332,451,319,456,319,463,334,472"/>
+</map>

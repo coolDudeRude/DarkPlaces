@@ -1,0 +1,7 @@
+<map id="Cmd_CompleteNicksPrint" name="Cmd_CompleteNicksPrint">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,193,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="68,31,62,21,65,11,78,5,99,3,125,6,136,15,132,19,123,11,99,8,80,10,69,15,67,20,73,28"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#a49b71fe9a87e57a440e07af4a869a9f6" title="Prints to all appropriate console targets." alt="" coords="241,29,331,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="194,39,228,39,228,45,194,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="255,31,249,21,252,11,265,5,286,3,312,6,322,15,319,19,310,11,286,8,266,10,256,15,254,20,259,28"/>
+</map>

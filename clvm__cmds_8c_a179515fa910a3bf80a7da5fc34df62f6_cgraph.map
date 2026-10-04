@@ -1,0 +1,10 @@
+<map id="VM_CL_boxparticles" name="VM_CL_boxparticles">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,159,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="51,68,45,58,48,49,61,42,82,40,107,44,118,52,115,56,105,48,82,45,63,47,52,52,50,58,56,65"/>
+<area shape="rect" id="Node000002" href="$cl__particles_8c.html#a8dac8a7bb2e62c2ddd6712c7e242ae7f" title=" " alt="" coords="207,29,326,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,64,193,54,194,59,146,69"/>
+<area shape="rect" id="Node001107" href="$cl__particles_8c.html#a1118bc3a4040530d1ef0f43ad4e61ff0" title=" " alt="" coords="207,103,327,128"/>
+<area shape="poly" id="edge3_Node000001_Node001107" title=" " alt="" coords="148,89,194,99,193,104,147,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="236,31,230,21,233,11,246,5,267,3,292,6,303,15,299,19,290,11,267,8,247,10,237,15,235,20,240,28"/>
+<area shape="poly" id="edge4_Node001107_Node001107" title=" " alt="" coords="236,104,230,94,233,85,246,78,267,76,292,80,303,88,299,92,290,84,267,81,247,83,237,88,235,94,240,101"/>
+</map>

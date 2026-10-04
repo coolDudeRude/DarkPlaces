@@ -1,0 +1,8 @@
+<map id="input.h" name="input.h">
+<area shape="rect" id="Node000001" title="&#45;&#45; external (non&#45;keyboard) input devices" alt="" coords="11,5,78,31"/>
+<area shape="rect" id="Node000002" href="$qtypes_8h.html" title=" " alt="" coords="5,152,84,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="45,31,39,79,43,138,38,138,34,79,40,31"/>
+<area shape="rect" id="Node000006" href="$cvar_8h.html" title=" " alt="" coords="49,79,110,104"/>
+<area shape="poly" id="edge2_Node000001_Node000006" title=" " alt="" coords="53,30,70,65,65,67,48,32"/>
+<area shape="poly" id="edge3_Node000006_Node000002" title=" " alt="" coords="76,106,59,141,54,138,71,103"/>
+</map>

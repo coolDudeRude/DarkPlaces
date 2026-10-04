@@ -1,0 +1,10 @@
+<map id="VM_uncolorstring" name="VM_uncolorstring">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,140,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="40,68,33,58,37,48,50,42,73,40,100,44,111,52,108,57,98,48,73,45,52,47,41,52,38,58,44,65"/>
+<area shape="rect" id="Node000002" href="$common_8c.html#a741e033af45e982077cff6e0679fa435" title=" " alt="" coords="188,29,355,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,64,190,55,191,60,141,69"/>
+<area shape="rect" id="Node000003" href="$prvm__edict_8c.html#a1d2244b6253cecef732afeb0bf1d393f" title="Takes an strlen (not a buffer size)." alt="" coords="191,103,352,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="141,89,188,98,187,103,140,94"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="239,31,232,21,235,11,249,5,271,3,298,6,310,15,306,19,296,11,271,8,250,10,239,15,237,20,243,28"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="239,104,232,94,235,84,249,78,271,76,298,80,310,88,306,93,296,84,271,81,250,83,239,88,237,94,243,101"/>
+</map>

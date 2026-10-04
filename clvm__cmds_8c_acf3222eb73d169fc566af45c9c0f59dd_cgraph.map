@@ -1,0 +1,17 @@
+<map id="VM_CL_te_explosionrgb" name="VM_CL_te_explosionrgb">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,117,183,143"/>
+<area shape="poly" id="edge10_Node000001_Node000001" title=" " alt="" coords="56,119,48,109,52,99,68,93,94,91,127,95,140,104,136,108,125,99,94,96,69,98,55,103,53,108,60,115"/>
+<area shape="rect" id="Node000002" href="$cl__main_8c.html#a7146da0ac71b5c324880f55a64c76f57" title=" " alt="" coords="257,29,401,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,115,230,72,273,56,275,61,232,76,126,120"/>
+<area shape="rect" id="Node000003" href="$cl__collision_8c.html#ac7dbc515a87649cf46e59ac91ba1803f" title=" " alt="" coords="476,55,661,80"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="183,116,462,79,462,84,183,121"/>
+<area shape="rect" id="Node000009" href="$cl__particles_8c.html#a81554b0a87175c4d2023705190f523b7" title=" " alt="" coords="251,155,407,180"/>
+<area shape="poly" id="edge6_Node000001_Node000009" title=" " alt="" coords="175,140,238,150,237,155,174,145"/>
+<area shape="rect" id="Node000327" href="$matrixlib_8c.html#a5bd9dc17773c5e84269f7a32f56251a1" title=" " alt="" coords="231,228,428,253"/>
+<area shape="poly" id="edge8_Node000001_Node000327" title=" " alt="" coords="123,140,290,220,288,224,121,145"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="291,31,283,21,287,11,303,5,329,3,362,7,375,16,372,20,360,11,329,8,304,10,291,15,288,20,295,27"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="402,47,463,53,462,59,401,52"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="530,56,522,46,526,36,542,30,569,28,602,32,615,41,611,46,600,37,569,33,543,35,530,40,527,46,534,53"/>
+<area shape="poly" id="edge7_Node000009_Node000009" title=" " alt="" coords="291,156,283,146,287,136,303,130,329,128,362,132,375,141,372,146,360,137,329,133,304,135,291,140,288,146,295,153"/>
+<area shape="poly" id="edge9_Node000327_Node000327" title=" " alt="" coords="291,230,283,220,287,210,303,204,329,201,362,205,375,215,372,219,360,210,329,207,304,209,291,214,288,219,295,226"/>
+</map>

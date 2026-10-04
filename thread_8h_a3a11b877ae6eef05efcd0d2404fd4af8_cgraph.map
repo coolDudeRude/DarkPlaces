@@ -1,0 +1,7 @@
+<map id="_Thread_AtomicTryLock" name="_Thread_AtomicTryLock">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,181,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="64,31,57,21,61,11,73,5,93,3,118,6,128,15,125,19,116,11,93,8,74,10,65,15,63,20,68,28"/>
+<area shape="rect" id="Node000002" href="$sys__shared_8c.html#a2e96c9ccfa6d43e1677769d19dbc1a21" title="used to report failures inside Con_Printf()" alt="" coords="229,29,316,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="181,39,216,39,216,45,181,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="243,31,237,21,240,11,252,5,273,3,297,6,308,15,304,19,295,11,273,8,254,10,244,15,242,20,247,28"/>
+</map>

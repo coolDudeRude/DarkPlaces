@@ -1,0 +1,7 @@
+<map id="CL_CheckRequiredFuncs" name="CL_CheckRequiredFuncs">
+<area shape="rect" id="Node000001" title="Previous DP versions declined to load csprogs if it lacked any of: CSQC_Init, CSQC_InputEvent,..." alt="" coords="5,29,185,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="59,31,51,21,55,11,70,5,95,3,127,7,139,16,136,20,125,11,95,8,71,10,59,15,56,20,63,27"/>
+<area shape="rect" id="Node000002" href="$prvm__edict_8c.html#a4ca56e4f77a831d22203aae87038ffb9" title=" " alt="" coords="233,29,408,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="186,39,220,39,220,45,186,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="284,31,276,21,280,11,296,5,321,3,352,7,364,16,361,20,350,11,321,8,297,10,284,15,281,20,288,27"/>
+</map>

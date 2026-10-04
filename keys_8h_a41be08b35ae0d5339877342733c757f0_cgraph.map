@@ -1,0 +1,14 @@
+<map id="Key_AddChar" name="Key_AddChar">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,113,92"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="34,68,28,58,31,49,42,42,59,40,80,43,89,52,86,56,78,48,59,45,44,47,35,52,34,58,38,65"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#a274680f571a231ddf29421b93d434bfa" title=" " alt="" coords="313,29,372,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="79,64,116,44,161,27,197,22,234,22,300,30,299,35,234,27,198,28,162,33,118,49,81,69"/>
+<area shape="rect" id="Node000003" href="$utf8lib_8c.html#a278996c25827af792ebbe5cd70a389eb" title="Get the number of bytes used in a string to represent an amount of characters." alt="" coords="166,67,261,92"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="114,77,152,77,152,82,114,82"/>
+<area shape="rect" id="Node000005" href="$utf8lib_8c.html#a65abb13b334213c144854722aa2823ce" title="Encode a wide&#45;character into utf&#45;8." alt="" coords="161,140,265,165"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="88,90,174,132,172,136,86,95"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="321,30,316,21,318,11,328,5,343,3,360,6,368,14,364,18,358,11,343,8,330,10,323,14,321,20,325,28"/>
+<area shape="poly" id="edge5_Node000003_Node000002" title=" " alt="" coords="257,64,299,52,301,57,259,69"/>
+<area shape="poly" id="edge6_Node000003_Node000003" title=" " alt="" coords="191,68,187,58,189,49,198,42,213,40,231,43,239,52,235,55,228,48,213,45,200,47,194,52,192,58,196,65"/>
+<area shape="poly" id="edge8_Node000005_Node000005" title=" " alt="" coords="191,141,187,132,189,122,198,116,213,113,231,117,239,125,235,129,228,121,213,119,200,121,194,125,192,131,196,139"/>
+</map>

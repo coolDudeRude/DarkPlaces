@@ -1,0 +1,9 @@
+<map id="gltexturepool_t" name="gltexturepool_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="124,101,245,127"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,87,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,38,119,75,162,99,159,104,117,80,67,42"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="111,5,258,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,45,187,101,182,101,182,45"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="283,5,457,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="336,39,209,104,206,99,334,35"/>
+</map>

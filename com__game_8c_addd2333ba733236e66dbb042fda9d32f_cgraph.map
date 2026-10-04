@@ -1,0 +1,7 @@
+<map id="COM_SetGameType" name="COM_SetGameType">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,156,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="50,31,44,21,47,11,60,5,81,3,106,6,117,15,113,19,104,11,81,8,61,10,51,15,49,20,54,28"/>
+<area shape="rect" id="Node000002" href="$sys__shared_8c.html#ae9b9461780a044853793708c49317b28" title=" " alt="" coords="204,29,329,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="156,39,190,39,190,45,156,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="236,31,230,21,233,11,246,5,267,3,292,6,303,15,299,19,290,11,267,8,247,10,237,15,235,20,240,28"/>
+</map>

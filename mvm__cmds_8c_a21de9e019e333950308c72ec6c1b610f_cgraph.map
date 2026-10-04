@@ -1,0 +1,10 @@
+<map id="VM_M_getgamedirinfo" name="VM_M_getgamedirinfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,175,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="55,68,48,58,51,48,66,42,90,40,120,44,131,53,128,57,118,49,90,45,67,47,55,52,53,58,59,65"/>
+<area shape="rect" id="Node000002" href="$prvm__edict_8c.html#a1d2244b6253cecef732afeb0bf1d393f" title="Takes an strlen (not a buffer size)." alt="" coords="223,29,384,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,64,217,54,217,60,164,69"/>
+<area shape="rect" id="Node000029" href="$menudefs_8qc.html#a274680f571a231ddf29421b93d434bfa" title=" " alt="" coords="274,103,333,128"/>
+<area shape="poly" id="edge3_Node000001_Node000029" title=" " alt="" coords="166,89,261,106,260,111,165,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="268,31,261,21,265,11,279,5,303,3,333,6,345,15,342,20,331,11,303,8,281,10,269,15,266,20,273,28"/>
+<area shape="poly" id="edge4_Node000029_Node000029" title=" " alt="" coords="272,107,262,96,264,86,278,78,303,76,337,81,345,88,345,96,340,96,340,90,335,86,303,81,279,84,268,89,267,95,276,103"/>
+</map>

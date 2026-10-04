@@ -1,0 +1,7 @@
+<map id="md3vertex_t" name="md3vertex_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="25,121,131,147"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,60,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="38,44,43,70,52,96,69,120,64,123,48,99,38,71,33,45"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="84,5,165,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="119,45,98,98,86,122,82,120,93,96,114,43"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="CL_Particles_LoadEffectInfo" name="CL_Particles_LoadEffectInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,205,128"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="65,104,56,94,61,84,78,78,105,76,140,80,150,85,154,90,150,93,147,89,139,85,105,81,79,83,65,88,62,94,69,101"/>
+<area shape="rect" id="Node000002" href="$cl__particles_8c.html#acb72ba9b63a0f7a51cea2412211034b3" title=" " alt="" coords="253,29,457,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="141,100,253,63,283,55,284,61,254,69,143,105"/>
+<area shape="rect" id="Node000025" href="$common_8c.html#ae36050083f45e395189fee6aa45fbb0c" title="Returns the number of printed characters, excluding the final &#39;\0&#39; or returns &#45;1 if the buffer isn&#39;t ..." alt="" coords="311,103,399,128"/>
+<area shape="poly" id="edge4_Node000001_Node000025" title=" " alt="" coords="205,113,297,113,297,118,205,118"/>
+<area shape="rect" id="Node000173" href="$fs_8c.html#a46b9b5ad3cc14f77ae63016505163128" title=" " alt="" coords="306,176,405,201"/>
+<area shape="poly" id="edge6_Node000001_Node000173" title=" " alt="" coords="151,126,298,169,297,175,149,131"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="315,31,306,21,311,11,328,5,355,3,390,7,400,11,404,17,400,20,397,15,389,12,355,8,329,10,315,15,312,20,319,27"/>
+<area shape="poly" id="edge5_Node000025_Node000025" title=" " alt="" coords="315,104,306,94,311,84,328,78,355,76,390,80,400,85,404,90,400,93,397,89,389,85,355,81,329,83,315,88,312,94,319,101"/>
+<area shape="poly" id="edge7_Node000173_Node000173" title=" " alt="" coords="315,178,306,168,311,158,328,152,355,149,390,153,400,158,404,164,400,167,397,162,389,158,355,155,329,157,315,162,312,167,319,174"/>
+</map>

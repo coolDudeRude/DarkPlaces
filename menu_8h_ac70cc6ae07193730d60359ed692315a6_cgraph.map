@@ -1,0 +1,7 @@
+<map id="MP_ConsoleCommand" name="MP_ConsoleCommand">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,173,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="53,31,45,21,49,11,64,5,89,3,121,7,133,16,130,20,119,11,89,8,65,10,53,15,50,20,57,27"/>
+<area shape="rect" id="Node000002" href="$prvm__cmds_8c.html#aaddceb85f2ba76eb38e07a0e05fba0bf" title=" " alt="" coords="221,29,408,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="174,39,208,39,208,45,174,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="278,31,270,21,274,11,290,5,315,3,346,7,358,16,355,20,344,11,315,8,291,10,278,15,275,20,282,27"/>
+</map>

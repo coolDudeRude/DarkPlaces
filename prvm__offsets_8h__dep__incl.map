@@ -1,0 +1,16 @@
+<map id="prvm_offsets.h" name="prvm_offsets.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="121,5,239,31"/>
+<area shape="rect" id="Node000002" href="$csprogs_8c.html" title=" " alt="" coords="5,152,88,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,42,115,81,82,120,57,153,53,150,78,117,111,77,153,38"/>
+<area shape="rect" id="Node000003" href="$menu_8c.html" title=" " alt="" coords="113,152,183,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="155,41,138,59,125,80,122,98,126,118,142,150,137,153,121,119,117,98,120,78,134,55,151,37"/>
+<area shape="rect" id="Node000004" href="$progsvm_8h.html" title=" " alt="" coords="135,79,225,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="183,44,183,79,177,79,177,44"/>
+<area shape="rect" id="Node000009" href="$prvm__edict_8c.html" title=" " alt="" coords="208,152,315,177"/>
+<area shape="poly" id="edge7_Node000001_Node000009" title=" " alt="" coords="207,38,224,56,240,77,255,117,262,151,257,152,250,119,235,80,220,60,203,42"/>
+<area shape="rect" id="Node000092" href="$sv__main_8c.html" title=" " alt="" coords="300,79,388,104"/>
+<area shape="poly" id="edge8_Node000001_Node000092" title=" " alt="" coords="220,34,318,76,316,81,218,39"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="148,113,70,154,67,149,145,108"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="172,118,156,153,151,151,167,116"/>
+<area shape="poly" id="edge6_Node000004_Node000009" title=" " alt="" coords="205,111,250,150,246,154,202,115"/>
+</map>

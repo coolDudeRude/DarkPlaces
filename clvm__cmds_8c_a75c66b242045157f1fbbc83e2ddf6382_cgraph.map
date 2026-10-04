@@ -1,0 +1,13 @@
+<map id="VM_CL_R_AddEntity" name="VM_CL_R_AddEntity">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,157,128"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="47,104,40,94,44,84,58,78,81,76,110,80,122,89,118,93,108,85,81,81,59,83,47,88,45,94,51,101"/>
+<area shape="rect" id="Node000002" href="$csprogs_8c.html#abd6feba93ca2c146e5b06c30e87ff37f" title=" " alt="" coords="205,29,373,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,100,204,63,227,56,229,61,206,69,113,105"/>
+<area shape="rect" id="Node000586" href="$csprogsdefs_8qc.html#a30e9d971a950538422cccc6fe0baee7a" title=" " alt="" coords="217,103,361,128"/>
+<area shape="poly" id="edge3_Node000001_Node000586" title=" " alt="" coords="157,113,203,113,203,118,157,118"/>
+<area shape="rect" id="Node000578" href="$sys__shared_8c.html#aa0fbad346b8cec314ebf444c564ffa02" title=" " alt="" coords="231,176,348,201"/>
+<area shape="poly" id="edge5_Node000001_Node000578" title=" " alt="" coords="119,126,240,169,238,174,118,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="255,31,248,21,252,11,266,5,289,3,318,6,330,15,326,20,316,11,289,8,267,10,255,15,253,20,259,28"/>
+<area shape="poly" id="edge4_Node000586_Node000586" title=" " alt="" coords="255,104,248,94,252,84,266,78,289,76,318,80,330,89,326,93,316,85,289,81,267,83,255,88,253,94,259,101"/>
+<area shape="poly" id="edge6_Node000578_Node000578" title=" " alt="" coords="255,178,248,168,252,158,266,152,289,149,318,153,330,162,326,166,316,158,289,155,267,157,255,161,253,167,259,174"/>
+</map>

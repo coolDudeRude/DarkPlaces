@@ -1,0 +1,10 @@
+<map id="CL_ParseParticleEffect" name="CL_ParseParticleEffect">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,171,92"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="55,68,49,58,52,48,66,42,88,40,115,44,126,52,123,57,113,48,88,45,67,47,56,52,54,58,60,65"/>
+<area shape="rect" id="Node000002" href="$cl__particles_8c.html#a16fed15808e5743d5e8c36915eb80452" title=" " alt="" coords="220,29,351,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="155,64,206,54,207,59,156,69"/>
+<area shape="rect" id="Node001001" href="$com__msg_8c.html#a223e14655e300422dbc0bb1d5640199d" title=" " alt="" coords="219,103,352,128"/>
+<area shape="poly" id="edge4_Node000001_Node001001" title=" " alt="" coords="158,89,206,98,205,103,157,95"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="253,31,246,21,249,11,263,5,285,3,312,6,324,15,320,19,310,11,285,8,264,10,253,15,251,20,257,28"/>
+<area shape="poly" id="edge5_Node001001_Node001001" title=" " alt="" coords="253,104,246,94,249,84,263,78,285,76,312,80,324,88,320,93,310,84,285,81,264,83,253,88,251,94,257,101"/>
+</map>

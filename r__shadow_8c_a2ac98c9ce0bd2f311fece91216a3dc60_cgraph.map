@@ -1,0 +1,10 @@
+<map id="R_Shadow_BounceGrid_Slice" name="R_Shadow_BounceGrid_Slice">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,59,176,99"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="60,59,59,50,63,41,74,35,91,33,110,36,120,43,117,47,107,41,91,38,76,40,67,44,64,51,66,58"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#ad5a3e16aa960bd72d3ca37a618eea802" title=" " alt="" coords="224,29,275,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,57,210,48,211,53,177,62"/>
+<area shape="rect" id="Node000003" href="$menudefs_8qc.html#a83f4d3f317a80e82e6b16ea61ea5efc3" title=" " alt="" coords="226,103,273,128"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="177,96,213,105,212,110,176,101"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="223,31,217,21,220,11,231,5,249,3,271,6,280,15,277,19,269,11,249,8,233,10,224,15,223,20,227,28"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="224,105,217,95,220,85,231,78,249,76,272,80,281,90,277,93,269,85,249,81,233,83,224,88,223,94,228,102"/>
+</map>

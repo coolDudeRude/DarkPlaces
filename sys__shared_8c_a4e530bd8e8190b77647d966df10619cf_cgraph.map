@@ -1,0 +1,7 @@
+<map id="Sys_ConsoleInput" name="Sys_ConsoleInput">
+<area shape="rect" id="Node000001" title="Reads a line from POSIX stdin or the Windows console." alt="" coords="5,29,143,55"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="49,30,44,21,47,11,57,5,74,3,94,6,103,15,99,18,91,11,74,8,59,10,51,15,50,20,54,28"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#a0e7ecefd4e3af6c242077b24445e5f78" title=" " alt="" coords="191,29,245,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,39,177,39,177,45,143,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="193,30,188,21,191,11,201,5,218,3,238,6,247,15,243,18,235,11,218,8,203,10,195,15,194,20,198,28"/>
+</map>

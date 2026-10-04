@@ -1,0 +1,10 @@
+<map id="r_sky_start" name="r_sky_start">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,99,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="24,68,18,58,21,49,33,42,52,40,75,43,85,52,81,56,73,48,52,45,34,47,25,52,23,58,28,65"/>
+<area shape="rect" id="Node000002" href="$gl__textures_8c.html#ab60a02391841e828427f5cc24cb5dd29" title=" " alt="" coords="147,29,293,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,66,148,55,149,60,100,72"/>
+<area shape="rect" id="Node000003" href="$r__sky_8c.html#abcfd1fe84c92fd2cff69234d0636c6a3" title=" " alt="" coords="161,103,279,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="100,87,148,97,147,102,98,92"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="192,31,186,21,189,11,201,5,220,3,243,6,253,15,249,19,241,11,220,8,202,10,193,15,191,20,196,28"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="192,104,186,94,189,85,201,78,220,76,243,79,253,88,249,92,241,84,220,81,202,83,193,88,191,94,196,101"/>
+</map>

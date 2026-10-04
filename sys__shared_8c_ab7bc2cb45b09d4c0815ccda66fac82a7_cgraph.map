@@ -1,0 +1,24 @@
+<map id="Sys_Frame" name="Sys_Frame">
+<area shape="rect" id="Node000001" title="JS+WebGL doesn&#39;t support a main loop, only a function called to run a frame." alt="" coords="5,179,99,204"/>
+<area shape="poly" id="edge10_Node000001_Node000001" title=" " alt="" coords="25,180,19,170,22,161,34,154,52,152,74,155,83,164,80,168,72,160,52,157,35,159,27,164,25,170,30,177"/>
+<area shape="rect" id="Node000002" href="$host_8c.html#ae4356be5f3c6b1a0476812ad51a73466" title=" " alt="" coords="163,29,263,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="57,177,90,123,115,92,145,64,153,59,156,63,148,68,119,95,94,126,62,180"/>
+<area shape="rect" id="Node001627" href="$host_8c.html#a45e37d961fd2561f3089a951274c3093" title=" " alt="" coords="151,103,274,128"/>
+<area shape="poly" id="edge3_Node000001_Node001627" title=" " alt="" coords="79,176,172,132,174,136,81,181"/>
+<area shape="rect" id="Node001117" href="$sys__shared_8c.html#a6e31205c7dc8a8c5bbb9da6b0cd38477" title=" " alt="" coords="327,129,468,155"/>
+<area shape="poly" id="edge7_Node000001_Node001117" title=" " alt="" coords="98,182,313,151,313,157,99,187"/>
+<area shape="rect" id="Node000588" href="$sys__shared_8c.html#aa0fbad346b8cec314ebf444c564ffa02" title=" " alt="" coords="339,228,456,253"/>
+<area shape="poly" id="edge8_Node000001_Node000588" title=" " alt="" coords="99,195,325,228,324,233,98,201"/>
+<area shape="rect" id="Node001466" href="$sys__shared_8c.html#aa8d7affd2947f466e2559d26ea374036" title="called to yield for a little bit so as not to hog cpu when paused or debugging" alt="" coords="169,279,257,304"/>
+<area shape="poly" id="edge11_Node000001_Node001466" title=" " alt="" coords="75,202,181,269,178,273,73,207"/>
+<area shape="rect" id="Node001664" href="$sys__shared_8c.html#ab95fea71fb4dde612f6fa9428f927962" title=" " alt="" coords="147,352,279,377"/>
+<area shape="poly" id="edge14_Node000001_Node001664" title=" " alt="" coords="63,203,98,254,149,315,182,342,178,346,145,319,93,257,59,206"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="186,31,180,21,183,11,194,5,213,3,235,6,244,15,241,19,232,11,213,8,196,10,187,15,185,20,190,28"/>
+<area shape="poly" id="edge4_Node001627_Node001627" title=" " alt="" coords="186,104,180,94,183,85,194,78,213,76,235,79,244,88,241,92,232,84,213,81,196,83,187,88,185,94,190,101"/>
+<area shape="poly" id="edge5_Node001627_Node001117" title=" " alt="" coords="274,122,313,127,313,132,274,127"/>
+<area shape="poly" id="edge6_Node001117_Node001117" title=" " alt="" coords="367,131,360,121,364,111,376,105,397,103,423,106,433,115,430,119,421,111,397,108,378,110,368,115,366,120,371,128"/>
+<area shape="poly" id="edge9_Node000588_Node000588" title=" " alt="" coords="367,229,360,220,364,210,376,204,397,201,423,205,433,214,430,218,421,210,397,207,378,209,368,213,366,219,371,226"/>
+<area shape="poly" id="edge12_Node001466_Node000588" title=" " alt="" coords="256,277,337,254,338,260,257,282"/>
+<area shape="poly" id="edge13_Node001466_Node001466" title=" " alt="" coords="186,280,180,270,183,261,194,254,213,252,235,255,244,264,241,268,232,260,213,257,196,259,187,264,185,270,190,277"/>
+<area shape="poly" id="edge15_Node001664_Node001664" title=" " alt="" coords="186,353,180,344,183,334,194,328,213,325,235,329,244,337,241,341,232,334,213,331,196,333,187,337,185,343,190,351"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="RCon_Authenticate" name="RCon_Authenticate">
+<area shape="rect" id="Node000001" title="returns a string describing the user level, or NULL for auth failure" alt="" coords="5,176,152,201"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="42,178,34,168,38,158,53,152,79,149,111,153,123,163,119,167,109,158,79,155,54,157,42,162,39,167,46,174"/>
+<area shape="rect" id="Node000002" href="$common_8c.html#a7d8e38022cb81cc407c53a1cb3b33866" title=" " alt="" coords="212,29,403,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,174,130,120,162,90,199,64,213,57,215,62,201,68,165,94,134,124,91,178"/>
+<area shape="rect" id="Node000003" href="$common_8c.html#a21e343fdc83c4695c7d0af3be8756795" title="Copies a measured byte sequence (unterminated string) to a null&#45;terminated string." alt="" coords="258,103,357,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="106,173,199,137,244,125,245,130,201,142,108,178"/>
+<area shape="rect" id="Node000428" href="$filematch_8c.html#af881fdde9dcad22dd5c8ef7ab06f5d11" title=" " alt="" coords="200,176,415,201"/>
+<area shape="poly" id="edge5_Node000001_Node000428" title=" " alt="" coords="152,186,186,186,186,191,152,191"/>
+<area shape="rect" id="Node000029" href="$menudefs_8qc.html#a274680f571a231ddf29421b93d434bfa" title=" " alt="" coords="278,249,337,275"/>
+<area shape="poly" id="edge8_Node000001_Node000029" title=" " alt="" coords="120,199,265,246,264,251,119,204"/>
+<area shape="rect" id="Node000045" href="$common_8c.html#a4a8220fa88226bf9cf39b12a051a20d7" title=" " alt="" coords="288,323,327,348"/>
+<area shape="poly" id="edge10_Node000001_Node000045" title=" " alt="" coords="95,200,141,239,201,284,240,305,276,321,274,326,237,309,199,288,138,244,92,204"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="270,31,262,21,267,11,282,5,307,3,339,7,351,16,348,20,337,11,307,8,283,10,270,15,268,20,274,27"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="270,104,262,94,267,84,282,78,307,76,339,80,351,89,348,93,337,85,307,81,283,83,270,88,268,94,274,101"/>
+<area shape="poly" id="edge6_Node000428_Node000428" title=" " alt="" coords="270,178,262,168,267,158,282,152,307,149,339,153,351,163,348,167,337,158,307,155,283,157,270,162,268,167,274,174"/>
+<area shape="poly" id="edge9_Node000029_Node000029" title=" " alt="" coords="276,255,264,244,265,233,280,225,307,223,330,224,345,229,352,236,350,245,345,244,347,238,342,233,329,230,307,228,281,230,269,236,268,242,280,250"/>
+<area shape="poly" id="edge11_Node000045_Node000045" title=" " alt="" coords="286,332,267,321,263,309,278,299,307,296,334,298,349,305,352,316,341,326,338,322,347,314,345,309,332,304,307,301,279,304,268,310,271,318,289,328"/>
+</map>

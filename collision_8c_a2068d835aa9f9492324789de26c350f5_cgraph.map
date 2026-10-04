@@ -1,0 +1,17 @@
+<map id="Collision_ValidateBrush" name="Collision_ValidateBrush">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,117,180,143"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="54,119,46,109,50,99,66,93,93,91,126,95,139,104,135,108,124,99,93,96,67,98,54,103,51,108,58,115"/>
+<area shape="rect" id="Node000002" href="$collision_8c.html#a0034b90b97b003898a98fcf433116a0a" title=" " alt="" coords="228,29,432,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,115,227,72,272,56,274,61,229,76,123,120"/>
+<area shape="rect" id="Node000003" href="$console_8c.html#a49b71fe9a87e57a440e07af4a869a9f6" title="Prints to all appropriate console targets." alt="" coords="480,55,569,80"/>
+<area shape="poly" id="edge8_Node000001_Node000003" title=" " alt="" coords="180,115,466,73,467,78,181,120"/>
+<area shape="rect" id="Node000015" href="$console_8c.html#a1cf9711475097b11dc41f743254ec77e" title="Prints to all appropriate console targets, and adds timestamps." alt="" coords="288,155,372,180"/>
+<area shape="poly" id="edge6_Node000001_Node000015" title=" " alt="" coords="175,140,275,156,274,161,174,145"/>
+<area shape="rect" id="Node000231" href="$menudefs_8qc.html#accccfae161879454243b3a8695a9bf3b" title=" " alt="" coords="305,228,355,253"/>
+<area shape="poly" id="edge9_Node000001_Node000231" title=" " alt="" coords="122,140,293,221,291,226,120,145"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="298,31,291,21,295,11,308,5,330,3,357,6,368,15,365,19,355,11,330,8,309,10,298,15,296,20,302,28"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="428,52,467,57,466,62,428,57"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="493,56,486,46,489,36,503,30,525,28,551,32,563,40,559,45,549,36,525,33,504,35,493,40,491,46,497,53"/>
+<area shape="poly" id="edge7_Node000015_Node000015" title=" " alt="" coords="298,156,291,146,295,136,308,130,330,128,357,132,368,140,365,145,355,136,330,133,309,135,298,140,296,146,302,153"/>
+<area shape="poly" id="edge10_Node000231_Node000231" title=" " alt="" coords="303,233,292,222,293,211,306,204,330,201,361,207,368,214,368,222,363,221,363,216,359,212,330,207,308,209,298,214,297,221,306,229"/>
+</map>

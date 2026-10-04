@@ -1,0 +1,16 @@
+<map id="VM_getsurfacetexture" name="VM_getsurfacetexture">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,140,172,165"/>
+<area shape="poly" id="edge9_Node000001_Node000001" title=" " alt="" coords="54,142,47,132,51,122,65,116,89,113,118,117,130,126,126,130,116,122,89,119,66,121,54,125,52,131,58,138"/>
+<area shape="rect" id="Node000002" href="$prvm__cmds_8c.html#ab23edbce37833c0d73997cacec4cd944" title=" " alt="" coords="259,29,343,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,138,154,102,219,64,244,54,246,59,221,68,157,106,107,142"/>
+<area shape="rect" id="Node000006" href="$prvm__cmds_8c.html#af79beb67393117a6f1a8c24a74a3575f" title=" " alt="" coords="255,103,346,128"/>
+<area shape="poly" id="edge3_Node000001_Node000006" title=" " alt="" coords="161,137,241,123,242,128,162,143"/>
+<area shape="rect" id="Node000007" href="$prvm__edict_8c.html#a1d2244b6253cecef732afeb0bf1d393f" title="Takes an strlen (not a buffer size)." alt="" coords="220,176,381,201"/>
+<area shape="poly" id="edge5_Node000001_Node000007" title=" " alt="" coords="164,163,213,171,212,176,163,168"/>
+<area shape="rect" id="Node000034" href="$menudefs_8qc.html#a274680f571a231ddf29421b93d434bfa" title=" " alt="" coords="271,249,330,275"/>
+<area shape="poly" id="edge7_Node000001_Node000034" title=" " alt="" coords="116,163,264,241,262,245,113,168"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="266,31,259,21,263,11,277,5,301,3,330,6,342,15,338,20,328,11,301,8,278,10,266,15,264,20,270,28"/>
+<area shape="poly" id="edge4_Node000006_Node000006" title=" " alt="" coords="266,104,259,94,263,84,277,78,301,76,330,80,342,89,338,93,328,85,301,81,278,83,266,88,264,94,270,101"/>
+<area shape="poly" id="edge6_Node000007_Node000007" title=" " alt="" coords="266,178,259,168,263,158,277,152,301,149,330,153,342,162,338,166,328,158,301,155,278,157,266,161,264,167,270,174"/>
+<area shape="poly" id="edge8_Node000034_Node000034" title=" " alt="" coords="269,253,259,243,262,232,276,225,301,223,333,228,341,234,342,241,337,242,337,237,331,233,301,228,277,230,266,235,264,241,273,249"/>
+</map>

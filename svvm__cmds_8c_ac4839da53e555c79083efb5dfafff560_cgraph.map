@@ -1,0 +1,13 @@
+<map id="VM_SV_te_knightspike" name="VM_SV_te_knightspike">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,175,128"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="51,104,43,94,47,84,63,78,90,76,123,80,136,89,133,94,121,85,90,81,65,83,51,88,48,94,55,101"/>
+<area shape="rect" id="Node000002" href="$com__msg_8c.html#a7e32b0a419941b93644ba097bb64af96" title=" " alt="" coords="266,29,390,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,100,222,63,252,55,253,60,223,69,123,105"/>
+<area shape="rect" id="Node001351" href="$com__msg_8c.html#a68647d195bf6bb737b63063272a8bc86" title=" " alt="" coords="262,103,394,128"/>
+<area shape="poly" id="edge3_Node000001_Node001351" title=" " alt="" coords="175,113,248,113,248,118,175,118"/>
+<area shape="rect" id="Node001218" href="$sv__send_8c.html#a5168dc1804c9aab6f18be82fbaad6e67" title=" " alt="" coords="223,176,433,201"/>
+<area shape="poly" id="edge5_Node000001_Node001218" title=" " alt="" coords="133,126,273,169,272,174,132,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="289,31,281,21,285,11,301,5,328,3,361,7,374,16,371,20,359,11,328,8,303,10,289,15,286,20,293,27"/>
+<area shape="poly" id="edge4_Node001351_Node001351" title=" " alt="" coords="289,104,281,94,285,84,301,78,328,76,361,80,374,89,371,94,359,85,328,81,303,83,289,88,286,94,293,101"/>
+<area shape="poly" id="edge6_Node001218_Node001218" title=" " alt="" coords="289,178,281,168,285,158,301,152,328,149,361,153,374,163,371,167,359,158,328,155,303,157,289,162,286,167,293,174"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="R_BufferData_Store" name="R_BufferData_Store">
+<area shape="rect" id="Node000001" title="request space in a vertex/index/uniform buffer for the chosen data, returns the buffer pointer and of..." alt="" coords="5,103,155,128"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="44,104,36,94,40,84,55,78,80,76,111,80,123,89,120,93,109,85,80,81,56,83,44,88,41,94,48,101"/>
+<area shape="rect" id="Node000002" href="$gl__rmain_8c.html#a5e1ed3428804fd4cb58f7ee18c53addd" title=" " alt="" coords="224,29,383,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,100,202,63,229,56,230,61,204,69,110,105"/>
+<area shape="rect" id="Node001071" href="$gl__backend_8c.html#ae7eaf04229dba8417da7bc6fb0386452" title=" " alt="" coords="203,103,404,128"/>
+<area shape="poly" id="edge4_Node000001_Node001071" title=" " alt="" coords="155,113,189,113,189,118,155,118"/>
+<area shape="rect" id="Node000067" href="$sys__shared_8c.html#a2fe6e82a2dd55741246a156d74cc7dab" title="Causes the entire program to exit ASAP." alt="" coords="262,176,345,201"/>
+<area shape="poly" id="edge6_Node000001_Node000067" title=" " alt="" coords="121,126,252,169,250,174,119,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="267,31,259,21,263,11,278,5,303,3,334,6,346,15,343,20,332,11,303,8,280,10,267,15,265,20,271,28"/>
+<area shape="poly" id="edge5_Node001071_Node001071" title=" " alt="" coords="267,104,259,94,263,84,278,78,303,76,334,80,346,89,343,93,332,85,303,81,280,83,267,88,265,94,271,101"/>
+<area shape="poly" id="edge7_Node000067_Node000067" title=" " alt="" coords="267,178,259,168,263,158,278,152,303,149,334,153,346,162,343,166,332,158,303,155,280,157,267,162,265,167,271,174"/>
+</map>

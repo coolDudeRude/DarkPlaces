@@ -1,0 +1,7 @@
+<map id="barrier_t" name="barrier_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="30,121,107,147"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,44,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="23,45,22,71,28,96,38,109,50,119,47,123,34,113,24,98,17,71,17,45"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="82,5,143,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="106,45,86,98,76,122,71,120,81,96,101,43"/>
+</map>

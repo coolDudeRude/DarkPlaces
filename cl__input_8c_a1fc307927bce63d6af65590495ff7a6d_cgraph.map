@@ -1,0 +1,11 @@
+<map id="IN_LeftDown" name="IN_LeftDown">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,109,55"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="33,30,28,21,31,11,41,5,57,3,77,6,85,15,82,18,74,11,57,8,43,10,35,15,34,20,38,28"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#a977f9318008de123876b168dfa86ad22" title=" " alt="" coords="288,29,339,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,32,157,27,199,25,240,27,275,32,274,37,240,33,199,31,158,33,110,37"/>
+<area shape="rect" id="Node000003" href="$cl__input_8c.html#a377305100eadf925fa60b7a240d24ace" title=" " alt="" coords="157,67,240,92"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="107,52,145,62,143,68,105,57"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="293,30,289,21,291,12,300,5,313,3,329,6,336,14,332,18,327,11,313,8,302,10,296,14,295,20,298,28"/>
+<area shape="poly" id="edge5_Node000003_Node000002" title=" " alt="" coords="238,64,274,52,275,57,239,69"/>
+<area shape="poly" id="edge6_Node000003_Node000003" title=" " alt="" coords="179,68,175,58,177,49,185,42,199,40,215,43,222,52,218,55,212,48,199,45,187,47,181,52,180,58,183,65"/>
+</map>

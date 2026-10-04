@@ -1,0 +1,10 @@
+<map id="Sys_EM_Register_Commands" name="Sys_EM_Register_Commands">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,220,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="75,68,67,58,71,48,87,42,113,40,145,44,157,53,154,58,143,49,113,45,88,47,75,52,72,58,79,65"/>
+<area shape="rect" id="Node000002" href="$cmd_8c.html#a86fa905462db75436af48f27298204e5" title="called by the init functions of other parts of the program to register commands and functions to call..." alt="" coords="268,29,419,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,64,254,54,255,59,192,69"/>
+<area shape="rect" id="Node001352" href="$sys__wasm_8c.html#ab5e9475a7c364ce4f244cfe0aadbb3f4" title=" " alt="" coords="291,103,396,128"/>
+<area shape="poly" id="edge3_Node000001_Node001352" title=" " alt="" coords="195,89,277,102,277,108,194,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="306,31,298,21,302,11,318,5,343,3,376,7,388,16,385,20,374,11,343,8,319,10,306,15,303,20,310,27"/>
+<area shape="poly" id="edge4_Node001352_Node001352" title=" " alt="" coords="306,104,298,94,302,84,318,78,343,76,376,80,388,89,385,94,374,85,343,81,319,83,306,88,303,94,310,101"/>
+</map>

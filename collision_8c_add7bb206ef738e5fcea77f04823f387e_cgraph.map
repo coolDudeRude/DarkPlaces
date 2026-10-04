@@ -1,0 +1,14 @@
+<map id="Collision_CalcPlanesForTriangleBrushFloat" name="Collision_CalcPlanesForTriangleBrushFloat">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,73,232,113"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="73,73,70,63,77,54,94,48,119,46,147,49,163,56,161,61,146,54,119,51,95,53,80,58,75,64,78,72"/>
+<area shape="rect" id="Node000002" href="$collision_8c.html#a2068d835aa9f9492324789de26c350f5" title=" " alt="" coords="280,29,455,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="217,70,291,55,292,60,218,75"/>
+<area shape="rect" id="Node000232" href="$menudefs_8qc.html#accccfae161879454243b3a8695a9bf3b" title=" " alt="" coords="503,55,553,80"/>
+<area shape="poly" id="edge8_Node000001_Node000232" title=" " alt="" coords="232,83,489,67,489,72,232,88"/>
+<area shape="rect" id="Node000019" href="$console_8c.html#a2696300802453d9333e9f52e5fae15bc" title="A Con_Printf that only shows up if the &quot;developer&quot; cvar is set." alt="" coords="318,155,417,180"/>
+<area shape="poly" id="edge6_Node000001_Node000019" title=" " alt="" coords="187,110,312,148,310,153,185,115"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="340,31,335,21,338,11,349,5,367,3,389,6,399,15,395,19,387,11,367,8,351,10,342,15,340,20,345,28"/>
+<area shape="poly" id="edge4_Node000002_Node000232" title=" " alt="" coords="449,52,489,59,489,64,448,57"/>
+<area shape="poly" id="edge5_Node000232_Node000232" title=" " alt="" coords="501,56,495,46,498,37,510,30,528,28,550,31,559,40,556,44,548,36,528,33,511,35,503,40,501,46,506,53"/>
+<area shape="poly" id="edge7_Node000019_Node000019" title=" " alt="" coords="340,156,335,146,338,137,349,130,367,128,389,131,399,140,395,144,387,136,367,133,351,135,342,140,340,146,345,153"/>
+</map>

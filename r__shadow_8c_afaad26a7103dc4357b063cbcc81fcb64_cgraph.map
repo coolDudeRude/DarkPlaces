@@ -1,0 +1,10 @@
+<map id="R_Shadow_FreeWorldLight" name="R_Shadow_FreeWorldLight">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,78,199,103"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="65,80,57,70,61,60,76,54,102,51,134,55,147,65,143,69,132,60,102,57,77,59,64,64,62,69,69,76"/>
+<area shape="rect" id="Node000002" href="$zone_8c.html#a6809e6e38abd59c5583dc9b83843a7ee" title=" " alt="" coords="247,29,420,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,75,232,65,233,70,174,81"/>
+<area shape="rect" id="Node000716" href="$r__shadow_8c.html#a7ea0ca4b83d5a9b2d6168c80253b6324" title=" " alt="" coords="252,118,415,143"/>
+<area shape="poly" id="edge3_Node000001_Node000716" title=" " alt="" coords="177,101,246,113,246,118,176,106"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="290,30,288,20,295,10,310,5,333,3,360,6,375,13,372,18,359,11,333,8,311,10,298,15,293,21,296,28"/>
+<area shape="poly" id="edge4_Node000716_Node000716" title=" " alt="" coords="296,120,288,110,292,100,308,94,333,91,366,95,378,105,375,109,364,100,333,97,309,99,296,104,293,109,300,116"/>
+</map>

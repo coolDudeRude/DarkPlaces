@@ -1,0 +1,7 @@
+<map id="R_Stereo_Active" name="R_Stereo_Active">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,133,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="36,31,29,21,33,11,47,5,69,3,97,6,108,16,105,20,95,11,69,8,48,10,37,15,35,20,41,28"/>
+<area shape="rect" id="Node000002" href="$cl__screen_8c.html#a2eaeac5562ef0569500f6068a5fb59e4" title=" " alt="" coords="181,29,357,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="134,39,168,39,168,45,134,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="236,31,229,21,233,11,247,5,269,3,297,6,308,16,305,20,295,11,269,8,248,10,237,15,235,20,241,28"/>
+</map>

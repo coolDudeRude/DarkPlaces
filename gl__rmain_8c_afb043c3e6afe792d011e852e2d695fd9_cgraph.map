@@ -1,0 +1,7 @@
+<map id="R_AnimCache_CacheVisibleEntities" name="R_AnimCache_CacheVisibleEntities">
+<area shape="rect" id="Node000001" title="generate animcache data for all entities marked visible" alt="" coords="5,29,208,69"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="62,30,60,20,67,10,83,5,107,3,134,6,149,13,147,18,133,11,107,8,84,10,70,15,65,21,68,28"/>
+<area shape="rect" id="Node000002" href="$gl__rmain_8c.html#a2ebd69dd33cef88cb5280d6a31e0a5d6" title="get the skeletal data or cached animated mesh data for an entity (optionally with normals and tangent..." alt="" coords="256,37,436,62"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="208,47,242,47,242,52,208,52"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="307,38,299,28,303,18,319,12,346,10,379,14,392,23,389,28,377,19,346,15,321,17,307,22,304,28,311,35"/>
+</map>

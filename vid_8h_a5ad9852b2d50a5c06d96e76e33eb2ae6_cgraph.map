@@ -1,0 +1,10 @@
+<map id="VID_Stop" name="VID_Stop">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,87,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="16,68,10,58,13,49,25,42,46,40,71,44,81,52,78,56,69,48,46,45,27,47,17,52,15,58,20,65"/>
+<area shape="rect" id="Node000002" href="$vid__shared_8c.html#a300973c3425f9e34ffbd1392f84ca9ea" title="applies current gamma settings to a color (0&#45;1 range)" alt="" coords="135,29,324,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,69,153,55,154,60,88,74"/>
+<area shape="rect" id="Node000004" href="$vid__shared_8c.html#ac59fa873bd274e46b5043455c19c1e36" title="builds the current gamma tables into an array (needs 3*rampsize items)" alt="" coords="140,103,319,128"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="88,85,151,97,150,103,86,90"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="199,31,193,21,196,11,209,5,229,3,254,6,265,15,261,19,252,11,229,8,210,10,200,15,198,20,204,28"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="199,104,193,94,196,85,209,78,229,76,254,80,265,88,261,92,252,84,229,81,210,83,200,88,198,94,204,101"/>
+</map>

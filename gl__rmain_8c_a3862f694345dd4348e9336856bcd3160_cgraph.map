@@ -1,0 +1,16 @@
+<map id="R_SkinFrame_GenerateTexturesFromQPixels" name="R_SkinFrame_GenerateTexturesFromQPixels">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,133,235,173"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="65,133,61,123,70,114,90,108,120,106,155,109,174,116,172,121,154,114,120,111,91,113,73,118,66,124,70,131"/>
+<area shape="rect" id="Node000002" href="$image_8c.html#a90a86c90b143411780177d9e8adb8348" title=" " alt="" coords="339,29,504,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,130,210,96,282,63,325,52,326,57,284,69,212,100,153,135"/>
+<area shape="rect" id="Node000003" href="$image_8c.html#a762c7d5a96efd727ab18068e895aae40" title=" " alt="" coords="283,103,560,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="234,136,305,127,305,132,235,141"/>
+<area shape="rect" id="Node000004" href="$gl__textures_8c.html#afe6f33ec05da1bce9cd3a847610e7384" title=" " alt="" coords="354,176,489,201"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="235,164,341,176,340,182,234,169"/>
+<area shape="rect" id="Node000048" href="$common_8c.html#a4a8220fa88226bf9cf39b12a051a20d7" title=" " alt="" coords="402,249,441,275"/>
+<area shape="poly" id="edge8_Node000001_Node000048" title=" " alt="" coords="176,170,284,210,390,248,388,253,282,215,174,175"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="373,31,362,21,368,11,388,5,421,3,466,7,477,13,480,19,475,21,473,16,464,12,421,8,389,10,371,15,368,20,377,27"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="373,105,362,94,368,84,388,78,421,76,466,80,477,86,480,92,475,95,473,90,464,86,421,81,389,83,371,88,368,94,377,101"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="373,178,362,168,368,158,388,151,421,149,466,154,477,159,480,166,475,168,473,163,464,159,421,155,389,157,371,162,368,167,377,174"/>
+<area shape="poly" id="edge9_Node000048_Node000048" title=" " alt="" coords="401,261,371,250,363,243,363,236,381,226,421,223,459,226,478,233,480,240,477,247,455,257,453,252,473,243,475,239,474,237,458,231,421,228,383,231,368,238,368,241,373,245,403,256"/>
+</map>

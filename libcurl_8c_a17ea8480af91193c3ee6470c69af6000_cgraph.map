@@ -1,0 +1,10 @@
+<map id="Curl_Clear_forthismap" name="Curl_Clear_forthismap">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,172,92"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="52,68,44,58,48,48,63,42,89,40,121,44,133,53,129,57,119,49,89,45,64,47,52,52,49,58,56,65"/>
+<area shape="rect" id="Node000002" href="$libcurl_8c.html#a4e73c6d4d9dfd661a03be872eb6e4ed0" title=" " alt="" coords="220,29,413,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="166,64,225,54,226,60,167,69"/>
+<area shape="rect" id="Node000004" href="$libcurl_8c.html#a7de7c0541c6de7063781ef2a202800b7" title=" " alt="" coords="221,103,412,128"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="170,89,223,98,222,103,169,95"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="280,31,272,21,276,11,291,5,317,3,349,7,361,16,357,20,347,11,317,8,292,10,280,15,277,20,284,27"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="280,104,272,94,276,84,291,78,317,76,349,80,361,89,357,93,347,85,317,81,292,83,280,88,277,94,284,101"/>
+</map>

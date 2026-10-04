@@ -1,0 +1,7 @@
+<map id="Collision_ClipTrace_Line_Sphere" name="Collision_ClipTrace_Line_Sphere">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,149,69"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="50,29,48,20,53,11,62,5,77,3,94,6,104,13,100,17,92,11,77,8,64,10,57,14,54,21,55,29"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#a83f4d3f317a80e82e6b16ea61ea5efc3" title=" " alt="" coords="197,37,244,62"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="149,47,183,47,183,52,149,52"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="197,38,192,28,194,19,204,12,221,10,240,14,249,22,245,26,238,18,221,15,206,17,199,22,197,28,201,35"/>
+</map>

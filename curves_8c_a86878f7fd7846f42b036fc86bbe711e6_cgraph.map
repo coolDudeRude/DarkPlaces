@@ -1,0 +1,13 @@
+<map id="Q3PatchTesselation" name="Q3PatchTesselation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,153,128"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="54,104,49,94,52,85,62,78,79,76,100,80,108,88,105,92,97,84,79,81,64,83,56,88,55,94,59,101"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#ad5a3e16aa960bd72d3ca37a618eea802" title=" " alt="" coords="201,29,252,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,100,188,58,190,63,107,105"/>
+<area shape="rect" id="Node000003" href="$csprogsdefs_8qc.html#a97b8e36976f1beb4970fe4ae7fb677fe" title=" " alt="" coords="205,103,248,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="153,113,191,113,191,118,153,118"/>
+<area shape="rect" id="Node000004" href="$menudefs_8qc.html#a0476dbfc79dac7770dfaa5c8d780a87d" title=" " alt="" coords="202,176,251,201"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="107,126,191,168,189,173,105,130"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="202,31,197,21,199,11,210,5,227,3,247,6,256,15,252,18,244,11,227,8,211,10,204,15,202,20,206,28"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="203,105,197,95,199,85,209,78,227,76,248,80,256,90,252,93,245,85,227,81,211,83,203,88,202,94,207,102"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="202,177,197,168,199,158,210,152,227,149,247,153,256,161,252,165,244,158,227,155,211,157,204,161,202,167,206,175"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="R_Mesh_ClearBindingsForTexture" name="R_Mesh_ClearBindingsForTexture">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,244,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="87,31,79,21,83,11,99,5,125,3,157,7,170,16,166,20,155,11,125,8,100,10,87,15,84,20,91,27"/>
+<area shape="rect" id="Node000002" href="$gl__backend_8c.html#a5985fea6817d8d7cc74f11b96e1267dc" title=" " alt="" coords="292,29,423,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="244,39,278,39,278,45,244,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="320,31,311,21,316,11,331,5,357,3,390,7,402,16,399,20,388,11,357,8,332,10,319,15,317,20,324,27"/>
+</map>

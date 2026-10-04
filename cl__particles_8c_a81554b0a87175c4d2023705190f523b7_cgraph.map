@@ -1,0 +1,26 @@
+<map id="CL_ParticleExplosion" name="CL_ParticleExplosion">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,133,161,159"/>
+<area shape="poly" id="edge8_Node000001_Node000001" title=" " alt="" coords="50,135,42,125,46,115,60,109,83,107,112,111,123,120,120,124,110,115,83,112,61,114,50,119,48,124,54,132"/>
+<area shape="rect" id="Node000002" href="$cl__particles_8c.html#a184c475c75758d6c027a244e337e7dbe" title="Creates a new particle and returns a pointer to it." alt="" coords="455,57,578,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,132,108,106,134,74,168,42,208,18,244,8,281,3,319,4,356,9,425,28,479,49,477,54,423,33,355,15,319,9,282,8,245,13,210,23,171,47,138,78,112,109,95,135"/>
+<area shape="rect" id="Node000003" href="$cl__collision_8c.html#a3844376c9cc74935d902373d216acc75" title=" " alt="" coords="661,149,768,175"/>
+<area shape="poly" id="edge12_Node000001_Node000003" title=" " alt="" coords="161,140,366,135,490,137,614,143,648,147,648,153,613,149,489,142,366,141,161,145"/>
+<area shape="rect" id="Node001012" href="$cl__particles_8c.html#a779af911ae013b8586e51a369ad906ed" title="Creates a simple particle, a square like Quake, or a disc like GLQuake." alt="" coords="209,57,372,83"/>
+<area shape="poly" id="edge5_Node000001_Node001012" title=" " alt="" coords="118,131,241,85,243,90,120,136"/>
+<area shape="rect" id="Node001015" href="$cl__particles_8c.html#af2aaaee82b054ffb2e46b9019a2ee7ac" title=" " alt="" coords="420,182,613,222"/>
+<area shape="poly" id="edge9_Node000001_Node001015" title=" " alt="" coords="162,154,407,185,406,191,161,159"/>
+<area shape="rect" id="Node001348" href="$r__explosion_8c.html#abe5bb29212d008f49727a314fc42ddbf" title=" " alt="" coords="451,271,582,296"/>
+<area shape="poly" id="edge13_Node000001_Node001348" title=" " alt="" coords="122,156,210,186,461,264,459,269,209,191,120,161"/>
+<area shape="rect" id="Node000657" href="$gl__rsurf_8c.html#adf826c017e9f2787081ee6644e1dc00c" title=" " alt="" coords="255,284,326,309"/>
+<area shape="poly" id="edge16_Node000001_Node000657" title=" " alt="" coords="103,157,211,239,261,274,258,278,208,243,99,161"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="484,59,477,49,481,39,494,33,517,31,544,34,555,43,552,47,542,39,517,36,496,38,485,43,482,48,488,56"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="563,80,614,100,684,139,682,144,612,105,561,85"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="682,151,675,141,679,131,692,125,715,123,742,126,753,135,750,139,740,131,715,128,694,130,683,135,680,140,686,148"/>
+<area shape="poly" id="edge6_Node001012_Node000002" title=" " alt="" coords="373,67,442,67,442,73,373,73"/>
+<area shape="poly" id="edge7_Node001012_Node001012" title=" " alt="" coords="257,59,250,49,253,39,267,33,291,31,319,35,331,44,327,48,317,39,291,36,269,38,257,43,255,48,261,56"/>
+<area shape="poly" id="edge11_Node001015_Node000003" title=" " alt="" coords="613,180,647,173,648,178,614,185"/>
+<area shape="poly" id="edge10_Node001015_Node001015" title=" " alt="" coords="479,182,477,172,483,163,496,158,517,155,540,158,553,166,550,170,538,163,517,161,498,163,487,167,482,173,485,181"/>
+<area shape="poly" id="edge14_Node001348_Node000003" title=" " alt="" coords="544,268,612,232,685,181,688,185,615,236,547,273"/>
+<area shape="poly" id="edge15_Node001348_Node001348" title=" " alt="" coords="484,272,477,262,481,253,494,246,517,244,544,248,555,256,552,261,542,253,517,249,496,251,485,256,482,262,488,269"/>
+<area shape="poly" id="edge17_Node000657_Node000657" title=" " alt="" coords="257,286,250,276,253,266,267,260,291,257,319,261,331,270,327,274,317,266,291,263,269,265,257,270,255,275,261,282"/>
+</map>

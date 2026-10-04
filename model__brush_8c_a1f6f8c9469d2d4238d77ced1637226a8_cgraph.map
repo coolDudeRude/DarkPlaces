@@ -1,0 +1,7 @@
+<map id="Mod_Q3BSP_TraceLineOfSight" name="Mod_Q3BSP_TraceLineOfSight">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,221,62"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="71,38,61,28,66,18,84,12,113,10,151,14,162,19,165,25,161,28,158,23,150,19,113,15,85,17,70,22,67,28,75,35"/>
+<area shape="rect" id="Node000002" href="$model__brush_8c.html#abb22ce01c142e371da242d81d09933fa" title=" " alt="" coords="269,29,485,69"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="221,47,256,47,256,52,221,52"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="328,30,325,20,333,10,351,5,377,3,408,5,425,13,422,18,407,11,377,8,352,10,336,15,331,21,333,28"/>
+</map>

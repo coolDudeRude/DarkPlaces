@@ -1,0 +1,10 @@
+<map id="Mod_ShadowMesh_Begin" name="Mod_ShadowMesh_Begin">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,192,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="61,68,53,58,57,48,73,42,99,40,131,44,144,53,140,58,129,49,99,45,74,47,61,52,58,58,65,65"/>
+<area shape="rect" id="Node000002" href="$cl__parse_8c.html#ac6ab3e260289abd4d92f1e4974190626" title=" " alt="" coords="248,29,415,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,64,238,54,239,60,179,69"/>
+<area shape="rect" id="Node001351" href="$model__shared_8c.html#ac27e894daff472cded24c78edbbfcc1a" title=" " alt="" coords="240,103,423,128"/>
+<area shape="poly" id="edge3_Node000001_Node001351" title=" " alt="" coords="182,89,236,98,235,103,181,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="294,31,285,21,290,11,305,5,331,3,364,7,376,16,373,20,362,11,331,8,306,10,293,15,291,20,298,27"/>
+<area shape="poly" id="edge4_Node001351_Node001351" title=" " alt="" coords="294,104,285,94,290,84,305,78,331,76,364,80,376,89,373,94,362,85,331,81,306,83,293,88,291,94,298,101"/>
+</map>

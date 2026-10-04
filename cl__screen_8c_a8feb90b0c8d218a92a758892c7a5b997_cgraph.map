@@ -1,0 +1,7 @@
+<map id="SCR_CheckDrawCenterString" name="SCR_CheckDrawCenterString">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,216,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="72,31,64,21,68,11,84,5,111,3,144,7,157,16,153,20,142,11,111,8,85,10,72,15,69,20,76,27"/>
+<area shape="rect" id="Node000002" href="$cl__screen_8c.html#af3e51663bb450b8837b7abd3b03432b1" title=" " alt="" coords="264,29,435,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="216,39,250,39,250,45,216,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="311,31,302,21,307,11,323,5,349,3,383,7,395,16,392,20,381,11,349,8,324,10,310,15,308,20,315,27"/>
+</map>

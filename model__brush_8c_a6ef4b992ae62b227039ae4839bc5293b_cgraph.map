@@ -1,0 +1,16 @@
+<map id="Mod_Q1BSP_LoadLighting" name="Mod_Q1BSP_LoadLighting">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,140,196,165"/>
+<area shape="poly" id="edge9_Node000001_Node000001" title=" " alt="" coords="66,142,59,132,63,122,77,116,101,113,130,117,142,126,138,130,128,122,101,119,78,121,66,125,64,131,70,138"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#a1cf9711475097b11dc41f743254ec77e" title="Prints to all appropriate console targets, and adds timestamps." alt="" coords="271,29,355,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,138,173,102,243,64,258,57,260,62,245,68,176,107,122,142"/>
+<area shape="rect" id="Node000014" href="$console_8c.html#a49b71fe9a87e57a440e07af4a869a9f6" title="Prints to all appropriate console targets." alt="" coords="269,103,358,128"/>
+<area shape="poly" id="edge3_Node000001_Node000014" title=" " alt="" coords="173,137,254,123,255,128,174,143"/>
+<area shape="rect" id="Node000170" href="$fs_8c.html#a46b9b5ad3cc14f77ae63016505163128" title=" " alt="" coords="264,176,363,201"/>
+<area shape="poly" id="edge5_Node000001_Node000170" title=" " alt="" coords="176,163,251,175,250,181,176,168"/>
+<area shape="rect" id="Node000195" href="$fs_8c.html#a9fd7ebcbb75f140d76ab37664280555f" title=" " alt="" coords="244,249,383,275"/>
+<area shape="poly" id="edge7_Node000001_Node000195" title=" " alt="" coords="128,163,277,241,274,245,125,168"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="279,31,271,21,275,11,290,5,313,3,343,6,354,15,351,20,341,11,313,8,291,10,279,15,277,20,283,28"/>
+<area shape="poly" id="edge4_Node000014_Node000014" title=" " alt="" coords="279,104,271,94,275,84,290,78,313,76,343,80,354,89,351,93,341,85,313,81,291,83,279,88,277,94,283,101"/>
+<area shape="poly" id="edge6_Node000170_Node000170" title=" " alt="" coords="279,178,271,168,275,158,290,152,313,149,343,153,354,162,351,166,341,158,313,155,291,157,279,161,277,167,283,174"/>
+<area shape="poly" id="edge8_Node000195_Node000195" title=" " alt="" coords="279,251,271,241,275,231,290,225,313,223,343,226,354,235,351,240,341,231,313,228,291,230,279,235,277,240,283,248"/>
+</map>

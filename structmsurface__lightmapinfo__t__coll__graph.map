@@ -1,0 +1,10 @@
+<map id="msurface_lightmapinfo_t" name="msurface_lightmapinfo_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="92,375,277,400"/>
+<area shape="rect" id="Node000002" href="$structmtexinfo__t.html" title=" " alt="" coords="138,200,231,225"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,239,187,375,182,375,182,239"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="12,5,51,31"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="26,44,16,84,9,135,10,190,15,217,24,243,53,287,91,324,130,352,163,372,161,377,127,357,87,328,49,290,20,245,10,219,5,191,4,135,11,83,21,43"/>
+<area shape="poly" id="edge2_Node000002_Node000004" title=" " alt="" coords="51,40,177,198,173,201,47,43"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="256,200,337,225"/>
+<area shape="poly" id="edge3_Node000001_Node000006" title=" " alt="" coords="295,240,279,295,265,325,247,352,231,366,214,377,211,372,228,362,243,349,261,322,274,293,290,238"/>
+</map>

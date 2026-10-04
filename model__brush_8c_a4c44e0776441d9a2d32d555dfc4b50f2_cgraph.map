@@ -1,0 +1,11 @@
+<map id="Mod_Q3BSP_LoadTriangles" name="Mod_Q3BSP_LoadTriangles">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,201,55"/>
+<area shape="poly" id="edge6_Node000001_Node000001" title=" " alt="" coords="72,31,65,21,69,11,82,5,103,3,129,6,140,15,137,19,127,11,103,8,83,10,73,15,71,20,76,28"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#a49b71fe9a87e57a440e07af4a869a9f6" title="Prints to all appropriate console targets." alt="" coords="388,29,477,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,29,270,26,340,27,375,31,374,36,340,33,270,31,202,35"/>
+<area shape="rect" id="Node000072" href="$host_8c.html#a6207a721d43b13be42aa21a2bb4d3350" title=" " alt="" coords="249,67,340,92"/>
+<area shape="poly" id="edge3_Node000001_Node000072" title=" " alt="" coords="170,52,236,65,235,71,169,57"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="409,30,405,21,407,11,417,5,433,3,451,6,460,14,456,18,449,11,433,8,419,10,411,15,410,20,414,28"/>
+<area shape="poly" id="edge4_Node000072_Node000002" title=" " alt="" coords="340,65,374,55,375,60,341,70"/>
+<area shape="poly" id="edge5_Node000072_Node000072" title=" " alt="" coords="271,68,267,58,269,49,279,42,295,40,313,43,322,52,318,55,311,48,295,45,281,47,273,52,272,58,276,65"/>
+</map>

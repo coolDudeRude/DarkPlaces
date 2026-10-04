@@ -1,0 +1,14 @@
+<map id="CL_ClientMovement_Move" name="CL_ClientMovement_Move">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,94,201,119"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="63,96,54,86,59,76,76,70,103,67,138,71,148,76,152,82,148,85,145,80,137,76,103,73,77,75,63,80,60,85,67,92"/>
+<area shape="rect" id="Node000002" href="$cl__input_8c.html#a4c5d9b703a13dea13a3c553802d5238a" title=" " alt="" coords="249,29,456,69"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="159,91,251,70,252,75,160,97"/>
+<area shape="rect" id="Node000004" href="$cl__collision_8c.html#a50475cdb678c8e50022410f30b3e398a" title=" " alt="" coords="504,66,608,91"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="202,98,490,80,490,85,202,103"/>
+<area shape="rect" id="Node000239" href="$menudefs_8qc.html#accccfae161879454243b3a8695a9bf3b" title=" " alt="" coords="327,169,378,194"/>
+<area shape="poly" id="edge7_Node000001_Node000239" title=" " alt="" coords="148,117,315,167,313,173,146,122"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="314,30,312,20,318,11,332,5,353,3,376,6,389,13,387,18,375,11,353,8,333,10,322,15,317,21,320,28"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="456,62,490,67,490,72,456,67"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="523,68,516,58,519,48,533,42,556,39,584,43,596,52,592,56,582,48,556,45,534,47,523,51,521,57,527,64"/>
+<area shape="poly" id="edge8_Node000239_Node000239" title=" " alt="" coords="325,174,313,164,314,152,328,145,353,142,386,148,393,155,392,164,386,163,388,157,383,153,353,147,329,150,319,155,318,162,329,170"/>
+</map>

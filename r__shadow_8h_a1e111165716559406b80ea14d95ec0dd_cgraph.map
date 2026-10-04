@@ -1,0 +1,10 @@
+<map id="R_Shadow_ChooseSidesFromBox" name="R_Shadow_ChooseSidesFromBox">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,243,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="78,69,68,58,73,48,92,42,124,40,165,44,176,49,180,56,175,58,173,53,164,49,124,45,93,47,77,52,73,58,82,65"/>
+<area shape="rect" id="Node000002" href="$matrixlib_8c.html#a2c67a69e5ad398eda2624c8507e8b5fa" title=" " alt="" coords="330,29,490,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="221,64,316,52,316,57,222,69"/>
+<area shape="rect" id="Node000003" href="$r__shadow_8c.html#a18b21bd08b92f0b79427462d3f874828" title=" " alt="" coords="291,103,529,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="226,89,296,98,295,104,225,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="364,31,354,21,359,11,378,5,410,3,451,7,462,12,466,18,461,21,459,16,450,12,410,8,379,10,363,15,359,20,368,27"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="364,105,354,94,359,84,378,78,410,76,451,80,462,85,466,92,461,94,459,89,450,85,410,81,379,83,363,88,359,94,368,101"/>
+</map>

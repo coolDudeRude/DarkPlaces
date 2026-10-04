@@ -1,0 +1,7 @@
+<map id="R_LoadTextureShadowMap2D" name="R_LoadTextureShadowMap2D">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,220,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="77,31,70,21,74,11,88,5,113,3,143,6,155,15,151,20,141,11,113,8,90,10,77,15,75,20,81,28"/>
+<area shape="rect" id="Node000002" href="$gl__textures_8c.html#a75b53126e085ffee3023c351c3c8bbcf" title=" " alt="" coords="268,29,391,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="220,39,254,39,254,45,220,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="294,31,286,21,290,11,305,5,329,3,359,6,371,15,368,20,357,11,329,8,306,10,294,15,292,20,298,28"/>
+</map>

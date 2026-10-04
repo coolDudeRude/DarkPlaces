@@ -1,0 +1,16 @@
+<map id="portal_t" name="portal_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="163,333,235,359"/>
+<area shape="rect" id="Node000002" href="$structmplane__t.html" title=" " alt="" coords="57,121,140,147"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,161,95,200,98,221,104,242,120,270,141,295,183,331,180,335,137,299,115,273,99,244,92,222,90,200,91,161"/>
+<area shape="rect" id="Node000005" href="$structmnode__t.html" title=" " alt="" coords="159,217,238,243"/>
+<area shape="poly" id="edge4_Node000005_Node000002" title=" " alt="" coords="112,157,136,191,172,215,169,220,133,195,107,161"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="79,5,118,31"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="77,42,51,71,25,108,10,150,8,171,13,193,30,231,50,259,75,281,111,307,136,322,163,332,161,337,134,327,108,312,72,286,46,262,26,234,8,194,3,172,4,149,20,106,46,68,74,38"/>
+<area shape="poly" id="edge2_Node000002_Node000004" title=" " alt="" coords="101,45,101,121,96,121,96,45"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="132,28,150,38,166,53,188,96,199,143,202,186,202,217,197,217,197,186,194,144,183,98,162,56,147,42,129,32"/>
+<area shape="poly" id="edge3_Node000001_Node000005" title=" " alt="" coords="201,257,201,333,196,333,196,257"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="262,217,389,243"/>
+<area shape="poly" id="edge6_Node000001_Node000010" title=" " alt="" coords="309,255,254,311,220,335,216,331,250,307,305,251"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="413,217,480,243"/>
+<area shape="poly" id="edge8_Node000001_Node000011" title=" " alt="" coords="426,254,389,284,344,312,288,332,235,343,234,337,286,326,341,307,386,280,423,250"/>
+</map>

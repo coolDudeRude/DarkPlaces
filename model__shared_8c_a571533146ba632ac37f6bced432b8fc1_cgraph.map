@@ -1,0 +1,10 @@
+<map id="Mod_Mesh_UploadDynamicBuffers" name="Mod_Mesh_UploadDynamicBuffers">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,255,92"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="90,68,82,58,86,48,103,42,130,40,165,44,175,49,178,54,174,57,171,53,163,49,130,45,104,47,90,52,87,58,94,65"/>
+<area shape="rect" id="Node000002" href="$csprogsdefs_8qc.html#a5ad5fb7c2db4df14f809d0ae435fd5b3" title=" " alt="" coords="352,29,403,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,64,338,45,339,50,215,69"/>
+<area shape="rect" id="Node000003" href="$gl__rmain_8c.html#aec7bc0ca362a947a2d73772dc890914f" title="request space in a vertex/index/uniform buffer for the chosen data, returns the buffer pointer and of..." alt="" coords="303,103,452,128"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="218,89,289,100,288,105,217,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="350,37,332,26,330,14,346,6,377,3,405,5,421,11,426,21,417,31,413,27,421,20,418,15,404,10,377,8,348,11,335,17,336,23,353,33"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="338,104,329,94,333,84,350,78,377,76,412,80,422,85,426,90,421,93,418,89,411,85,377,81,351,83,337,88,334,94,341,101"/>
+</map>

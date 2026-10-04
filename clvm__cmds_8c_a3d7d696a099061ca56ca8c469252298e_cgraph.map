@@ -1,0 +1,17 @@
+<map id="VM_CL_gettagindex" name="VM_CL_gettagindex">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,104,156,129"/>
+<area shape="poly" id="edge8_Node000001_Node000001" title=" " alt="" coords="50,105,43,96,47,86,59,80,81,77,106,81,117,90,114,94,104,86,81,83,61,85,51,89,48,95,54,102"/>
+<area shape="rect" id="Node000002" href="$cl__collision_8c.html#a85cebde1b7912ebbfdf6a4d25b185f66" title=" " alt="" coords="379,29,552,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,101,138,62,169,42,203,27,254,17,306,14,355,18,400,24,399,29,355,23,306,20,254,22,205,33,172,47,142,67,96,105"/>
+<area shape="rect" id="Node000004" href="$clvm__cmds_8c.html#a2e8239b9c90c02ba1001a56f85f3ef35" title=" " alt="" coords="204,67,331,92"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="144,101,190,92,191,97,145,107"/>
+<area shape="rect" id="Node000006" href="$console_8c.html#a2696300802453d9333e9f52e5fae15bc" title="A Con_Printf that only shows up if the &quot;developer&quot; cvar is set." alt="" coords="218,140,317,165"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="147,127,205,138,204,143,146,132"/>
+<area shape="rect" id="Node000516" href="$prvm__cmds_8c.html#a839f28438a1ca0de7c2d772295e1763a" title=" " alt="" coords="216,213,319,239"/>
+<area shape="poly" id="edge9_Node000001_Node000516" title=" " alt="" coords="105,127,234,204,232,209,102,132"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="433,31,426,21,429,11,443,5,465,3,492,6,504,15,500,19,490,11,465,8,444,10,433,15,431,20,437,28"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="331,65,384,55,385,60,332,70"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="236,68,230,58,233,48,246,42,267,40,293,44,304,52,300,56,291,48,267,45,248,47,237,52,235,58,241,65"/>
+<area shape="poly" id="edge7_Node000006_Node000006" title=" " alt="" coords="236,141,230,132,233,122,246,116,267,113,293,117,304,126,300,130,291,122,267,119,248,121,237,125,235,131,241,138"/>
+<area shape="poly" id="edge10_Node000516_Node000516" title=" " alt="" coords="236,215,230,205,233,195,246,189,267,187,293,190,304,199,300,203,291,195,267,192,248,194,237,199,235,204,241,212"/>
+</map>

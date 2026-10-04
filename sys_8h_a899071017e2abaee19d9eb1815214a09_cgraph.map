@@ -1,0 +1,31 @@
+<map id="Sys_Main" name="Sys_Main">
+<area shape="rect" id="Node000001" title="main() but renamed so we can wrap it in sys_sdl.c and sys_null.c to avoid needing to include SDL...." alt="" coords="5,253,89,279"/>
+<area shape="poly" id="edge16_Node000001_Node000001" title=" " alt="" coords="20,255,14,245,17,235,28,229,47,227,70,230,80,239,76,243,68,235,47,232,30,234,21,239,19,244,24,252"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#ae3e9d36eda7886f5fe58e5201291dd78" title=" " alt="" coords="189,29,240,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="49,252,58,217,74,169,100,118,135,72,154,58,175,49,177,54,157,63,139,76,104,121,79,171,63,219,54,254"/>
+<area shape="rect" id="Node000003" href="$host_8c.html#a564678918f2abbc0be69e8db00b2e8b3" title=" " alt="" coords="175,228,255,253"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="89,257,160,246,161,251,90,262"/>
+<area shape="rect" id="Node001121" href="$sys__shared_8c.html#a6e31205c7dc8a8c5bbb9da6b0cd38477" title=" " alt="" coords="340,155,481,180"/>
+<area shape="poly" id="edge9_Node000001_Node001121" title=" " alt="" coords="49,252,59,222,76,184,101,146,117,129,136,116,167,103,200,98,233,98,266,103,328,123,377,146,375,150,326,128,265,109,232,103,200,103,168,108,139,120,121,133,105,149,80,187,64,224,54,254"/>
+<area shape="rect" id="Node000065" href="$sys__shared_8c.html#ae9b9461780a044853793708c49317b28" title=" " alt="" coords="348,253,473,279"/>
+<area shape="poly" id="edge10_Node000001_Node000065" title=" " alt="" coords="89,263,334,263,334,269,89,269"/>
+<area shape="rect" id="Node002332" href="$sys__shared_8c.html#ab7bc2cb45b09d4c0815ccda66fac82a7" title="JS+WebGL doesn&#39;t support a main loop, only a function called to run a frame." alt="" coords="168,155,261,180"/>
+<area shape="poly" id="edge11_Node000001_Node002332" title=" " alt="" coords="59,251,92,220,136,189,154,181,156,185,139,194,95,224,63,255"/>
+<area shape="rect" id="Node002471" href="$sys__shared_8c.html#a8f0b3bd5d5074649f92ad7d60f0c9e85" title="SDL2 only handles SIGINT and SIGTERM by default and doesn&#39;t log anything." alt="" coords="155,353,275,379"/>
+<area shape="poly" id="edge14_Node000001_Node002471" title=" " alt="" coords="71,277,182,344,179,348,68,281"/>
+<area shape="rect" id="Node002475" href="$sys__shared_8c.html#aa3e15a40437fd51a7b01026b082491fd" title=" " alt="" coords="143,427,287,452"/>
+<area shape="poly" id="edge17_Node000001_Node002475" title=" " alt="" coords="58,278,90,330,113,361,139,389,178,418,175,422,136,393,109,364,85,333,53,280"/>
+<area shape="rect" id="Node002322" href="$sys__shared_8c.html#a6f9742bd6e89076e3d2513e3f43bb418" title=" " alt="" coords="137,500,292,525"/>
+<area shape="poly" id="edge19_Node000001_Node002322" title=" " alt="" coords="54,278,64,313,81,362,106,414,139,463,156,478,175,491,172,496,153,483,135,466,101,417,76,364,59,315,49,280"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="187,31,181,21,184,11,196,5,215,3,237,6,247,15,244,19,235,11,215,8,197,10,188,15,186,20,191,28"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="187,229,181,220,184,210,196,204,215,201,237,205,247,213,244,217,235,210,215,207,197,209,188,213,186,219,191,226"/>
+<area shape="poly" id="edge5_Node000003_Node001121" title=" " alt="" coords="249,225,362,183,364,188,251,230"/>
+<area shape="poly" id="edge7_Node000003_Node000065" title=" " alt="" coords="255,243,335,254,334,259,255,248"/>
+<area shape="poly" id="edge6_Node001121_Node001121" title=" " alt="" coords="379,156,372,146,375,136,389,130,411,128,437,132,449,140,445,145,435,136,411,133,390,135,379,140,377,146,383,153"/>
+<area shape="poly" id="edge8_Node000065_Node000065" title=" " alt="" coords="379,255,372,245,375,235,389,229,411,227,437,230,449,239,445,243,435,235,411,232,390,234,379,239,377,244,383,252"/>
+<area shape="poly" id="edge12_Node002332_Node001121" title=" " alt="" coords="262,165,326,165,326,170,262,170"/>
+<area shape="poly" id="edge13_Node002332_Node002332" title=" " alt="" coords="187,156,181,146,184,137,196,130,215,128,237,131,247,140,244,144,235,136,215,133,197,135,188,140,186,146,191,153"/>
+<area shape="poly" id="edge15_Node002471_Node002471" title=" " alt="" coords="187,355,181,345,184,335,196,329,215,327,237,330,247,339,244,343,235,335,215,332,197,334,188,339,186,344,191,352"/>
+<area shape="poly" id="edge18_Node002475_Node002475" title=" " alt="" coords="187,428,181,418,184,409,196,402,215,400,237,403,247,412,244,416,235,408,215,405,197,407,188,412,186,418,191,425"/>
+<area shape="poly" id="edge20_Node002322_Node002322" title=" " alt="" coords="187,501,181,492,184,482,196,476,215,473,237,477,247,485,244,489,235,482,215,479,197,481,188,485,186,491,191,498"/>
+</map>

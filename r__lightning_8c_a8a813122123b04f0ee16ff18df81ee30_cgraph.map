@@ -1,0 +1,19 @@
+<map id="R_LightningBeams_Init" name="R_LightningBeams_Init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,176,176,201"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="53,178,44,168,49,158,64,152,91,149,124,153,136,163,133,167,122,158,91,155,66,157,52,162,49,167,56,174"/>
+<area shape="rect" id="Node000002" href="$cvar_8c.html#a9bd27026ed325ffe5276549c11c7379d" title="registers a cvar that already has the name, string, and optionally the archive elements set." alt="" coords="243,29,410,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,174,148,120,183,90,223,64,237,57,240,62,225,68,187,94,152,124,104,178"/>
+<area shape="rect" id="Node001352" href="$r__lightning_8c.html#af81cafaf098a7644d4e118ed5a21b8f9" title=" " alt="" coords="227,103,426,128"/>
+<area shape="poly" id="edge4_Node000001_Node001352" title=" " alt="" coords="122,173,223,137,252,129,254,134,225,142,123,179"/>
+<area shape="rect" id="Node001353" href="$r__lightning_8c.html#a730ab846ad69da5fe372d6a3f6ea54da" title=" " alt="" coords="224,176,429,201"/>
+<area shape="poly" id="edge6_Node000001_Node001353" title=" " alt="" coords="176,186,210,186,210,191,176,191"/>
+<area shape="rect" id="Node001354" href="$r__lightning_8c.html#a3f47f23712299cb0b8cbf899053a344e" title=" " alt="" coords="241,249,413,275"/>
+<area shape="poly" id="edge8_Node000001_Node001354" title=" " alt="" coords="133,199,272,243,271,248,132,204"/>
+<area shape="rect" id="Node001355" href="$r__modules_8c.html#a7f982eee49a26b26f015596ac96edea0" title=" " alt="" coords="257,323,397,348"/>
+<area shape="poly" id="edge10_Node000001_Node001355" title=" " alt="" coords="109,200,160,239,225,284,285,315,282,319,223,288,157,243,106,204"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="289,31,280,21,285,11,300,5,327,3,360,7,372,16,369,20,358,11,327,8,302,10,288,15,285,20,292,27"/>
+<area shape="poly" id="edge5_Node001352_Node001352" title=" " alt="" coords="289,104,280,94,285,84,300,78,327,76,360,80,372,89,369,94,358,85,327,81,302,83,288,88,285,94,292,101"/>
+<area shape="poly" id="edge7_Node001353_Node001353" title=" " alt="" coords="289,178,280,168,285,158,300,152,327,149,360,153,372,163,369,167,358,158,327,155,302,157,288,162,285,167,292,174"/>
+<area shape="poly" id="edge9_Node001354_Node001354" title=" " alt="" coords="289,251,280,241,285,231,300,225,327,223,360,227,372,236,369,240,358,231,327,228,302,230,288,235,285,240,292,247"/>
+<area shape="poly" id="edge11_Node001355_Node001355" title=" " alt="" coords="289,324,280,314,285,304,300,298,327,296,360,300,372,309,369,314,358,305,327,301,302,303,288,308,285,314,292,321"/>
+</map>

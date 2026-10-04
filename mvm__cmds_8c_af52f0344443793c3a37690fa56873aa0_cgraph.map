@@ -1,0 +1,7 @@
+<map id="VM_M_registercommand" name="VM_M_registercommand">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,189,55"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="62,31,55,21,59,11,73,5,97,3,127,6,139,15,136,20,125,11,97,8,75,10,63,15,60,20,67,28"/>
+<area shape="rect" id="Node000002" href="$cmd_8c.html#a86fa905462db75436af48f27298204e5" title="called by the init functions of other parts of the program to register commands and functions to call..." alt="" coords="237,29,388,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,39,223,39,223,45,189,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="278,31,270,21,274,11,289,5,313,3,342,6,354,15,351,20,340,11,313,8,290,10,278,15,275,20,282,28"/>
+</map>

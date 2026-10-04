@@ -1,0 +1,7 @@
+<map id="Sys_SDL_Delay" name="Sys_SDL_Delay">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,128,55"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="41,31,36,21,39,11,49,5,67,3,87,6,96,15,92,19,85,11,67,8,51,10,43,15,41,20,46,28"/>
+<area shape="rect" id="Node000002" href="$sys__shared_8c.html#a2fe6e82a2dd55741246a156d74cc7dab" title="Causes the entire program to exit ASAP." alt="" coords="176,29,259,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,39,162,39,162,45,128,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="192,31,187,21,190,11,200,5,217,3,238,6,247,15,243,19,235,11,217,8,202,10,194,15,192,20,197,28"/>
+</map>

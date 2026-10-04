@@ -1,0 +1,7 @@
+<map id="SCR_EndLoadingPlaque" name="SCR_EndLoadingPlaque">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,180,55"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="52,31,43,21,48,11,65,5,93,3,128,7,138,11,142,17,137,20,135,15,127,12,93,8,66,10,51,15,49,20,56,27"/>
+<area shape="rect" id="Node000002" href="$cl__screen_8c.html#a1d4de4df63bb1375ca183ed1ec13b4b5" title=" " alt="" coords="228,29,460,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,39,214,39,214,45,180,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="303,31,295,21,299,11,316,5,344,3,379,7,389,11,393,17,389,20,386,15,378,12,344,8,317,10,303,15,300,20,307,27"/>
+</map>

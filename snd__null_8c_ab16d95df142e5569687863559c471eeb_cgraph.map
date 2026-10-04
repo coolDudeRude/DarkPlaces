@@ -1,0 +1,6 @@
+<map id="S_SetChannelFlag" name="S_SetChannelFlag">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,144,55"/>
+<area shape="rect" id="Node000002" href="$snd__main_8c.html#ab16d95df142e5569687863559c471eeb" title=" " alt="" coords="192,29,331,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,39,178,39,178,45,145,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="230,31,224,21,227,11,240,5,261,3,287,6,298,15,294,19,285,11,261,8,242,10,231,15,229,20,235,28"/>
+</map>

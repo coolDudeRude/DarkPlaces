@@ -1,0 +1,10 @@
+<map id="R_BuildLightMap" name="R_BuildLightMap">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,78,136,103"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="35,80,27,70,31,60,46,54,71,51,101,55,113,64,110,68,99,60,71,57,47,59,35,64,32,69,39,76"/>
+<area shape="rect" id="Node000002" href="$image_8c.html#aa169ed901b58e5c497199cd0987a9f98" title=" " alt="" coords="184,29,399,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,76,170,69,171,75,137,81"/>
+<area shape="rect" id="Node000004" href="$gl__textures_8c.html#a558d3efbd11eedd4f9e47c0dbc704090" title=" " alt="" coords="225,118,358,143"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="137,100,211,114,210,119,136,105"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="250,30,248,20,254,10,269,5,291,3,317,6,331,13,328,18,315,11,291,8,270,10,258,15,253,21,255,28"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="256,120,248,110,252,100,267,94,291,91,322,95,334,104,331,108,320,100,291,97,268,99,256,104,253,109,260,116"/>
+</map>

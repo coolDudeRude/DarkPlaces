@@ -1,0 +1,14 @@
+<map id="Sys_SDL_Init" name="Sys_SDL_Init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,91,111,116"/>
+<area shape="rect" id="Node000002" href="$sys__shared_8c.html#ae9b9461780a044853793708c49317b28" title=" " alt="" coords="312,29,437,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,88,114,68,158,51,229,39,298,36,298,42,230,45,159,57,116,73,80,93"/>
+<area shape="rect" id="Node000003" href="$sys__shared_8c.html#a2fe6e82a2dd55741246a156d74cc7dab" title="Causes the entire program to exit ASAP." alt="" coords="333,116,416,141"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="100,113,159,126,243,131,320,130,320,135,243,137,158,131,99,119"/>
+<area shape="rect" id="Node001351" href="$sys__wasm_8c.html#a04b575532cb31717bc51998853b1cc18" title=" " alt="" coords="159,91,264,116"/>
+<area shape="poly" id="edge5_Node000001_Node001351" title=" " alt="" coords="111,101,145,101,145,106,111,106"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="347,31,342,21,345,11,356,5,375,3,397,6,407,15,403,19,395,11,375,8,358,10,349,15,347,20,352,28"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="347,117,342,108,345,98,356,92,375,89,397,93,407,101,403,105,395,98,375,95,358,97,349,101,347,107,352,114"/>
+<area shape="poly" id="edge6_Node001351_Node000002" title=" " alt="" coords="245,88,327,57,328,62,247,93"/>
+<area shape="poly" id="edge7_Node001351_Node000003" title=" " alt="" coords="265,109,320,118,319,123,264,114"/>
+<area shape="poly" id="edge8_Node001351_Node001351" title=" " alt="" coords="186,92,180,82,183,73,194,66,211,64,232,67,241,76,238,80,230,72,211,69,196,71,187,76,186,82,190,89"/>
+</map>

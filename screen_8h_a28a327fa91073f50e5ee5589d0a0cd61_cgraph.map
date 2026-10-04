@@ -1,0 +1,7 @@
+<map id="SCR_CenterPrint" name="SCR_CenterPrint">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,133,55"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="40,31,34,21,38,11,50,5,69,3,93,6,103,15,100,19,91,11,69,8,51,10,42,15,40,20,45,28"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#a0f197c6eb090df8f3d64c41edbd069fa" title="Prints a center&#45;aligned message to the console." alt="" coords="181,29,308,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,39,167,39,167,45,133,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="216,31,210,21,213,11,225,5,245,3,269,6,279,15,275,19,266,11,245,8,226,10,217,15,215,20,220,28"/>
+</map>

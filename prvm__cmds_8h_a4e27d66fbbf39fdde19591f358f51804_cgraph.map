@@ -1,0 +1,10 @@
+<map id="VM_getsurfacenumpoints" name="VM_getsurfacenumpoints">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,193,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="68,68,62,58,65,48,78,42,99,40,125,44,136,52,132,56,123,48,99,45,80,47,69,52,67,58,73,65"/>
+<area shape="rect" id="Node000002" href="$prvm__cmds_8c.html#ab23edbce37833c0d73997cacec4cd944" title=" " alt="" coords="245,29,329,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,64,231,50,232,56,164,69"/>
+<area shape="rect" id="Node000006" href="$prvm__cmds_8c.html#af79beb67393117a6f1a8c24a74a3575f" title=" " alt="" coords="241,103,332,128"/>
+<area shape="poly" id="edge3_Node000001_Node000006" title=" " alt="" coords="166,89,228,102,227,107,165,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="256,31,249,21,253,11,265,5,287,3,312,6,323,15,320,19,310,11,287,8,267,10,257,15,254,20,260,28"/>
+<area shape="poly" id="edge4_Node000006_Node000006" title=" " alt="" coords="256,104,249,94,253,84,265,78,287,76,312,80,323,88,320,92,310,84,287,81,267,83,257,88,254,94,260,101"/>
+</map>

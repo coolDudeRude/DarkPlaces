@@ -1,0 +1,7 @@
+<map id="GetLittleShort" name="GetLittleShort">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,117,55"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="34,31,29,21,32,11,43,5,61,3,83,6,93,15,89,19,81,11,61,8,45,10,36,15,34,20,39,28"/>
+<area shape="rect" id="Node000002" href="$com__msg_8c.html#a562c9519cec6edc084492ba2bf856063" title="Extract a little endian 16bit short from the given buffer." alt="" coords="165,29,280,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,39,152,39,152,45,118,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="196,31,190,21,193,11,204,5,223,3,245,6,254,15,251,19,242,11,223,8,206,10,197,15,195,20,200,28"/>
+</map>

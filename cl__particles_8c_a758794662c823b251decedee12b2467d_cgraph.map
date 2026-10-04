@@ -1,0 +1,7 @@
+<map id="CL_SpawnDecalParticleForSurface" name="CL_SpawnDecalParticleForSurface">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,199,69"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="55,30,53,20,60,10,77,5,102,3,131,6,147,13,145,18,130,11,102,8,78,10,63,15,58,21,60,28"/>
+<area shape="rect" id="Node000002" href="$gl__rmain_8c.html#ac25f08cb533aea271af588c2ad704025" title=" " alt="" coords="247,37,460,62"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="199,47,233,47,233,52,199,52"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="313,38,304,28,308,18,325,12,353,10,389,14,399,19,403,24,398,27,395,23,387,19,353,15,326,17,312,22,309,28,317,35"/>
+</map>

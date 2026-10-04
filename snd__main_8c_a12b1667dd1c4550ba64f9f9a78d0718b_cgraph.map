@@ -1,0 +1,13 @@
+<map id="S_PauseSound_f" name="S_PauseSound_f">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,132,128"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="37,104,30,94,34,84,47,78,69,76,95,80,106,88,103,92,93,84,69,81,48,83,38,88,35,94,41,101"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#a977f9318008de123876b168dfa86ad22" title=" " alt="" coords="235,29,286,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,100,179,64,221,50,223,55,181,68,97,105"/>
+<area shape="rect" id="Node000003" href="$console_8c.html#a1cf9711475097b11dc41f743254ec77e" title="Prints to all appropriate console targets, and adds timestamps." alt="" coords="219,103,303,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="133,113,205,113,205,118,133,118"/>
+<area shape="rect" id="Node001272" href="$snd__main_8c.html#a9487f94dccf266eb6860da91d7ee9490" title=" " alt="" coords="180,176,341,201"/>
+<area shape="poly" id="edge5_Node000001_Node001272" title=" " alt="" coords="104,126,215,168,213,173,102,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="233,34,223,23,224,12,238,5,261,3,291,8,298,14,299,22,293,22,293,17,289,13,261,8,239,10,229,16,228,22,237,30"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="229,104,222,94,226,84,239,78,261,76,287,80,298,88,295,92,285,84,261,81,240,83,230,88,227,94,233,101"/>
+<area shape="poly" id="edge6_Node001272_Node001272" title=" " alt="" coords="229,177,222,168,226,158,239,152,261,149,287,153,298,162,295,166,285,158,261,155,240,157,230,161,227,167,233,174"/>
+</map>

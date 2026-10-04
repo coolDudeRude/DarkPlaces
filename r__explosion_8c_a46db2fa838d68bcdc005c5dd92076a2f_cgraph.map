@@ -1,0 +1,13 @@
+<map id="r_explosion_start" name="r_explosion_start">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,140,128"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="42,104,35,94,39,84,51,78,73,76,98,80,109,88,106,92,96,84,73,81,53,83,43,88,40,94,46,101"/>
+<area shape="rect" id="Node000002" href="$fractalnoise_8c.html#a20fb401408532bc09be0c97b0f7c17e0" title=" " alt="" coords="212,29,311,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,100,187,64,206,57,208,62,189,68,103,105"/>
+<area shape="rect" id="Node000716" href="$gl__textures_8c.html#ab60a02391841e828427f5cc24cb5dd29" title=" " alt="" coords="188,103,335,128"/>
+<area shape="poly" id="edge3_Node000001_Node000716" title=" " alt="" coords="140,113,174,113,174,118,140,118"/>
+<area shape="rect" id="Node000209" href="$gl__textures_8c.html#afe6f33ec05da1bce9cd3a847610e7384" title=" " alt="" coords="194,176,329,201"/>
+<area shape="poly" id="edge6_Node000001_Node000209" title=" " alt="" coords="107,126,216,168,214,173,105,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="230,31,224,21,227,11,240,5,261,3,287,6,298,15,294,19,285,11,261,8,242,10,231,15,229,20,235,28"/>
+<area shape="poly" id="edge4_Node000716_Node000716" title=" " alt="" coords="230,104,224,94,227,84,240,78,261,76,287,80,298,88,294,92,285,84,261,81,242,83,231,88,229,94,235,101"/>
+<area shape="poly" id="edge7_Node000209_Node000209" title=" " alt="" coords="230,177,224,168,227,158,240,152,261,149,287,153,298,162,294,166,285,158,261,155,242,157,231,161,229,167,235,174"/>
+</map>

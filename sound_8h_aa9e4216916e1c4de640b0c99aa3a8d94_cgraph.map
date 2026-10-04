@@ -1,0 +1,14 @@
+<map id="S_SoundLength" name="S_SoundLength">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,91,127,116"/>
+<area shape="rect" id="Node000002" href="$snd__main_8c.html#a9525d272a06cd21c550afa4edc661b76" title=" " alt="" coords="358,29,461,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,88,127,68,174,51,218,43,262,38,344,36,344,42,263,44,219,48,175,57,129,73,90,93"/>
+<area shape="rect" id="Node001351" href="$snd__main_8c.html#a8b141b28c95db2a2b26f8c7793ec6055" title=" " alt="" coords="344,116,475,141"/>
+<area shape="poly" id="edge3_Node000001_Node001351" title=" " alt="" coords="111,113,175,126,255,131,330,130,330,136,255,136,174,131,110,119"/>
+<area shape="rect" id="Node001352" href="$snd__main_8c.html#aa9e4216916e1c4de640b0c99aa3a8d94" title=" " alt="" coords="175,91,296,116"/>
+<area shape="poly" id="edge5_Node000001_Node001352" title=" " alt="" coords="127,101,161,101,161,106,127,106"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="380,31,374,21,378,11,390,5,409,3,433,6,443,15,440,19,431,11,409,8,391,10,382,15,380,20,385,28"/>
+<area shape="poly" id="edge4_Node001351_Node001351" title=" " alt="" coords="380,117,374,108,378,98,390,92,409,89,433,93,443,102,440,106,431,98,409,95,391,97,382,101,380,107,385,114"/>
+<area shape="poly" id="edge6_Node001352_Node000002" title=" " alt="" coords="271,88,359,57,361,62,273,93"/>
+<area shape="poly" id="edge7_Node001352_Node001351" title=" " alt="" coords="296,109,331,115,330,120,296,115"/>
+<area shape="poly" id="edge8_Node001352_Node001352" title=" " alt="" coords="207,92,201,82,204,73,216,66,235,64,258,67,268,76,265,80,256,72,235,69,218,71,209,76,207,82,212,89"/>
+</map>

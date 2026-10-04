@@ -1,0 +1,26 @@
+<map id="Draw_NewPic" name="Draw_NewPic">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,228,116,253"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="25,229,17,219,21,210,36,203,61,201,91,205,103,214,100,218,89,210,61,206,37,209,25,213,22,219,29,226"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#a2696300802453d9333e9f52e5fae15bc" title="A Con_Printf that only shows up if the &quot;developer&quot; cvar is set." alt="" coords="444,190,543,216"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="62,227,70,188,88,137,118,84,138,61,163,42,224,12,252,5,279,3,307,5,335,13,397,42,432,70,457,106,476,144,488,176,482,178,471,146,453,109,428,74,395,47,333,18,306,11,279,8,253,10,226,17,165,47,142,65,123,87,93,139,75,190,67,228"/>
+<area shape="rect" id="Node000133" href="$com__crc16_8c.html#aa9ba811c20537ebd01898928be2de439" title=" " alt="" coords="234,81,326,106"/>
+<area shape="poly" id="edge3_Node000001_Node000133" title=" " alt="" coords="67,226,102,172,130,141,163,116,190,103,220,96,221,101,192,108,165,120,133,145,106,175,71,229"/>
+<area shape="rect" id="Node000723" href="$gl__rmain_8c.html#a6254a8f908da05ab79804175be40aec9" title=" " alt="" coords="164,154,396,180"/>
+<area shape="poly" id="edge6_Node000001_Node000723" title=" " alt="" coords="83,225,120,206,163,189,190,181,192,186,165,194,122,211,86,230"/>
+<area shape="rect" id="Node000300" href="$gl__rmain_8c.html#ac068333f6656190ddd5836765acdffe0" title=" " alt="" coords="190,228,370,253"/>
+<area shape="poly" id="edge8_Node000001_Node000300" title=" " alt="" coords="116,238,176,238,176,243,116,243"/>
+<area shape="rect" id="Node000134" href="$gl__rmain_8c.html#ab57d3b15b1bdb498f4b0173fa69e9ccf" title=" " alt="" coords="170,301,390,326"/>
+<area shape="poly" id="edge10_Node000001_Node000134" title=" " alt="" coords="101,251,229,294,227,299,99,256"/>
+<area shape="rect" id="Node000225" href="$gl__textures_8c.html#a558d3efbd11eedd4f9e47c0dbc704090" title=" " alt="" coords="213,374,347,400"/>
+<area shape="poly" id="edge12_Node000001_Node000225" title=" " alt="" coords="75,252,113,292,166,336,196,353,228,367,226,372,194,358,162,340,109,296,71,255"/>
+<area shape="rect" id="Node000028" href="$menudefs_8qc.html#a274680f571a231ddf29421b93d434bfa" title=" " alt="" coords="251,448,309,473"/>
+<area shape="poly" id="edge15_Node000001_Node000028" title=" " alt="" coords="69,252,102,325,130,370,166,409,201,432,238,447,236,452,199,437,162,413,126,373,97,328,64,255"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="458,192,451,182,455,172,469,166,493,164,523,168,535,177,532,181,521,172,493,169,471,171,459,176,456,181,463,189"/>
+<area shape="poly" id="edge4_Node000133_Node000133" title=" " alt="" coords="245,83,238,73,241,63,256,57,280,54,310,58,321,67,318,71,308,63,280,60,257,62,245,67,243,72,249,79"/>
+<area shape="poly" id="edge7_Node000723_Node000723" title=" " alt="" coords="245,156,238,146,241,136,256,130,280,128,310,132,321,141,318,145,308,136,280,133,257,135,245,140,243,145,249,153"/>
+<area shape="poly" id="edge9_Node000300_Node000300" title=" " alt="" coords="245,229,238,219,241,210,256,203,280,201,310,205,321,214,318,218,308,210,280,206,257,209,245,213,243,219,249,226"/>
+<area shape="poly" id="edge11_Node000134_Node000134" title=" " alt="" coords="245,303,238,293,241,283,256,277,280,274,310,278,321,287,318,291,308,283,280,280,257,282,245,287,243,292,249,299"/>
+<area shape="poly" id="edge13_Node000225_Node000002" title=" " alt="" coords="325,372,360,357,394,336,421,310,444,281,477,227,482,230,448,284,425,314,398,340,363,362,327,377"/>
+<area shape="poly" id="edge14_Node000225_Node000225" title=" " alt="" coords="245,376,238,366,241,356,256,350,280,348,310,352,321,361,318,365,308,356,280,353,257,355,245,360,243,365,249,373"/>
+<area shape="poly" id="edge16_Node000028_Node000028" title=" " alt="" coords="249,452,238,442,240,431,255,424,280,421,314,426,322,433,322,441,317,441,317,435,311,431,280,426,256,429,244,434,243,440,252,448"/>
+</map>

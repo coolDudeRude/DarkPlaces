@@ -1,0 +1,7 @@
+<map id="rtexture_t" name="rtexture_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="63,141,149,167"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,44,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="21,45,18,81,21,99,28,116,44,131,64,141,61,146,41,135,24,119,16,101,12,81,15,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="163,5,214,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="189,45,180,82,162,119,148,133,132,143,129,139,144,129,157,116,175,80,183,44"/>
+</map>

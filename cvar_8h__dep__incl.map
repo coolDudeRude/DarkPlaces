@@ -1,0 +1,18 @@
+<map id="cvar.h" name="cvar.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="321,5,383,31"/>
+<area shape="rect" id="Node000002" href="$cdaudio_8h.html" title=" " alt="" coords="5,79,91,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="309,32,92,83,90,77,308,27"/>
+<area shape="rect" id="Node000009" href="$cl__parse_8h.html" title=" " alt="" coords="115,79,203,104"/>
+<area shape="poly" id="edge2_Node000001_Node000009" title=" " alt="" coords="309,38,191,81,189,76,307,33"/>
+<area shape="rect" id="Node000109" href="$darkplaces_8h.html" title=" " alt="" coords="309,152,414,177"/>
+<area shape="poly" id="edge3_Node000001_Node000109" title=" " alt="" coords="313,39,291,52,274,68,265,85,268,103,279,118,294,131,328,150,326,154,291,136,275,122,263,105,259,84,270,64,288,48,310,35"/>
+<area shape="rect" id="Node000131" href="$dpvsimpledecode_8h.html" title=" " alt="" coords="277,79,427,104"/>
+<area shape="poly" id="edge4_Node000001_Node000131" title=" " alt="" coords="355,44,355,79,349,79,349,44"/>
+<area shape="rect" id="Node000132" href="$host_8h.html" title=" " alt="" coords="451,79,514,104"/>
+<area shape="poly" id="edge5_Node000001_Node000132" title=" " alt="" coords="387,35,463,76,460,81,384,40"/>
+<area shape="rect" id="Node000133" href="$image_8h.html" title=" " alt="" coords="539,79,613,104"/>
+<area shape="poly" id="edge7_Node000001_Node000133" title=" " alt="" coords="396,31,541,76,539,81,395,36"/>
+<area shape="rect" id="Node000134" href="$input_8h.html" title="&#45;&#45; external (non&#45;keyboard) input devices" alt="" coords="637,79,704,104"/>
+<area shape="poly" id="edge8_Node000001_Node000134" title=" " alt="" coords="397,26,626,76,638,79,636,84,625,81,395,31"/>
+<area shape="poly" id="edge6_Node000132_Node000109" title=" " alt="" coords="452,113,383,154,380,149,450,109"/>
+</map>

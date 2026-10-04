@@ -1,0 +1,13 @@
+<map id="Mod_Q1BSP_LoadSplitSky" name="Mod_Q1BSP_LoadSplitSky">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,196,128"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="59,104,50,94,54,84,72,78,101,76,137,80,147,85,151,90,147,93,144,89,136,85,101,81,73,83,58,88,55,94,63,101"/>
+<area shape="rect" id="Node000002" href="$com__crc16_8c.html#aa9ba811c20537ebd01898928be2de439" title=" " alt="" coords="314,29,406,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,100,243,63,300,50,301,55,245,69,136,105"/>
+<area shape="rect" id="Node000003" href="$gl__textures_8c.html#ab60a02391841e828427f5cc24cb5dd29" title=" " alt="" coords="287,103,433,128"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="196,113,273,113,273,118,196,118"/>
+<area shape="rect" id="Node000004" href="$gl__rmain_8c.html#a6254a8f908da05ab79804175be40aec9" title=" " alt="" coords="244,176,476,201"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="147,126,302,170,300,175,146,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="318,31,309,21,314,11,331,5,360,3,397,7,407,11,411,17,406,20,403,15,395,12,360,8,332,10,317,15,314,20,322,27"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="318,104,309,94,314,84,331,78,360,76,397,80,407,85,411,90,406,93,403,89,395,85,360,81,332,83,317,88,314,94,322,101"/>
+<area shape="poly" id="edge7_Node000004_Node000004" title=" " alt="" coords="318,178,309,168,314,158,331,151,360,149,397,153,407,158,411,164,406,167,403,162,395,158,360,155,332,157,317,162,314,167,322,174"/>
+</map>

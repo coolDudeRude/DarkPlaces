@@ -1,0 +1,13 @@
+<map id="Mod_Q3BSP_LoadTextures" name="Mod_Q3BSP_LoadTextures">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,199,128"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="60,104,51,94,55,84,73,78,102,76,139,80,150,85,153,91,149,94,146,89,138,85,102,81,74,83,59,88,56,94,64,101"/>
+<area shape="rect" id="Node000002" href="$host_8c.html#a6207a721d43b13be42aa21a2bb4d3350" title=" " alt="" coords="319,29,409,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,100,246,63,304,50,306,55,247,69,137,105"/>
+<area shape="rect" id="Node000511" href="$model__shared_8c.html#a1694c78ec74a4c2a96c00ea69cf44ef7" title=" " alt="" coords="248,103,480,128"/>
+<area shape="poly" id="edge3_Node000001_Node000511" title=" " alt="" coords="199,113,234,113,234,118,199,118"/>
+<area shape="rect" id="Node001351" href="$model__brush_8c.html#a17954d2d48cfe089ee439ae63d8609c8" title=" " alt="" coords="247,177,481,217"/>
+<area shape="poly" id="edge6_Node000001_Node001351" title=" " alt="" coords="145,125,287,170,285,175,143,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="322,31,313,21,317,11,335,5,364,3,401,7,412,12,415,18,411,20,408,16,400,12,364,8,336,10,321,15,318,20,326,27"/>
+<area shape="poly" id="edge4_Node000511_Node000511" title=" " alt="" coords="322,104,313,94,317,84,335,78,364,76,401,80,412,85,415,91,411,94,408,89,400,85,364,81,336,83,321,88,318,94,326,101"/>
+<area shape="poly" id="edge7_Node001351_Node001351" title=" " alt="" coords="316,177,313,167,320,158,338,152,364,150,394,153,411,160,409,165,393,158,364,155,339,157,323,162,318,168,321,175"/>
+</map>

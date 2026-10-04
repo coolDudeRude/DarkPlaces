@@ -1,0 +1,7 @@
+<map id="R_DecalSystem_ApplySplatEntities" name="R_DecalSystem_ApplySplatEntities">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,207,69"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="60,30,57,20,65,10,81,5,106,3,135,6,151,13,148,18,133,11,106,8,82,10,68,15,62,21,65,28"/>
+<area shape="rect" id="Node000002" href="$gl__rmain_8c.html#af4d951a5a876153575709341277d99c5" title=" " alt="" coords="255,37,457,62"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="207,47,241,47,241,52,207,52"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="316,38,307,28,312,18,328,12,356,10,391,14,401,19,405,24,400,27,397,23,390,19,356,15,329,17,315,22,312,28,320,35"/>
+</map>

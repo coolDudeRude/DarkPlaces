@@ -1,0 +1,18 @@
+<map id="CL_VM_GetEntitySoundOrigin" name="CL_VM_GetEntitySoundOrigin">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,116,219,141"/>
+<area shape="poly" id="edge8_Node000001_Node000001" title=" " alt="" coords="76,118,69,108,73,98,87,92,112,89,142,93,154,102,151,106,140,98,112,95,89,97,76,102,74,107,80,114"/>
+<area shape="rect" id="Node000002" href="$cl__collision_8c.html#a85cebde1b7912ebbfdf6a4d25b185f66" title=" " alt="" coords="465,29,638,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,114,190,81,227,64,266,51,313,42,360,37,451,34,451,39,361,42,313,47,267,57,229,69,192,86,134,118"/>
+<area shape="rect" id="Node000004" href="$clvm__cmds_8c.html#a6847a48cf1c55f5d57b10336addcbbda" title=" " alt="" coords="267,91,399,116"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="219,114,252,110,253,115,219,119"/>
+<area shape="rect" id="Node000167" href="$matrixlib_8c.html#afa5873e4026ae22dd9e6aa9177930ef0" title=" " alt="" coords="447,116,656,141"/>
+<area shape="poly" id="edge9_Node000001_Node000167" title=" " alt="" coords="219,126,433,126,433,131,219,131"/>
+<area shape="rect" id="Node000072" href="$csprogsdefs_8qc.html#a5ad5fb7c2db4df14f809d0ae435fd5b3" title=" " alt="" coords="307,216,358,241"/>
+<area shape="poly" id="edge10_Node000001_Node000072" title=" " alt="" coords="142,139,295,209,293,214,140,144"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="516,31,508,21,512,11,527,5,551,3,582,6,594,15,591,20,580,11,551,8,528,10,516,15,513,20,520,28"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="378,88,491,56,493,61,379,93"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="297,92,289,82,293,72,308,66,333,64,363,68,375,77,372,81,361,73,333,69,309,71,297,76,294,82,301,89"/>
+<area shape="poly" id="edge6_Node000004_Node000167" title=" " alt="" coords="399,108,433,112,433,118,398,114"/>
+<area shape="poly" id="edge7_Node000167_Node000167" title=" " alt="" coords="516,118,508,108,512,98,527,92,551,89,582,93,594,102,591,106,580,98,551,95,528,97,516,102,513,107,520,114"/>
+<area shape="poly" id="edge11_Node000072_Node000072" title=" " alt="" coords="306,223,291,212,291,200,305,192,333,189,356,191,370,196,376,205,372,214,367,212,371,206,367,201,355,196,333,195,307,197,295,203,296,210,309,218"/>
+</map>

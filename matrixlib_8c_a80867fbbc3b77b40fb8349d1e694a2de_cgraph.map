@@ -1,0 +1,10 @@
+<map id="Matrix4x4_CreateFromQuakeEntity" name="Matrix4x4_CreateFromQuakeEntity">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,59,217,99"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="78,60,76,50,81,41,93,35,111,33,132,36,144,43,141,47,130,41,111,38,95,40,85,45,81,51,83,58"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#a5b48ade84c6b8b9ccb89e94c5d95ae88" title=" " alt="" coords="265,29,309,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,57,251,47,252,52,206,62"/>
+<area shape="rect" id="Node000003" href="$menudefs_8qc.html#aaabd4c5f172530d93a3b9c30a9e21b88" title=" " alt="" coords="267,103,308,128"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="210,97,254,106,253,111,208,102"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="263,34,253,24,254,13,266,5,287,3,316,8,322,16,322,23,317,23,317,17,313,13,287,8,267,10,258,16,258,22,267,31"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="265,109,253,98,253,87,265,79,287,76,305,78,317,82,323,90,321,99,316,97,318,91,314,87,304,83,287,81,267,84,258,89,258,96,268,105"/>
+</map>

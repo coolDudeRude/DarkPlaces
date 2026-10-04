@@ -1,0 +1,13 @@
+<map id="R_Shadow_RenderLighting_VisibleLighting" name="R_Shadow_RenderLighting_VisibleLighting">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,111,200,151"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="58,111,56,101,63,92,79,86,103,84,130,87,145,94,143,99,129,92,103,89,80,91,66,96,61,102,64,110"/>
+<area shape="rect" id="Node000002" href="$gl__backend_8c.html#add6233d245d2e22c748e7d0e03204acd" title=" " alt="" coords="250,29,433,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,108,268,71,270,76,163,113"/>
+<area shape="rect" id="Node000371" href="$gl__rmain_8c.html#a3d9e4102d980a25f2241b1801076ee19" title=" " alt="" coords="274,118,409,143"/>
+<area shape="poly" id="edge4_Node000001_Node000371" title=" " alt="" coords="200,128,260,128,260,133,200,133"/>
+<area shape="rect" id="Node000334" href="$gl__rmain_8c.html#a0ca297a89eef7f0e1dcf0c12676700da" title=" " alt="" coords="248,192,435,232"/>
+<area shape="poly" id="edge6_Node000001_Node000334" title=" " alt="" coords="163,148,270,185,268,190,161,153"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="297,30,294,20,302,10,317,5,341,3,369,6,384,13,382,18,368,11,341,8,318,10,305,15,300,21,302,28"/>
+<area shape="poly" id="edge5_Node000371_Node000371" title=" " alt="" coords="303,120,294,110,299,100,315,94,341,91,375,95,387,105,384,109,373,100,341,97,316,99,302,104,300,109,307,116"/>
+<area shape="poly" id="edge7_Node000334_Node000334" title=" " alt="" coords="297,192,294,182,302,173,317,167,341,165,369,168,384,175,382,180,368,173,341,171,318,173,305,177,300,183,302,191"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="V_StartPitchDrift_f" name="V_StartPitchDrift_f">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,147,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="46,68,40,58,43,49,55,42,76,40,101,44,111,52,108,56,99,48,76,45,57,47,47,52,45,58,50,65"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#a977f9318008de123876b168dfa86ad22" title=" " alt="" coords="234,29,285,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,64,220,47,221,52,140,69"/>
+<area shape="rect" id="Node000003" href="$view_8c.html#a3b47064c7823c244a7e152184ccccd64" title=" " alt="" coords="195,103,324,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="142,89,182,97,181,103,141,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="232,33,223,23,225,12,238,5,259,3,287,7,294,13,296,20,291,21,290,16,285,12,259,8,239,10,230,15,228,21,236,29"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="229,104,223,94,226,85,239,78,259,76,284,80,295,88,291,92,282,84,259,81,240,83,230,88,228,94,234,101"/>
+</map>

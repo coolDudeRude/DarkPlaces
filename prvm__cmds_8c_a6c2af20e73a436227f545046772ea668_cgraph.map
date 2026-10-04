@@ -1,0 +1,14 @@
+<map id="VM_localsound" name="VM_localsound">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,125,105"/>
+<area shape="poly" id="edge6_Node000001_Node000001" title=" " alt="" coords="38,81,32,72,35,62,47,56,65,53,88,57,97,65,94,69,85,62,65,59,48,61,39,65,38,71,43,78"/>
+<area shape="rect" id="Node000002" href="$snd__main_8c.html#a4d633abdbed318fd5b12833e0ca6cbcf" title=" " alt="" coords="173,29,284,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,77,173,56,175,61,108,82"/>
+<area shape="rect" id="Node000003" href="$snd__main_8c.html#ac1803d70c82da4000fc23e8cc16fee60" title=" " alt="" coords="332,55,459,80"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="125,85,318,71,319,76,126,91"/>
+<area shape="rect" id="Node000516" href="$prvm__cmds_8c.html#a839f28438a1ca0de7c2d772295e1763a" title=" " alt="" coords="177,155,280,180"/>
+<area shape="poly" id="edge7_Node000001_Node000516" title=" " alt="" coords="95,103,189,147,187,151,93,108"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="201,31,196,21,199,11,210,5,229,3,251,6,261,15,257,19,249,11,229,8,212,10,203,15,201,20,206,28"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="285,48,319,53,318,58,284,53"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="368,56,362,46,365,37,376,30,395,28,418,31,428,40,424,44,416,36,395,33,378,35,369,40,367,46,372,53"/>
+<area shape="poly" id="edge8_Node000516_Node000516" title=" " alt="" coords="201,156,196,146,199,137,210,130,229,128,251,131,261,140,257,144,249,136,229,133,212,135,203,140,201,146,206,153"/>
+</map>

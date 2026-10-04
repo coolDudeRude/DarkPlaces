@@ -1,0 +1,10 @@
+<map id="Mod_Q1BSP_LoadEntities" name="Mod_Q1BSP_LoadEntities">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,192,92"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="53,69,43,58,48,48,67,42,99,40,140,44,151,49,154,56,149,58,147,53,138,49,99,45,68,47,52,52,49,58,57,65"/>
+<area shape="rect" id="Node000002" href="$model__brush_8c.html#ab04ada66289fec52a498d6320993e4fb" title=" " alt="" coords="240,29,524,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="192,64,272,54,273,59,193,70"/>
+<area shape="rect" id="Node000997" href="$com__msg_8c.html#a4dad1f08fe43f599ea024f527edac678" title=" " alt="" coords="317,103,447,128"/>
+<area shape="poly" id="edge4_Node000001_Node000997" title=" " alt="" coords="193,89,304,103,303,108,192,94"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="337,31,327,21,332,11,351,5,382,3,423,7,434,12,437,18,433,21,430,16,422,12,382,8,352,10,335,15,332,20,340,27"/>
+<area shape="poly" id="edge5_Node000997_Node000997" title=" " alt="" coords="337,105,327,94,332,84,351,78,382,76,423,80,434,85,437,92,433,94,430,89,422,85,382,81,352,83,335,88,332,94,340,101"/>
+</map>

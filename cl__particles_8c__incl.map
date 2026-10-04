@@ -1,0 +1,11 @@
+<map id="cl_particles.c" name="cl_particles.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="180,5,287,31"/>
+<area shape="rect" id="Node000002" href="$quakedef_8h.html" title=" " alt="" coords="5,79,99,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,33,95,76,93,71,203,28"/>
+<area shape="rect" id="Node000093" href="$cl__collision_8h.html" title=" " alt="" coords="123,79,229,104"/>
+<area shape="poly" id="edge2_Node000001_Node000093" title=" " alt="" coords="226,33,196,70,192,66,222,29"/>
+<area shape="rect" id="Node000094" href="$image_8h.html" title=" " alt="" coords="253,79,328,104"/>
+<area shape="poly" id="edge3_Node000001_Node000094" title=" " alt="" coords="245,29,275,66,271,70,241,33"/>
+<area shape="rect" id="Node000095" href="$r__shadow_8h.html" title=" " alt="" coords="353,79,447,104"/>
+<area shape="poly" id="edge4_Node000001_Node000095" title=" " alt="" coords="261,28,361,71,359,76,259,33"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="Curl_Frame" name="Curl_Frame">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,101,105"/>
+<area shape="poly" id="edge8_Node000001_Node000001" title=" " alt="" coords="19,82,11,72,15,62,30,56,53,53,83,57,94,66,91,70,81,62,53,59,31,61,19,65,17,71,23,78"/>
+<area shape="rect" id="Node000002" href="$libcurl_8c.html#a4531e01e572db088e0ea98af7c41cf0b" title=" " alt="" coords="173,29,359,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,79,198,55,200,60,102,84"/>
+<area shape="rect" id="Node001353" href="$libcurl_8c.html#a596a3c87076463b999c3d15f3137027b" title=" " alt="" coords="431,55,575,80"/>
+<area shape="poly" id="edge7_Node000001_Node001353" title=" " alt="" coords="101,87,417,69,417,75,102,93"/>
+<area shape="rect" id="Node001363" href="$libcurl_8c.html#a8c4c4980a05cbfa1384841bd26de825a" title=" " alt="" coords="149,155,383,180"/>
+<area shape="poly" id="edge5_Node000001_Node001363" title=" " alt="" coords="92,103,217,148,215,153,90,108"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="231,31,224,21,228,11,242,5,266,3,295,6,307,15,304,20,293,11,266,8,244,10,232,15,229,20,236,28"/>
+<area shape="poly" id="edge3_Node000002_Node001353" title=" " alt="" coords="360,49,418,56,417,61,359,55"/>
+<area shape="poly" id="edge4_Node001353_Node001353" title=" " alt="" coords="465,56,456,46,461,36,476,30,503,28,536,32,548,41,545,46,534,37,503,33,478,35,464,40,461,46,468,53"/>
+<area shape="poly" id="edge6_Node001363_Node001363" title=" " alt="" coords="231,156,224,146,228,136,242,130,266,128,295,132,307,141,304,145,293,137,266,133,244,135,232,140,229,146,236,153"/>
+</map>

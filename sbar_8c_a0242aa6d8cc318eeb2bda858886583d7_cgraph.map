@@ -1,0 +1,19 @@
+<map id="Sbar_IntermissionOverlay" name="Sbar_IntermissionOverlay">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,196,105"/>
+<area shape="poly" id="edge12_Node000001_Node000001" title=" " alt="" coords="67,81,60,72,64,62,78,55,101,53,129,57,140,66,137,70,127,62,101,59,79,61,68,65,65,71,72,78"/>
+<area shape="rect" id="Node000002" href="$gl__draw_8c.html#a42f38f468dbff7db26f70058ed779b06" title=" " alt="" coords="652,56,744,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,77,215,49,332,19,399,8,468,3,537,5,605,17,639,29,669,46,666,51,636,34,603,22,536,11,468,9,399,14,333,24,216,54,134,82"/>
+<area shape="rect" id="Node000581" href="$sbar_8c.html#abf8b98e5ba454d0a5f015df17eca3ddc" title=" " alt="" coords="415,56,604,81"/>
+<area shape="poly" id="edge3_Node000001_Node000581" title=" " alt="" coords="196,83,244,79,400,71,401,76,244,85,196,88"/>
+<area shape="rect" id="Node000830" href="$sbar_8c.html#a81b1475881417cdec66a87276f178083" title=" " alt="" coords="244,117,367,143"/>
+<area shape="poly" id="edge6_Node000001_Node000830" title=" " alt="" coords="171,103,231,114,230,119,170,108"/>
+<area shape="rect" id="Node000826" href="$sbar_8c.html#a79655664d108bc65d0f6c23fdbcd3acc" title=" " alt="" coords="454,129,565,155"/>
+<area shape="poly" id="edge11_Node000001_Node000826" title=" " alt="" coords="124,103,178,130,211,143,245,153,295,160,347,161,440,152,441,157,347,166,295,165,243,158,209,148,176,135,122,108"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="667,57,661,48,664,38,677,31,698,29,724,33,734,42,731,46,722,38,698,35,678,37,668,41,666,47,671,54"/>
+<area shape="poly" id="edge4_Node000581_Node000002" title=" " alt="" coords="604,66,639,66,639,71,604,71"/>
+<area shape="poly" id="edge5_Node000581_Node000581" title=" " alt="" coords="478,57,472,48,475,38,488,31,509,29,535,33,546,42,542,46,533,38,509,35,490,37,479,41,477,47,483,54"/>
+<area shape="poly" id="edge7_Node000830_Node000830" title=" " alt="" coords="272,119,265,109,269,99,282,93,305,91,334,94,345,103,341,108,331,99,305,96,284,98,272,103,270,108,276,116"/>
+<area shape="poly" id="edge8_Node000830_Node000826" title=" " alt="" coords="367,131,440,135,440,141,367,136"/>
+<area shape="poly" id="edge9_Node000826_Node000002" title=" " alt="" coords="542,127,650,84,652,89,544,132"/>
+<area shape="poly" id="edge10_Node000826_Node000826" title=" " alt="" coords="478,131,472,121,475,111,488,105,509,103,535,106,546,115,542,119,533,111,509,108,490,110,479,115,477,120,483,128"/>
+</map>

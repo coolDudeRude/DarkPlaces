@@ -1,0 +1,13 @@
+<map id="VM_changelevel" name="VM_changelevel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,135,128"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="42,104,36,94,39,85,51,78,70,76,93,79,103,88,99,92,91,84,70,81,52,83,43,88,41,94,46,101"/>
+<area shape="rect" id="Node000002" href="$cmd_8c.html#a5c3911da1bff8f0bebb1fcaf6b4c78c6" title=" " alt="" coords="183,29,293,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,100,194,58,196,63,101,105"/>
+<area shape="rect" id="Node000051" href="$common_8c.html#a4a8220fa88226bf9cf39b12a051a20d7" title=" " alt="" coords="219,103,257,128"/>
+<area shape="poly" id="edge3_Node000001_Node000051" title=" " alt="" coords="135,113,205,113,205,118,135,118"/>
+<area shape="rect" id="Node000514" href="$prvm__cmds_8c.html#a839f28438a1ca0de7c2d772295e1763a" title=" " alt="" coords="187,176,289,201"/>
+<area shape="poly" id="edge6_Node000001_Node000514" title=" " alt="" coords="101,126,196,168,194,173,99,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="210,31,204,21,207,11,219,5,238,3,261,6,271,15,267,19,259,11,238,8,220,10,211,15,209,20,214,28"/>
+<area shape="poly" id="edge4_Node000051_Node000051" title=" " alt="" coords="216,109,205,98,205,87,217,79,238,76,255,78,267,82,272,90,270,98,265,97,267,91,263,87,254,83,238,81,219,84,210,89,210,96,220,105"/>
+<area shape="poly" id="edge7_Node000514_Node000514" title=" " alt="" coords="210,177,204,168,207,158,219,152,238,149,261,153,271,161,267,165,259,158,238,155,220,157,211,161,209,167,214,174"/>
+</map>

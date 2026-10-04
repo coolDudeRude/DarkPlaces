@@ -1,0 +1,10 @@
+<map id="CSQC_SetGlobals" name="CSQC_SetGlobals">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,140,92"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="37,68,29,58,33,48,48,42,73,40,103,44,115,53,112,57,101,49,73,45,49,47,37,52,34,58,41,65"/>
+<area shape="rect" id="Node000002" href="$clvm__cmds_8c.html#ade858d01aac535562d5a396ffffd9e54" title=" " alt="" coords="215,29,371,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,65,203,54,204,60,141,71"/>
+<area shape="rect" id="Node000161" href="$matrixlib_8c.html#afa5873e4026ae22dd9e6aa9177930ef0" title=" " alt="" coords="188,103,397,128"/>
+<area shape="poly" id="edge4_Node000001_Node000161" title=" " alt="" coords="141,88,202,98,201,103,140,93"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="257,31,249,21,253,11,268,5,293,3,323,6,335,15,332,20,321,11,293,8,269,10,257,15,254,20,261,28"/>
+<area shape="poly" id="edge5_Node000161_Node000161" title=" " alt="" coords="257,104,249,94,253,84,268,78,293,76,323,80,335,89,332,93,321,85,293,81,269,83,257,88,254,94,261,101"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Sbar_DrawString" name="Sbar_DrawString">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,136,55"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="43,31,37,21,40,11,51,5,71,3,94,6,104,15,100,19,91,11,71,8,53,10,44,15,42,20,47,28"/>
+<area shape="rect" id="Node000002" href="$gl__draw_8c.html#aad880bba40abd3688c15d7ac022318a1" title=" " alt="" coords="184,29,295,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,39,170,39,170,45,136,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="211,31,205,21,208,11,220,5,239,3,262,6,272,15,269,19,260,11,239,8,222,10,213,15,211,20,216,28"/>
+</map>

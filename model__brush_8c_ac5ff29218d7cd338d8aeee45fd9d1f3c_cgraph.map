@@ -1,0 +1,7 @@
+<map id="Mod_BSP_BoxTouchingVisibleLeafs" name="Mod_BSP_BoxTouchingVisibleLeafs">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,220,69"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="72,30,69,20,76,10,90,5,113,3,138,6,152,13,150,18,137,11,113,8,92,10,79,15,74,21,77,28"/>
+<area shape="rect" id="Node000002" href="$mathlib_8c.html#aea6de4286a37f9e063f4542490d672c2" title=" " alt="" coords="268,37,397,62"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,47,255,47,255,52,220,52"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="297,38,289,28,293,18,308,12,333,10,363,14,375,23,372,27,361,19,333,15,309,17,297,22,294,28,301,35"/>
+</map>

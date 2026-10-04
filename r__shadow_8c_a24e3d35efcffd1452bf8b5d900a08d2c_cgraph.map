@@ -1,0 +1,10 @@
+<map id="R_Shadow_FreeDeferred" name="R_Shadow_FreeDeferred">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,71,187,96"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="57,72,48,62,53,52,69,46,96,44,130,48,140,53,144,58,139,61,136,57,129,53,96,49,70,51,56,56,53,62,61,69"/>
+<area shape="rect" id="Node000002" href="$gl__textures_8c.html#ab79bf8e042a462735d6d70f02822d98d" title=" " alt="" coords="283,29,397,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,68,269,51,270,56,172,73"/>
+<area shape="rect" id="Node000659" href="$gl__backend_8c.html#afc361a7676a518ccccc3f0bb3b38b9c0" title=" " alt="" coords="235,103,445,143"/>
+<area shape="poly" id="edge3_Node000001_Node000659" title=" " alt="" coords="175,93,222,101,221,107,174,99"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="301,31,292,21,297,11,313,5,340,3,374,7,384,11,388,17,383,20,380,15,373,12,340,8,314,10,300,15,297,20,305,27"/>
+<area shape="poly" id="edge4_Node000659_Node000659" title=" " alt="" coords="295,104,292,94,299,84,315,79,340,77,368,80,384,87,381,92,367,85,340,82,317,84,302,89,297,95,300,102"/>
+</map>

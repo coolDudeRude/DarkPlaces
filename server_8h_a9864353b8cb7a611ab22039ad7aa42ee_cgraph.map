@@ -1,0 +1,13 @@
+<map id="SV_CheckVelocity" name="SV_CheckVelocity">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,144,128"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="45,104,38,94,42,85,54,78,75,76,100,80,110,88,107,92,97,84,75,81,56,83,46,88,43,94,49,101"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#a49b71fe9a87e57a440e07af4a869a9f6" title="Prints to all appropriate console targets." alt="" coords="211,29,301,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,100,191,64,207,57,209,62,193,68,106,105"/>
+<area shape="rect" id="Node000513" href="$prvm__edict_8c.html#a69666cdc9628aebc4b380b6ad1868140" title=" " alt="" coords="192,103,320,128"/>
+<area shape="poly" id="edge3_Node000001_Node000513" title=" " alt="" coords="144,113,178,113,178,118,144,118"/>
+<area shape="rect" id="Node000240" href="$menudefs_8qc.html#a83f4d3f317a80e82e6b16ea61ea5efc3" title=" " alt="" coords="233,176,279,201"/>
+<area shape="poly" id="edge5_Node000001_Node000240" title=" " alt="" coords="108,126,221,172,219,177,106,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="226,31,220,21,223,11,235,5,256,3,281,6,291,15,288,19,279,11,256,8,237,10,227,15,225,20,230,28"/>
+<area shape="poly" id="edge4_Node000513_Node000513" title=" " alt="" coords="226,104,220,94,223,85,235,78,256,76,281,80,291,88,288,92,279,84,256,81,237,83,227,88,225,94,230,101"/>
+<area shape="poly" id="edge6_Node000240_Node000240" title=" " alt="" coords="230,181,220,170,222,159,234,152,256,149,285,155,292,161,292,169,287,169,287,164,282,159,256,155,236,157,226,162,225,169,234,177"/>
+</map>

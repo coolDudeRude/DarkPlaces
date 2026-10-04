@@ -1,0 +1,10 @@
+<map id="R_View_WorldVisibility_CullSurfaces" name="R_View_WorldVisibility_CullSurfaces">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,59,176,99"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="55,60,53,50,58,41,71,35,91,33,113,36,125,43,122,47,111,41,91,38,73,40,62,45,58,51,60,58"/>
+<area shape="rect" id="Node000002" href="$gl__rmain_8c.html#a0c00b6cff8149799615236dd08a34616" title=" " alt="" coords="226,29,338,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,60,212,53,213,58,177,65"/>
+<area shape="rect" id="Node000372" href="$gl__rmain_8c.html#ad828a2865ae4baf75678ea5ba4e74242" title=" " alt="" coords="224,103,340,128"/>
+<area shape="poly" id="edge3_Node000001_Node000372" title=" " alt="" coords="177,93,211,99,210,105,176,98"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="251,31,244,21,248,11,261,5,282,3,308,6,319,15,316,19,306,11,282,8,262,10,251,15,249,20,255,28"/>
+<area shape="poly" id="edge4_Node000372_Node000372" title=" " alt="" coords="251,104,244,94,248,84,261,78,282,76,308,80,319,88,316,92,306,84,282,81,262,83,251,88,249,94,255,101"/>
+</map>

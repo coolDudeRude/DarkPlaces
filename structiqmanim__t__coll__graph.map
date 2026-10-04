@@ -1,0 +1,7 @@
+<map id="iqmanim_t" name="iqmanim_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="60,161,152,187"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,87,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="42,44,38,89,41,114,50,136,61,149,76,159,73,163,57,153,45,139,36,115,33,89,37,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="142,5,193,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="167,45,159,90,140,139,122,162,117,159,136,136,153,88,162,44"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="R_Mesh_PrepareVertices_Generic_Arrays" name="R_Mesh_PrepareVertices_Generic_Arrays">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,133,188,173"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="53,133,51,123,58,114,73,108,97,106,124,109,138,116,136,121,122,114,97,111,74,113,61,118,56,124,58,132"/>
+<area shape="rect" id="Node000002" href="$gl__rmain_8c.html#aec7bc0ca362a947a2d73772dc890914f" title="request space in a vertex/index/uniform buffer for the chosen data, returns the buffer pointer and of..." alt="" coords="255,29,404,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,130,174,96,235,64,254,56,256,61,237,68,176,101,126,135"/>
+<area shape="rect" id="Node000381" href="$gl__backend_8c.html#a5ab3b9a0a41111510ac30f47b9ead33f" title=" " alt="" coords="249,103,409,128"/>
+<area shape="poly" id="edge3_Node000001_Node000381" title=" " alt="" coords="188,135,236,128,237,133,189,141"/>
+<area shape="rect" id="Node000383" href="$gl__backend_8c.html#a318592267aff5c39ff4e0cb893c43dde" title=" " alt="" coords="236,176,423,201"/>
+<area shape="poly" id="edge6_Node000001_Node000383" title=" " alt="" coords="189,164,234,171,233,177,188,169"/>
+<area shape="rect" id="Node000384" href="$gl__backend_8c.html#a21d4d913f67de882205ffa7b42cfa1d3" title=" " alt="" coords="245,249,413,275"/>
+<area shape="poly" id="edge8_Node000001_Node000384" title=" " alt="" coords="141,170,290,241,287,246,139,175"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="292,31,283,21,288,11,303,5,329,3,362,7,374,16,371,20,360,11,329,8,304,10,291,15,289,20,296,27"/>
+<area shape="poly" id="edge4_Node000381_Node000381" title=" " alt="" coords="292,104,283,94,288,84,303,78,329,76,362,80,374,89,371,94,360,85,329,81,304,83,291,88,289,94,296,101"/>
+<area shape="poly" id="edge7_Node000383_Node000383" title=" " alt="" coords="292,178,283,168,288,158,303,152,329,149,362,153,374,163,371,167,360,158,329,155,304,157,291,162,289,167,296,174"/>
+<area shape="poly" id="edge9_Node000384_Node000384" title=" " alt="" coords="292,251,283,241,288,231,303,225,329,223,362,227,374,236,371,240,360,231,329,228,304,230,291,235,289,240,296,247"/>
+</map>

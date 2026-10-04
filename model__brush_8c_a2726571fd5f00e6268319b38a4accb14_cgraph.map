@@ -1,0 +1,7 @@
+<map id="Mod_CollisionBIH_PointSuperContents_Mesh" name="Mod_CollisionBIH_PointSuperContents_Mesh">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,219,69"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="64,30,62,20,69,10,86,5,112,3,142,6,158,13,156,18,140,11,112,8,87,10,72,15,67,21,70,28"/>
+<area shape="rect" id="Node000002" href="$model__brush_8c.html#ab816e4b98970a692de3b0ba2faa0ee13" title=" " alt="" coords="267,37,471,62"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="219,47,253,47,253,52,219,52"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="327,38,318,28,323,18,340,12,369,10,405,14,415,19,419,24,414,27,412,23,403,19,369,15,341,17,326,22,324,28,331,35"/>
+</map>

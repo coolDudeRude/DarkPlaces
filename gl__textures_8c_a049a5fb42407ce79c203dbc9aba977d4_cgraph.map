@@ -1,0 +1,7 @@
+<map id="R_PurgeTexture" name="R_PurgeTexture">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,128,55"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="39,31,33,21,36,11,48,5,67,3,89,6,99,15,96,19,87,11,67,8,49,10,40,15,38,20,43,28"/>
+<area shape="rect" id="Node000002" href="$gl__textures_8c.html#ab79bf8e042a462735d6d70f02822d98d" title=" " alt="" coords="176,29,291,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,39,162,39,162,45,128,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="206,31,200,21,203,11,214,5,233,3,256,6,266,15,262,19,254,11,233,8,216,10,207,15,205,20,210,28"/>
+</map>

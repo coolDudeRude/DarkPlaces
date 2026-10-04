@@ -1,0 +1,13 @@
+<map id="Buffer_Callback" name="Buffer_Callback">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,129,128"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="40,104,34,94,37,85,48,78,67,76,90,79,100,88,96,92,88,84,67,81,50,83,41,88,39,94,44,101"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#a2696300802453d9333e9f52e5fae15bc" title="A Con_Printf that only shows up if the &quot;developer&quot; cvar is set." alt="" coords="185,29,284,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="95,100,176,64,190,58,192,63,178,68,97,105"/>
+<area shape="rect" id="Node001346" href="$snd__mix_8c.html#a28eac9e61c01f9b0e334048c889005be" title=" " alt="" coords="177,103,292,128"/>
+<area shape="poly" id="edge4_Node000001_Node001346" title=" " alt="" coords="130,113,164,113,164,118,130,118"/>
+<area shape="rect" id="Node000064" href="$sys__shared_8c.html#a2fe6e82a2dd55741246a156d74cc7dab" title="Causes the entire program to exit ASAP." alt="" coords="193,176,276,201"/>
+<area shape="poly" id="edge6_Node000001_Node000064" title=" " alt="" coords="98,126,193,168,191,173,96,131"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="207,31,201,21,204,11,216,5,235,3,257,6,267,15,264,19,255,11,235,8,217,10,208,15,206,20,211,28"/>
+<area shape="poly" id="edge5_Node001346_Node001346" title=" " alt="" coords="207,104,201,94,204,85,216,78,235,76,257,79,267,88,264,92,255,84,235,81,217,83,208,88,206,94,211,101"/>
+<area shape="poly" id="edge7_Node000064_Node000064" title=" " alt="" coords="207,177,201,168,204,158,216,152,235,149,257,153,267,161,264,165,255,158,235,155,217,157,208,161,206,167,211,174"/>
+</map>

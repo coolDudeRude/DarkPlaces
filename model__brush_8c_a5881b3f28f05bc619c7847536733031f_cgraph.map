@@ -1,0 +1,10 @@
+<map id="Mod_BrushInit" name="Mod_BrushInit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,120,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="32,68,25,58,29,48,41,42,63,40,88,44,99,52,96,56,86,48,63,45,43,47,33,52,30,58,36,65"/>
+<area shape="rect" id="Node000002" href="$cvar_8c.html#a9bd27026ed325ffe5276549c11c7379d" title="registers a cvar that already has the name, string, and optionally the archive elements set." alt="" coords="168,29,335,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,65,173,55,174,60,121,71"/>
+<area shape="rect" id="Node000102" href="$cvar_8c.html#a6f37a084abf4715928f1a004181866f8" title=" " alt="" coords="193,103,310,128"/>
+<area shape="poly" id="edge3_Node000001_Node000102" title=" " alt="" coords="121,88,180,99,179,104,120,93"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="220,31,214,21,217,11,230,5,251,3,277,6,288,15,284,19,275,11,251,8,232,10,221,15,219,20,225,28"/>
+<area shape="poly" id="edge4_Node000102_Node000102" title=" " alt="" coords="220,104,214,94,217,84,230,78,251,76,277,80,288,88,284,92,275,84,251,81,232,83,221,88,219,94,225,101"/>
+</map>

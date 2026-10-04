@@ -1,0 +1,9 @@
+<map id="vid.h" name="vid.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="137,5,191,31"/>
+<area shape="rect" id="Node000002" href="$quakedef_8h.html" title=" " alt="" coords="5,79,99,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,40,72,81,69,76,133,36"/>
+<area shape="rect" id="Node000106" href="$snd__sdl_8c.html" title=" " alt="" coords="123,79,205,104"/>
+<area shape="poly" id="edge2_Node000001_Node000106" title=" " alt="" coords="167,44,167,79,161,79,161,44"/>
+<area shape="rect" id="Node000107" href="$sys__wasm_8c.html" title=" " alt="" coords="229,79,331,104"/>
+<area shape="poly" id="edge3_Node000001_Node000107" title=" " alt="" coords="196,35,262,76,260,81,193,40"/>
+</map>

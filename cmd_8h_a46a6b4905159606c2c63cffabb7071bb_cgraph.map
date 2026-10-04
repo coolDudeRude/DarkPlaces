@@ -1,0 +1,10 @@
+<map id="Cmd_SaveInitState" name="Cmd_SaveInitState">
+<area shape="rect" id="Node000001" title="called by Host_Init, this marks cvars, commands and aliases with their init values" alt="" coords="5,67,152,92"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="47,68,40,58,43,48,57,42,79,40,105,44,117,52,113,57,103,48,79,45,58,47,47,52,45,58,51,65"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#a977f9318008de123876b168dfa86ad22" title=" " alt="" coords="248,29,299,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,64,234,47,235,52,146,69"/>
+<area shape="rect" id="Node000003" href="$cvar_8c.html#a19ef89c50304fc29a80ea8ea35ebf663" title=" " alt="" coords="200,103,347,128"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="148,89,192,98,191,103,147,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="246,34,235,24,236,13,250,5,273,3,305,8,312,15,312,23,306,23,307,17,302,13,273,8,251,10,241,16,240,22,250,30"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="241,104,234,94,238,84,251,78,273,76,300,80,311,88,308,93,298,84,273,81,253,83,242,88,240,94,245,101"/>
+</map>

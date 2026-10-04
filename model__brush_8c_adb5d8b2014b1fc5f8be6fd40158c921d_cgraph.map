@@ -1,0 +1,10 @@
+<map id="Mod_Q1BSP_TraceLineAgainstSurfacesRecursiveBSPNode" name="Mod_Q1BSP_TraceLineAgainstSurfacesRecursiveBSPNode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,73,223,113"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="64,74,61,64,69,54,87,49,114,47,145,49,163,57,161,62,144,55,114,52,88,54,72,59,66,65,69,72"/>
+<area shape="rect" id="Node000002" href="$model__brush_8c.html#a235b8af89a030c6fb731267b0ef36e8e" title=" " alt="" coords="271,29,505,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,73,257,68,257,73,223,79"/>
+<area shape="rect" id="Node000003" href="$model__brush_8c.html#a3e8cc588bf9b25ca12a411d4e714a828" title=" " alt="" coords="279,117,497,157"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="223,108,266,115,265,120,223,113"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="338,30,335,20,343,10,361,5,388,3,419,5,437,13,435,18,418,11,388,8,362,10,346,15,340,21,343,28"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="338,118,335,108,343,98,361,93,388,91,419,93,437,101,435,106,418,99,388,96,362,98,346,103,340,109,343,116"/>
+</map>

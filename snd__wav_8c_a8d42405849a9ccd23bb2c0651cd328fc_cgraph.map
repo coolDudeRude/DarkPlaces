@@ -1,0 +1,7 @@
+<map id="FindNextChunk" name="FindNextChunk">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,127,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="39,31,33,21,36,11,47,5,66,3,88,6,98,15,94,19,86,11,66,8,49,10,40,15,38,20,43,28"/>
+<area shape="rect" id="Node000002" href="$snd__wav_8c.html#a8bc104615fcd7bc3af263fa3746a721c" title=" " alt="" coords="175,29,284,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="127,39,161,39,161,45,127,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="202,31,196,21,199,11,211,5,229,3,252,6,261,15,258,19,249,11,229,8,212,10,203,15,202,20,207,28"/>
+</map>

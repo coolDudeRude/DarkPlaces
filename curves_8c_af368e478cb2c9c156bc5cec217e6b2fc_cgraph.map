@@ -1,0 +1,10 @@
+<map id="Q3PatchTesselationOnX" name="Q3PatchTesselationOnX">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,180,92"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="58,68,50,58,54,48,69,42,93,40,122,44,134,53,131,57,120,49,93,45,70,47,58,52,55,58,62,65"/>
+<area shape="rect" id="Node000002" href="$curves_8c.html#a86878f7fd7846f42b036fc86bbe711e6" title=" " alt="" coords="233,29,381,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,64,220,54,221,60,167,69"/>
+<area shape="rect" id="Node000006" href="$curves_8c.html#a2f7c86259494817ceead56c6540e70a8" title=" " alt="" coords="228,103,387,128"/>
+<area shape="poly" id="edge4_Node000001_Node000006" title=" " alt="" coords="169,89,218,98,217,103,168,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="272,31,265,21,269,11,283,5,307,3,337,6,349,15,346,20,335,11,307,8,285,10,273,15,270,20,277,28"/>
+<area shape="poly" id="edge5_Node000006_Node000006" title=" " alt="" coords="272,104,265,94,269,84,283,78,307,76,337,80,349,89,346,93,335,85,307,81,285,83,273,88,270,94,277,101"/>
+</map>

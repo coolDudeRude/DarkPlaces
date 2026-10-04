@@ -1,0 +1,7 @@
+<map id="_Thread_WaitBarrier" name="_Thread_WaitBarrier">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,160,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="55,31,49,21,52,11,63,5,83,3,106,6,116,15,112,19,103,11,83,8,65,10,56,15,54,20,59,28"/>
+<area shape="rect" id="Node000002" href="$sys__shared_8c.html#a2e96c9ccfa6d43e1677769d19dbc1a21" title="used to report failures inside Con_Printf()" alt="" coords="208,29,295,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="160,39,194,39,194,45,160,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="223,31,217,21,220,11,232,5,251,3,274,6,284,15,281,19,272,11,251,8,234,10,225,15,223,20,228,28"/>
+</map>

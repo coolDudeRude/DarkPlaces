@@ -1,0 +1,16 @@
+<map id="CL_SendCvar_f" name="CL_SendCvar_f">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,140,124,165"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="34,141,28,132,31,122,44,116,65,113,90,117,101,126,97,130,88,122,65,119,45,121,35,125,33,131,38,138"/>
+<area shape="rect" id="Node000002" href="$cl__cmd_8c.html#acdf279939cd5cee4b9b31a4182ff4308" title="adds the string as a clc_stringcmd to the client message." alt="" coords="172,29,325,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,138,117,101,171,64,184,57,187,62,173,68,120,106,80,142"/>
+<area shape="rect" id="Node000071" href="$menudefs_8qc.html#a977f9318008de123876b168dfa86ad22" title=" " alt="" coords="223,103,274,128"/>
+<area shape="poly" id="edge4_Node000001_Node000071" title=" " alt="" coords="124,138,209,120,210,126,125,143"/>
+<area shape="rect" id="Node000420" href="$cvar_8c.html#abb4c73909d750b61a354db139a9f6e40" title=" " alt="" coords="195,176,302,201"/>
+<area shape="poly" id="edge6_Node000001_Node000420" title=" " alt="" coords="125,162,182,173,181,178,124,167"/>
+<area shape="rect" id="Node000047" href="$common_8c.html#a4a8220fa88226bf9cf39b12a051a20d7" title=" " alt="" coords="229,249,268,275"/>
+<area shape="poly" id="edge8_Node000001_Node000047" title=" " alt="" coords="89,163,219,242,216,246,86,168"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="218,31,212,21,215,11,228,5,249,3,274,6,285,15,281,19,272,11,249,8,229,10,219,15,217,20,222,28"/>
+<area shape="poly" id="edge5_Node000071_Node000071" title=" " alt="" coords="221,106,212,96,214,85,227,78,249,76,277,81,284,86,286,93,280,94,279,89,274,86,249,81,228,84,218,89,217,95,225,103"/>
+<area shape="poly" id="edge7_Node000420_Node000420" title=" " alt="" coords="218,177,212,168,215,158,228,152,249,149,274,153,285,162,281,166,272,158,249,155,229,157,219,161,217,167,222,174"/>
+<area shape="poly" id="edge9_Node000047_Node000047" title=" " alt="" coords="227,257,214,246,213,234,225,226,249,223,268,225,281,230,286,239,282,248,277,246,281,239,277,234,267,230,249,228,227,231,218,236,219,244,231,253"/>
+</map>

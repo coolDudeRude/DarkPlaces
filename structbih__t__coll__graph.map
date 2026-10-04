@@ -1,0 +1,14 @@
+<map id="bih_t" name="bih_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="229,355,283,380"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="18,5,57,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="31,44,18,92,9,155,9,188,12,222,21,253,37,282,56,304,78,321,131,345,184,358,229,363,228,368,183,363,129,350,76,326,52,308,33,286,17,255,7,223,3,189,4,154,13,91,26,43"/>
+<area shape="rect" id="Node000003" href="$structbih__leaf__t.html" title=" " alt="" coords="153,200,239,225"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="52,42,74,78,103,115,119,128,135,139,189,198,185,202,132,143,115,132,100,119,70,81,48,45"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,238,213,282,230,329,247,353,243,356,226,332,207,283,197,239"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="263,5,313,31"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="292,44,291,168,285,250,272,331,264,355,259,354,267,330,279,249,286,168,286,44"/>
+<area shape="poly" id="edge3_Node000003_Node000005" title=" " alt="" coords="252,35,238,45,226,56,208,94,199,134,197,172,198,200,192,200,191,172,194,134,203,92,222,53,234,40,249,31"/>
+<area shape="rect" id="Node000006" href="$structbih__node__t.html" title=" " alt="" coords="357,200,451,225"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="304,41,399,198,395,201,300,44"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="390,239,354,284,309,333,277,356,274,352,305,329,350,280,386,235"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="u8_strlen" name="u8_strlen">
+<area shape="rect" id="Node000001" title="Get the number of characters in an UTF&#45;8 string." alt="" coords="5,67,88,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="23,68,19,58,21,49,31,42,47,40,65,43,74,52,70,55,63,48,47,45,33,47,25,52,24,58,28,65"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#a274680f571a231ddf29421b93d434bfa" title=" " alt="" coords="155,29,213,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,66,141,51,142,56,89,71"/>
+<area shape="rect" id="Node000003" href="$utf8lib_8c.html#a8320768e6930c246578741f4a5133d00" title=" " alt="" coords="136,103,232,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="89,87,124,97,122,102,87,93"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="161,30,156,21,158,11,168,5,184,3,203,6,211,14,207,18,200,11,184,8,170,10,163,15,161,20,165,28"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="161,104,156,94,158,85,168,78,184,76,203,79,211,88,207,91,200,84,184,81,170,83,163,88,161,94,165,101"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="Cbuf_Frame_Input" name="Cbuf_Frame_Input">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,145,92"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="44,68,38,58,41,48,54,42,75,40,101,44,112,52,108,56,99,48,75,45,56,47,45,52,43,58,49,65"/>
+<area shape="rect" id="Node000002" href="$cmd_8c.html#a3f0dd749a96e838a2cfe8cc89ed78b36" title=" " alt="" coords="201,29,323,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="139,64,187,54,188,59,140,69"/>
+<area shape="rect" id="Node001351" href="$sys__shared_8c.html#a4e530bd8e8190b77647d966df10619cf" title="Reads a line from POSIX stdin or the Windows console." alt="" coords="193,103,331,128"/>
+<area shape="poly" id="edge4_Node000001_Node001351" title=" " alt="" coords="142,89,183,97,182,103,141,95"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="231,31,225,21,228,11,241,5,262,3,288,6,298,15,295,19,286,11,262,8,242,10,232,15,230,20,235,28"/>
+<area shape="poly" id="edge5_Node001351_Node001351" title=" " alt="" coords="231,104,225,94,228,84,241,78,262,76,288,80,298,88,295,92,286,84,262,81,242,83,232,88,230,94,235,101"/>
+</map>

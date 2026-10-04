@@ -1,0 +1,16 @@
+<map id="RSurf_UploadBuffersForBatch" name="RSurf_UploadBuffersForBatch">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,140,219,165"/>
+<area shape="poly" id="edge9_Node000001_Node000001" title=" " alt="" coords="72,142,63,132,68,122,84,116,112,113,147,117,157,122,161,128,156,131,153,126,146,122,112,119,85,121,71,126,68,131,76,138"/>
+<area shape="rect" id="Node000002" href="$gl__rmain_8c.html#aec7bc0ca362a947a2d73772dc890914f" title="request space in a vertex/index/uniform buffer for the chosen data, returns the buffer pointer and of..." alt="" coords="285,29,435,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,137,190,101,266,64,287,56,289,61,268,68,192,106,134,142"/>
+<area shape="rect" id="Node000361" href="$gl__backend_8c.html#a5ab3b9a0a41111510ac30f47b9ead33f" title=" " alt="" coords="280,103,440,128"/>
+<area shape="poly" id="edge3_Node000001_Node000361" title=" " alt="" coords="196,137,266,127,267,132,197,143"/>
+<area shape="rect" id="Node000363" href="$gl__backend_8c.html#a318592267aff5c39ff4e0cb893c43dde" title=" " alt="" coords="267,176,453,201"/>
+<area shape="poly" id="edge5_Node000001_Node000363" title=" " alt="" coords="200,163,259,171,258,177,199,168"/>
+<area shape="rect" id="Node000364" href="$gl__backend_8c.html#a21d4d913f67de882205ffa7b42cfa1d3" title=" " alt="" coords="276,249,444,275"/>
+<area shape="poly" id="edge7_Node000001_Node000364" title=" " alt="" coords="143,163,319,241,317,246,141,168"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="320,31,311,21,316,11,332,5,360,3,395,7,405,11,409,17,404,20,401,15,394,12,360,8,333,10,319,15,316,20,324,27"/>
+<area shape="poly" id="edge4_Node000361_Node000361" title=" " alt="" coords="320,104,311,94,316,84,332,78,360,76,395,80,405,85,409,90,404,93,401,89,394,85,360,81,333,83,319,88,316,94,324,101"/>
+<area shape="poly" id="edge6_Node000363_Node000363" title=" " alt="" coords="320,178,311,168,316,158,332,152,360,149,395,153,405,158,409,164,404,167,401,162,394,158,360,155,333,157,319,162,316,167,324,174"/>
+<area shape="poly" id="edge8_Node000364_Node000364" title=" " alt="" coords="320,251,311,241,316,231,332,225,360,223,395,227,405,231,409,237,404,240,401,235,394,232,360,228,333,230,319,235,316,240,324,247"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="CL_Disconnect_f" name="CL_Disconnect_f">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,135,105"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="41,81,35,72,39,62,51,56,70,53,93,57,103,65,100,69,91,62,70,59,52,61,43,65,41,71,46,78"/>
+<area shape="rect" id="Node000002" href="$cl__main_8c.html#ac60fa6234ccc6c540d448a7608d36d8a" title=" " alt="" coords="183,29,300,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,77,184,56,185,61,115,82"/>
+<area shape="rect" id="Node000003" href="$cl__main_8c.html#a013b6540af7a61d82d9125bd499b268b" title=" " alt="" coords="348,55,481,80"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="135,85,334,71,335,76,135,91"/>
+<area shape="rect" id="Node000076" href="$menudefs_8qc.html#a977f9318008de123876b168dfa86ad22" title=" " alt="" coords="216,155,267,180"/>
+<area shape="poly" id="edge7_Node000001_Node000076" title=" " alt="" coords="101,103,204,149,202,154,99,108"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="213,31,207,21,210,11,222,5,241,3,265,6,275,15,271,19,262,11,241,8,223,10,214,15,212,20,217,28"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="301,48,335,53,334,58,300,53"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="386,56,380,46,383,37,395,30,415,28,439,32,449,40,445,44,436,36,415,33,396,35,387,40,385,46,390,53"/>
+<area shape="poly" id="edge8_Node000076_Node000076" title=" " alt="" coords="214,157,207,147,210,137,222,130,241,128,266,132,275,142,271,145,263,137,241,133,223,135,214,140,212,146,218,154"/>
+</map>

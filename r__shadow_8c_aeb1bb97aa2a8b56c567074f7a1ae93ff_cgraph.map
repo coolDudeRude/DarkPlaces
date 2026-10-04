@@ -1,0 +1,13 @@
+<map id="R_RTLight_Compile" name="R_RTLight_Compile">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,152,128"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="42,104,34,94,38,84,54,78,79,76,110,80,122,89,119,93,108,85,79,81,55,83,42,88,39,94,46,101"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#a2696300802453d9333e9f52e5fae15bc" title="A Con_Printf that only shows up if the &quot;developer&quot; cvar is set." alt="" coords="254,29,353,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,100,199,63,240,52,241,57,201,69,109,105"/>
+<area shape="rect" id="Node000388" href="$gl__rmain_8c.html#a13b4f59e3ee0aaddd39baf188b714b08" title="discard recent memory allocations (rewind to marker)" alt="" coords="200,103,407,128"/>
+<area shape="poly" id="edge3_Node000001_Node000388" title=" " alt="" coords="152,113,186,113,186,118,152,118"/>
+<area shape="rect" id="Node000389" href="$gl__rmain_8c.html#a01cb2adf1d532722b7b349786a3d55f3" title="set a marker that allows you to discard the following temporary memory allocations" alt="" coords="218,176,389,201"/>
+<area shape="poly" id="edge5_Node000001_Node000389" title=" " alt="" coords="120,126,251,169,250,174,118,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="267,31,259,21,263,11,278,5,303,3,335,7,347,16,344,20,333,11,303,8,279,10,267,15,264,20,271,27"/>
+<area shape="poly" id="edge4_Node000388_Node000388" title=" " alt="" coords="267,104,259,94,263,84,278,78,303,76,335,80,347,89,344,93,333,85,303,81,279,83,267,88,264,94,271,101"/>
+<area shape="poly" id="edge6_Node000389_Node000389" title=" " alt="" coords="267,178,259,168,263,158,278,152,303,149,335,153,347,163,344,167,333,158,303,155,279,157,267,162,264,167,271,174"/>
+</map>

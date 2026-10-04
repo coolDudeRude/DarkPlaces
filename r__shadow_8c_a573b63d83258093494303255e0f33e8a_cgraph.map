@@ -1,0 +1,13 @@
+<map id="R_Shadow_EditLights_ImportLightEntitiesFromMap_f" name="R_Shadow_EditLights_ImportLightEntitiesFromMap_f">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,95,232,135"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="69,96,66,86,74,76,92,71,119,69,150,71,166,79,164,84,148,77,119,74,93,76,77,81,71,87,74,94"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#a977f9318008de123876b168dfa86ad22" title=" " alt="" coords="361,29,412,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,93,279,63,347,47,348,52,281,69,182,98"/>
+<area shape="rect" id="Node000003" href="$r__shadow_8c.html#aa8fe16360e95a6a6658c7519cebf0b97" title=" " alt="" coords="283,103,490,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="232,113,270,113,270,118,232,118"/>
+<area shape="rect" id="Node001353" href="$r__shadow_8c.html#aef0cd091bb977ece766820b8f107f53e" title=" " alt="" coords="280,177,493,217"/>
+<area shape="poly" id="edge6_Node000001_Node001353" title=" " alt="" coords="186,133,308,170,306,175,184,138"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="360,38,339,28,334,21,336,14,353,6,387,3,417,5,435,12,439,22,427,33,423,29,433,21,431,15,416,10,387,8,354,11,340,17,339,20,342,24,362,33"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="344,104,334,94,339,84,357,78,387,76,425,80,435,85,439,91,434,94,432,89,423,85,387,81,358,83,343,88,340,94,347,101"/>
+<area shape="poly" id="edge7_Node001353_Node001353" title=" " alt="" coords="337,177,334,167,342,158,360,152,387,150,418,153,434,160,432,165,416,158,387,155,361,157,345,162,339,168,342,175"/>
+</map>

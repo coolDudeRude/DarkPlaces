@@ -1,0 +1,13 @@
+<map id="R_RotateSprite" name="R_RotateSprite">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,124,128"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="32,104,25,94,29,84,42,78,65,76,92,80,103,88,100,93,90,84,65,81,44,83,33,88,30,94,36,101"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#accccfae161879454243b3a8695a9bf3b" title=" " alt="" coords="237,29,288,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,100,171,63,223,48,225,53,173,69,91,105"/>
+<area shape="rect" id="Node000003" href="$matrixlib_8c.html#ae139a91337945d5c4d70302fef43b0db" title=" " alt="" coords="172,103,353,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="124,113,158,113,158,118,124,118"/>
+<area shape="rect" id="Node000007" href="$matrixlib_8c.html#a2c67a69e5ad398eda2624c8507e8b5fa" title=" " alt="" coords="183,176,343,201"/>
+<area shape="poly" id="edge5_Node000001_Node000007" title=" " alt="" coords="101,126,215,168,213,173,99,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="235,34,224,24,225,13,239,5,263,3,294,8,302,15,301,23,296,23,297,17,292,13,263,8,240,10,230,16,229,22,239,30"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="230,104,223,94,227,84,240,78,263,76,290,80,301,88,298,93,288,84,263,81,242,83,231,88,228,94,234,101"/>
+<area shape="poly" id="edge6_Node000007_Node000007" title=" " alt="" coords="230,177,223,168,227,158,240,152,263,149,290,153,301,162,298,166,288,158,263,155,242,157,231,161,228,167,234,174"/>
+</map>

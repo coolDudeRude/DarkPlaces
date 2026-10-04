@@ -1,0 +1,17 @@
+<map id="M_Menu_Options_Graphics_AdjustSliders" name="M_Menu_Options_Graphics_AdjustSliders">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,110,204,150"/>
+<area shape="poly" id="edge8_Node000001_Node000001" title=" " alt="" coords="63,110,60,100,67,91,82,85,105,83,131,86,145,93,143,98,129,91,105,89,83,91,70,95,65,101,68,109"/>
+<area shape="rect" id="Node000002" href="$cmd_8c.html#a5c3911da1bff8f0bebb1fcaf6b4c78c6" title=" " alt="" coords="273,29,384,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,107,282,57,284,62,158,112"/>
+<area shape="rect" id="Node000007" href="$menudefs_8qc.html#a977f9318008de123876b168dfa86ad22" title=" " alt="" coords="453,55,504,80"/>
+<area shape="poly" id="edge5_Node000001_Node000007" title=" " alt="" coords="204,111,439,71,440,76,204,116"/>
+<area shape="rect" id="Node000105" href="$cvar_8c.html#a65b55ce35a5bd18e379065651d5d6e15" title=" " alt="" coords="252,155,405,180"/>
+<area shape="poly" id="edge6_Node000001_Node000105" title=" " alt="" coords="205,144,239,150,238,155,204,149"/>
+<area shape="rect" id="Node001348" href="$snd__main_8c.html#a4d633abdbed318fd5b12833e0ca6cbcf" title=" " alt="" coords="273,228,384,253"/>
+<area shape="poly" id="edge9_Node000001_Node001348" title=" " alt="" coords="147,148,290,219,288,224,145,152"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="303,31,298,21,301,11,311,5,329,3,349,6,358,15,354,19,347,11,329,8,313,10,305,15,303,20,308,28"/>
+<area shape="poly" id="edge3_Node000002_Node000007" title=" " alt="" coords="384,49,440,58,439,63,384,54"/>
+<area shape="poly" id="edge4_Node000007_Node000007" title=" " alt="" coords="453,56,448,46,451,37,461,30,479,28,499,32,508,40,504,44,497,36,479,33,463,35,455,40,453,46,458,53"/>
+<area shape="poly" id="edge7_Node000105_Node000105" title=" " alt="" coords="303,156,298,146,301,137,311,130,329,128,349,132,358,140,354,144,347,136,329,133,313,135,305,140,303,146,308,153"/>
+<area shape="poly" id="edge10_Node001348_Node001348" title=" " alt="" coords="303,229,298,220,301,210,311,204,329,201,349,205,358,213,354,217,347,210,329,207,313,209,305,213,303,219,308,227"/>
+</map>

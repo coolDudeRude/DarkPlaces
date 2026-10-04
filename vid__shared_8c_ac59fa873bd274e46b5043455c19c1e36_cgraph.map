@@ -1,0 +1,13 @@
+<map id="VID_BuildGammaTables" name="VID_BuildGammaTables">
+<area shape="rect" id="Node000001" title="builds the current gamma tables into an array (needs 3*rampsize items)" alt="" coords="5,103,184,128"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="59,104,52,94,56,84,70,78,95,76,125,80,137,89,133,93,123,85,95,81,72,83,59,88,57,94,63,101"/>
+<area shape="rect" id="Node000002" href="$palette_8c.html#afd7c6d23bd529eb92a30a82d2b12ed4e" title=" " alt="" coords="232,29,389,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,100,231,63,253,56,255,61,233,69,131,105"/>
+<area shape="rect" id="Node000004" href="$menudefs_8qc.html#a5b48ade84c6b8b9ccb89e94c5d95ae88" title=" " alt="" coords="289,103,333,128"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="184,113,275,113,275,118,184,118"/>
+<area shape="rect" id="Node000005" href="$menudefs_8qc.html#ad5a3e16aa960bd72d3ca37a618eea802" title=" " alt="" coords="285,176,336,201"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="134,126,273,173,272,178,132,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="275,31,268,21,272,11,286,5,311,3,341,6,353,15,349,20,339,11,311,8,288,10,275,15,273,20,279,28"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="287,111,271,100,269,88,283,79,311,76,335,78,349,84,354,94,347,104,343,100,348,93,346,88,333,83,311,81,285,84,274,90,275,97,290,106"/>
+<area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="284,183,270,172,269,160,284,152,311,149,333,151,348,156,354,165,350,174,345,172,348,166,345,161,332,156,311,155,285,157,274,163,274,169,287,178"/>
+</map>

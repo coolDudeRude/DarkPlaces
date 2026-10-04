@@ -1,0 +1,22 @@
+<map id="Sys_HandleCrash" name="Sys_HandleCrash">
+<area shape="rect" id="Node000001" title="Halt and try not to catch fire." alt="" coords="5,213,140,239"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="43,215,37,205,40,195,52,189,73,187,97,190,108,199,104,203,95,195,73,192,54,194,44,199,42,204,47,212"/>
+<area shape="rect" id="Node000002" href="$snd__main_8c.html#a3b8faa2badf2d5800ebba1c18f9f464c" title=" " alt="" coords="188,29,319,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,212,116,143,148,101,186,64,194,59,197,63,190,68,152,104,121,146,82,215"/>
+<area shape="rect" id="Node000035" href="$menudefs_8qc.html#a274680f571a231ddf29421b93d434bfa" title=" " alt="" coords="224,103,283,128"/>
+<area shape="poly" id="edge3_Node000001_Node000035" title=" " alt="" coords="86,211,130,175,187,137,210,126,212,131,189,142,133,179,90,215"/>
+<area shape="rect" id="Node000024" href="$sys__shared_8c.html#a277828e69bb595765f2e8fbd5e5eeb7c" title="(may) output text to terminal which launched program is POSIX async&#45;signal&#45;safe textlen excludes any ..." alt="" coords="212,176,295,201"/>
+<area shape="poly" id="edge6_Node000001_Node000024" title=" " alt="" coords="134,211,198,197,199,203,135,216"/>
+<area shape="rect" id="Node001339" href="$sys__wasm_8c.html#a5d8b38d94cc2a82fdbd53e4ea0bd53e1" title=" " alt="" coords="190,249,317,275"/>
+<area shape="poly" id="edge8_Node000001_Node001339" title=" " alt="" coords="137,236,177,244,176,249,136,241"/>
+<area shape="rect" id="Node001351" href="$sys__shared_8c.html#a24a6f35972bbc3bcff0c939234398431" title=" " alt="" coords="201,323,305,348"/>
+<area shape="poly" id="edge10_Node000001_Node001351" title=" " alt="" coords="96,236,221,313,219,318,93,241"/>
+<area shape="rect" id="Node000964" href="$vid__sdl_8c.html#a9b17aba52e7f8862c86bee62a5b2f8fd" title="Called at shutdown." alt="" coords="195,396,311,421"/>
+<area shape="poly" id="edge12_Node000001_Node000964" title=" " alt="" coords="86,237,129,291,190,357,224,386,221,390,186,361,125,295,81,241"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="224,31,217,21,221,11,233,5,253,3,278,6,288,15,285,19,276,11,253,8,234,10,225,15,223,20,228,28"/>
+<area shape="poly" id="edge4_Node000035_Node000035" title=" " alt="" coords="224,104,217,94,221,85,233,78,253,76,278,80,288,88,285,92,276,84,253,81,234,83,225,88,223,94,228,101"/>
+<area shape="poly" id="edge7_Node000024_Node000024" title=" " alt="" coords="224,177,217,168,221,158,233,152,253,149,278,153,288,162,285,166,276,158,253,155,234,157,225,161,223,167,228,174"/>
+<area shape="poly" id="edge9_Node001339_Node001339" title=" " alt="" coords="224,251,217,241,221,231,233,225,253,223,278,226,288,235,285,239,276,231,253,228,234,230,225,235,223,240,228,248"/>
+<area shape="poly" id="edge11_Node001351_Node001351" title=" " alt="" coords="224,324,217,314,221,305,233,298,253,296,278,300,288,308,285,312,276,304,253,301,234,303,225,308,223,314,228,321"/>
+<area shape="poly" id="edge13_Node000964_Node000964" title=" " alt="" coords="224,397,217,388,221,378,233,372,253,369,278,373,288,382,285,386,276,378,253,375,234,377,225,381,223,387,228,394"/>
+</map>

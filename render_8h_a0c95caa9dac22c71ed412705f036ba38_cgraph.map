@@ -1,0 +1,14 @@
+<map id="R_SkinFrame_LoadInternalQuake" name="R_SkinFrame_LoadInternalQuake">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,73,200,113"/>
+<area shape="poly" id="edge8_Node000001_Node000001" title=" " alt="" coords="62,73,60,63,66,54,81,48,103,46,128,49,142,56,139,61,126,54,103,51,82,53,69,58,65,64,67,72"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#a49b71fe9a87e57a440e07af4a869a9f6" title="Prints to all appropriate console targets." alt="" coords="274,29,363,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,70,260,53,261,58,189,75"/>
+<area shape="rect" id="Node000133" href="$com__crc16_8c.html#aa9ba811c20537ebd01898928be2de439" title=" " alt="" coords="437,117,529,143"/>
+<area shape="poly" id="edge3_Node000001_Node000133" title=" " alt="" coords="201,98,390,115,424,119,423,125,389,121,200,103"/>
+<area shape="rect" id="Node000299" href="$gl__rmain_8c.html#a701e6314d90349d9115962efd30a739d" title=" " alt="" coords="248,155,389,180"/>
+<area shape="poly" id="edge5_Node000001_Node000299" title=" " alt="" coords="162,110,269,148,267,153,160,115"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="291,31,286,21,289,11,300,5,319,3,341,6,351,15,347,19,339,11,319,8,302,10,293,15,291,20,296,28"/>
+<area shape="poly" id="edge4_Node000133_Node000133" title=" " alt="" coords="456,119,450,109,453,99,465,93,483,91,506,94,515,103,512,107,503,99,483,96,466,98,457,103,456,108,461,116"/>
+<area shape="poly" id="edge6_Node000299_Node000133" title=" " alt="" coords="375,152,423,141,424,146,376,157"/>
+<area shape="poly" id="edge7_Node000299_Node000299" title=" " alt="" coords="291,156,286,146,289,137,300,130,319,128,341,131,351,140,347,144,339,136,319,133,302,135,293,140,291,146,296,153"/>
+</map>

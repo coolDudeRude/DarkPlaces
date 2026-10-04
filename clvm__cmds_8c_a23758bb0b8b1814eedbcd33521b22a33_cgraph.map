@@ -1,0 +1,10 @@
+<map id="VM_CL_lightstyle" name="VM_CL_lightstyle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,140,92"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="45,68,39,58,42,49,54,42,73,40,95,43,105,52,102,56,93,48,73,45,55,47,46,52,44,58,49,65"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#a274680f571a231ddf29421b93d434bfa" title=" " alt="" coords="210,29,269,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,64,196,49,197,54,131,69"/>
+<area shape="rect" id="Node000003" href="$prvm__cmds_8c.html#a839f28438a1ca0de7c2d772295e1763a" title=" " alt="" coords="188,103,291,128"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="132,89,175,99,174,104,131,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="212,31,206,21,209,11,220,5,239,3,262,6,272,15,268,19,260,11,239,8,222,10,213,15,211,20,216,28"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="212,104,206,94,209,85,220,78,239,76,262,79,272,88,268,92,260,84,239,81,222,83,213,88,211,94,216,101"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Collision_Cache_ClipLineToWorldSurfaces" name="Collision_Cache_ClipLineToWorldSurfaces">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,71,189,111"/>
+<area shape="rect" id="Node000002" href="$collision_8c.html#aaa6b4e849007abe7c9549d22f559b044" title=" " alt="" coords="237,29,421,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,72,223,65,224,71,190,77"/>
+<area shape="rect" id="Node000010" href="$collision_8c.html#a61fd94a0ab53dbac3959fcd7e7e1b912" title=" " alt="" coords="237,118,421,143"/>
+<area shape="poly" id="edge3_Node000001_Node000010" title=" " alt="" coords="190,104,242,113,242,118,190,109"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="286,30,283,20,290,10,306,5,329,3,356,6,371,13,369,18,355,11,329,8,307,10,294,15,289,21,291,28"/>
+<area shape="poly" id="edge4_Node000010_Node000010" title=" " alt="" coords="292,120,283,110,288,100,303,94,329,91,362,95,374,105,371,109,360,100,329,97,304,99,291,104,289,109,296,116"/>
+</map>

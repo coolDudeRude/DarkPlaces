@@ -1,0 +1,16 @@
+<map id="Mod_BuildBaseBonePoses" name="Mod_BuildBaseBonePoses">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,140,199,165"/>
+<area shape="poly" id="edge9_Node000001_Node000001" title=" " alt="" coords="61,142,52,132,57,122,74,116,102,113,138,117,148,122,152,128,147,131,144,126,136,122,102,119,75,121,60,126,57,131,65,138"/>
+<area shape="rect" id="Node000002" href="$matrixlib_8c.html#a0f17f61f7e6dd5b4f8dc94ff587526c0" title=" " alt="" coords="287,29,427,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,138,174,101,246,64,274,54,275,59,248,68,176,105,122,142"/>
+<area shape="rect" id="Node000003" href="$matrixlib_8c.html#a159d78e1e3b1bc22dd7892189e5f5a26" title=" " alt="" coords="254,103,461,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="189,137,256,127,257,133,190,143"/>
+<area shape="rect" id="Node000005" href="$matrixlib_8c.html#aa9b7b6f7c5bbf266334f17a9c5e125bc" title=" " alt="" coords="265,176,450,201"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="193,163,253,171,253,177,192,168"/>
+<area shape="rect" id="Node000007" href="$matrixlib_8c.html#a67226df4c9cfba23908883e2a96d8792" title=" " alt="" coords="247,249,468,275"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="134,163,315,241,313,246,132,168"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="316,31,307,21,312,11,329,5,357,3,393,7,403,11,407,17,403,20,400,15,392,12,357,8,330,10,316,15,313,20,320,27"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="316,104,307,94,312,84,329,78,357,76,393,80,403,85,407,90,403,93,400,89,392,85,357,81,330,83,316,88,313,94,320,101"/>
+<area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="316,178,307,168,312,158,329,152,357,149,393,153,403,158,407,164,403,167,400,162,392,158,357,155,330,157,316,162,313,167,320,174"/>
+<area shape="poly" id="edge8_Node000007_Node000007" title=" " alt="" coords="316,251,307,241,312,231,329,225,357,223,393,227,403,231,407,237,403,240,400,235,392,232,357,228,330,230,316,235,313,240,320,247"/>
+</map>

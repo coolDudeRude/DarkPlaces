@@ -1,0 +1,7 @@
+<map id="highpass3_limited" name="highpass3_limited">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,147,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="45,31,39,21,42,11,55,5,76,3,101,6,112,15,109,19,99,11,76,8,57,10,46,15,44,20,50,28"/>
+<area shape="rect" id="Node000002" href="$view_8c.html#aa6c74a677277061ba58c1732803b1d03" title=" " alt="" coords="195,29,328,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="147,39,181,39,181,45,147,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="231,31,224,21,228,11,240,5,261,3,287,6,297,15,294,19,285,11,261,8,242,10,232,15,230,20,235,28"/>
+</map>

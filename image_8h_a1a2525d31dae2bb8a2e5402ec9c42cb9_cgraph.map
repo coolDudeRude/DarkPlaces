@@ -1,0 +1,14 @@
+<map id="Image_GetStockPicSize" name="Image_GetStockPicSize">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,180,105"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="59,82,52,72,55,62,69,56,93,53,121,57,133,66,129,70,119,62,93,59,71,61,59,65,57,71,63,78"/>
+<area shape="rect" id="Node000002" href="$common_8c.html#ae36050083f45e395189fee6aa45fbb0c" title="Returns the number of printed characters, excluding the final &#39;\0&#39; or returns &#45;1 if the buffer isn&#39;t ..." alt="" coords="254,29,342,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,77,240,53,241,59,146,82"/>
+<area shape="rect" id="Node000005" href="$fs_8c.html#a46b9b5ad3cc14f77ae63016505163128" title=" " alt="" coords="416,117,515,143"/>
+<area shape="poly" id="edge3_Node000001_Node000005" title=" " alt="" coords="181,97,368,115,402,119,402,125,368,121,180,103"/>
+<area shape="rect" id="Node000199" href="$wad_8c.html#a167b54ecdca4733c339262ed1206d4d1" title=" " alt="" coords="228,155,368,180"/>
+<area shape="poly" id="edge6_Node000001_Node000199" title=" " alt="" coords="130,103,250,147,248,152,128,108"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="270,31,264,21,268,11,279,5,298,3,321,6,330,15,327,19,318,11,298,8,281,10,272,15,270,20,275,28"/>
+<area shape="poly" id="edge4_Node000005_Node000005" title=" " alt="" coords="438,119,432,109,435,99,446,93,465,91,488,94,498,103,494,107,486,99,465,96,448,98,439,103,437,108,442,116"/>
+<area shape="poly" id="edge7_Node000199_Node000005" title=" " alt="" coords="355,152,402,141,403,147,356,157"/>
+<area shape="poly" id="edge8_Node000199_Node000199" title=" " alt="" coords="270,156,264,146,268,137,279,130,298,128,321,131,330,140,327,144,318,136,298,133,281,135,272,140,270,146,275,153"/>
+</map>

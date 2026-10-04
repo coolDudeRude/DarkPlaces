@@ -1,0 +1,7 @@
+<map id="q3dvertex_t" name="q3dvertex_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="35,161,135,187"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,56,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="27,44,23,89,26,114,34,136,45,149,59,159,56,163,41,153,30,139,21,115,18,89,22,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="101,5,182,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="141,45,132,89,114,139,98,163,94,160,110,136,126,88,136,44"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="R_LoadTextureRenderBuffer" name="R_LoadTextureRenderBuffer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,111,208,136"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="66,112,58,102,62,92,79,86,107,84,142,88,152,93,155,98,151,101,148,97,140,93,107,89,80,91,66,96,63,102,70,109"/>
+<area shape="rect" id="Node000002" href="$gl__textures_8c.html#a4da15e90c5f2022db2b74cf69fd77b9d" title=" " alt="" coords="256,29,453,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,108,255,65,286,56,288,61,257,70,140,113"/>
+<area shape="rect" id="Node000003" href="$zone_8c.html#a6e8351ce990cc9c3c7eb1c6ac8c91921" title=" " alt="" coords="268,103,441,143"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="208,121,254,121,254,126,208,126"/>
+<area shape="rect" id="Node000004" href="$gl__textures_8c.html#a0c91677391e7eec8e780120857d28cee" title=" " alt="" coords="285,192,424,217"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="147,134,303,185,301,190,145,139"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="314,31,306,21,310,11,327,5,355,3,390,7,400,11,403,17,399,20,396,15,388,12,355,8,328,10,314,15,311,20,318,27"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="309,104,306,94,313,84,330,79,355,77,383,80,399,87,397,92,382,85,355,82,331,84,316,89,311,95,314,102"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="314,194,306,184,310,174,327,168,355,165,390,169,400,174,403,180,399,183,396,178,388,174,355,171,328,173,314,178,311,183,318,190"/>
+</map>

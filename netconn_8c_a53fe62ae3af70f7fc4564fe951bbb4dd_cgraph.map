@@ -1,0 +1,13 @@
+<map id="NetConn_UpdateSockets" name="NetConn_UpdateSockets">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,188,128"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="59,104,51,94,55,84,71,78,97,76,129,80,142,89,138,94,127,85,97,81,72,83,59,88,56,94,63,101"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#a49b71fe9a87e57a440e07af4a869a9f6" title="Prints to all appropriate console targets." alt="" coords="284,29,373,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,100,235,63,270,54,271,59,237,69,132,105"/>
+<area shape="rect" id="Node001349" href="$lhnet_8c.html#a4f6d4151a55ef98d4fbcafd2fcd83559" title=" " alt="" coords="251,103,406,128"/>
+<area shape="poly" id="edge3_Node000001_Node001349" title=" " alt="" coords="189,113,238,113,238,118,189,118"/>
+<area shape="rect" id="Node000021" href="$lhnet_8c.html#a191c91d25271eed39a5eb76e2d8e5dde" title="Returns the number of bytes written to *string excluding the \0 terminator." alt="" coords="236,176,421,201"/>
+<area shape="poly" id="edge5_Node000001_Node000021" title=" " alt="" coords="139,126,275,169,274,174,137,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="291,31,283,21,287,11,303,5,329,3,361,7,374,16,370,20,359,11,329,8,304,10,291,15,288,20,295,27"/>
+<area shape="poly" id="edge4_Node001349_Node001349" title=" " alt="" coords="291,104,283,94,287,84,303,78,329,76,361,80,374,89,370,94,359,85,329,81,304,83,291,88,288,94,295,101"/>
+<area shape="poly" id="edge6_Node000021_Node000021" title=" " alt="" coords="291,178,283,168,287,158,303,152,329,149,361,153,374,163,370,167,359,158,329,155,304,157,291,162,288,167,295,174"/>
+</map>

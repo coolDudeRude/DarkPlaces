@@ -1,0 +1,10 @@
+<map id="Mod_Q3BSP_LightPoint" name="Mod_Q3BSP_LightPoint">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,177,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="56,68,49,58,53,48,67,42,91,40,121,44,133,53,130,57,119,49,91,45,69,47,57,52,54,58,61,65"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#ad5a3e16aa960bd72d3ca37a618eea802" title=" " alt="" coords="280,29,331,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,64,266,46,267,51,165,69"/>
+<area shape="rect" id="Node000003" href="$matrixlib_8c.html#a2c67a69e5ad398eda2624c8507e8b5fa" title=" " alt="" coords="225,103,385,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="168,89,216,98,216,103,167,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="278,36,265,25,265,13,279,5,305,3,327,4,342,9,348,18,345,27,340,25,343,19,339,14,326,10,305,8,280,11,269,16,269,23,281,31"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="270,104,263,94,267,84,281,78,305,76,335,80,347,89,344,93,333,85,305,81,283,83,271,88,268,94,275,101"/>
+</map>

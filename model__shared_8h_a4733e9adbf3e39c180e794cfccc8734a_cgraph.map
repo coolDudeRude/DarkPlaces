@@ -1,0 +1,10 @@
+<map id="Mod_Mesh_GetTexture" name="Mod_Mesh_GetTexture">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,176,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="50,68,42,58,46,48,63,42,91,40,126,44,136,49,139,54,135,57,132,53,124,49,91,45,64,47,50,52,47,58,54,65"/>
+<area shape="rect" id="Node000002" href="$csprogsdefs_8qc.html#a5ad5fb7c2db4df14f809d0ae435fd5b3" title=" " alt="" coords="315,29,365,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,64,300,45,301,50,176,69"/>
+<area shape="rect" id="Node000003" href="$model__shared_8c.html#a1694c78ec74a4c2a96c00ea69cf44ef7" title=" " alt="" coords="224,103,456,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="177,89,239,98,238,103,176,94"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="313,37,294,27,292,14,309,6,340,3,368,5,385,11,389,21,380,31,376,28,384,20,381,15,367,10,340,8,310,11,297,17,299,24,316,33"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="300,104,291,94,296,84,312,78,340,76,375,80,385,85,389,90,384,93,381,89,374,85,340,81,313,83,299,88,296,94,304,101"/>
+</map>

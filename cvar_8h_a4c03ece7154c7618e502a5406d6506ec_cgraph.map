@@ -1,0 +1,16 @@
+<map id="Cvar_Del_f" name="Cvar_Del_f">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,104,99,129"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#a977f9318008de123876b168dfa86ad22" title=" " alt="" coords="385,29,436,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="60,102,94,63,118,43,146,28,175,18,206,13,268,12,326,18,373,28,372,34,325,24,268,17,207,18,177,24,148,32,121,47,98,67,64,105"/>
+<area shape="rect" id="Node000003" href="$cvar_8c.html#a0491527a33b4c202f0dc4c76160df7e5" title=" " alt="" coords="195,67,289,92"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="98,105,181,88,182,94,99,110"/>
+<area shape="rect" id="Node001242" href="$cvar_8c.html#aa70cf293c9806dedb2f3b8427a5df03d" title="allocates a cvar by name and returns its address, or merely sets its value if it already exists." alt="" coords="201,140,283,165"/>
+<area shape="poly" id="edge6_Node000001_Node001242" title=" " alt="" coords="99,123,188,140,187,145,98,128"/>
+<area shape="rect" id="Node001355" href="$cvar_8c.html#ae18e25a1c8e19b3d515d27cf161b6796" title="called after loading a savegame" alt="" coords="147,213,337,239"/>
+<area shape="poly" id="edge8_Node000001_Node001355" title=" " alt="" coords="73,127,148,174,204,205,202,209,145,179,71,132"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="383,31,377,21,380,11,391,5,411,3,434,6,444,15,440,19,432,11,411,8,393,10,384,15,382,20,387,28"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="288,67,371,48,372,53,289,72"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="214,68,208,58,211,49,223,42,242,40,265,43,275,52,271,56,263,48,242,45,224,47,215,52,213,58,218,65"/>
+<area shape="poly" id="edge7_Node001242_Node001242" title=" " alt="" coords="214,141,208,132,211,122,223,116,242,113,265,117,275,125,271,129,263,122,242,119,224,121,215,125,213,131,218,138"/>
+<area shape="poly" id="edge9_Node001355_Node001355" title=" " alt="" coords="214,215,208,205,211,195,223,189,242,187,265,190,275,199,271,203,263,195,242,192,224,194,215,199,213,204,218,212"/>
+</map>

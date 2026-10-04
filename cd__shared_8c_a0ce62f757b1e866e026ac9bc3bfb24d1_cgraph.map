@@ -1,0 +1,17 @@
+<map id="CDAudio_StartPlaylist" name="CDAudio_StartPlaylist">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,117,169,143"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="51,119,43,109,47,99,62,93,87,91,119,95,131,104,128,108,117,99,87,96,63,98,51,103,48,108,55,115"/>
+<area shape="rect" id="Node000002" href="$cd__shared_8c.html#a3b59e12f42a15983e34e1c96925468df" title=" " alt="" coords="225,29,400,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,115,216,72,258,56,260,61,218,76,117,120"/>
+<area shape="rect" id="Node000005" href="$cd__shared_8c.html#a292b6c29d946e5f225f6f56b1ffdae30" title=" " alt="" coords="456,55,571,80"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="169,115,442,75,442,80,170,121"/>
+<area shape="rect" id="Node000034" href="$common_8c.html#a7d8e38022cb81cc407c53a1cb3b33866" title=" " alt="" coords="217,155,408,180"/>
+<area shape="poly" id="edge7_Node000001_Node000034" title=" " alt="" coords="165,140,222,150,222,155,164,145"/>
+<area shape="rect" id="Node000009" href="$cvar_8c.html#a65b55ce35a5bd18e379065651d5d6e15" title=" " alt="" coords="236,228,389,253"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="115,140,275,220,273,224,113,145"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="280,31,273,21,276,11,290,5,313,3,341,6,352,16,348,20,338,11,313,8,291,10,280,15,278,20,284,28"/>
+<area shape="poly" id="edge3_Node000002_Node000005" title=" " alt="" coords="401,50,443,56,442,61,400,56"/>
+<area shape="poly" id="edge4_Node000005_Node000005" title=" " alt="" coords="480,56,473,46,477,36,491,30,513,28,541,32,552,41,549,45,539,37,513,33,492,35,481,40,479,46,485,53"/>
+<area shape="poly" id="edge8_Node000034_Node000034" title=" " alt="" coords="280,156,273,146,276,136,290,130,313,128,341,132,352,141,348,145,338,137,313,133,291,135,280,140,278,146,284,153"/>
+<area shape="poly" id="edge10_Node000009_Node000009" title=" " alt="" coords="280,229,273,220,276,210,290,204,313,201,341,205,352,214,348,218,338,210,313,207,291,209,280,213,278,219,284,226"/>
+</map>

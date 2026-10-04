@@ -1,0 +1,7 @@
+<map id="q2dmodel_t" name="q2dmodel_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="19,141,117,167"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,56,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="29,45,27,80,34,116,43,129,53,139,50,143,38,132,30,118,22,80,23,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="87,5,126,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="102,44,74,142,69,141,97,43"/>
+</map>

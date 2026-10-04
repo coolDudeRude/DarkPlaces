@@ -1,0 +1,10 @@
+<map id="PRVM_Cvar_ReadOk" name="PRVM_Cvar_ReadOk">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,160,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="53,68,47,58,50,49,62,42,83,40,107,44,118,52,114,56,105,48,83,45,64,47,54,52,52,58,57,65"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#a47b9823939aa0a157d1bede7847cb488" title=" " alt="" coords="236,29,287,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,64,222,47,223,53,145,69"/>
+<area shape="rect" id="Node000003" href="$cvar_8c.html#abb4c73909d750b61a354db139a9f6e40" title=" " alt="" coords="208,103,315,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="147,89,195,99,194,105,146,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="234,32,226,22,228,12,240,5,261,3,288,7,295,12,297,19,292,20,291,16,286,12,261,8,242,10,232,15,231,21,238,29"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="232,104,225,94,229,85,241,78,261,76,286,80,296,88,293,92,284,84,261,81,242,83,233,88,231,94,236,101"/>
+</map>

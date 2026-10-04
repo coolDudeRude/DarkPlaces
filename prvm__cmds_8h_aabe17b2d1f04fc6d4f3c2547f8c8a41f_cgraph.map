@@ -1,0 +1,10 @@
+<map id="VM_strreplace" name="VM_strreplace">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,120,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="32,68,26,58,29,49,42,42,63,40,88,44,99,52,95,56,86,48,63,45,43,47,33,52,31,58,36,65"/>
+<area shape="rect" id="Node000002" href="$prvm__edict_8c.html#a1d2244b6253cecef732afeb0bf1d393f" title="Takes an strlen (not a buffer size)." alt="" coords="168,29,329,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,65,171,55,172,60,121,71"/>
+<area shape="rect" id="Node000029" href="$menudefs_8qc.html#a274680f571a231ddf29421b93d434bfa" title=" " alt="" coords="219,103,278,128"/>
+<area shape="poly" id="edge3_Node000001_Node000029" title=" " alt="" coords="121,88,207,105,205,110,119,93"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="218,31,212,21,215,11,228,5,249,3,274,6,285,15,281,19,272,11,249,8,229,10,219,15,217,20,222,28"/>
+<area shape="poly" id="edge4_Node000029_Node000029" title=" " alt="" coords="218,104,212,94,215,85,228,78,249,76,274,80,285,88,281,92,272,84,249,81,229,83,219,88,217,94,222,101"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="PRVM_ValueString" name="PRVM_ValueString">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,147,128"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="43,104,37,94,40,84,54,78,76,76,103,80,114,88,111,93,101,84,76,81,55,83,44,88,42,94,48,101"/>
+<area shape="rect" id="Node000002" href="$common_8c.html#ae36050083f45e395189fee6aa45fbb0c" title="Returns the number of printed characters, excluding the final &#39;\0&#39; or returns &#45;1 if the buffer isn&#39;t ..." alt="" coords="230,29,318,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,100,194,64,216,56,218,61,196,68,106,105"/>
+<area shape="rect" id="Node000005" href="$prvm__edict_8c.html#adc42dd30e05df6310af48ccdb43b2b26" title=" " alt="" coords="195,103,353,128"/>
+<area shape="poly" id="edge3_Node000001_Node000005" title=" " alt="" coords="147,113,181,113,181,118,147,118"/>
+<area shape="rect" id="Node000006" href="$prvm__edict_8c.html#a69666cdc9628aebc4b380b6ad1868140" title=" " alt="" coords="210,176,338,201"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="112,126,226,168,225,173,110,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="241,31,235,21,238,11,252,5,274,3,301,6,312,15,309,19,299,11,274,8,253,10,242,15,240,20,246,28"/>
+<area shape="poly" id="edge4_Node000005_Node000005" title=" " alt="" coords="241,104,235,94,238,84,252,78,274,76,301,80,312,88,309,93,299,84,274,81,253,83,242,88,240,94,246,101"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="241,177,235,168,238,158,252,152,274,149,301,153,312,162,309,166,299,158,274,155,253,157,242,161,240,167,246,174"/>
+</map>

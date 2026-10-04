@@ -1,0 +1,16 @@
+<map id="R_DecalSystem_SplatTriangle" name="R_DecalSystem_SplatTriangle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,140,220,165"/>
+<area shape="poly" id="edge9_Node000001_Node000001" title=" " alt="" coords="70,142,60,132,65,122,83,115,113,113,151,117,161,122,165,128,160,131,158,126,149,123,113,119,84,121,69,126,66,131,73,138"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#accccfae161879454243b3a8695a9bf3b" title=" " alt="" coords="355,29,406,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,138,190,101,267,64,305,52,341,45,342,50,306,57,269,68,193,106,134,142"/>
+<area shape="rect" id="Node000003" href="$matrixlib_8c.html#a2c67a69e5ad398eda2624c8507e8b5fa" title=" " alt="" coords="301,103,461,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="204,137,287,126,287,131,205,143"/>
+<area shape="rect" id="Node000004" href="$polygon_8c.html#a3bd760ac6155b20c4bfb11add9de091c" title=" " alt="" coords="323,176,438,201"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="208,163,310,177,309,182,207,168"/>
+<area shape="rect" id="Node000005" href="$gl__rmain_8c.html#a410856fdf52b6d415dceaf12c9cbb9a2" title=" " alt="" coords="268,249,493,275"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="146,163,337,242,335,247,144,168"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="354,38,333,28,328,21,330,14,347,6,381,3,411,5,429,12,433,22,421,33,417,29,427,21,425,15,410,10,381,8,348,11,334,17,333,20,336,24,356,33"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="338,104,328,94,333,84,351,78,381,76,419,80,429,85,433,91,428,94,426,89,417,85,381,81,352,83,337,88,334,94,341,101"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="338,178,328,168,333,158,351,151,381,149,419,153,429,158,433,164,428,167,426,162,417,159,381,155,352,157,337,162,334,167,341,174"/>
+<area shape="poly" id="edge8_Node000005_Node000005" title=" " alt="" coords="338,251,328,241,333,231,351,225,381,223,419,227,429,232,433,238,428,240,426,236,417,232,381,228,352,230,337,235,334,240,341,247"/>
+</map>

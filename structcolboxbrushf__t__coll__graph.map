@@ -1,0 +1,11 @@
+<map id="colboxbrushf_t" name="colboxbrushf_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="87,235,206,260"/>
+<area shape="rect" id="Node000002" href="$structcolpointf__t.html" title=" " alt="" coords="5,5,96,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="39,44,27,70,18,101,15,133,24,163,42,187,65,206,114,232,112,237,62,210,38,190,19,165,10,133,13,100,22,68,34,42"/>
+<area shape="rect" id="Node000008" href="$structcolbrushf__t.html" title=" " alt="" coords="99,130,194,155"/>
+<area shape="poly" id="edge5_Node000008_Node000002" title=" " alt="" coords="62,42,74,69,91,96,110,113,129,128,126,132,106,117,87,99,70,72,57,45"/>
+<area shape="rect" id="Node000004" href="$structcolplanef__t.html" title=" " alt="" coords="131,5,226,31"/>
+<area shape="poly" id="edge2_Node000001_Node000004" title=" " alt="" coords="214,37,226,54,231,75,227,98,222,158,215,183,199,212,187,226,172,237,169,232,183,222,195,209,210,181,217,157,221,97,225,75,222,56,210,41"/>
+<area shape="poly" id="edge4_Node000008_Node000004" title=" " alt="" coords="175,45,152,131,147,129,170,44"/>
+<area shape="poly" id="edge3_Node000001_Node000008" title=" " alt="" coords="149,169,149,234,144,234,144,169"/>
+</map>

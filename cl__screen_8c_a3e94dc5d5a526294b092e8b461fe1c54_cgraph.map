@@ -1,0 +1,16 @@
+<map id="SCR_DrawInfobar" name="SCR_DrawInfobar">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,140,140,165"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="39,142,32,132,35,122,49,116,73,113,101,117,113,126,109,130,99,122,73,119,51,121,39,125,37,131,43,138"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#a2696300802453d9333e9f52e5fae15bc" title="A Con_Printf that only shows up if the &quot;developer&quot; cvar is set." alt="" coords="229,29,327,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,138,128,101,187,64,215,53,217,58,189,68,132,105,89,142"/>
+<area shape="rect" id="Node001347" href="$cl__screen_8c.html#af95684869d29883cd349e0e165ff6ab0" title=" " alt="" coords="188,103,368,128"/>
+<area shape="poly" id="edge3_Node000001_Node001347" title=" " alt="" coords="140,138,194,128,195,133,141,143"/>
+<area shape="rect" id="Node001348" href="$cl__screen_8c.html#ad9eaaf36ee551fc50c98c4d7f3dde192" title=" " alt="" coords="191,176,365,201"/>
+<area shape="poly" id="edge6_Node000001_Node001348" title=" " alt="" coords="141,162,192,171,191,176,140,167"/>
+<area shape="rect" id="Node001349" href="$cl__screen_8c.html#ab216b155ef84b29adeb5a599719244be" title=" " alt="" coords="189,249,367,275"/>
+<area shape="poly" id="edge8_Node000001_Node001349" title=" " alt="" coords="99,163,243,241,240,245,96,168"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="244,31,237,21,241,11,255,5,278,3,307,6,318,15,315,20,304,11,278,8,256,10,245,15,242,20,248,28"/>
+<area shape="poly" id="edge4_Node001347_Node001347" title=" " alt="" coords="244,104,237,94,241,84,255,78,278,76,307,80,318,89,315,93,304,85,278,81,256,83,245,88,242,94,248,101"/>
+<area shape="poly" id="edge7_Node001348_Node001348" title=" " alt="" coords="244,178,237,168,241,158,255,152,278,149,307,153,318,162,315,166,304,158,278,155,256,157,245,161,242,167,248,174"/>
+<area shape="poly" id="edge9_Node001349_Node001349" title=" " alt="" coords="244,251,237,241,241,231,255,225,278,223,307,226,318,235,315,240,304,231,278,228,256,230,245,235,242,240,248,248"/>
+</map>

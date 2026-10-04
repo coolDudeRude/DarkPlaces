@@ -1,0 +1,10 @@
+<map id="collision_cachedtrace_t" name="collision_cachedtrace_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="22,332,197,357"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="7,5,57,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="27,45,17,88,9,142,10,203,16,232,25,260,38,282,55,301,91,330,88,334,51,305,34,285,20,262,10,233,5,203,4,142,11,87,22,44"/>
+<area shape="rect" id="Node000085" href="$structtrace__t.html" title=" " alt="" coords="76,229,143,254"/>
+<area shape="poly" id="edge4_Node000085_Node000002" title=" " alt="" coords="43,43,108,228,103,229,38,45"/>
+<area shape="rect" id="Node000003" href="$structcollision__cachedtrace__parameters__t.html" title=" " alt="" coords="167,221,329,261"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,272,161,310,127,334,124,330,158,306,210,268"/>
+<area shape="poly" id="edge3_Node000001_Node000085" title=" " alt="" coords="112,268,112,332,107,332,107,268"/>
+</map>

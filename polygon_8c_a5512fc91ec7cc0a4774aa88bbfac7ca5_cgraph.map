@@ -1,0 +1,10 @@
+<map id="PolygonF_QuadForPlane" name="PolygonF_QuadForPlane">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,184,92"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="67,68,62,58,65,49,76,42,95,40,117,43,127,52,123,56,115,48,95,45,78,47,69,52,67,58,72,65"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#accccfae161879454243b3a8695a9bf3b" title=" " alt="" coords="232,29,283,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,64,218,48,219,53,151,69"/>
+<area shape="rect" id="Node000003" href="$menudefs_8qc.html#a83f4d3f317a80e82e6b16ea61ea5efc3" title=" " alt="" coords="234,103,281,128"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="153,89,221,105,220,110,152,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="230,31,224,21,227,11,239,5,257,3,280,6,289,15,286,19,277,11,257,8,240,10,231,15,230,20,235,28"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="232,106,225,96,227,85,238,78,257,76,282,80,290,91,286,94,279,85,257,81,240,83,231,88,230,94,236,102"/>
+</map>

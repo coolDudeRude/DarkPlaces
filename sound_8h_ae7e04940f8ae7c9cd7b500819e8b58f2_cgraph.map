@@ -1,0 +1,10 @@
+<map id="S_LocalSound" name="S_LocalSound">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,116,80"/>
+<area shape="rect" id="Node000002" href="$snd__main_8c.html#a4d633abdbed318fd5b12833e0ca6cbcf" title=" " alt="" coords="164,29,275,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,56,150,50,151,56,117,61"/>
+<area shape="rect" id="Node000003" href="$snd__main_8c.html#ac1803d70c82da4000fc23e8cc16fee60" title=" " alt="" coords="323,55,449,80"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="116,65,309,65,309,70,116,70"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="193,31,187,21,190,11,201,5,219,3,241,6,250,15,247,19,239,11,219,8,203,10,194,15,193,20,197,28"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="275,48,310,53,309,58,274,53"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="358,56,352,46,356,37,367,30,386,28,409,31,418,40,415,44,406,36,386,33,369,35,360,40,358,46,363,53"/>
+</map>

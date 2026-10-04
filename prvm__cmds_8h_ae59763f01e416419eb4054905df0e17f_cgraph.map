@@ -1,0 +1,18 @@
+<map id="VM_infoadd" name="VM_infoadd">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,117,104,143"/>
+<area shape="poly" id="edge8_Node000001_Node000001" title=" " alt="" coords="25,119,19,109,22,99,35,93,55,91,79,94,89,103,86,107,77,99,55,96,36,98,26,103,24,108,30,116"/>
+<area shape="rect" id="Node000002" href="$com__infostring_8c.html#a59c10d6bcf260c784463bd5dbe40cef8" title=" " alt="" coords="158,29,307,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,115,151,72,183,57,185,62,153,76,77,119"/>
+<area shape="rect" id="Node000029" href="$menudefs_8qc.html#a274680f571a231ddf29421b93d434bfa" title=" " alt="" coords="361,80,420,105"/>
+<area shape="poly" id="edge7_Node000001_Node000029" title=" " alt="" coords="104,121,152,115,347,94,348,100,152,121,105,126"/>
+<area shape="rect" id="Node001101" href="$prvm__edict_8c.html#a1d2244b6253cecef732afeb0bf1d393f" title="Takes an strlen (not a buffer size)." alt="" coords="152,155,313,180"/>
+<area shape="poly" id="edge5_Node000001_Node001101" title=" " alt="" coords="105,138,158,149,157,154,104,143"/>
+<area shape="rect" id="Node001351" href="$prvm__cmds_8c.html#a033052e704bd0d0ab40f3de58ac7824b" title="Returns the length of the *out string excluding the \0 terminator." alt="" coords="178,228,287,253"/>
+<area shape="poly" id="edge9_Node000001_Node001351" title=" " alt="" coords="77,141,153,189,200,218,198,223,151,194,74,145"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="206,31,201,21,204,11,215,5,233,3,254,6,264,15,260,19,252,11,233,8,216,10,208,15,206,20,211,28"/>
+<area shape="poly" id="edge3_Node000002_Node000029" title=" " alt="" coords="274,52,349,77,347,82,272,57"/>
+<area shape="poly" id="edge4_Node000029_Node000029" title=" " alt="" coords="364,81,359,72,362,62,373,56,391,53,412,57,422,65,418,69,410,62,391,59,374,61,366,65,364,71,369,79"/>
+<area shape="poly" id="edge6_Node001101_Node001101" title=" " alt="" coords="206,156,201,146,204,137,215,130,233,128,254,131,264,140,260,144,252,136,233,133,216,135,208,140,206,146,211,153"/>
+<area shape="poly" id="edge10_Node001351_Node000029" title=" " alt="" coords="258,226,285,210,312,189,346,152,372,115,377,118,350,155,315,193,288,214,261,230"/>
+<area shape="poly" id="edge11_Node001351_Node001351" title=" " alt="" coords="206,229,201,220,204,210,215,204,233,201,254,205,264,213,260,217,252,210,233,207,216,209,208,213,206,219,211,227"/>
+</map>

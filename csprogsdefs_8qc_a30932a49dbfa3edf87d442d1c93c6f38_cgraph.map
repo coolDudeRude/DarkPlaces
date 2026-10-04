@@ -1,0 +1,11 @@
+<map id="float" name="float">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,56,128"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#ad9529df35f16daeafe8583b1ab2b42b8" title=" " alt="" coords="104,29,219,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="47,100,103,64,113,58,116,63,105,68,50,105"/>
+<area shape="rect" id="Node000003" href="$csprogsdefs_8qc.html#a4f0b78b1785821ba47129edb68e70f9e" title=" " alt="" coords="130,103,193,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="56,113,116,113,116,118,56,118"/>
+<area shape="rect" id="Node000005" href="$csprogsdefs_8qc.html#a861812a9e61c694f182b9f2b1cd4bb06" title=" " alt="" coords="136,152,187,177"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="57,122,124,148,122,153,55,127"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="139,30,134,21,137,11,146,5,161,3,179,6,187,14,183,18,177,11,161,8,148,10,141,14,140,20,144,28"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="139,104,134,94,137,85,146,78,161,76,179,79,187,88,183,91,177,84,161,81,148,83,141,88,140,94,144,101"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="IN_BestWeapon_Register_f" name="IN_BestWeapon_Register_f">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,105,203,131"/>
+<area shape="poly" id="edge8_Node000001_Node000001" title=" " alt="" coords="64,107,56,97,60,87,77,81,104,79,139,83,149,87,152,93,148,96,145,91,137,88,104,84,78,86,64,91,61,96,68,103"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#a977f9318008de123876b168dfa86ad22" title=" " alt="" coords="325,29,375,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,103,311,51,312,56,147,108"/>
+<area shape="rect" id="Node000003" href="$console_8c.html#a49b71fe9a87e57a440e07af4a869a9f6" title="Prints to all appropriate console targets." alt="" coords="731,117,820,143"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="203,111,423,108,553,110,683,115,717,119,717,124,682,121,553,115,423,113,203,117"/>
+<area shape="rect" id="Node001039" href="$cl__input_8c.html#ab8f47faa79b26f633e2ddd76a2be72d5" title=" " alt="" coords="497,155,683,180"/>
+<area shape="poly" id="edge5_Node000001_Node001039" title=" " alt="" coords="203,125,484,154,483,159,203,131"/>
+<area shape="rect" id="Node001038" href="$cl__input_8c.html#a445ae3692aa4b5677142b3cda8752829" title="call before each map so QC can start from a clean state" alt="" coords="251,205,449,231"/>
+<area shape="poly" id="edge9_Node000001_Node001038" title=" " alt="" coords="138,128,306,197,304,202,136,133"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="323,37,305,26,304,14,320,6,350,3,377,5,393,11,398,20,390,30,386,27,392,20,389,15,375,10,350,8,321,11,309,17,310,23,326,33"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="745,119,738,109,742,99,754,93,775,91,801,94,811,103,808,107,799,99,775,96,756,98,746,103,744,108,749,116"/>
+<area shape="poly" id="edge6_Node001039_Node000003" title=" " alt="" coords="653,152,716,139,717,144,654,157"/>
+<area shape="poly" id="edge7_Node001039_Node001039" title=" " alt="" coords="559,156,553,146,556,137,569,130,590,128,615,132,626,140,623,144,613,136,590,133,571,135,560,140,558,146,564,153"/>
+<area shape="poly" id="edge10_Node001038_Node001039" title=" " alt="" coords="411,203,516,180,517,185,412,208"/>
+<area shape="poly" id="edge11_Node001038_Node001038" title=" " alt="" coords="311,207,303,197,307,187,323,181,350,179,384,183,397,192,393,196,382,187,350,184,324,186,311,191,308,196,315,203"/>
+</map>

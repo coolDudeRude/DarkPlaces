@@ -1,0 +1,10 @@
+<map id="WakeVideo" name="WakeVideo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,100,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="25,68,20,58,23,49,34,42,53,40,75,43,85,52,81,56,73,48,53,45,36,47,27,52,25,58,30,65"/>
+<area shape="rect" id="Node000002" href="$cl__video_8c.html#a75dd623a78492ba13ebfab9edf658113" title=" " alt="" coords="148,29,283,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,66,145,55,147,60,101,71"/>
+<area shape="rect" id="Node001307" href="$cl__video_8c.html#ae440dec3ac633042b17b3c43c3c8fdbc" title=" " alt="" coords="164,103,267,128"/>
+<area shape="poly" id="edge3_Node000001_Node001307" title=" " alt="" coords="101,87,151,98,150,104,100,92"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="188,31,182,21,185,11,197,5,215,3,238,6,247,15,244,19,235,11,215,8,198,10,189,15,188,20,193,28"/>
+<area shape="poly" id="edge4_Node001307_Node001307" title=" " alt="" coords="188,104,182,94,185,85,197,78,215,76,238,79,247,88,244,92,235,84,215,81,198,83,189,88,188,94,193,101"/>
+</map>

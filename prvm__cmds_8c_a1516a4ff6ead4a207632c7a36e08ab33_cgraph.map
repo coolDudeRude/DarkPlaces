@@ -1,0 +1,10 @@
+<map id="VM_chr2str" name="VM_chr2str">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,100,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="23,68,17,58,20,49,33,42,53,40,77,44,87,52,84,56,75,48,53,45,34,47,24,52,22,58,28,65"/>
+<area shape="rect" id="Node000002" href="$prvm__edict_8c.html#a1d2244b6253cecef732afeb0bf1d393f" title="Takes an strlen (not a buffer size)." alt="" coords="148,29,309,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,67,155,55,156,60,101,72"/>
+<area shape="rect" id="Node000597" href="$utf8lib_8c.html#a65abb13b334213c144854722aa2823ce" title="Encode a wide&#45;character into utf&#45;8." alt="" coords="177,103,281,128"/>
+<area shape="poly" id="edge3_Node000001_Node000597" title=" " alt="" coords="101,86,164,99,163,105,100,92"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="199,31,193,21,196,11,209,5,229,3,253,6,263,15,260,19,251,11,229,8,210,10,200,15,198,20,204,28"/>
+<area shape="poly" id="edge4_Node000597_Node000597" title=" " alt="" coords="199,104,193,94,196,85,209,78,229,76,253,80,263,88,260,92,251,84,229,81,210,83,200,88,198,94,204,101"/>
+</map>

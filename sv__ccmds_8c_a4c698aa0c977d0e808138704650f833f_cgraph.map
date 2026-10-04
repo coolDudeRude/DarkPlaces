@@ -1,0 +1,10 @@
+<map id="SV_Playerskin_f" name="SV_Playerskin_f">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,132,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="37,68,30,58,33,48,47,42,69,40,95,44,107,52,103,57,93,48,69,45,48,47,37,52,35,58,41,65"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#a977f9318008de123876b168dfa86ad22" title=" " alt="" coords="240,29,291,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,65,226,47,227,52,133,70"/>
+<area shape="rect" id="Node000003" href="$prvm__edict_8c.html#a4e3638f6c2086a6c6336e55b79cf6670" title=" " alt="" coords="180,103,351,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="133,88,183,98,182,103,132,94"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="238,34,227,24,228,13,242,5,265,3,297,8,304,15,304,23,298,23,299,17,294,13,265,8,243,10,233,16,232,22,242,30"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="233,104,226,94,230,84,243,78,265,76,292,80,303,88,300,93,290,84,265,81,245,83,234,88,232,94,237,101"/>
+</map>

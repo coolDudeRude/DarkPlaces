@@ -1,0 +1,9 @@
+<map id="bih_leaf_t" name="bih_leaf_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="126,141,213,167"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,120,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,42,100,78,129,116,155,139,152,143,125,119,96,81,73,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="144,5,195,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="172,44,172,141,167,141,167,44"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="226,5,265,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="245,45,236,82,218,119,192,143,188,139,214,116,231,80,240,44"/>
+</map>

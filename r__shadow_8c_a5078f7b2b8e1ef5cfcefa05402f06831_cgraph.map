@@ -1,0 +1,7 @@
+<map id="R_Shadow_BounceGrid_RefractiveIndexAtPoint" name="R_Shadow_BounceGrid_RefractiveIndexAtPoint">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,184,69"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="58,30,56,20,62,11,75,5,95,3,117,6,130,13,127,17,116,11,95,8,76,10,65,15,61,21,64,28"/>
+<area shape="rect" id="Node000002" href="$cl__collision_8c.html#a7ff233acc35349210e7a5790cabbf8ee" title=" " alt="" coords="232,37,344,62"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,47,218,47,218,52,184,52"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="256,38,250,28,253,18,266,12,288,10,314,14,325,22,322,26,312,18,288,15,268,17,257,22,255,28,261,35"/>
+</map>

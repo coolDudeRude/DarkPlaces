@@ -1,0 +1,7 @@
+<map id="S_ClearUsed" name="S_ClearUsed">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,109,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="29,31,23,21,26,11,38,5,57,3,80,6,90,15,87,19,78,11,57,8,40,10,31,15,29,20,34,28"/>
+<area shape="rect" id="Node000002" href="$snd__main_8c.html#ae509fe89ef6b5f9b32bfb967153523b9" title=" " alt="" coords="157,29,293,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="110,39,144,39,144,45,110,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="197,31,191,21,194,11,206,5,225,3,248,6,258,15,255,19,246,11,225,8,208,10,199,15,197,20,202,28"/>
+</map>

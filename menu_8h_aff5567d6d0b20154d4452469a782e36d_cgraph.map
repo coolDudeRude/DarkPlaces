@@ -1,0 +1,16 @@
+<map id="MR_Init_Commands" name="MR_Init_Commands">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,140,157,165"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="47,142,40,132,44,122,58,116,81,113,110,117,122,126,118,130,108,122,81,119,59,121,47,125,45,131,51,138"/>
+<area shape="rect" id="Node000002" href="$menu_8c.html#a1610680d68810bb0d5b72033490afba2" title=" " alt="" coords="205,29,377,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,138,142,101,204,64,221,57,223,61,207,68,145,106,99,142"/>
+<area shape="rect" id="Node001352" href="$cmd_8c.html#a86fa905462db75436af48f27298204e5" title="called by the init functions of other parts of the program to register commands and functions to call..." alt="" coords="216,103,367,128"/>
+<area shape="poly" id="edge3_Node000001_Node001352" title=" " alt="" coords="153,137,206,128,207,133,154,143"/>
+<area shape="rect" id="Node001353" href="$cvar_8c.html#a9bd27026ed325ffe5276549c11c7379d" title="registers a cvar that already has the name, string, and optionally the archive elements set." alt="" coords="208,176,375,201"/>
+<area shape="poly" id="edge5_Node000001_Node001353" title=" " alt="" coords="156,163,204,171,203,176,155,168"/>
+<area shape="rect" id="Node001354" href="$menu_8c.html#ab01dca44b729a8fd66328fbf991b4695" title=" " alt="" coords="237,249,346,275"/>
+<area shape="poly" id="edge8_Node000001_Node001354" title=" " alt="" coords="108,163,255,241,253,245,106,168"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="257,31,250,21,254,11,268,5,291,3,320,6,332,15,328,20,318,11,291,8,269,10,257,15,255,20,261,28"/>
+<area shape="poly" id="edge4_Node001352_Node001352" title=" " alt="" coords="257,104,250,94,254,84,268,78,291,76,320,80,332,89,328,93,318,85,291,81,269,83,257,88,255,94,261,101"/>
+<area shape="poly" id="edge6_Node001353_Node001353" title=" " alt="" coords="257,178,250,168,254,158,268,152,291,149,320,153,332,162,328,166,318,158,291,155,269,157,257,161,255,167,261,174"/>
+<area shape="poly" id="edge9_Node001354_Node001354" title=" " alt="" coords="257,251,250,241,254,231,268,225,291,223,320,226,332,235,328,240,318,231,291,228,269,230,257,235,255,240,261,248"/>
+</map>

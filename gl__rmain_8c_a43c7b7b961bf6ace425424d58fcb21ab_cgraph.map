@@ -1,0 +1,13 @@
+<map id="R_RenderWaterPlanes" name="R_RenderWaterPlanes">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,171,128"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="49,104,40,94,45,84,61,78,88,76,122,80,132,85,136,90,131,93,128,89,121,85,88,81,62,83,48,88,45,94,53,101"/>
+<area shape="rect" id="Node000002" href="$gl__rmain_8c.html#a4456b140d7285ae541982a1d2615459e" title=" " alt="" coords="219,29,444,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,100,218,63,249,55,250,60,219,69,120,105"/>
+<area shape="rect" id="Node000003" href="$r__stats_8c.html#a37d0d0ea10d6d220c6c01e86f944704c" title=" " alt="" coords="274,103,389,128"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="171,113,260,113,260,118,171,118"/>
+<area shape="rect" id="Node001346" href="$gl__rmain_8c.html#aa8299e8250b8982a120b8a9f8b3d248b" title=" " alt="" coords="243,176,419,201"/>
+<area shape="poly" id="edge6_Node000001_Node001346" title=" " alt="" coords="132,126,276,169,274,175,130,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="292,31,283,21,288,11,304,5,331,3,366,7,375,11,379,17,375,20,372,15,364,12,331,8,305,10,291,15,289,20,296,27"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="292,104,283,94,288,84,304,78,331,76,366,80,375,85,379,90,375,93,372,89,364,85,331,81,305,83,291,88,289,94,296,101"/>
+<area shape="poly" id="edge7_Node001346_Node001346" title=" " alt="" coords="292,178,283,168,288,158,304,152,331,149,366,153,375,158,379,164,375,167,372,162,364,158,331,155,305,157,291,162,289,167,296,174"/>
+</map>

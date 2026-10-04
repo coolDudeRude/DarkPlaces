@@ -1,0 +1,16 @@
+<map id="R_DrawModelSurfaces" name="R_DrawModelSurfaces">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,140,173,165"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="52,142,44,132,49,122,64,116,89,113,121,117,133,127,130,131,119,122,89,119,65,121,52,126,50,131,56,138"/>
+<area shape="rect" id="Node000002" href="$gl__rsurf_8c.html#a924e26939f5cdaa839aeb1de61c52263" title=" " alt="" coords="252,29,383,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,138,154,101,220,64,240,56,242,61,222,68,157,106,108,142"/>
+<area shape="rect" id="Node001343" href="$gl__rmain_8c.html#ac994cd7ef127b15dada0fae123ad64a1" title=" " alt="" coords="240,103,395,128"/>
+<area shape="poly" id="edge3_Node000001_Node001343" title=" " alt="" coords="167,137,226,128,227,133,168,143"/>
+<area shape="rect" id="Node001344" href="$gl__rmain_8c.html#a9ec38aa26b7fed63160b3d6a93ae07ba" title=" " alt="" coords="221,176,413,201"/>
+<area shape="poly" id="edge6_Node000001_Node001344" title=" " alt="" coords="171,163,224,171,223,176,170,168"/>
+<area shape="rect" id="Node000354" href="$gl__rmain_8c.html#ab91218d4fb985f2c4ffc9622a4e28fe2" title=" " alt="" coords="226,249,409,275"/>
+<area shape="poly" id="edge8_Node000001_Node000354" title=" " alt="" coords="118,163,279,241,277,246,116,168"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="280,31,272,21,277,11,292,5,317,3,349,7,361,16,358,20,347,11,317,8,293,10,280,15,278,20,284,27"/>
+<area shape="poly" id="edge4_Node001343_Node001343" title=" " alt="" coords="280,104,272,94,277,84,292,78,317,76,349,80,361,89,358,93,347,85,317,81,293,83,280,88,278,94,284,101"/>
+<area shape="poly" id="edge7_Node001344_Node001344" title=" " alt="" coords="280,178,272,168,277,158,292,152,317,149,349,153,361,163,358,167,347,158,317,155,293,157,280,162,278,167,284,174"/>
+<area shape="poly" id="edge9_Node000354_Node000354" title=" " alt="" coords="280,251,272,241,277,231,292,225,317,223,349,227,361,236,358,240,347,231,317,228,293,230,280,235,278,240,284,247"/>
+</map>

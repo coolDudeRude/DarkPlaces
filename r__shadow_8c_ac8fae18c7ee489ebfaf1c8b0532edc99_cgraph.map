@@ -1,0 +1,16 @@
+<map id="R_Shadow_ComputeShadowCasterCullingPlanes" name="R_Shadow_ComputeShadowCasterCullingPlanes">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,133,253,173"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="81,133,78,123,86,114,103,108,129,106,159,109,176,116,174,121,158,114,129,111,104,113,89,118,84,124,86,131"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#a49b71fe9a87e57a440e07af4a869a9f6" title="Prints to all appropriate console targets." alt="" coords="344,29,433,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,130,226,97,300,64,330,53,332,59,302,68,229,102,166,135"/>
+<area shape="rect" id="Node000238" href="$matrixlib_8c.html#a2c67a69e5ad398eda2624c8507e8b5fa" title=" " alt="" coords="309,103,469,128"/>
+<area shape="poly" id="edge3_Node000001_Node000238" title=" " alt="" coords="253,132,295,126,295,131,254,137"/>
+<area shape="rect" id="Node000329" href="$mathlib_8c.html#ac6346bdac2617a1fce578c20b3520a79" title=" " alt="" coords="334,176,443,201"/>
+<area shape="poly" id="edge5_Node000001_Node000329" title=" " alt="" coords="254,167,321,177,320,182,253,173"/>
+<area shape="rect" id="Node000578" href="$mathlib_8c.html#aa0f8c2537c1cf8bd8c418b1a9a854de5" title="returns vector length" alt="" coords="301,249,476,275"/>
+<area shape="poly" id="edge8_Node000001_Node000578" title=" " alt="" coords="179,170,346,241,344,246,177,175"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="347,31,338,21,342,11,360,5,389,3,425,7,435,11,439,17,435,20,432,15,424,12,389,8,361,10,346,15,343,20,351,27"/>
+<area shape="poly" id="edge4_Node000238_Node000238" title=" " alt="" coords="347,104,338,94,342,84,360,78,389,76,425,80,435,85,439,90,435,93,432,89,424,85,389,81,361,83,346,88,343,94,351,101"/>
+<area shape="poly" id="edge6_Node000329_Node000329" title=" " alt="" coords="347,178,338,168,342,158,360,151,389,149,425,153,435,158,439,164,435,167,432,162,424,158,389,155,361,157,346,162,343,167,351,174"/>
+<area shape="poly" id="edge9_Node000578_Node000578" title=" " alt="" coords="347,251,338,241,342,231,360,225,389,223,425,227,435,231,439,237,435,240,432,235,424,232,389,228,361,230,346,235,343,240,351,247"/>
+</map>

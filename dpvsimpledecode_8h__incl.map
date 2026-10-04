@@ -1,0 +1,18 @@
+<map id="dpvsimpledecode.h" name="dpvsimpledecode.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="115,5,265,31"/>
+<area shape="rect" id="Node000002" href="$qtypes_8h.html" title=" " alt="" coords="111,152,189,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,33,154,53,136,80,133,94,134,110,141,139,136,140,128,110,128,94,132,78,150,50,172,29"/>
+<area shape="rect" id="Node000006" href="$qdefs_8h.html" title=" " alt="" coords="253,152,324,177"/>
+<area shape="poly" id="edge2_Node000001_Node000006" title=" " alt="" coords="259,28,300,46,318,60,334,77,339,95,335,112,314,144,310,141,330,110,334,95,329,80,315,64,297,51,256,33"/>
+<area shape="rect" id="Node000007" href="$cvar_8h.html" title=" " alt="" coords="258,79,319,104"/>
+<area shape="poly" id="edge3_Node000001_Node000007" title=" " alt="" coords="207,29,263,68,260,73,204,33"/>
+<area shape="rect" id="Node000008" href="$cl__video_8h.html" title=" " alt="" coords="146,79,234,104"/>
+<area shape="poly" id="edge6_Node000001_Node000008" title=" " alt="" coords="193,31,193,65,187,65,187,31"/>
+<area shape="rect" id="Node000009" href="$draw_8h.html" title=" " alt="" coords="5,79,71,104"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="167,33,76,75,74,70,164,28"/>
+<area shape="poly" id="edge4_Node000007_Node000002" title=" " alt="" coords="268,106,186,148,184,143,265,102"/>
+<area shape="poly" id="edge5_Node000007_Node000006" title=" " alt="" coords="291,104,291,138,286,138,286,104"/>
+<area shape="poly" id="edge7_Node000008_Node000002" title=" " alt="" coords="186,106,166,141,161,139,181,103"/>
+<area shape="poly" id="edge8_Node000008_Node000006" title=" " alt="" coords="207,102,263,142,260,146,204,106"/>
+<area shape="poly" id="edge10_Node000009_Node000002" title=" " alt="" coords="57,102,121,142,118,147,55,106"/>
+</map>

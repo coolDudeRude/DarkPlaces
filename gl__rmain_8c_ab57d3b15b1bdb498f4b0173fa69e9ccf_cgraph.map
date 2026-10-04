@@ -1,0 +1,7 @@
+<map id="R_SkinFrame_PurgeSkinFrame" name="R_SkinFrame_PurgeSkinFrame">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,225,55"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="80,31,72,21,76,11,91,5,115,3,146,6,158,15,155,20,144,11,115,8,92,10,80,15,77,20,84,28"/>
+<area shape="rect" id="Node000002" href="$gl__textures_8c.html#a049a5fb42407ce79c203dbc9aba977d4" title=" " alt="" coords="273,29,396,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,39,259,39,259,45,226,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="299,31,291,21,295,11,310,5,335,3,365,6,377,15,374,20,363,11,335,8,311,10,299,15,296,20,303,28"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="SV_MarkWriteEntityStateToClient" name="SV_MarkWriteEntityStateToClient">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,73,205,113"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="59,73,56,63,63,54,80,48,105,46,134,49,150,56,148,61,133,54,105,51,81,53,66,58,61,64,64,72"/>
+<area shape="rect" id="Node000002" href="$sv__send_8c.html#a53e7cd92e5f55fe370ae0109eaeb4024" title=" " alt="" coords="297,29,417,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,70,283,54,284,59,205,75"/>
+<area shape="rect" id="Node001238" href="$sv__main_8c.html#a68a8fec8cdaef88c9719912c527fa7cf" title=" " alt="" coords="508,117,671,143"/>
+<area shape="poly" id="edge3_Node000001_Node001238" title=" " alt="" coords="206,97,460,115,495,118,494,124,460,121,206,102"/>
+<area shape="rect" id="Node001352" href="$sv__send_8c.html#abaff8b6cd89e9596e80d7ebf46de1e33" title=" " alt="" coords="253,155,460,180"/>
+<area shape="poly" id="edge6_Node000001_Node001352" title=" " alt="" coords="174,110,301,148,299,153,173,115"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="319,31,311,21,315,11,331,5,357,3,389,7,402,16,398,20,387,11,357,8,332,10,319,15,316,20,323,27"/>
+<area shape="poly" id="edge4_Node001238_Node001238" title=" " alt="" coords="552,119,543,109,548,99,563,93,589,91,622,95,634,104,631,108,620,99,589,96,564,98,551,103,549,108,556,115"/>
+<area shape="poly" id="edge7_Node001352_Node001238" title=" " alt="" coords="436,152,496,142,497,148,437,157"/>
+<area shape="poly" id="edge8_Node001352_Node001352" title=" " alt="" coords="319,156,311,146,315,136,331,130,357,128,389,132,402,141,398,146,387,137,357,133,332,135,319,140,316,146,323,153"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="MSG_WriteByte" name="MSG_WriteByte">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,129,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="40,31,34,21,37,11,49,5,67,3,90,6,99,15,96,19,87,11,67,8,50,10,41,15,40,20,45,28"/>
+<area shape="rect" id="Node000002" href="$common_8c.html#a30f4fcf993f9436ae4bd9b7efc398b88" title=" " alt="" coords="177,29,285,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="130,39,163,39,163,45,130,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="204,31,198,21,201,11,213,5,231,3,254,6,263,15,260,19,251,11,231,8,214,10,205,15,204,20,209,28"/>
+</map>

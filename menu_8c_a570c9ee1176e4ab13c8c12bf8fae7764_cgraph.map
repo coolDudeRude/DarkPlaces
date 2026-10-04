@@ -1,0 +1,7 @@
+<map id="M_PrintRed" name="M_PrintRed">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,101,55"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="28,31,23,21,26,11,36,5,53,3,74,6,83,15,79,19,71,11,53,8,38,10,30,15,28,20,33,28"/>
+<area shape="rect" id="Node000002" href="$gl__draw_8c.html#aad880bba40abd3688c15d7ac022318a1" title=" " alt="" coords="149,29,260,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,39,135,39,135,45,102,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="179,31,174,21,177,11,187,5,205,3,225,6,234,15,230,19,223,11,205,8,189,10,181,15,179,20,184,28"/>
+</map>

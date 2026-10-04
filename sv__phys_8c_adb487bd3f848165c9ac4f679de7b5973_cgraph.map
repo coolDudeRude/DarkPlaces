@@ -1,0 +1,10 @@
+<map id="SV_NudgeOutOfSolid_PivotIsKnownGood" name="SV_NudgeOutOfSolid_PivotIsKnownGood">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,59,164,99"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="39,60,36,50,43,40,60,35,85,33,113,36,129,43,127,48,112,41,85,38,61,40,46,45,41,51,44,58"/>
+<area shape="rect" id="Node000002" href="$sv__phys_8c.html#a50467ff3df4ef36847a93af296c57d2c" title="calculates hitsupercontentsmask for a generic qc entity" alt="" coords="212,29,457,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,65,235,54,236,59,165,70"/>
+<area shape="rect" id="Node000003" href="$sv__phys_8c.html#af0c162bba7ef44fcfa201affd5c853ee" title="traces a box move against worldmodel and all entities in the specified area" alt="" coords="282,103,387,128"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="165,88,269,103,268,109,164,93"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="294,31,286,21,290,11,307,5,335,3,370,7,380,11,383,17,379,20,376,15,368,12,335,8,308,10,294,15,291,20,298,27"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="294,104,286,94,290,84,307,78,335,76,370,80,380,85,383,90,379,93,376,89,368,85,335,81,308,83,294,88,291,94,298,101"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="VID_UpdateGamma" name="VID_UpdateGamma">
+<area shape="rect" id="Node000001" title="updates cachegamma variables and bumps vid_gammatables_serial if anything changed (ONLY to be called ..." alt="" coords="5,29,156,55"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="56,31,51,21,53,11,64,5,81,3,101,6,110,15,106,18,98,11,81,8,65,10,58,15,56,20,60,28"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#accccfae161879454243b3a8695a9bf3b" title=" " alt="" coords="204,29,255,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,39,190,39,190,45,156,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="204,31,199,21,202,11,212,5,229,3,250,6,258,15,255,18,247,11,229,8,214,10,206,15,205,20,209,28"/>
+</map>

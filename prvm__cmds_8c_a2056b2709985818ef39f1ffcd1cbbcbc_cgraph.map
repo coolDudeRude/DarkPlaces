@@ -1,0 +1,7 @@
+<map id="VM_physics_addtorque" name="VM_physics_addtorque">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,177,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="61,31,54,21,58,11,70,5,91,3,117,6,127,15,124,19,115,11,91,8,72,10,62,15,60,20,65,28"/>
+<area shape="rect" id="Node000002" href="$prvm__cmds_8c.html#a839f28438a1ca0de7c2d772295e1763a" title=" " alt="" coords="225,29,328,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="178,39,211,39,211,45,178,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="246,31,240,21,243,11,256,5,277,3,302,6,313,15,309,19,300,11,277,8,257,10,247,15,245,20,250,28"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="M_Credits_Draw" name="M_Credits_Draw">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,133,128"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="41,104,35,94,38,85,50,78,69,76,93,79,103,88,99,92,90,84,69,81,51,83,42,88,40,94,45,101"/>
+<area shape="rect" id="Node000002" href="$menu_8c.html#a196751e0732612af8dad4a3dabced0f5" title=" " alt="" coords="181,29,300,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,100,180,64,194,58,197,62,182,68,100,105"/>
+<area shape="rect" id="Node001352" href="$menu_8c.html#ae98478ec809eb97f83c98bb1790cabef" title=" " alt="" coords="193,103,288,128"/>
+<area shape="poly" id="edge4_Node000001_Node001352" title=" " alt="" coords="133,113,179,113,179,118,133,118"/>
+<area shape="rect" id="Node001353" href="$menu_8c.html#a90ea0ae04890d4b1b60cf35b5592fe87" title=" " alt="" coords="205,176,276,201"/>
+<area shape="poly" id="edge6_Node000001_Node001353" title=" " alt="" coords="101,126,198,168,196,173,99,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="212,31,206,21,209,11,221,5,241,3,264,6,274,15,271,19,262,11,241,8,223,10,213,15,211,20,217,28"/>
+<area shape="poly" id="edge5_Node001352_Node001352" title=" " alt="" coords="212,104,206,94,209,85,221,78,241,76,264,79,274,88,271,92,262,84,241,81,223,83,213,88,211,94,217,101"/>
+<area shape="poly" id="edge7_Node001353_Node001353" title=" " alt="" coords="212,177,206,168,209,158,221,152,241,149,264,153,274,161,271,165,262,158,241,155,223,157,213,161,211,167,217,174"/>
+</map>

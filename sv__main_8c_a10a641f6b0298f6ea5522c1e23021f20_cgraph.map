@@ -1,0 +1,10 @@
+<map id="SVVM_init_edict" name="SVVM_init_edict">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,132,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="35,68,28,58,32,48,46,42,69,40,97,44,108,53,105,57,95,49,69,45,47,47,36,52,33,58,40,65"/>
+<area shape="rect" id="Node000002" href="$lhnet_8c.html#a191c91d25271eed39a5eb76e2d8e5dde" title="Returns the number of bytes written to *string excluding the \0 terminator." alt="" coords="180,29,365,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,65,189,55,190,60,133,70"/>
+<area shape="rect" id="Node000006" href="$prvm__edict_8c.html#a4e3638f6c2086a6c6336e55b79cf6670" title=" " alt="" coords="187,103,358,128"/>
+<area shape="poly" id="edge3_Node000001_Node000006" title=" " alt="" coords="133,88,188,98,187,103,132,93"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="239,31,232,21,236,11,250,5,273,3,301,6,312,16,309,20,299,11,273,8,251,10,240,15,237,20,244,28"/>
+<area shape="poly" id="edge4_Node000006_Node000006" title=" " alt="" coords="239,104,232,94,236,84,250,78,273,76,301,80,312,89,309,93,299,85,273,81,251,83,240,88,237,94,244,101"/>
+</map>

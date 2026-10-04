@@ -1,0 +1,7 @@
+<map id="q3dface_t" name="q3dface_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="56,301,143,327"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="12,5,51,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="26,44,16,91,9,151,13,216,21,247,35,276,47,289,63,299,60,304,44,293,30,279,16,249,8,217,4,151,10,90,21,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="92,5,243,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,44,175,90,173,150,163,216,153,248,140,279,130,292,118,303,115,299,126,289,136,276,148,246,158,214,168,150,170,90,167,44"/>
+</map>

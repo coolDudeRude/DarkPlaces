@@ -1,0 +1,31 @@
+<map id="S_PaintAndSubmit" name="S_PaintAndSubmit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,323,145,348"/>
+<area shape="poly" id="edge11_Node000001_Node000001" title=" " alt="" coords="39,324,31,314,35,304,50,298,75,296,106,300,118,309,115,313,104,305,75,301,52,303,39,308,37,314,43,321"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#aae665de4dbcbf2047ee305901e2f6627" title="A Con_Print that only shows up if the &quot;developer&quot; cvar is set." alt="" coords="249,29,344,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,322,84,273,104,203,119,165,138,128,162,94,192,64,212,51,235,44,237,49,215,56,195,68,167,97,143,131,124,168,109,205,89,274,81,323"/>
+<area shape="rect" id="Node000020" href="$console_8c.html#a2696300802453d9333e9f52e5fae15bc" title="A Con_Printf that only shows up if the &quot;developer&quot; cvar is set." alt="" coords="247,103,346,128"/>
+<area shape="poly" id="edge3_Node000001_Node000020" title=" " alt="" coords="78,321,91,285,114,235,147,182,168,158,192,137,211,126,233,119,234,124,214,131,195,142,172,162,151,185,118,237,96,287,83,323"/>
+<area shape="rect" id="Node000015" href="$console_8c.html#a49b71fe9a87e57a440e07af4a869a9f6" title="Prints to all appropriate console targets." alt="" coords="252,176,341,201"/>
+<area shape="poly" id="edge5_Node000001_Node000015" title=" " alt="" coords="83,321,125,267,156,236,192,210,237,193,239,198,195,215,160,240,129,271,87,324"/>
+<area shape="rect" id="Node000580" href="$r__stats_8c.html#a37d0d0ea10d6d220c6c01e86f944704c" title=" " alt="" coords="239,249,354,275"/>
+<area shape="poly" id="edge7_Node000001_Node000580" title=" " alt="" coords="102,320,192,283,225,274,227,279,194,289,104,325"/>
+<area shape="rect" id="Node000486" href="$snd__mix_8c.html#a28eac9e61c01f9b0e334048c889005be" title=" " alt="" coords="239,323,354,348"/>
+<area shape="poly" id="edge9_Node000001_Node000486" title=" " alt="" coords="146,333,226,333,226,338,146,338"/>
+<area shape="rect" id="Node000483" href="$snd__sdl_8c.html#a96800683856c885e79a150b26c8481bd" title="Returns the number of sample frames consumed since the sound started." alt="" coords="211,396,383,421"/>
+<area shape="poly" id="edge12_Node000001_Node000483" title=" " alt="" coords="116,346,245,389,244,394,114,351"/>
+<area shape="rect" id="Node000112" href="$snd__sdl_8c.html#ae0b4915809820517c43115cab7b78235" title="Get the exclusive lock on &quot;snd_renderbuffer&quot;." alt="" coords="201,469,392,495"/>
+<area shape="poly" id="edge14_Node000001_Node000112" title=" " alt="" coords="92,346,136,386,195,430,253,461,250,466,192,435,132,390,88,350"/>
+<area shape="rect" id="Node000493" href="$snd__sdl_8c.html#a1cf4840b573c7c8a4b1409eeaec0a4f7" title="Submit the contents of &quot;snd_renderbuffer&quot; to the sound card." alt="" coords="235,543,358,568"/>
+<area shape="poly" id="edge16_Node000001_Node000493" title=" " alt="" coords="85,347,125,419,157,464,195,504,220,521,246,535,244,540,217,526,192,508,153,467,120,422,80,349"/>
+<area shape="rect" id="Node000113" href="$snd__sdl_8c.html#af93d75cf8eafe12c6acd43b2b510bc16" title="Release the exclusive lock on &quot;snd_renderbuffer&quot;." alt="" coords="193,616,400,641"/>
+<area shape="poly" id="edge18_Node000001_Node000113" title=" " alt="" coords="82,348,94,390,116,451,150,518,171,549,195,577,217,595,242,608,240,613,214,599,191,581,167,552,145,520,111,453,89,392,77,349"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="261,31,253,21,257,11,272,5,297,3,327,6,340,15,336,20,325,11,297,8,273,10,260,15,258,20,265,28"/>
+<area shape="poly" id="edge4_Node000020_Node000020" title=" " alt="" coords="261,104,253,94,257,84,272,78,297,76,327,80,340,89,336,93,325,85,297,81,273,83,260,88,258,94,265,101"/>
+<area shape="poly" id="edge6_Node000015_Node000015" title=" " alt="" coords="261,178,253,168,257,158,272,152,297,149,327,153,340,162,336,166,325,158,297,155,273,157,260,162,258,167,265,174"/>
+<area shape="poly" id="edge8_Node000580_Node000580" title=" " alt="" coords="261,251,253,241,257,231,272,225,297,223,327,226,340,235,336,240,325,231,297,228,273,230,260,235,258,240,265,248"/>
+<area shape="poly" id="edge10_Node000486_Node000486" title=" " alt="" coords="261,324,253,314,257,304,272,298,297,296,327,300,340,309,336,313,325,305,297,301,273,303,260,308,258,314,265,321"/>
+<area shape="poly" id="edge13_Node000483_Node000483" title=" " alt="" coords="261,398,253,388,257,378,272,372,297,369,327,373,340,382,336,386,325,378,297,375,273,377,260,382,258,387,265,394"/>
+<area shape="poly" id="edge15_Node000112_Node000112" title=" " alt="" coords="261,471,253,461,257,451,272,445,297,443,327,446,340,455,336,460,325,451,297,448,273,450,260,455,258,460,265,468"/>
+<area shape="poly" id="edge17_Node000493_Node000493" title=" " alt="" coords="261,544,253,534,257,524,272,518,297,516,327,520,340,529,336,533,325,525,297,521,273,523,260,528,258,534,265,541"/>
+<area shape="poly" id="edge19_Node000113_Node000113" title=" " alt="" coords="261,618,253,608,257,598,272,592,297,589,327,593,340,602,336,606,325,598,297,595,273,597,260,602,258,607,265,614"/>
+</map>

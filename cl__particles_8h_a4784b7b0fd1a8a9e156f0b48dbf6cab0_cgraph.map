@@ -1,0 +1,17 @@
+<map id="CL_Particles_Clear" name="CL_Particles_Clear">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,104,147,129"/>
+<area shape="poly" id="edge6_Node000001_Node000001" title=" " alt="" coords="43,106,36,96,39,86,53,80,76,77,104,81,116,90,112,94,102,86,76,83,54,85,43,89,41,95,47,102"/>
+<area shape="rect" id="Node000002" href="$cl__particles_8c.html#a184c475c75758d6c027a244e337e7dbe" title="Creates a new particle and returns a pointer to it." alt="" coords="413,29,536,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,101,131,62,161,42,194,27,250,15,307,13,362,17,410,24,409,29,361,22,307,18,250,21,196,33,164,47,134,67,91,105"/>
+<area shape="rect" id="Node001012" href="$cl__particles_8c.html#a779af911ae013b8586e51a369ad906ed" title="Creates a simple particle, a square like Quake, or a disc like GLQuake." alt="" coords="199,67,361,92"/>
+<area shape="poly" id="edge3_Node000001_Node001012" title=" " alt="" coords="146,101,196,92,197,97,147,107"/>
+<area shape="rect" id="Node001351" href="$cl__particles_8c.html#a2a7d399f6cf966d1f48088bebad11d45" title=" " alt="" coords="216,140,344,165"/>
+<area shape="poly" id="edge7_Node000001_Node001351" title=" " alt="" coords="148,127,203,136,202,142,147,132"/>
+<area shape="rect" id="Node001359" href="$cl__particles_8c.html#a61d204299a4db9c0a0239f9e4b473c8c" title=" " alt="" coords="195,213,365,239"/>
+<area shape="poly" id="edge9_Node000001_Node001359" title=" " alt="" coords="102,127,245,205,242,209,100,132"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="443,31,436,21,439,11,453,5,475,3,501,6,513,15,509,19,499,11,475,8,454,10,443,15,441,20,447,28"/>
+<area shape="poly" id="edge4_Node001012_Node000002" title=" " alt="" coords="346,64,400,54,401,59,347,69"/>
+<area shape="poly" id="edge5_Node001012_Node001012" title=" " alt="" coords="248,68,241,58,245,48,258,42,280,40,307,44,318,52,315,57,305,48,280,45,259,47,248,52,246,58,252,65"/>
+<area shape="poly" id="edge8_Node001351_Node001351" title=" " alt="" coords="248,141,241,132,245,122,258,116,280,113,307,117,318,126,315,130,305,122,280,119,259,121,248,125,246,131,252,138"/>
+<area shape="poly" id="edge10_Node001359_Node001359" title=" " alt="" coords="248,215,241,205,245,195,258,189,280,187,307,190,318,199,315,203,305,195,280,192,259,194,248,199,246,204,252,212"/>
+</map>

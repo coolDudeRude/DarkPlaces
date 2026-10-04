@@ -1,0 +1,13 @@
+<map id="SZ_GetSpace" name="SZ_GetSpace">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,113,128"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="34,104,29,94,32,85,42,78,59,76,80,80,88,88,85,92,77,84,59,81,44,83,36,88,35,94,39,101"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#a1cf9711475097b11dc41f743254ec77e" title="Prints to all appropriate console targets, and adds timestamps." alt="" coords="165,29,249,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,100,167,59,169,63,87,105"/>
+<area shape="rect" id="Node000135" href="$host_8c.html#a6207a721d43b13be42aa21a2bb4d3350" title=" " alt="" coords="161,103,252,128"/>
+<area shape="poly" id="edge3_Node000001_Node000135" title=" " alt="" coords="114,113,148,113,148,118,114,118"/>
+<area shape="rect" id="Node000071" href="$common_8c.html#a0ea018e5fb18adcef01a365a50fccfef" title=" " alt="" coords="167,176,247,201"/>
+<area shape="poly" id="edge5_Node000001_Node000071" title=" " alt="" coords="87,126,169,167,167,172,85,130"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="182,31,177,21,179,11,190,5,207,3,227,6,236,15,232,18,224,11,207,8,191,10,184,15,182,20,186,28"/>
+<area shape="poly" id="edge4_Node000135_Node000135" title=" " alt="" coords="182,104,177,94,179,85,190,78,207,76,227,80,236,88,232,92,224,84,207,81,191,83,184,88,182,94,186,101"/>
+<area shape="poly" id="edge6_Node000071_Node000071" title=" " alt="" coords="182,177,177,168,179,158,190,152,207,149,227,153,236,161,232,165,224,158,207,155,191,157,184,161,182,167,186,175"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="u8_strpad_colorcodes" name="u8_strpad_colorcodes">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,168,128"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="52,104,44,94,48,84,63,78,87,76,116,80,128,89,125,93,114,85,87,81,64,83,52,88,49,94,56,101"/>
+<area shape="rect" id="Node000002" href="$common_8c.html#ae36050083f45e395189fee6aa45fbb0c" title="Returns the number of printed characters, excluding the final &#39;\0&#39; or returns &#45;1 if the buffer isn&#39;t ..." alt="" coords="257,29,345,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,100,215,63,243,55,244,60,217,69,120,105"/>
+<area shape="rect" id="Node000005" href="$utf8lib_8c.html#a9d04675340e021581cf7bb0f4b28666c" title=" " alt="" coords="216,103,387,128"/>
+<area shape="poly" id="edge3_Node000001_Node000005" title=" " alt="" coords="168,113,202,113,202,118,168,118"/>
+<area shape="rect" id="Node000008" href="$utf8lib_8c.html#a47e86237eb6e4e0e481021047dc41838" title=" " alt="" coords="218,176,385,201"/>
+<area shape="poly" id="edge5_Node000001_Node000008" title=" " alt="" coords="126,126,251,169,249,174,124,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="266,31,259,21,263,11,277,5,301,3,331,6,343,15,340,20,329,11,301,8,279,10,267,15,264,20,271,28"/>
+<area shape="poly" id="edge4_Node000005_Node000005" title=" " alt="" coords="266,104,259,94,263,84,277,78,301,76,331,80,343,89,340,93,329,85,301,81,279,83,267,88,264,94,271,101"/>
+<area shape="poly" id="edge6_Node000008_Node000008" title=" " alt="" coords="266,178,259,168,263,158,277,152,301,149,331,153,343,162,340,166,329,158,301,155,279,157,267,162,264,167,271,174"/>
+</map>

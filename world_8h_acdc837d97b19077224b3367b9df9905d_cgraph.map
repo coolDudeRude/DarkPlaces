@@ -1,0 +1,6 @@
+<map id="World_LinkEdict" name="World_LinkEdict">
+<area shape="rect" id="Node000001" title="Needs to be called any time an entity changes origin, mins, maxs." alt="" coords="5,29,131,55"/>
+<area shape="rect" id="Node000002" href="$world_8c.html#ade035adcf665e21698b17337bb024848" title=" " alt="" coords="179,29,304,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,39,165,39,165,45,131,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="212,31,206,21,210,11,222,5,241,3,265,6,275,15,272,19,263,11,241,8,223,10,214,15,212,20,217,28"/>
+</map>

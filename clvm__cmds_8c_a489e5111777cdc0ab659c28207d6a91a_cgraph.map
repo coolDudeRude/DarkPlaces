@@ -1,0 +1,10 @@
+<map id="VM_CL_skel_get_boneabs" name="VM_CL_skel_get_boneabs">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,195,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="64,68,56,58,60,48,75,42,100,40,131,44,143,53,140,57,129,49,100,45,76,47,64,52,61,58,68,65"/>
+<area shape="rect" id="Node000002" href="$matrixlib_8c.html#a0f17f61f7e6dd5b4f8dc94ff587526c0" title=" " alt="" coords="251,29,391,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,64,238,53,239,59,176,69"/>
+<area shape="rect" id="Node000003" href="$matrixlib_8c.html#abd8779949e9f14619a60d0cf423f8191" title=" " alt="" coords="243,103,400,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="179,89,230,98,229,103,178,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="285,31,277,21,281,11,296,5,321,3,352,6,364,15,361,20,350,11,321,8,298,10,285,15,283,20,289,28"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="285,104,277,94,281,84,296,78,321,76,352,80,364,89,361,93,350,85,321,81,298,83,285,88,283,94,289,101"/>
+</map>

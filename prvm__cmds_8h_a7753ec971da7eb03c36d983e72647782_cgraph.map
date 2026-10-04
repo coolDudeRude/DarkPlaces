@@ -1,0 +1,14 @@
+<map id="VM_netaddress_resolve" name="VM_netaddress_resolve">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,183,105"/>
+<area shape="poly" id="edge8_Node000001_Node000001" title=" " alt="" coords="55,82,47,72,51,62,67,56,94,53,127,57,140,67,137,71,125,62,94,59,69,61,55,66,52,71,59,78"/>
+<area shape="rect" id="Node000002" href="$lhnet_8c.html#a5dbacd69a7b0e891167efa403d24be29" title=" " alt="" coords="231,29,435,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,77,258,55,259,60,155,82"/>
+<area shape="rect" id="Node000022" href="$lhnet_8c.html#a191c91d25271eed39a5eb76e2d8e5dde" title="Returns the number of bytes written to *string excluding the \0 terminator." alt="" coords="483,55,668,80"/>
+<area shape="poly" id="edge5_Node000001_Node000022" title=" " alt="" coords="183,85,469,70,469,76,183,91"/>
+<area shape="rect" id="Node001100" href="$prvm__edict_8c.html#a1d2244b6253cecef732afeb0bf1d393f" title="Takes an strlen (not a buffer size)." alt="" coords="252,155,413,180"/>
+<area shape="poly" id="edge6_Node000001_Node001100" title=" " alt="" coords="137,103,279,148,278,153,135,108"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="294,31,286,21,290,11,306,5,333,3,366,7,379,16,375,20,364,11,333,8,307,10,294,15,291,20,298,27"/>
+<area shape="poly" id="edge3_Node000002_Node000022" title=" " alt="" coords="435,50,469,54,469,59,434,55"/>
+<area shape="poly" id="edge4_Node000022_Node000022" title=" " alt="" coords="536,56,527,46,532,36,548,30,575,28,610,32,619,37,623,42,619,45,616,41,608,37,575,33,549,35,535,40,533,46,540,53"/>
+<area shape="poly" id="edge7_Node001100_Node001100" title=" " alt="" coords="294,156,286,146,290,136,306,130,333,128,366,132,379,141,375,146,364,137,333,133,307,135,294,140,291,146,298,153"/>
+</map>

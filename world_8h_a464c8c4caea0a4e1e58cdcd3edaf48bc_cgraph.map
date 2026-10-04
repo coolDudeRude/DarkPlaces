@@ -1,0 +1,12 @@
+<map id="World_EntitiesInBox" name="World_EntitiesInBox">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,157,128"/>
+<area shape="rect" id="Node000002" href="$world_8c.html#ae640daddee38be114748a16c3e0ef3d5" title=" " alt="" coords="236,29,327,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,100,204,63,225,56,227,61,206,69,114,105"/>
+<area shape="rect" id="Node000003" href="$world_8c.html#a1a424fb7d73a4ec5f47107b88f852a8b" title=" " alt="" coords="205,103,357,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="158,113,191,113,191,118,158,118"/>
+<area shape="rect" id="Node000005" href="$world_8c.html#ae5f15100c9c66d67af7d9a5b6f5a0968" title=" " alt="" coords="233,176,330,201"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="118,126,234,169,232,174,116,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="248,31,241,21,245,11,259,5,281,3,309,6,320,16,317,20,307,11,281,8,260,10,249,15,247,20,253,28"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="248,104,241,94,245,84,259,78,281,76,309,80,320,89,317,93,307,85,281,81,260,83,249,88,247,94,253,101"/>
+<area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="248,177,241,168,245,158,259,152,281,149,309,153,320,162,317,166,307,158,281,155,260,157,249,161,247,167,253,174"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="VID_ApplyDisplayMode" name="VID_ApplyDisplayMode">
+<area shape="rect" id="Node000001" title="Applies display settings immediately (no vid_restart required)." alt="" coords="5,67,180,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="62,68,56,58,59,49,72,42,93,40,118,44,129,52,125,56,116,48,93,45,73,47,63,52,61,58,66,65"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#a2696300802453d9333e9f52e5fae15bc" title="A Con_Printf that only shows up if the &quot;developer&quot; cvar is set." alt="" coords="228,29,327,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,64,214,52,215,57,157,69"/>
+<area shape="rect" id="Node000015" href="$console_8c.html#a49b71fe9a87e57a440e07af4a869a9f6" title="Prints to all appropriate console targets." alt="" coords="233,103,322,128"/>
+<area shape="poly" id="edge3_Node000001_Node000015" title=" " alt="" coords="159,89,219,101,218,107,158,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="247,31,240,21,244,11,256,5,277,3,303,6,313,15,310,19,301,11,277,8,258,10,248,15,246,20,251,28"/>
+<area shape="poly" id="edge4_Node000015_Node000015" title=" " alt="" coords="247,104,240,94,244,85,256,78,277,76,303,80,313,88,310,92,301,84,277,81,258,83,248,88,246,94,251,101"/>
+</map>

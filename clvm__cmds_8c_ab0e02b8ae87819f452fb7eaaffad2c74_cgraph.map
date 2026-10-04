@@ -1,0 +1,13 @@
+<map id="VM_CL_te_spike" name="VM_CL_te_spike">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,132,128"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="35,104,28,94,32,84,46,78,69,76,97,80,108,89,105,93,95,85,69,81,47,83,36,88,33,94,40,101"/>
+<area shape="rect" id="Node000002" href="$cl__collision_8c.html#ac7dbc515a87649cf46e59ac91ba1803f" title=" " alt="" coords="180,29,365,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,100,179,64,203,56,204,61,181,68,96,105"/>
+<area shape="rect" id="Node000003" href="$cl__particles_8c.html#a16fed15808e5743d5e8c36915eb80452" title=" " alt="" coords="207,103,338,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="132,113,193,113,193,118,132,118"/>
+<area shape="rect" id="Node000500" href="$snd__main_8c.html#a418d13b1c4fe19c2ef0ed171ae339426" title="S_StartSound returns the channel index, or &#45;1 if an error occurred." alt="" coords="219,176,327,201"/>
+<area shape="poly" id="edge5_Node000001_Node000500" title=" " alt="" coords="106,126,224,169,223,174,104,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="239,31,232,21,236,11,250,5,273,3,301,6,312,16,309,20,299,11,273,8,251,10,240,15,237,20,244,28"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="239,104,232,94,236,84,250,78,273,76,301,80,312,89,309,93,299,85,273,81,251,83,240,88,237,94,244,101"/>
+<area shape="poly" id="edge6_Node000500_Node000500" title=" " alt="" coords="239,178,232,168,236,158,250,152,273,149,301,153,312,162,309,166,299,158,273,155,251,157,240,161,237,167,244,174"/>
+</map>

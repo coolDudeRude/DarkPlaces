@@ -1,0 +1,13 @@
+<map id="ogg_stream_perchannel_t" name="ogg_stream_perchannel_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="209,295,400,320"/>
+<area shape="rect" id="Node000002" href="$structOggVorbis__File.html" title=" " alt="" coords="165,180,284,205"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="242,215,298,293,294,296,238,218"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="45,5,84,31"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="51,44,31,81,14,129,9,153,9,178,14,201,25,222,37,234,56,245,109,264,170,280,231,292,230,297,169,285,107,269,54,250,34,238,21,226,9,203,3,178,4,153,9,127,26,79,47,41"/>
+<area shape="poly" id="edge2_Node000002_Node000004" title=" " alt="" coords="87,40,215,178,212,182,83,43"/>
+<area shape="rect" id="Node000021" href="$structov__decode__t.html" title=" " alt="" coords="403,180,507,205"/>
+<area shape="poly" id="edge3_Node000001_Node000021" title=" " alt="" coords="430,216,321,297,318,293,427,212"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="333,5,414,31"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="370,45,310,295,304,294,365,43"/>
+<area shape="poly" id="edge4_Node000021_Node000007" title=" " alt="" coords="387,42,452,179,447,181,382,44"/>
+</map>

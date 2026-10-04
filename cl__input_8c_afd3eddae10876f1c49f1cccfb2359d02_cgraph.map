@@ -1,0 +1,11 @@
+<map id="IN_StrafeUp" name="IN_StrafeUp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,105,55"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="33,30,29,21,31,11,40,5,55,3,73,6,81,14,77,18,70,11,55,8,42,10,36,14,34,20,38,28"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#a977f9318008de123876b168dfa86ad22" title=" " alt="" coords="265,29,316,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,32,159,27,218,27,252,32,251,37,217,33,159,32,106,37"/>
+<area shape="rect" id="Node000003" href="$cl__input_8c.html#a9c7c3cabee34a676f9583d1fa33058ff" title=" " alt="" coords="153,67,217,92"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="101,52,141,64,139,69,99,57"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="272,30,269,21,270,12,278,5,291,3,305,6,312,14,308,18,302,11,291,8,280,10,275,14,274,20,277,28"/>
+<area shape="poly" id="edge5_Node000003_Node000002" title=" " alt="" coords="217,66,251,53,253,58,218,71"/>
+<area shape="poly" id="edge6_Node000003_Node000003" title=" " alt="" coords="167,68,163,58,165,49,173,42,185,40,200,43,207,52,202,55,197,48,185,45,175,47,170,52,169,58,172,66"/>
+</map>

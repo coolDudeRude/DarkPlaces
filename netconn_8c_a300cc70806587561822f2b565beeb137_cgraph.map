@@ -1,0 +1,13 @@
+<map id="Net_Stats_f" name="Net_Stats_f">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,103,128"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="30,104,25,94,28,85,38,78,54,76,73,80,82,88,78,92,71,84,54,81,40,83,32,88,31,94,35,101"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#a977f9318008de123876b168dfa86ad22" title=" " alt="" coords="168,29,219,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,100,155,59,157,64,80,105"/>
+<area shape="rect" id="Node000003" href="$console_8c.html#a1cf9711475097b11dc41f743254ec77e" title="Prints to all appropriate console targets, and adds timestamps." alt="" coords="151,103,235,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="103,113,137,113,137,118,103,118"/>
+<area shape="rect" id="Node001351" href="$netconn_8c.html#aecc7f7a8fbd82f26351fa5dbb9672825" title=" " alt="" coords="151,176,236,201"/>
+<area shape="poly" id="edge6_Node000001_Node001351" title=" " alt="" coords="80,126,157,167,155,172,78,130"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="170,30,165,21,167,11,177,5,193,3,213,6,221,15,217,18,210,11,193,8,179,10,172,15,170,20,174,28"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="170,104,165,94,167,85,177,78,193,76,213,80,221,88,217,92,210,84,193,81,179,83,172,88,170,94,174,101"/>
+<area shape="poly" id="edge7_Node001351_Node001351" title=" " alt="" coords="170,177,165,168,167,158,177,152,193,149,213,153,221,161,217,165,210,158,193,155,179,157,172,161,170,167,174,175"/>
+</map>

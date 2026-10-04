@@ -1,0 +1,10 @@
+<map id="Mod_BSP_FatPVS" name="Mod_BSP_FatPVS">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,78,139,103"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="37,80,29,70,33,60,48,54,72,51,102,55,114,64,111,68,100,60,72,57,49,59,37,64,34,69,41,76"/>
+<area shape="rect" id="Node000002" href="$model__brush_8c.html#aaf642785ebdde53dfd379788e0e817fb" title=" " alt="" coords="187,29,391,69"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="138,75,173,69,174,74,139,81"/>
+<area shape="rect" id="Node000003" href="$model__brush_8c.html#a410424a81c26ecc81451c5da4a7c50f5" title=" " alt="" coords="220,118,357,143"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="139,100,207,113,206,118,138,106"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="248,30,246,20,252,10,267,5,289,3,314,6,328,13,325,18,312,11,289,8,268,10,255,15,251,21,253,28"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="253,120,246,110,250,100,264,94,289,91,319,95,331,104,327,108,317,100,289,97,266,99,253,104,251,109,257,116"/>
+</map>

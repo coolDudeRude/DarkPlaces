@@ -1,0 +1,10 @@
+<map id="_Thread_DestroyBarrier" name="_Thread_DestroyBarrier">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,181,80"/>
+<area shape="rect" id="Node000002" href="$thread__win_8c.html#ad61e0c26df0ed0461aa6d5790941afd3" title=" " alt="" coords="229,29,405,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,55,215,51,216,56,182,60"/>
+<area shape="rect" id="Node000003" href="$sys__shared_8c.html#a2e96c9ccfa6d43e1677769d19dbc1a21" title="used to report failures inside Con_Printf()" alt="" coords="453,55,540,80"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="182,65,439,65,439,70,182,70"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="288,31,281,21,285,11,297,5,317,3,342,6,352,15,349,19,340,11,317,8,298,10,289,15,287,20,292,28"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="406,52,440,57,439,62,405,57"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="467,56,461,46,464,37,476,30,497,28,521,32,532,40,528,44,519,36,497,33,478,35,468,40,466,46,471,53"/>
+</map>

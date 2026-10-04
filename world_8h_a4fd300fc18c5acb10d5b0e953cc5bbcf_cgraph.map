@@ -1,0 +1,12 @@
+<map id="World_SetSize" name="World_SetSize">
+<area shape="rect" id="Node000001" title="called after the world model has been loaded, before linking any entities" alt="" coords="5,103,120,128"/>
+<area shape="rect" id="Node000002" href="$world_8c.html#a1f23efe054955819439612e756333b0f" title=" " alt="" coords="168,29,327,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,100,167,64,187,56,189,61,169,68,89,105"/>
+<area shape="rect" id="Node001259" href="$world_8c.html#a629ed673aa7663517b7adbee0c221678" title=" " alt="" coords="190,103,305,128"/>
+<area shape="poly" id="edge3_Node000001_Node001259" title=" " alt="" coords="120,113,176,113,176,118,120,118"/>
+<area shape="rect" id="Node001184" href="$world_8c.html#a77e1d5c998886e521323fde8b9973f7d" title="unlinks all entities (used before reallocation of edicts)" alt="" coords="185,176,310,201"/>
+<area shape="poly" id="edge5_Node000001_Node001184" title=" " alt="" coords="97,126,203,168,201,173,95,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="217,31,210,21,214,11,226,5,247,3,273,6,283,15,280,19,271,11,247,8,228,10,218,15,216,20,221,28"/>
+<area shape="poly" id="edge4_Node001259_Node001259" title=" " alt="" coords="217,104,210,94,214,85,226,78,247,76,273,80,283,88,280,92,271,84,247,81,228,83,218,88,216,94,221,101"/>
+<area shape="poly" id="edge6_Node001184_Node001184" title=" " alt="" coords="217,177,210,168,214,158,226,152,247,149,273,153,283,162,280,166,271,158,247,155,228,157,218,161,216,167,221,174"/>
+</map>

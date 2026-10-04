@@ -1,0 +1,13 @@
+<map id="Curl_Shutdown" name="Curl_Shutdown">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,124,128"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="32,104,25,94,29,84,42,78,65,76,92,80,103,88,100,93,90,84,65,81,44,83,33,88,30,94,36,101"/>
+<area shape="rect" id="Node000002" href="$libcurl_8c.html#aa5b8e75fbc6183d9ef5e28e613cf607b" title=" " alt="" coords="204,29,320,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,100,171,64,194,56,196,61,173,68,91,105"/>
+<area shape="rect" id="Node001360" href="$libcurl_8c.html#a80c021b4ce41ebb8c6a1d9f36d67acdd" title=" " alt="" coords="172,103,352,128"/>
+<area shape="poly" id="edge3_Node000001_Node001360" title=" " alt="" coords="124,113,158,113,158,118,124,118"/>
+<area shape="rect" id="Node001361" href="$libcurl_8c.html#a077a927a32e7ca4eea0825b40617a5bc" title=" " alt="" coords="189,176,335,201"/>
+<area shape="poly" id="edge5_Node000001_Node001361" title=" " alt="" coords="101,126,215,168,213,173,99,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="229,31,223,21,226,11,240,5,262,3,289,6,300,15,297,19,287,11,262,8,241,10,230,15,228,20,234,28"/>
+<area shape="poly" id="edge4_Node001360_Node001360" title=" " alt="" coords="229,104,223,94,226,84,240,78,262,76,289,80,300,88,297,93,287,84,262,81,241,83,230,88,228,94,234,101"/>
+<area shape="poly" id="edge6_Node001361_Node001361" title=" " alt="" coords="229,177,223,168,226,158,240,152,262,149,289,153,300,162,297,166,287,158,262,155,241,157,230,161,228,167,234,174"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="Mod_CollisionBIH_TraceLineShared" name="Mod_CollisionBIH_TraceLineShared">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,117,209,157"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="60,118,57,108,65,98,82,93,107,91,137,94,153,101,151,106,135,99,107,96,83,98,68,103,63,109,65,116"/>
+<area shape="rect" id="Node000002" href="$collision_8c.html#ace76d9667f9f0091625cc36c56562c94" title=" " alt="" coords="271,29,454,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,115,256,79,280,71,282,76,258,84,161,120"/>
+<area shape="rect" id="Node000007" href="$collision_8c.html#a2da498d0c55bc0ac9601ee8b681b50d6" title=" " alt="" coords="264,117,461,157"/>
+<area shape="poly" id="edge3_Node000001_Node000007" title=" " alt="" coords="210,135,250,135,250,140,210,140"/>
+<area shape="rect" id="Node000009" href="$model__brush_8c.html#a968a9377d97910cf10c5186b392543da" title=" " alt="" coords="257,206,468,231"/>
+<area shape="poly" id="edge6_Node000001_Node000009" title=" " alt="" coords="172,155,309,199,308,204,170,160"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="316,30,313,20,320,10,337,5,363,3,392,6,408,13,406,18,391,11,363,8,338,10,323,15,318,21,321,28"/>
+<area shape="poly" id="edge4_Node000007_Node000007" title=" " alt="" coords="316,118,313,108,320,98,337,93,363,91,392,94,408,101,406,106,391,99,363,96,338,98,323,103,318,109,321,116"/>
+<area shape="poly" id="edge7_Node000009_Node000009" title=" " alt="" coords="322,208,313,198,317,188,334,182,363,179,398,183,409,188,412,194,408,197,405,192,397,188,363,185,335,187,321,192,318,197,326,204"/>
+</map>

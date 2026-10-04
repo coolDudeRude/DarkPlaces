@@ -1,0 +1,13 @@
+<map id="World_LinkEdict_AreaGrid" name="World_LinkEdict_AreaGrid">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,195,128"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="63,104,55,94,59,84,74,78,100,76,132,80,145,89,141,94,130,85,100,81,75,83,62,88,60,94,67,101"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#a49b71fe9a87e57a440e07af4a869a9f6" title="Prints to all appropriate console targets." alt="" coords="285,29,374,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,100,242,63,271,55,272,60,243,69,137,105"/>
+<area shape="rect" id="Node000081" href="$menudefs_8qc.html#ad5a3e16aa960bd72d3ca37a618eea802" title=" " alt="" coords="304,103,355,128"/>
+<area shape="poly" id="edge3_Node000001_Node000081" title=" " alt="" coords="195,113,290,113,290,118,195,118"/>
+<area shape="rect" id="Node001349" href="$world_8c.html#a44f74fd68739f93c5ba3b429bc938209" title=" " alt="" coords="243,176,416,201"/>
+<area shape="poly" id="edge5_Node000001_Node001349" title=" " alt="" coords="142,126,277,169,275,174,140,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="292,31,284,21,288,11,304,5,329,3,362,7,374,16,371,20,360,11,329,8,305,10,292,15,289,20,296,27"/>
+<area shape="poly" id="edge4_Node000081_Node000081" title=" " alt="" coords="303,110,286,99,285,87,301,79,329,76,354,78,370,84,375,93,369,103,364,100,370,93,366,88,353,83,329,81,302,84,290,90,291,96,305,106"/>
+<area shape="poly" id="edge6_Node001349_Node001349" title=" " alt="" coords="292,178,284,168,288,158,304,152,329,149,362,153,374,163,371,167,360,158,329,155,305,157,292,162,289,167,296,174"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="VM_CL_te_flamejet" name="VM_CL_te_flamejet">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,152,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="44,68,36,58,40,48,55,42,79,40,108,44,120,53,117,57,106,49,79,45,56,47,44,52,41,58,48,65"/>
+<area shape="rect" id="Node000002" href="$cl__collision_8c.html#ac7dbc515a87649cf46e59ac91ba1803f" title=" " alt="" coords="200,29,385,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,64,206,54,207,60,153,69"/>
+<area shape="rect" id="Node000003" href="$cl__particles_8c.html#a16fed15808e5743d5e8c36915eb80452" title=" " alt="" coords="227,103,358,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="153,89,214,99,213,105,152,94"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="258,31,250,21,254,11,269,5,293,3,322,6,334,15,331,20,320,11,293,8,270,10,258,15,255,20,262,28"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="258,104,250,94,254,84,269,78,293,76,322,80,334,89,331,93,320,85,293,81,270,83,258,88,255,94,262,101"/>
+</map>

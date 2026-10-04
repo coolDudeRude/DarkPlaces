@@ -1,0 +1,7 @@
+<map id="SCR_ClearLoadingScreenTexture" name="SCR_ClearLoadingScreenTexture">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,237,55"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="85,31,77,21,81,11,96,5,121,3,152,6,164,15,161,20,150,11,121,8,98,10,85,15,83,20,89,28"/>
+<area shape="rect" id="Node000002" href="$gl__textures_8c.html#ab79bf8e042a462735d6d70f02822d98d" title=" " alt="" coords="285,29,400,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="238,39,272,39,272,45,238,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="307,31,299,21,303,11,318,5,343,3,373,6,386,15,382,20,371,11,343,8,319,10,306,15,304,20,311,28"/>
+</map>

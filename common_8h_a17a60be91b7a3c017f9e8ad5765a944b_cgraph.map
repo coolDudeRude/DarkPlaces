@@ -1,0 +1,13 @@
+<map id="MSG_WriteCoord" name="MSG_WriteCoord">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,137,128"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="40,104,33,94,37,84,50,78,71,76,97,80,108,88,105,92,95,84,71,81,51,83,41,88,39,94,44,101"/>
+<area shape="rect" id="Node000002" href="$com__msg_8c.html#ab4d25ca24ce6ac6a721a8107e516d570" title=" " alt="" coords="186,29,338,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="99,100,184,64,204,56,206,61,186,68,101,105"/>
+<area shape="rect" id="Node001352" href="$com__msg_8c.html#adb1f980681d9e411a00365013ad27797" title=" " alt="" coords="186,103,338,128"/>
+<area shape="poly" id="edge4_Node000001_Node001352" title=" " alt="" coords="137,113,172,113,172,118,137,118"/>
+<area shape="rect" id="Node001353" href="$com__msg_8c.html#a007f05cc26a9e7f72a528127429ea7a0" title=" " alt="" coords="185,176,339,201"/>
+<area shape="poly" id="edge6_Node000001_Node001353" title=" " alt="" coords="106,126,216,168,214,173,104,131"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="231,31,224,21,228,11,241,5,262,3,288,6,299,15,296,19,286,11,262,8,242,10,231,15,229,20,235,28"/>
+<area shape="poly" id="edge5_Node001352_Node001352" title=" " alt="" coords="231,104,224,94,228,84,241,78,262,76,288,80,299,88,296,92,286,84,262,81,242,83,231,88,229,94,235,101"/>
+<area shape="poly" id="edge7_Node001353_Node001353" title=" " alt="" coords="231,177,224,168,228,158,241,152,262,149,288,153,299,162,296,166,286,158,262,155,242,157,231,161,229,167,235,174"/>
+</map>

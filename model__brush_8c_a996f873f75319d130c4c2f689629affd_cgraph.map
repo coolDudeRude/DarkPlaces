@@ -1,0 +1,7 @@
+<map id="Mod_BSP_FindNonSolidLocation" name="Mod_BSP_FindNonSolidLocation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,235,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="75,31,65,21,70,11,89,5,120,3,161,7,172,12,175,18,171,21,168,16,160,12,120,8,90,10,73,15,70,20,78,27"/>
+<area shape="rect" id="Node000002" href="$model__brush_8c.html#a6b48f4e1a7620547b603b553d3b790a4" title=" " alt="" coords="283,29,524,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="235,39,269,39,269,45,235,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="358,31,348,21,353,11,372,5,403,3,444,7,455,12,459,18,454,21,452,16,443,12,403,8,373,10,356,15,353,20,362,27"/>
+</map>

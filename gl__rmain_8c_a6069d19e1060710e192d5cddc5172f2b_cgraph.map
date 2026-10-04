@@ -1,0 +1,13 @@
+<map id="R_HDR_UpdateIrisAdaptation" name="R_HDR_UpdateIrisAdaptation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,217,128"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="73,104,65,94,69,84,85,78,111,76,144,80,157,89,154,94,142,85,111,81,86,83,73,88,70,94,77,101"/>
+<area shape="rect" id="Node000002" href="$cvar_8c.html#a65b55ce35a5bd18e379065651d5d6e15" title=" " alt="" coords="272,29,425,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,100,265,63,289,56,291,61,266,69,152,105"/>
+<area shape="rect" id="Node000282" href="$menudefs_8qc.html#accccfae161879454243b3a8695a9bf3b" title=" " alt="" coords="323,103,374,128"/>
+<area shape="poly" id="edge3_Node000001_Node000282" title=" " alt="" coords="218,113,310,113,310,118,218,118"/>
+<area shape="rect" id="Node000534" href="$r__shadow_8c.html#af9aa50577998ce10555d0ad5b39fb5e5" title=" " alt="" coords="265,176,432,201"/>
+<area shape="poly" id="edge5_Node000001_Node000534" title=" " alt="" coords="154,126,294,169,293,174,153,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="311,31,302,21,307,11,322,5,349,3,382,7,394,16,391,20,380,11,349,8,324,10,310,15,307,20,314,27"/>
+<area shape="poly" id="edge4_Node000282_Node000282" title=" " alt="" coords="322,110,305,99,304,87,319,79,349,76,374,78,390,84,395,93,389,103,384,100,390,93,387,88,373,83,349,81,321,84,308,90,309,97,325,106"/>
+<area shape="poly" id="edge6_Node000534_Node000534" title=" " alt="" coords="311,178,302,168,307,158,322,152,349,149,382,153,394,163,391,167,380,158,349,155,324,157,310,162,307,167,314,174"/>
+</map>

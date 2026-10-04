@@ -1,0 +1,11 @@
+<map id="client.h" name="client.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="81,5,152,31"/>
+<area shape="rect" id="Node000002" href="$cap__ogg_8c.html" title=" " alt="" coords="5,152,92,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,41,74,59,60,80,51,118,50,152,45,152,45,118,56,78,70,56,88,38"/>
+<area shape="rect" id="Node000003" href="$cl__video__libavw_8c.html" title=" " alt="" coords="125,152,261,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="144,37,162,56,178,77,191,117,195,151,190,152,186,118,173,80,158,59,141,41"/>
+<area shape="rect" id="Node000004" href="$quakedef_8h.html" title=" " alt="" coords="70,79,163,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="119,44,119,79,114,79,114,44"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="98,116,62,154,58,150,94,112"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="141,111,182,150,178,154,137,115"/>
+</map>

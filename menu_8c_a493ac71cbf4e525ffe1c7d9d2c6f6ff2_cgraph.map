@@ -1,0 +1,16 @@
+<map id="M_Quit_Draw" name="M_Quit_Draw">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,140,115,165"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="32,141,26,132,30,122,41,116,60,113,83,117,92,125,89,129,80,122,60,119,43,121,34,125,32,131,37,138"/>
+<area shape="rect" id="Node000002" href="$menu_8c.html#a196751e0732612af8dad4a3dabced0f5" title=" " alt="" coords="167,29,285,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,138,110,102,161,64,172,58,174,63,164,68,113,106,75,142"/>
+<area shape="rect" id="Node001352" href="$menu_8c.html#aaff53519fb17a039c36b30e573d715be" title=" " alt="" coords="163,103,289,128"/>
+<area shape="poly" id="edge3_Node000001_Node001352" title=" " alt="" coords="114,138,155,129,156,134,115,143"/>
+<area shape="rect" id="Node001354" href="$menu_8c.html#a90ea0ae04890d4b1b60cf35b5592fe87" title=" " alt="" coords="191,176,261,201"/>
+<area shape="poly" id="edge5_Node000001_Node001354" title=" " alt="" coords="115,162,178,176,176,181,114,167"/>
+<area shape="rect" id="Node000032" href="$menudefs_8qc.html#a274680f571a231ddf29421b93d434bfa" title=" " alt="" coords="197,249,255,275"/>
+<area shape="poly" id="edge8_Node000001_Node000032" title=" " alt="" coords="82,163,195,239,193,244,79,168"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="198,31,192,21,196,11,207,5,226,3,249,6,258,15,255,19,246,11,226,8,209,10,200,15,198,20,203,28"/>
+<area shape="poly" id="edge4_Node001352_Node001352" title=" " alt="" coords="198,104,192,94,196,85,207,78,226,76,249,79,258,88,255,92,246,84,226,81,209,83,200,88,198,94,203,101"/>
+<area shape="poly" id="edge6_Node001354_Node001354" title=" " alt="" coords="198,177,192,168,196,158,207,152,226,149,249,153,258,161,255,165,246,158,226,155,209,157,200,161,198,167,203,174"/>
+<area shape="poly" id="edge9_Node000032_Node000032" title=" " alt="" coords="198,251,192,241,196,231,207,225,226,223,249,226,258,235,255,239,246,231,226,228,209,230,200,235,198,240,203,248"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="entity" name="entity">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,53,65,78"/>
+<area shape="rect" id="Node000002" href="$csprogsdefs_8qc.html#acbb54a239d76062465dccbc6a6c6e464" title=" " alt="" coords="280,53,340,78"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="50,51,77,30,112,14,146,5,173,3,200,5,233,14,261,26,285,42,282,46,258,31,231,19,199,11,173,8,147,11,114,19,80,35,53,55"/>
+<area shape="rect" id="Node000004" href="$menudefs_8qc.html#a0cc8b1ede41f91bf0c08a2934e14543a" title=" " alt="" coords="113,53,232,78"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="66,63,99,63,99,68,66,68"/>
+<area shape="rect" id="Node000005" href="$menudefs_8qc.html#a383c15fa728b566e1b925092ec618b1d" title=" " alt="" coords="117,126,228,152"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="61,76,137,118,135,122,59,81"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="287,54,282,45,284,35,294,29,310,26,329,30,337,38,333,42,326,35,310,32,296,34,289,38,287,44,291,52"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="232,63,266,63,266,68,232,68"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="149,54,145,45,147,35,157,29,173,26,191,30,200,38,196,42,189,35,173,32,159,34,151,38,150,44,154,52"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="196,124,272,83,275,87,199,129"/>
+<area shape="poly" id="edge8_Node000005_Node000005" title=" " alt="" coords="149,128,145,118,147,109,157,102,173,100,191,103,200,111,196,115,189,108,173,105,159,107,151,112,150,117,154,125"/>
+</map>

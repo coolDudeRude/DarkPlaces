@@ -1,0 +1,9 @@
+<map id="oggpack_buffer" name="oggpack_buffer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="61,121,184,147"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,56,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="36,44,44,70,58,96,73,109,91,119,88,124,70,113,54,99,39,72,31,45"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="103,5,142,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="125,45,125,121,120,121,120,45"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="166,5,247,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="204,45,195,72,179,99,165,113,149,123,146,119,162,109,175,96,190,70,199,44"/>
+</map>

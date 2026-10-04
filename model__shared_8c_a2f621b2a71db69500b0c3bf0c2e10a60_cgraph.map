@@ -1,0 +1,10 @@
+<map id="Mod_GenerateLightmaps_LightPoint" name="Mod_GenerateLightmaps_LightPoint">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,59,191,99"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="54,60,52,50,59,40,74,35,98,33,125,36,140,43,138,48,124,41,98,38,75,40,62,45,57,51,59,58"/>
+<area shape="rect" id="Node000002" href="$r__shadow_8c.html#a50c834f5bd9d9a7195c3c89d359c0f44" title=" " alt="" coords="239,29,431,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="190,62,240,54,241,59,191,67"/>
+<area shape="rect" id="Node000005" href="$menudefs_8qc.html#a83f4d3f317a80e82e6b16ea61ea5efc3" title=" " alt="" coords="311,103,358,128"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="191,91,298,107,297,113,190,96"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="297,31,288,21,293,11,308,5,335,3,368,7,380,16,377,20,366,11,335,8,310,10,296,15,293,20,300,27"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="310,111,291,100,289,88,305,79,335,76,361,78,377,84,381,95,372,105,369,101,376,94,373,88,360,83,335,81,306,84,294,90,296,97,312,106"/>
+</map>

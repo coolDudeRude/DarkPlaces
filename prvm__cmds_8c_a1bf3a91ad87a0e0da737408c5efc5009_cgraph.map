@@ -1,0 +1,13 @@
+<map id="BufStr_Set" name="BufStr_Set">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,96,128"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="25,104,20,94,22,85,33,78,51,76,72,79,81,88,77,92,69,84,51,81,35,83,27,88,25,94,30,101"/>
+<area shape="rect" id="Node000002" href="$prvm__cmds_8c.html#a34f16e1849fc4e96fef020c1df1348d4" title=" " alt="" coords="144,29,261,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,100,143,64,156,58,158,62,145,68,76,105"/>
+<area shape="rect" id="Node000003" href="$prvm__cmds_8c.html#aaeff814fa5d91f7496811b2b2e0347d8" title=" " alt="" coords="147,103,258,128"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="96,113,134,113,134,118,96,118"/>
+<area shape="rect" id="Node000004" href="$menudefs_8qc.html#a274680f571a231ddf29421b93d434bfa" title=" " alt="" coords="173,176,232,201"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="79,126,164,168,162,172,77,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="177,31,172,21,174,11,185,5,203,3,224,6,233,15,229,19,221,11,203,8,187,10,179,15,177,20,182,28"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="177,104,172,94,174,85,185,78,203,76,224,79,233,88,229,92,221,84,203,81,187,83,179,88,177,94,182,101"/>
+<area shape="poly" id="edge7_Node000004_Node000004" title=" " alt="" coords="177,177,172,168,174,158,185,152,203,149,224,153,233,161,229,165,221,158,203,155,187,157,179,161,177,167,182,175"/>
+</map>

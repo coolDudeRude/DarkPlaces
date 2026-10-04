@@ -1,0 +1,13 @@
+<map id="S_UnblockSound" name="S_UnblockSound">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,136,128"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="39,104,32,94,36,84,49,78,71,76,97,80,108,88,105,92,95,84,71,81,50,83,40,88,37,94,43,101"/>
+<area shape="rect" id="Node000002" href="$snd__main_8c.html#aba78cd895e8d3e084b8d8fb5c7cbee4a" title=" " alt="" coords="184,29,344,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,100,183,64,204,56,206,61,185,68,100,105"/>
+<area shape="rect" id="Node000003" href="$snd__main_8c.html#a8b141b28c95db2a2b26f8c7793ec6055" title=" " alt="" coords="199,103,329,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="136,113,185,113,185,118,136,118"/>
+<area shape="rect" id="Node000004" href="$snd__main_8c.html#ae5ab13f608f1b585b813275580f8d1f2" title=" " alt="" coords="195,176,333,201"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="106,126,218,168,216,173,104,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="232,31,226,21,229,11,242,5,264,3,290,6,301,15,298,19,288,11,264,8,244,10,233,15,231,20,237,28"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="232,104,226,94,229,84,242,78,264,76,290,80,301,88,298,92,288,84,264,81,244,83,233,88,231,94,237,101"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="232,177,226,168,229,158,242,152,264,149,290,153,301,162,298,166,288,158,264,155,244,157,233,161,231,167,237,174"/>
+</map>

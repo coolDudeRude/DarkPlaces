@@ -1,0 +1,9 @@
+<map id="zymscene_t" name="zymscene_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="57,161,157,187"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,56,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="33,44,39,89,47,113,58,136,70,149,84,159,81,163,67,153,54,139,42,115,34,90,28,45"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="81,5,132,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="109,44,109,161,104,161,104,44"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="191,5,230,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="213,45,206,91,197,116,183,139,167,154,148,164,145,159,164,149,179,136,192,114,201,90,208,44"/>
+</map>

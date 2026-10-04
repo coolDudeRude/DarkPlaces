@@ -1,0 +1,10 @@
+<map id="S_StartSound" name="S_StartSound">
+<area shape="rect" id="Node000001" title="S_StartSound returns the channel index, or &#45;1 if an error occurred." alt="" coords="5,55,113,80"/>
+<area shape="rect" id="Node000002" href="$snd__main_8c.html#a418d13b1c4fe19c2ef0ed171ae339426" title="S_StartSound returns the channel index, or &#45;1 if an error occurred." alt="" coords="161,29,269,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,56,147,50,148,56,114,61"/>
+<area shape="rect" id="Node000003" href="$snd__main_8c.html#ad56de949b850b4f9ea9b419e5ba6b553" title=" " alt="" coords="317,47,516,87"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="113,65,304,65,304,70,113,70"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="189,31,184,21,187,11,198,5,215,3,237,6,246,15,242,19,234,11,215,8,199,10,191,15,189,20,194,28"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="270,46,304,50,303,56,269,51"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="379,48,377,38,383,29,396,23,417,21,440,24,453,31,450,36,438,29,417,26,398,28,386,33,382,39,384,46"/>
+</map>

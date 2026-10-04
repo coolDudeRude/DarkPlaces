@@ -1,0 +1,16 @@
+<map id="colbrushf_t" name="colbrushf_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="181,415,275,440"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="40,5,115,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="63,43,47,71,35,102,18,165,9,216,9,240,12,265,34,323,47,342,62,359,100,385,142,403,181,415,180,420,140,408,97,390,59,363,42,345,30,325,7,266,3,240,3,215,13,164,30,101,42,68,58,41"/>
+<area shape="rect" id="Node000007" href="$structcolpointf__t.html" title=" " alt="" coords="89,200,180,225"/>
+<area shape="poly" id="edge7_Node000007_Node000002" title=" " alt="" coords="87,43,134,199,129,200,82,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="235,5,274,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="252,44,243,102,235,196,232,288,231,414,225,414,226,287,230,195,237,101,247,44"/>
+<area shape="rect" id="Node000004" href="$structcolplanef__t.html" title=" " alt="" coords="359,200,454,225"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="277,39,314,75,342,100,380,154,404,199,399,201,375,156,338,103,310,79,273,42"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="397,239,374,281,342,326,291,378,245,417,241,413,287,375,338,322,369,278,393,236"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="374,5,549,31"/>
+<area shape="poly" id="edge8_Node000001_Node000005" title=" " alt="" coords="481,41,487,54,488,66,487,77,490,148,496,206,496,233,493,261,484,291,468,325,451,349,430,369,406,385,379,398,325,416,276,425,275,420,324,411,377,393,403,381,426,365,447,346,463,323,479,289,487,260,491,232,490,206,484,149,481,77,483,66,481,55,476,43"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="440,42,430,56,417,95,410,136,409,200,403,200,405,135,412,94,426,53,435,39"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="131,239,126,272,124,311,130,352,146,389,162,404,182,414,179,419,159,408,142,392,124,354,119,312,120,271,126,238"/>
+</map>

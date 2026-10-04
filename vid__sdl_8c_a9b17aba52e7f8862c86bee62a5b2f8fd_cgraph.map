@@ -1,0 +1,10 @@
+<map id="VID_Shutdown" name="VID_Shutdown">
+<area shape="rect" id="Node000001" title="Called at shutdown." alt="" coords="5,67,121,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="34,68,27,58,31,49,43,42,63,40,88,44,98,52,95,56,86,48,63,45,44,47,35,52,33,58,38,65"/>
+<area shape="rect" id="Node000002" href="$vid__sdl_8c.html#a070dc7041cf50a933dd5fb88c16bf273" title=" " alt="" coords="169,29,316,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,65,167,55,168,60,122,70"/>
+<area shape="rect" id="Node001349" href="$vid__sdl_8c.html#ae5e112b5e197390b997ec09fbb387136" title=" " alt="" coords="185,103,301,128"/>
+<area shape="poly" id="edge3_Node000001_Node001349" title=" " alt="" coords="122,88,172,98,170,104,121,94"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="213,31,207,21,210,11,222,5,243,3,267,6,278,15,274,19,265,11,243,8,224,10,214,15,212,20,217,28"/>
+<area shape="poly" id="edge4_Node001349_Node001349" title=" " alt="" coords="213,104,207,94,210,85,222,78,243,76,267,80,278,88,274,92,265,84,243,81,224,83,214,88,212,94,217,101"/>
+</map>

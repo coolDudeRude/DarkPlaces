@@ -1,0 +1,17 @@
+<map id="LinkVideoTexture" name="LinkVideoTexture">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,117,140,143"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="39,119,32,109,36,99,50,93,73,91,101,94,112,104,109,108,99,99,73,96,51,98,40,103,37,108,44,116"/>
+<area shape="rect" id="Node000002" href="$gl__draw_8c.html#abd0658fb0a72d565561f196b380026cb" title=" " alt="" coords="201,29,354,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,115,187,72,225,57,227,62,189,76,99,120"/>
+<area shape="rect" id="Node000320" href="$gl__draw_8c.html#a5ca44c80b6d3008618eb534abbd056b7" title=" " alt="" coords="415,155,525,180"/>
+<area shape="poly" id="edge3_Node000001_Node000320" title=" " alt="" coords="140,115,247,105,308,107,367,115,405,128,438,145,436,150,403,133,366,121,307,112,247,110,140,120"/>
+<area shape="rect" id="Node001348" href="$gl__textures_8c.html#a25f71b614773cdfbc85c0f70615298f2" title=" " alt="" coords="188,155,367,180"/>
+<area shape="poly" id="edge6_Node000001_Node001348" title=" " alt="" coords="141,140,194,150,193,155,140,145"/>
+<area shape="rect" id="Node001349" href="$cl__video_8c.html#a2f27905ad2d14e6922ab4443ea5cfb90" title=" " alt="" coords="196,228,359,253"/>
+<area shape="poly" id="edge8_Node000001_Node001349" title=" " alt="" coords="98,140,242,219,239,224,96,145"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="246,31,239,21,242,11,256,5,277,3,304,6,315,15,311,19,302,11,277,8,257,10,246,15,244,20,250,28"/>
+<area shape="poly" id="edge4_Node000320_Node000320" title=" " alt="" coords="438,156,432,146,435,136,448,130,470,128,496,132,507,140,504,144,494,136,470,133,450,135,439,140,437,146,443,153"/>
+<area shape="poly" id="edge7_Node001348_Node001348" title=" " alt="" coords="246,156,239,146,242,136,256,130,277,128,304,132,315,140,311,144,302,136,277,133,257,135,246,140,244,146,250,153"/>
+<area shape="poly" id="edge9_Node001349_Node000320" title=" " alt="" coords="311,225,422,183,424,188,313,230"/>
+<area shape="poly" id="edge10_Node001349_Node001349" title=" " alt="" coords="246,229,239,220,242,210,256,204,277,201,304,205,315,214,311,218,302,210,277,207,257,209,246,213,244,219,250,226"/>
+</map>

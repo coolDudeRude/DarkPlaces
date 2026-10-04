@@ -1,0 +1,13 @@
+<map id="W_ConvertWAD3TextureBGRA" name="W_ConvertWAD3TextureBGRA">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,223,128"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="76,104,68,94,72,84,88,78,114,76,147,80,160,89,156,94,145,85,114,81,89,83,75,88,73,94,80,101"/>
+<area shape="rect" id="Node000002" href="$com__msg_8c.html#a028e648d66793e5f7add2bfd801a3a07" title=" " alt="" coords="274,29,423,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,100,270,63,293,56,295,61,271,69,156,105"/>
+<area shape="rect" id="Node000003" href="$com__msg_8c.html#a4dad1f08fe43f599ea024f527edac678" title=" " alt="" coords="284,103,413,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="223,113,270,113,270,118,223,118"/>
+<area shape="rect" id="Node000004" href="$com__msg_8c.html#a9bfb753f583f2009b3ca2e91a127a847" title=" " alt="" coords="271,176,427,201"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="157,126,295,169,293,174,155,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="311,31,302,21,307,11,322,5,349,3,382,7,394,16,391,20,380,11,349,8,324,10,310,15,307,20,314,27"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="311,104,302,94,307,84,322,78,349,76,382,80,394,89,391,94,380,85,349,81,324,83,310,88,307,94,314,101"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="311,178,302,168,307,158,322,152,349,149,382,153,394,163,391,167,380,158,349,155,324,157,310,162,307,167,314,174"/>
+</map>

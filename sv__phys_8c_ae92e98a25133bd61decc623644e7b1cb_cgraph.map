@@ -1,0 +1,30 @@
+<map id="SV_PushEntity" name="SV_PushEntity">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,233,120,258"/>
+<area shape="poly" id="edge14_Node000001_Node000001" title=" " alt="" coords="26,235,18,225,22,215,37,208,63,206,95,210,107,220,103,224,93,215,63,212,38,214,26,218,23,224,30,231"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#a49b71fe9a87e57a440e07af4a869a9f6" title="Prints to all appropriate console targets." alt="" coords="461,270,551,296"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="64,232,73,194,91,142,122,89,142,66,167,47,232,15,262,6,292,3,321,5,351,13,382,27,415,47,439,68,458,93,474,121,485,151,500,209,506,256,501,256,495,210,480,152,469,124,454,96,435,72,412,52,380,32,349,18,320,10,292,8,263,11,234,20,169,52,146,70,126,92,96,144,78,196,69,234"/>
+<area shape="rect" id="Node001351" href="$sv__phys_8c.html#a50467ff3df4ef36847a93af296c57d2c" title="calculates hitsupercontentsmask for a generic qc entity" alt="" coords="168,86,413,112"/>
+<area shape="poly" id="edge3_Node000001_Node001351" title=" " alt="" coords="69,231,105,177,133,146,167,121,179,114,182,119,169,125,137,150,109,180,73,234"/>
+<area shape="rect" id="Node001352" href="$sv__phys_8c.html#a3c41f5e3ee444767a3387646d870d516" title=" " alt="" coords="245,160,336,185"/>
+<area shape="poly" id="edge5_Node000001_Node001352" title=" " alt="" coords="86,230,123,212,167,194,231,178,232,183,169,199,125,216,88,235"/>
+<area shape="rect" id="Node001235" href="$sv__phys_8c.html#a7c9f31122176959d30eba9f864f843ef" title=" " alt="" coords="238,233,343,258"/>
+<area shape="poly" id="edge8_Node000001_Node001235" title=" " alt="" coords="120,243,224,243,224,248,120,248"/>
+<area shape="rect" id="Node001354" href="$sv__phys_8c.html#afde235834ab0ac8d11bb81b9e14cff61" title=" " alt="" coords="187,306,394,332"/>
+<area shape="poly" id="edge11_Node000001_Node001354" title=" " alt="" coords="104,256,238,300,237,305,102,261"/>
+<area shape="rect" id="Node001356" href="$sv__phys_8c.html#af0c162bba7ef44fcfa201affd5c853ee" title="traces a box move against worldmodel and all entities in the specified area" alt="" coords="238,380,343,405"/>
+<area shape="poly" id="edge15_Node000001_Node001356" title=" " alt="" coords="77,257,116,297,169,341,202,358,236,372,234,377,200,363,167,345,112,301,73,260"/>
+<area shape="rect" id="Node001358" href="$sv__phys_8c.html#aedf2db2747e32ab6a9c505e4f3cd7385" title=" " alt="" coords="224,453,357,478"/>
+<area shape="poly" id="edge18_Node000001_Node001358" title=" " alt="" coords="71,258,105,331,134,375,170,414,197,432,226,446,224,451,194,437,166,418,129,378,100,333,66,260"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="471,272,464,262,467,252,482,246,506,244,536,247,547,256,544,261,534,252,506,249,483,251,471,256,469,261,475,269"/>
+<area shape="poly" id="edge4_Node001351_Node001351" title=" " alt="" coords="256,88,248,78,252,68,267,62,291,60,320,63,332,72,329,77,318,68,291,65,268,67,256,72,253,77,260,85"/>
+<area shape="poly" id="edge6_Node001352_Node000002" title=" " alt="" coords="337,172,375,180,415,194,456,224,488,257,484,261,453,228,412,199,374,185,336,178"/>
+<area shape="poly" id="edge7_Node001352_Node001352" title=" " alt="" coords="256,161,248,151,252,141,267,135,291,133,320,137,332,146,329,150,318,142,291,138,268,140,256,145,253,151,260,158"/>
+<area shape="poly" id="edge9_Node001235_Node000002" title=" " alt="" coords="344,252,448,270,447,276,343,257"/>
+<area shape="poly" id="edge10_Node001235_Node001235" title=" " alt="" coords="256,235,248,225,252,215,267,208,291,206,320,210,332,219,329,223,318,215,291,212,268,214,256,218,253,224,260,231"/>
+<area shape="poly" id="edge12_Node001354_Node000002" title=" " alt="" coords="367,304,448,290,448,295,367,309"/>
+<area shape="poly" id="edge13_Node001354_Node001354" title=" " alt="" coords="256,308,248,298,252,288,267,282,291,280,320,283,332,292,329,297,318,288,291,285,268,287,256,292,253,297,260,305"/>
+<area shape="poly" id="edge16_Node001356_Node000002" title=" " alt="" coords="327,377,412,341,475,302,477,306,415,345,329,382"/>
+<area shape="poly" id="edge17_Node001356_Node001356" title=" " alt="" coords="256,381,248,371,252,361,267,355,291,353,320,357,332,366,329,370,318,362,291,358,268,360,256,365,253,371,260,378"/>
+<area shape="poly" id="edge19_Node001358_Node000002" title=" " alt="" coords="340,450,377,436,412,414,437,389,459,360,491,307,496,309,464,363,441,393,415,418,379,440,342,455"/>
+<area shape="poly" id="edge20_Node001358_Node001358" title=" " alt="" coords="256,455,248,445,252,435,267,428,291,426,320,430,332,439,329,443,318,435,291,432,268,434,256,438,253,444,260,451"/>
+</map>

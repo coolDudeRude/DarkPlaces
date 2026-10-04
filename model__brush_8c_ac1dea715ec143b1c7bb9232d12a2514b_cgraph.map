@@ -1,0 +1,7 @@
+<map id="RemovePortalFromNodes" name="RemovePortalFromNodes">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,193,55"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="68,31,62,21,65,11,78,5,99,3,125,6,136,15,132,19,123,11,99,8,80,10,69,15,67,20,73,28"/>
+<area shape="rect" id="Node000002" href="$host_8c.html#a6207a721d43b13be42aa21a2bb4d3350" title=" " alt="" coords="241,29,332,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,39,227,39,227,45,194,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="256,31,249,21,253,11,265,5,287,3,312,6,323,15,320,19,310,11,287,8,267,10,257,15,254,20,260,28"/>
+</map>

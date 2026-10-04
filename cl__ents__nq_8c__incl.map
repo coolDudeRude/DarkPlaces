@@ -1,0 +1,8 @@
+<map id="cl_ents_nq.c" name="cl_ents_nq.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="42,5,145,31"/>
+<area shape="rect" id="Node000002" href="$quakedef_8h.html" title=" " alt="" coords="5,79,99,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,32,68,68,63,65,84,30"/>
+<area shape="rect" id="Node000044" href="$protocol_8h.html" title=" " alt="" coords="50,152,137,177"/>
+<area shape="poly" id="edge3_Node000001_Node000044" title=" " alt="" coords="100,30,113,78,113,110,105,140,100,138,107,110,108,79,95,32"/>
+<area shape="poly" id="edge2_Node000002_Node000044" title=" " alt="" coords="61,103,82,139,77,141,57,106"/>
+</map>

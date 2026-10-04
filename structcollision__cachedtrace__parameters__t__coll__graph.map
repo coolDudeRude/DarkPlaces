@@ -1,0 +1,13 @@
+<map id="collision_cachedtrace_parameters_t" name="collision_cachedtrace_parameters_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="253,435,416,475"/>
+<area shape="rect" id="Node000002" href="$structmodel__t.html" title=" " alt="" coords="220,320,295,345"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="272,356,304,409,321,433,317,436,299,412,268,359"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="33,5,71,31"/>
+<area shape="poly" id="edge5_Node000001_Node000009" title=" " alt="" coords="45,44,26,106,10,190,8,235,13,280,25,323,46,362,59,374,78,386,130,406,192,423,254,437,253,442,191,429,128,411,75,390,55,379,42,366,20,325,7,281,3,235,5,189,20,105,40,43"/>
+<area shape="poly" id="edge2_Node000002_Node000009" title=" " alt="" coords="53,45,52,101,53,170,60,234,67,259,77,276,90,287,103,294,131,295,162,293,200,299,240,317,237,322,198,304,162,298,131,301,102,299,87,292,73,279,62,261,55,235,48,170,46,101,48,44"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="276,5,351,31"/>
+<area shape="poly" id="edge4_Node000001_Node000011" title=" " alt="" coords="343,39,353,53,372,105,384,149,388,190,387,229,374,310,353,411,346,435,341,434,348,410,369,309,382,229,383,190,378,150,367,106,348,56,339,42"/>
+<area shape="poly" id="edge3_Node000002_Node000011" title=" " alt="" coords="276,40,261,56,246,91,238,129,235,168,236,206,245,274,256,319,251,320,240,275,231,207,230,168,233,129,241,90,256,53,272,36"/>
+<area shape="rect" id="Node000027" href="$structmatrix4x4__t.html" title=" " alt="" coords="432,320,533,345"/>
+<area shape="poly" id="edge6_Node000001_Node000027" title=" " alt="" coords="460,356,390,413,360,436,357,432,386,409,456,352"/>
+</map>

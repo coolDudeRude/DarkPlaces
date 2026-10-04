@@ -1,0 +1,7 @@
+<map id="lightstyle_t" name="lightstyle_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="17,101,112,127"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,44,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="24,44,24,61,28,76,37,89,48,99,45,103,33,92,24,78,19,62,18,45"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="79,5,130,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="97,45,72,102,67,100,92,42"/>
+</map>

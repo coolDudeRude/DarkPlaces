@@ -1,0 +1,7 @@
+<map id="R_Mod_DrawPrepass" name="R_Mod_DrawPrepass">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,164,55"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="50,31,43,21,47,11,61,5,85,3,114,6,126,15,122,20,112,11,85,8,62,10,50,15,48,20,54,28"/>
+<area shape="rect" id="Node000002" href="$gl__rmain_8c.html#ab460509c90a5b88d4e001f2e2ffb4e82" title=" " alt="" coords="212,29,380,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,39,198,39,198,45,164,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="261,31,254,21,258,11,272,5,296,3,325,6,337,15,334,20,323,11,296,8,274,10,262,15,259,20,266,28"/>
+</map>

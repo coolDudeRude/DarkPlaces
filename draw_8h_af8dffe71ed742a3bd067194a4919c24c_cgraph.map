@@ -1,0 +1,10 @@
+<map id="DrawQ_ResetClipArea" name="DrawQ_ResetClipArea">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,171,92"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="56,68,50,58,53,48,66,42,88,40,114,44,125,52,122,56,112,48,88,45,68,47,57,52,55,58,61,65"/>
+<area shape="rect" id="Node000002" href="$gl__draw_8c.html#a3cc1a78c06a6c753f6060d858544b976" title=" " alt="" coords="219,29,341,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,64,204,54,205,59,154,69"/>
+<area shape="rect" id="Node000150" href="$gl__backend_8c.html#afcd11176eb800025a810aa2a17f4be6a" title=" " alt="" coords="221,103,339,128"/>
+<area shape="poly" id="edge4_Node000001_Node000150" title=" " alt="" coords="157,89,207,99,206,104,156,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="248,31,242,21,245,11,258,5,280,3,306,6,317,15,314,19,304,11,280,8,260,10,249,15,247,20,253,28"/>
+<area shape="poly" id="edge5_Node000150_Node000150" title=" " alt="" coords="248,104,242,94,245,84,258,78,280,76,306,80,317,88,314,92,304,84,280,81,260,83,249,88,247,94,253,101"/>
+</map>

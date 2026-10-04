@@ -1,0 +1,16 @@
+<map id="PRVM_UpdateBreakpoints" name="PRVM_UpdateBreakpoints">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,140,197,165"/>
+<area shape="poly" id="edge9_Node000001_Node000001" title=" " alt="" coords="64,142,56,132,60,122,76,116,101,113,134,117,146,127,143,131,132,122,101,119,77,121,64,126,61,131,68,138"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#a49b71fe9a87e57a440e07af4a869a9f6" title="Prints to all appropriate console targets." alt="" coords="288,29,377,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,138,173,101,244,64,274,53,276,58,246,68,176,106,122,142"/>
+<area shape="rect" id="Node001224" href="$prvm__edict_8c.html#a97dc38254db3ddd444d43693753f92a2" title=" " alt="" coords="257,103,408,128"/>
+<area shape="poly" id="edge3_Node000001_Node001224" title=" " alt="" coords="180,137,243,127,244,132,181,143"/>
+<area shape="rect" id="Node001178" href="$prvm__edict_8c.html#a4ca56e4f77a831d22203aae87038ffb9" title=" " alt="" coords="245,176,420,201"/>
+<area shape="poly" id="edge5_Node000001_Node001178" title=" " alt="" coords="184,163,238,171,237,176,183,168"/>
+<area shape="rect" id="Node001232" href="$prvm__edict_8c.html#a3989aaa1ab9c8dda916eb244f6e55c7f" title=" " alt="" coords="252,249,413,275"/>
+<area shape="poly" id="edge7_Node000001_Node001232" title=" " alt="" coords="130,163,294,241,291,246,128,168"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="295,31,287,21,291,11,307,5,333,3,365,7,377,16,374,20,363,11,333,8,308,10,295,15,292,20,299,27"/>
+<area shape="poly" id="edge4_Node001224_Node001224" title=" " alt="" coords="295,104,287,94,291,84,307,78,333,76,365,80,377,89,374,94,363,85,333,81,308,83,295,88,292,94,299,101"/>
+<area shape="poly" id="edge6_Node001178_Node001178" title=" " alt="" coords="295,178,287,168,291,158,307,152,333,149,365,153,377,163,374,167,363,158,333,155,308,157,295,162,292,167,299,174"/>
+<area shape="poly" id="edge8_Node001232_Node001232" title=" " alt="" coords="295,251,287,241,291,231,307,225,333,223,365,227,377,236,374,240,363,231,333,228,308,230,295,235,292,240,299,247"/>
+</map>

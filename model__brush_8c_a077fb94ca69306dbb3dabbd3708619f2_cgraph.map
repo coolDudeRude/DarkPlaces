@@ -1,0 +1,7 @@
+<map id="Mod_BSP_LightPoint" name="Mod_BSP_LightPoint">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,160,62"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="49,38,42,28,46,18,60,12,83,10,111,14,122,23,119,27,109,19,83,15,61,17,50,22,47,28,54,35"/>
+<area shape="rect" id="Node000002" href="$model__brush_8c.html#aa31d234f5c886423c8b64af46d081421" title=" " alt="" coords="208,29,363,69"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="160,47,194,47,194,52,160,52"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="247,30,245,20,251,11,265,5,285,3,309,6,322,13,319,18,307,11,285,8,266,10,254,15,250,21,252,28"/>
+</map>

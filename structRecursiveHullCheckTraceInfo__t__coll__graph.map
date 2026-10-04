@@ -1,0 +1,10 @@
+<map id="RecursiveHullCheckTraceInfo_t" name="RecursiveHullCheckTraceInfo_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,295,228,320"/>
+<area shape="rect" id="Node000002" href="$structhull__t.html" title=" " alt="" coords="10,180,69,205"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="46,218,53,244,67,269,80,282,95,292,92,297,76,286,63,272,48,246,41,219"/>
+<area shape="rect" id="Node000008" href="$structtrace__t.html" title=" " alt="" coords="179,180,246,205"/>
+<area shape="poly" id="edge2_Node000001_Node000008" title=" " alt="" coords="196,218,129,296,125,293,192,214"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="105,5,171,31"/>
+<area shape="poly" id="edge4_Node000001_Node000010" title=" " alt="" coords="139,45,120,295,115,294,133,44"/>
+<area shape="poly" id="edge3_Node000008_Node000010" title=" " alt="" coords="151,43,210,179,205,181,146,45"/>
+</map>

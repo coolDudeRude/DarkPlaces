@@ -1,0 +1,7 @@
+<map id="M_ChooseQuitMessage" name="M_ChooseQuitMessage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,180,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="60,31,53,21,57,11,70,5,93,3,120,6,131,15,128,19,118,11,93,8,72,10,61,15,58,20,64,28"/>
+<area shape="rect" id="Node000002" href="$menu_8c.html#aad952624ad1a060252d82c3ff49c885b" title=" " alt="" coords="228,29,355,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="181,39,214,39,214,45,181,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="259,31,252,21,255,11,269,5,291,3,318,6,330,15,326,19,316,11,291,8,270,10,259,15,257,20,263,28"/>
+</map>

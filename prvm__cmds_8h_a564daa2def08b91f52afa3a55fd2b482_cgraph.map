@@ -1,0 +1,14 @@
+<map id="VM_infoget" name="VM_infoget">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,101,105"/>
+<area shape="poly" id="edge8_Node000001_Node000001" title=" " alt="" coords="24,81,18,72,21,62,33,56,53,53,78,57,88,66,84,70,75,62,53,59,35,61,25,65,23,71,28,78"/>
+<area shape="rect" id="Node000002" href="$com__infostring_8c.html#aa001d512a0f3228d202a4c8b47aa7984" title="Returns the number of bytes written to *value excluding the \0 terminator." alt="" coords="155,29,305,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,77,171,56,173,61,99,82"/>
+<area shape="rect" id="Node000029" href="$menudefs_8qc.html#a274680f571a231ddf29421b93d434bfa" title=" " alt="" coords="359,55,417,80"/>
+<area shape="poly" id="edge7_Node000001_Node000029" title=" " alt="" coords="101,86,345,68,345,73,102,92"/>
+<area shape="rect" id="Node001102" href="$prvm__edict_8c.html#a1d2244b6253cecef732afeb0bf1d393f" title="Takes an strlen (not a buffer size)." alt="" coords="149,155,311,180"/>
+<area shape="poly" id="edge5_Node000001_Node001102" title=" " alt="" coords="86,103,188,147,186,152,84,108"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="203,31,198,21,201,11,212,5,230,3,252,6,261,15,257,19,249,11,230,8,214,10,205,15,203,20,208,28"/>
+<area shape="poly" id="edge3_Node000002_Node000029" title=" " alt="" coords="306,51,345,58,344,63,305,57"/>
+<area shape="poly" id="edge4_Node000029_Node000029" title=" " alt="" coords="361,56,356,46,359,37,370,30,388,28,410,31,419,40,415,44,407,36,388,33,372,35,363,40,361,46,366,53"/>
+<area shape="poly" id="edge6_Node001102_Node001102" title=" " alt="" coords="203,156,198,146,201,137,212,130,230,128,252,131,261,140,257,144,249,136,230,133,214,135,205,140,203,146,208,153"/>
+</map>

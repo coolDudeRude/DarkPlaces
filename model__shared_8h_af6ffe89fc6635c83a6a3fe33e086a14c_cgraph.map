@@ -1,0 +1,21 @@
+<map id="Mod_CollisionBIH_TracePoint_Mesh" name="Mod_CollisionBIH_TracePoint_Mesh">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,243,257,268"/>
+<area shape="rect" id="Node000002" href="$model__alias_8c.html#a11050e6c5c4cb4aadd76c62a1ed0b5ac" title=" " alt="" coords="376,29,487,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,241,162,205,199,157,247,107,275,84,304,65,332,53,362,45,363,50,334,58,307,70,278,89,251,111,203,160,166,208,143,244"/>
+<area shape="rect" id="Node001353" href="$model__brush_8c.html#ababe610321bcf4487f3e28ac11b0ca1c" title=" " alt="" coords="325,103,538,143"/>
+<area shape="poly" id="edge3_Node000001_Node001353" title=" " alt="" coords="150,240,216,198,304,153,325,145,327,150,306,158,219,202,152,245"/>
+<area shape="rect" id="Node001356" href="$model__brush_8c.html#a2726571fd5f00e6268319b38a4accb14" title=" " alt="" coords="325,191,538,231"/>
+<area shape="poly" id="edge5_Node000001_Node001356" title=" " alt="" coords="218,240,311,226,312,232,219,245"/>
+<area shape="rect" id="Node001360" href="$model__brush_8c.html#a65c9f06b363e4b9676e28a1bc8a366ca" title=" " alt="" coords="329,279,533,319"/>
+<area shape="poly" id="edge7_Node000001_Node001360" title=" " alt="" coords="219,265,316,280,316,285,218,271"/>
+<area shape="rect" id="Node001361" href="$model__brush_8c.html#a28e3ed76293f66de91425261e2f10b4b" title=" " alt="" coords="305,368,557,393"/>
+<area shape="poly" id="edge9_Node000001_Node001361" title=" " alt="" coords="162,266,306,329,385,360,383,365,304,334,160,270"/>
+<area shape="rect" id="Node001362" href="$model__brush_8c.html#ac294c2bc06a02f8114eed73c8f71795f" title=" " alt="" coords="346,441,517,467"/>
+<area shape="poly" id="edge11_Node000001_Node001362" title=" " alt="" coords="146,266,211,330,257,368,307,402,341,420,376,434,374,439,339,425,304,407,254,372,208,334,143,270"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="384,31,373,21,378,11,398,5,431,3,475,7,487,13,490,19,485,21,483,16,474,12,431,8,399,10,382,15,378,20,387,27"/>
+<area shape="poly" id="edge4_Node001353_Node001353" title=" " alt="" coords="376,104,373,94,382,84,401,79,431,77,466,79,485,87,483,92,465,85,431,82,402,84,385,89,378,95,381,102"/>
+<area shape="poly" id="edge6_Node001356_Node001356" title=" " alt="" coords="376,192,373,182,382,172,401,167,431,165,466,167,485,175,483,180,465,173,431,170,402,172,385,177,378,183,381,190"/>
+<area shape="poly" id="edge8_Node001360_Node001360" title=" " alt="" coords="376,280,373,270,382,260,401,255,431,253,466,255,485,263,483,268,465,261,431,258,402,260,385,265,378,271,381,278"/>
+<area shape="poly" id="edge10_Node001361_Node001361" title=" " alt="" coords="384,370,373,360,378,350,398,343,431,341,475,346,487,351,490,358,485,360,483,355,474,351,431,347,399,349,382,354,378,359,387,366"/>
+<area shape="poly" id="edge12_Node001362_Node001362" title=" " alt="" coords="384,443,373,433,378,423,398,417,431,415,475,419,487,425,490,431,485,433,483,428,474,424,431,420,399,422,382,427,378,432,387,439"/>
+</map>

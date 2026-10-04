@@ -1,0 +1,13 @@
+<map id="PRVM_ED_Count_f" name="PRVM_ED_Count_f">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,148,128"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="40,104,32,94,36,84,51,78,77,76,109,80,121,89,117,93,107,85,77,81,52,83,40,88,37,94,44,101"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#a977f9318008de123876b168dfa86ad22" title=" " alt="" coords="280,29,331,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,100,195,63,266,46,267,51,197,69,106,105"/>
+<area shape="rect" id="Node000003" href="$console_8c.html#a1cf9711475097b11dc41f743254ec77e" title="Prints to all appropriate console targets, and adds timestamps." alt="" coords="263,103,347,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="148,113,249,113,249,118,148,118"/>
+<area shape="rect" id="Node001351" href="$prvm__edict_8c.html#a8e0ed6694761d617ff94437802a513bd" title="for console commands (prints error if name unknown and returns NULL, prints error if prog not loaded ..." alt="" coords="196,176,415,201"/>
+<area shape="poly" id="edge6_Node000001_Node001351" title=" " alt="" coords="118,126,253,169,251,174,117,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="278,36,263,26,262,14,277,6,305,3,330,5,345,10,350,19,345,29,340,26,345,19,342,14,329,10,305,8,278,11,267,16,267,23,281,32"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="268,104,260,94,265,84,280,78,305,76,337,80,349,89,346,93,335,85,305,81,281,83,268,88,266,94,272,101"/>
+<area shape="poly" id="edge7_Node001351_Node001351" title=" " alt="" coords="268,178,260,168,265,158,280,152,305,149,337,153,349,163,346,167,335,158,305,155,281,157,268,162,266,167,272,174"/>
+</map>

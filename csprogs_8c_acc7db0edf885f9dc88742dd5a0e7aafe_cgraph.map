@@ -1,0 +1,22 @@
+<map id="CL_VM_TransformView" name="CL_VM_TransformView">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,213,176,239"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="52,215,44,205,48,195,64,189,91,187,124,191,137,200,133,204,122,195,91,192,65,194,52,199,49,204,56,211"/>
+<area shape="rect" id="Node000002" href="$mathlib_8c.html#a50e17db42d20e147704148d0a03032bf" title="LadyHavoc: calculates pitch/yaw/roll angles from forward and up vectors." alt="" coords="257,29,403,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,212,114,181,142,141,179,99,223,64,243,54,245,59,225,68,182,103,146,144,119,184,101,215"/>
+<area shape="rect" id="Node000272" href="$matrixlib_8c.html#a0f17f61f7e6dd5b4f8dc94ff587526c0" title=" " alt="" coords="260,103,400,128"/>
+<area shape="poly" id="edge4_Node000001_Node000272" title=" " alt="" coords="106,211,156,174,223,137,246,129,248,134,225,142,159,179,109,215"/>
+<area shape="rect" id="Node000527" href="$matrixlib_8c.html#ab70336ea109de2ef2ee9b621ca9e6ee0" title=" " alt="" coords="242,176,418,201"/>
+<area shape="poly" id="edge6_Node000001_Node000527" title=" " alt="" coords="172,211,235,201,235,206,173,216"/>
+<area shape="rect" id="Node000278" href="$matrixlib_8c.html#a8226adb345f8fce3f139f2c3db5ca71e" title=" " alt="" coords="249,249,411,275"/>
+<area shape="poly" id="edge8_Node000001_Node000278" title=" " alt="" coords="176,236,235,245,235,250,175,241"/>
+<area shape="rect" id="Node000592" href="$matrixlib_8c.html#abd8779949e9f14619a60d0cf423f8191" title=" " alt="" coords="251,323,409,348"/>
+<area shape="poly" id="edge10_Node000001_Node000592" title=" " alt="" coords="121,236,290,314,287,319,118,241"/>
+<area shape="rect" id="Node000243" href="$matrixlib_8c.html#a241db22b9859a467dc614b0ed8b5b312" title=" " alt="" coords="224,397,436,437"/>
+<area shape="poly" id="edge12_Node000001_Node000243" title=" " alt="" coords="105,237,154,293,189,326,226,357,274,388,272,392,222,361,185,330,150,296,101,241"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="291,31,283,21,287,11,303,5,330,3,363,7,376,16,373,20,361,11,330,8,305,10,291,15,288,20,295,27"/>
+<area shape="poly" id="edge5_Node000272_Node000272" title=" " alt="" coords="291,104,283,94,287,84,303,78,330,76,363,80,376,89,373,94,361,85,330,81,305,83,291,88,288,94,295,101"/>
+<area shape="poly" id="edge7_Node000527_Node000527" title=" " alt="" coords="291,178,283,168,287,158,303,152,330,149,363,153,376,163,373,167,361,158,330,155,305,157,291,162,288,167,295,174"/>
+<area shape="poly" id="edge9_Node000278_Node000278" title=" " alt="" coords="291,251,283,241,287,231,303,225,330,223,363,227,376,236,373,240,361,231,330,228,305,230,291,235,288,240,295,247"/>
+<area shape="poly" id="edge11_Node000592_Node000592" title=" " alt="" coords="291,324,283,314,287,304,303,298,330,296,363,300,376,309,373,314,361,305,330,301,305,303,291,308,288,314,295,321"/>
+<area shape="poly" id="edge13_Node000243_Node000243" title=" " alt="" coords="286,397,283,387,290,378,306,372,330,370,358,373,373,380,370,385,356,378,330,375,307,377,293,382,288,388,291,396"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="BoxPlaneCornerDistances" name="BoxPlaneCornerDistances">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,71,196,96"/>
+<area shape="rect" id="Node000002" href="$mathlib_8c.html#a9da0c4ce02f27ba885b8fd7afabc27d3" title=" " alt="" coords="244,29,435,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,68,252,54,253,60,175,73"/>
+<area shape="rect" id="Node000003" href="$mathlib_8c.html#a2dcdc29ed4552ad02effc1c49cb04cfd" title=" " alt="" coords="244,103,435,143"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="178,93,231,102,230,108,177,99"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="301,31,292,21,297,11,313,5,339,3,373,7,385,16,382,20,371,11,339,8,314,10,300,15,298,20,305,27"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="295,104,292,94,300,84,315,79,339,77,367,80,382,87,380,92,366,85,339,82,316,84,303,89,298,95,300,102"/>
+</map>

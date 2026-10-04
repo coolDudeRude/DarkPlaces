@@ -1,0 +1,13 @@
+<map id="Sys_HandleSignal" name="Sys_HandleSignal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,144,128"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="47,104,41,94,44,85,55,78,75,76,98,79,108,88,104,92,95,84,75,81,57,83,48,88,46,94,51,101"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#a274680f571a231ddf29421b93d434bfa" title=" " alt="" coords="215,29,273,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,100,201,57,203,62,106,105"/>
+<area shape="rect" id="Node000003" href="$sys__shared_8c.html#a277828e69bb595765f2e8fbd5e5eeb7c" title="(may) output text to terminal which launched program is POSIX async&#45;signal&#45;safe textlen excludes any ..." alt="" coords="203,103,285,128"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="144,113,189,113,189,118,144,118"/>
+<area shape="rect" id="Node000004" href="$sys__shared_8c.html#a24a6f35972bbc3bcff0c939234398431" title=" " alt="" coords="192,176,296,201"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="106,126,202,168,200,173,104,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="216,31,210,21,213,11,225,5,244,3,267,6,277,15,273,19,265,11,244,8,226,10,217,15,215,20,220,28"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="216,104,210,94,213,85,225,78,244,76,267,79,277,88,273,92,265,84,244,81,226,83,217,88,215,94,220,101"/>
+<area shape="poly" id="edge7_Node000004_Node000004" title=" " alt="" coords="216,177,210,168,213,158,225,152,244,149,267,153,277,161,273,165,265,158,244,155,226,157,217,161,215,167,220,174"/>
+</map>

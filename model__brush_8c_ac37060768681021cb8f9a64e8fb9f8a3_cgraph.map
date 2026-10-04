@@ -1,0 +1,7 @@
+<map id="Mod_Q1BSP_AmbientSoundLevelsForPoint" name="Mod_Q1BSP_AmbientSoundLevelsForPoint">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,249,69"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="81,30,78,20,85,10,102,5,127,3,156,6,172,13,170,18,155,11,127,8,103,10,88,15,83,21,86,28"/>
+<area shape="rect" id="Node000002" href="$model__brush_8c.html#abb086140977095e71ec940fd8f3fc943" title=" " alt="" coords="297,37,460,62"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="249,47,284,47,284,52,249,52"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="338,38,329,28,334,18,351,12,379,10,414,14,424,19,428,24,423,27,421,23,413,19,379,15,352,17,337,22,335,28,342,35"/>
+</map>

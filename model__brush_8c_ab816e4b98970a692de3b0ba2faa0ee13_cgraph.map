@@ -1,0 +1,11 @@
+<map id="Mod_CollisionBIH_TraceLine" name="Mod_CollisionBIH_TraceLine">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,66,209,91"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="67,68,58,58,62,48,79,42,107,39,143,43,153,48,157,54,152,57,149,52,141,48,107,45,80,47,66,52,63,57,71,64"/>
+<area shape="rect" id="Node000002" href="$model__brush_8c.html#a5a609c1c5d47cf875d7f59e653a5d7cc" title=" " alt="" coords="257,29,461,69"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="209,64,243,60,244,65,210,69"/>
+<area shape="rect" id="Node000010" href="$model__brush_8c.html#a968a9377d97910cf10c5186b392543da" title=" " alt="" coords="509,66,720,91"/>
+<area shape="poly" id="edge6_Node000001_Node000010" title=" " alt="" coords="209,78,257,79,461,79,496,78,496,84,461,84,257,84,209,83"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="313,30,310,20,317,10,334,5,359,3,388,6,404,13,402,18,387,11,359,8,335,10,320,15,315,21,318,28"/>
+<area shape="poly" id="edge4_Node000002_Node000010" title=" " alt="" coords="462,58,496,62,496,68,461,64"/>
+<area shape="poly" id="edge5_Node000010_Node000010" title=" " alt="" coords="574,68,565,58,569,48,586,42,615,39,650,43,661,48,664,54,660,57,657,52,649,48,615,45,587,47,573,52,570,57,578,64"/>
+</map>

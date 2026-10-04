@@ -1,0 +1,16 @@
+<map id="Font_GetMapForChar" name="Font_GetMapForChar">
+<area shape="rect" id="Node000001" title="Query for or load a font map for a character, with the character&#39;s place on it." alt="" coords="5,140,164,165"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="50,142,43,132,47,122,61,116,85,113,114,117,126,126,122,130,112,122,85,119,62,121,50,125,48,131,54,138"/>
+<area shape="rect" id="Node000002" href="$ft2_8c.html#a4b153512aef3bee4c1e6a0ae527659b7" title=" " alt="" coords="239,29,355,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="99,138,147,101,211,64,228,57,230,61,213,68,150,106,103,142"/>
+<area shape="rect" id="Node000297" href="$ft2_8c.html#a4431508aa3e8e5087109e3f5f833863a" title=" " alt="" coords="227,103,368,128"/>
+<area shape="poly" id="edge4_Node000001_Node000297" title=" " alt="" coords="157,137,213,127,214,133,158,143"/>
+<area shape="rect" id="Node001348" href="$ft2_8c.html#a73dd6145d0bcffcf83cac1a85f522ea8" title=" " alt="" coords="212,176,383,201"/>
+<area shape="poly" id="edge6_Node000001_Node001348" title=" " alt="" coords="160,163,209,171,208,176,160,168"/>
+<area shape="rect" id="Node001349" href="$ft2_8c.html#ade3e44ba236851b4df2bfb6a3df2cd4f" title=" " alt="" coords="222,249,373,275"/>
+<area shape="poly" id="edge8_Node000001_Node001349" title=" " alt="" coords="112,163,261,241,258,245,109,168"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="263,31,255,21,259,11,274,5,297,3,327,6,338,15,335,20,325,11,297,8,275,10,263,15,261,20,267,28"/>
+<area shape="poly" id="edge5_Node000297_Node000297" title=" " alt="" coords="263,104,255,94,259,84,274,78,297,76,327,80,338,89,335,93,325,85,297,81,275,83,263,88,261,94,267,101"/>
+<area shape="poly" id="edge7_Node001348_Node001348" title=" " alt="" coords="263,178,255,168,259,158,274,152,297,149,327,153,338,162,335,166,325,158,297,155,275,157,263,161,261,167,267,174"/>
+<area shape="poly" id="edge9_Node001349_Node001349" title=" " alt="" coords="263,251,255,241,259,231,274,225,297,223,327,226,338,235,335,240,325,231,297,228,275,230,263,235,261,240,267,248"/>
+</map>

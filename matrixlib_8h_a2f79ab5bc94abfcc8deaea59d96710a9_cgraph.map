@@ -1,0 +1,13 @@
+<map id="Matrix4x4_QuakeToDuke3D" name="Matrix4x4_QuakeToDuke3D">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,207,128"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="67,104,59,94,63,84,79,78,106,76,140,80,153,89,149,94,138,85,106,81,80,83,67,88,64,94,71,101"/>
+<area shape="rect" id="Node000002" href="$mathlib_8c.html#a50e17db42d20e147704148d0a03032bf" title="LadyHavoc: calculates pitch/yaw/roll angles from forward and up vectors." alt="" coords="273,29,419,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,100,254,63,281,56,282,61,255,69,144,105"/>
+<area shape="rect" id="Node001349" href="$mathlib_8c.html#a238ad8cc78eb566939bca649fc174b81" title="divVerent: improper matrix version of AngleVectors" alt="" coords="255,103,437,128"/>
+<area shape="poly" id="edge3_Node000001_Node001349" title=" " alt="" coords="207,113,241,113,241,118,207,118"/>
+<area shape="rect" id="Node000756" href="$mathlib_8c.html#aa0f8c2537c1cf8bd8c418b1a9a854de5" title="returns vector length" alt="" coords="259,176,433,201"/>
+<area shape="poly" id="edge6_Node000001_Node000756" title=" " alt="" coords="149,126,291,169,290,175,148,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="307,31,299,21,303,11,319,5,346,3,380,7,393,16,389,20,378,11,346,8,320,10,307,15,304,20,311,27"/>
+<area shape="poly" id="edge4_Node001349_Node001349" title=" " alt="" coords="307,104,299,94,303,84,319,78,346,76,380,80,393,89,389,94,378,85,346,81,320,83,307,88,304,94,311,101"/>
+<area shape="poly" id="edge7_Node000756_Node000756" title=" " alt="" coords="307,178,299,168,303,158,319,152,346,149,380,153,393,163,389,167,378,158,346,155,320,157,307,162,304,167,311,174"/>
+</map>

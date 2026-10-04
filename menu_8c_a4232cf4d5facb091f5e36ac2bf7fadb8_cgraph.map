@@ -1,0 +1,7 @@
+<map id="M_ItemPrint" name="M_ItemPrint">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,107,55"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="30,31,25,21,28,11,38,5,56,3,77,6,86,15,82,19,75,11,56,8,40,10,32,15,30,20,35,28"/>
+<area shape="rect" id="Node000002" href="$gl__draw_8c.html#aad880bba40abd3688c15d7ac022318a1" title=" " alt="" coords="155,29,265,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,39,141,39,141,45,107,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="184,31,179,21,182,11,192,5,210,3,231,6,240,15,236,19,229,11,210,8,194,10,186,15,184,20,189,28"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="CL_ClientMovement_UpdateStatus" name="CL_ClientMovement_UpdateStatus">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,73,212,113"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="61,73,58,63,66,54,83,48,109,46,138,49,155,56,152,61,137,54,109,51,84,53,69,58,63,64,66,71"/>
+<area shape="rect" id="Node000002" href="$cl__input_8c.html#a22938a0853954138bd9c6dc28c95700f" title=" " alt="" coords="260,29,469,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,70,286,55,287,60,211,75"/>
+<area shape="rect" id="Node000003" href="$cl__collision_8c.html#a50475cdb678c8e50022410f30b3e398a" title=" " alt="" coords="517,80,621,105"/>
+<area shape="poly" id="edge8_Node000001_Node000003" title=" " alt="" coords="212,90,504,90,504,95,212,95"/>
+<area shape="rect" id="Node000007" href="$cl__collision_8c.html#a7ff233acc35349210e7a5790cabbf8ee" title=" " alt="" coords="669,105,781,131"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="212,98,517,114,655,116,655,121,517,119,212,103"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="331,31,324,21,328,11,342,5,365,3,393,6,404,16,401,20,391,11,365,8,343,10,332,15,329,20,336,28"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="418,52,505,74,504,79,416,57"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="543,81,538,72,541,62,552,56,569,53,591,57,600,65,596,69,588,62,569,59,553,61,545,65,543,71,548,79"/>
+<area shape="poly" id="edge5_Node000003_Node000007" title=" " alt="" coords="622,98,656,104,655,109,621,104"/>
+<area shape="poly" id="edge6_Node000007_Node000007" title=" " alt="" coords="699,107,694,97,697,87,708,81,725,79,747,82,756,91,752,95,744,87,725,84,709,86,701,91,699,96,704,104"/>
+</map>

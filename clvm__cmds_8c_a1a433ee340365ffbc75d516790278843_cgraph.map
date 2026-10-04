@@ -1,0 +1,10 @@
+<map id="VM_CL_skel_get_bonename" name="VM_CL_skel_get_bonename">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,208,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="69,68,61,58,65,48,81,42,107,40,139,44,151,53,148,58,137,49,107,45,82,47,69,52,66,58,73,65"/>
+<area shape="rect" id="Node000002" href="$prvm__edict_8c.html#a1d2244b6253cecef732afeb0bf1d393f" title="Takes an strlen (not a buffer size)." alt="" coords="256,29,417,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,64,244,54,245,60,186,69"/>
+<area shape="rect" id="Node000029" href="$menudefs_8qc.html#a274680f571a231ddf29421b93d434bfa" title=" " alt="" coords="307,103,366,128"/>
+<area shape="poly" id="edge3_Node000001_Node000029" title=" " alt="" coords="189,89,294,106,293,111,188,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="299,31,291,21,295,11,311,5,337,3,369,7,381,16,378,20,367,11,337,8,312,10,299,15,296,20,303,27"/>
+<area shape="poly" id="edge4_Node000029_Node000029" title=" " alt="" coords="306,108,292,98,294,86,309,79,337,76,360,78,375,82,382,90,380,99,375,97,377,92,372,87,359,83,337,81,310,84,298,89,297,95,309,104"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="VM_physics_enable" name="VM_physics_enable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,156,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="52,31,46,21,49,11,61,5,81,3,105,6,115,15,111,19,102,11,81,8,62,10,53,15,51,20,56,28"/>
+<area shape="rect" id="Node000002" href="$prvm__cmds_8c.html#a839f28438a1ca0de7c2d772295e1763a" title=" " alt="" coords="204,29,307,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="156,39,190,39,190,45,156,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="226,31,220,21,224,11,236,5,255,3,279,6,289,15,286,19,277,11,255,8,237,10,228,15,226,20,231,28"/>
+</map>

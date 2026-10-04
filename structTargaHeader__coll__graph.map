@@ -1,0 +1,7 @@
+<map id="TargaHeader" name="TargaHeader">
+<area shape="rect" id="Node000001" title=" " alt="" coords="47,201,151,227"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,56,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="26,44,21,73,18,107,22,143,34,176,46,189,62,199,60,204,43,193,30,179,16,144,13,108,15,72,21,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="139,5,194,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,45,163,108,154,144,140,179,118,203,114,199,135,176,149,142,158,107,164,44"/>
+</map>

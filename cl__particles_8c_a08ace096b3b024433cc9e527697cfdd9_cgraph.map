@@ -1,0 +1,13 @@
+<map id="R_InitBloodTextures" name="R_InitBloodTextures">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,156,128"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="47,104,40,94,44,84,58,78,81,76,109,80,120,89,117,93,107,85,81,81,59,83,48,88,45,94,52,101"/>
+<area shape="rect" id="Node000002" href="$cl__particles_8c.html#ae9ff7c79c02366c4675c52cb2f8262a0" title=" " alt="" coords="204,29,363,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,100,203,63,225,56,226,61,205,69,112,105"/>
+<area shape="rect" id="Node000004" href="$cl__particles_8c.html#a461b70fa819de548d47be3e02bb21649" title=" " alt="" coords="205,103,361,128"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="156,113,191,113,191,118,156,118"/>
+<area shape="rect" id="Node000005" href="$cl__particles_8c.html#ae2c79c8ac36f1cb8770ce25ec366f568" title=" " alt="" coords="244,176,323,201"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="118,126,235,169,234,174,116,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="250,31,243,21,247,11,260,5,283,3,312,6,323,16,319,20,309,11,283,8,262,10,250,15,248,20,254,28"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="250,104,243,94,247,84,260,78,283,76,312,80,323,89,319,93,309,85,283,81,262,83,250,88,248,94,254,101"/>
+<area shape="poly" id="edge7_Node000005_Node000005" title=" " alt="" coords="250,178,243,168,247,158,260,152,283,149,312,153,323,162,319,166,309,158,283,155,262,157,250,161,248,167,254,174"/>
+</map>

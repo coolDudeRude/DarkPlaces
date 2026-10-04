@@ -1,0 +1,10 @@
+<map id="VM_CL_ambientsound" name="VM_CL_ambientsound">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,172,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="58,68,51,58,55,48,67,42,89,40,114,44,125,52,122,56,112,48,89,45,69,47,59,52,56,58,62,65"/>
+<area shape="rect" id="Node000002" href="$snd__main_8c.html#a9525d272a06cd21c550afa4edc661b76" title=" " alt="" coords="226,29,329,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,64,212,52,213,57,154,69"/>
+<area shape="rect" id="Node001106" href="$snd__main_8c.html#a2e09831e1547cdacba4f4effbefaa668" title=" " alt="" coords="220,103,335,128"/>
+<area shape="poly" id="edge3_Node000001_Node001106" title=" " alt="" coords="156,89,207,99,206,105,155,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="246,31,240,21,243,11,256,5,277,3,303,6,314,15,310,19,301,11,277,8,258,10,247,15,245,20,251,28"/>
+<area shape="poly" id="edge4_Node001106_Node001106" title=" " alt="" coords="246,104,240,94,243,84,256,78,277,76,303,80,314,88,310,92,301,84,277,81,258,83,247,88,245,94,251,101"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="jpeg_memory_mgr" name="jpeg_memory_mgr">
+<area shape="rect" id="Node000001" title=" " alt="" coords="85,501,231,527"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,84,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="40,44,24,124,16,177,13,237,14,299,23,362,42,421,72,476,86,489,104,499,101,504,83,494,68,479,37,423,18,363,9,300,7,237,11,177,18,123,35,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="125,5,191,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="161,44,161,501,155,501,155,44"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="354,5,405,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="389,43,409,125,417,180,421,241,419,305,409,368,387,427,371,454,352,479,333,491,303,500,231,511,230,506,302,495,330,487,348,475,367,451,382,424,404,366,414,304,416,241,412,181,403,126,384,44"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="VM_sprintf" name="VM_sprintf">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,218,97,243"/>
+<area shape="poly" id="edge15_Node000001_Node000001" title=" " alt="" coords="22,219,16,209,20,200,32,193,51,191,75,195,85,204,82,208,73,200,51,196,33,198,24,203,22,209,27,216"/>
+<area shape="rect" id="Node000002" href="$common_8c.html#ae36050083f45e395189fee6aa45fbb0c" title="Returns the number of printed characters, excluding the final &#39;\0&#39; or returns &#45;1 if the buffer isn&#39;t ..." alt="" coords="356,218,444,243"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="52,217,59,179,74,127,102,74,121,51,144,32,187,10,227,3,266,10,309,32,330,49,348,69,374,116,390,163,398,203,393,204,384,165,369,118,343,72,327,53,307,37,265,15,227,8,189,15,147,37,124,55,106,77,79,129,64,180,57,218"/>
+<area shape="rect" id="Node000005" href="$prvm__edict_8c.html#a1d2244b6253cecef732afeb0bf1d393f" title="Takes an strlen (not a buffer size)." alt="" coords="146,71,307,96"/>
+<area shape="poly" id="edge3_Node000001_Node000005" title=" " alt="" coords="57,216,89,163,114,132,144,106,153,100,156,104,147,110,118,136,93,166,61,219"/>
+<area shape="rect" id="Node000596" href="$utf8lib_8c.html#a079fa47b8803d8fe1b2cd1103dc6788f" title="uses u8_fromchar on a static buffer" alt="" coords="173,144,280,170"/>
+<area shape="poly" id="edge5_Node000001_Node000596" title=" " alt="" coords="73,215,144,179,163,172,165,177,146,184,75,220"/>
+<area shape="rect" id="Node001351" href="$utf8lib_8c.html#a09f97a6dde6681adbd7fd2bb33d17e88" title="Pads a utf&#45;8 string." alt="" coords="183,218,270,243"/>
+<area shape="poly" id="edge7_Node000001_Node001351" title=" " alt="" coords="98,228,169,228,169,233,98,233"/>
+<area shape="rect" id="Node001353" href="$utf8lib_8c.html#a3c10eed97235e664feb6c7e6ab88b03b" title=" " alt="" coords="145,291,308,316"/>
+<area shape="poly" id="edge10_Node000001_Node001353" title=" " alt="" coords="84,241,183,283,181,288,82,246"/>
+<area shape="rect" id="Node000045" href="$common_8c.html#a4a8220fa88226bf9cf39b12a051a20d7" title=" " alt="" coords="207,364,246,390"/>
+<area shape="poly" id="edge13_Node000001_Node000045" title=" " alt="" coords="65,242,100,281,147,326,197,359,194,363,144,330,96,285,61,245"/>
+<area shape="rect" id="Node000515" href="$prvm__cmds_8c.html#a839f28438a1ca0de7c2d772295e1763a" title=" " alt="" coords="175,438,278,463"/>
+<area shape="poly" id="edge16_Node000001_Node000515" title=" " alt="" coords="60,242,90,314,116,358,147,399,166,416,187,429,184,434,163,420,143,403,111,361,85,316,55,244"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="371,219,365,209,368,200,380,193,400,191,424,195,434,204,430,208,422,200,400,196,382,198,372,203,370,209,376,216"/>
+<area shape="poly" id="edge4_Node000005_Node000005" title=" " alt="" coords="198,72,192,63,195,53,207,47,227,44,251,48,261,57,257,61,248,53,227,50,208,52,199,56,197,62,202,70"/>
+<area shape="poly" id="edge6_Node000596_Node000596" title=" " alt="" coords="198,146,192,136,195,126,207,120,227,118,251,121,261,130,257,134,248,126,227,123,208,125,199,130,197,135,202,143"/>
+<area shape="poly" id="edge8_Node001351_Node000002" title=" " alt="" coords="270,228,342,228,342,233,270,233"/>
+<area shape="poly" id="edge9_Node001351_Node001351" title=" " alt="" coords="198,219,192,209,195,200,207,193,227,191,251,195,261,204,257,208,248,200,227,196,208,198,199,203,197,209,202,216"/>
+<area shape="poly" id="edge11_Node001353_Node000002" title=" " alt="" coords="257,289,355,246,357,251,259,293"/>
+<area shape="poly" id="edge12_Node001353_Node001353" title=" " alt="" coords="198,292,192,283,195,273,207,267,227,264,251,268,261,277,257,281,248,273,227,270,208,272,199,276,197,282,202,290"/>
+<area shape="poly" id="edge14_Node000045_Node000045" title=" " alt="" coords="205,371,193,361,193,349,205,341,227,338,245,340,257,345,262,353,259,361,254,360,256,354,253,349,243,345,227,343,207,346,198,351,198,358,209,367"/>
+<area shape="poly" id="edge17_Node000515_Node000515" title=" " alt="" coords="198,439,192,429,195,420,207,413,227,411,251,415,261,424,257,428,248,420,227,416,208,418,199,423,197,429,202,436"/>
+</map>

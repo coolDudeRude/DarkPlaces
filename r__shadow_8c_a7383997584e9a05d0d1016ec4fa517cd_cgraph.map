@@ -1,0 +1,16 @@
+<map id="R_Shadow_BounceGrid_TracePhotons_Shot" name="R_Shadow_BounceGrid_TracePhotons_Shot">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,133,176,173"/>
+<area shape="poly" id="edge9_Node000001_Node000001" title=" " alt="" coords="46,133,44,123,51,114,67,108,91,106,118,109,133,116,131,121,117,114,91,111,68,113,54,118,49,124,52,132"/>
+<area shape="rect" id="Node000002" href="$cl__collision_8c.html#afaf23d22697d0f04fa66b5ee89b6157d" title=" " alt="" coords="224,29,433,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,130,163,96,223,64,243,56,245,61,225,68,166,101,118,135"/>
+<area shape="rect" id="Node000249" href="$cl__collision_8c.html#a3844376c9cc74935d902373d216acc75" title=" " alt="" coords="275,103,382,128"/>
+<area shape="poly" id="edge3_Node000001_Node000249" title=" " alt="" coords="176,137,261,123,262,128,177,142"/>
+<area shape="rect" id="Node000371" href="$gl__rmain_8c.html#ad828a2865ae4baf75678ea5ba4e74242" title=" " alt="" coords="271,176,387,201"/>
+<area shape="poly" id="edge5_Node000001_Node000371" title=" " alt="" coords="177,163,258,175,257,181,176,168"/>
+<area shape="rect" id="Node000779" href="$r__shadow_8c.html#a5078f7b2b8e1ef5cfcefa05402f06831" title=" " alt="" coords="239,250,418,290"/>
+<area shape="poly" id="edge7_Node000001_Node000779" title=" " alt="" coords="134,170,276,241,274,246,131,175"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="290,31,282,21,286,11,302,5,329,3,362,7,375,16,371,20,360,11,329,8,303,10,290,15,287,20,294,27"/>
+<area shape="poly" id="edge4_Node000249_Node000249" title=" " alt="" coords="290,104,282,94,286,84,302,78,329,76,362,80,375,89,371,94,360,85,329,81,303,83,290,88,287,94,294,101"/>
+<area shape="poly" id="edge6_Node000371_Node000371" title=" " alt="" coords="290,178,282,168,286,158,302,152,329,149,362,153,375,163,371,167,360,158,329,155,303,157,290,162,287,167,294,174"/>
+<area shape="poly" id="edge8_Node000779_Node000779" title=" " alt="" coords="284,250,282,240,289,231,305,225,329,223,356,226,371,233,369,238,355,231,329,229,306,231,292,235,287,241,290,249"/>
+</map>

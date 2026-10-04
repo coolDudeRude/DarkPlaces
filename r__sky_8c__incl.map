@@ -1,0 +1,7 @@
+<map id="r_sky.c" name="r_sky.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="73,5,138,31"/>
+<area shape="rect" id="Node000002" href="$quakedef_8h.html" title=" " alt="" coords="5,79,99,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,33,71,69,67,66,94,29"/>
+<area shape="rect" id="Node000093" href="$image_8h.html" title=" " alt="" coords="123,79,197,104"/>
+<area shape="poly" id="edge2_Node000001_Node000093" title=" " alt="" coords="116,29,145,66,141,69,112,33"/>
+</map>

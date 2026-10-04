@@ -1,0 +1,10 @@
+<map id="CL_VM_Parse_CenterPrint" name="CL_VM_Parse_CenterPrint">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,193,92"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="63,68,55,58,59,48,74,42,99,40,130,44,142,53,139,57,128,49,99,45,76,47,63,52,61,58,67,65"/>
+<area shape="rect" id="Node000002" href="$prvm__edict_8c.html#a1d2244b6253cecef732afeb0bf1d393f" title="Takes an strlen (not a buffer size)." alt="" coords="241,29,403,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="175,64,232,54,233,60,176,69"/>
+<area shape="rect" id="Node001268" href="$cl__screen_8c.html#a28a327fa91073f50e5ee5589d0a0cd61" title=" " alt="" coords="258,103,386,128"/>
+<area shape="poly" id="edge4_Node000001_Node001268" title=" " alt="" coords="179,89,245,100,244,105,178,95"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="286,31,278,21,282,11,297,5,322,3,353,6,365,15,362,20,351,11,322,8,298,10,286,15,283,20,290,28"/>
+<area shape="poly" id="edge5_Node001268_Node001268" title=" " alt="" coords="286,104,278,94,282,84,297,78,322,76,353,80,365,89,362,93,351,85,322,81,298,83,286,88,283,94,290,101"/>
+</map>

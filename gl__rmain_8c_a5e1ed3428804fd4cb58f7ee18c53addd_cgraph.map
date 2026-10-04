@@ -1,0 +1,10 @@
+<map id="R_BufferData_Resize" name="R_BufferData_Resize">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,164,92"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="48,68,40,58,44,48,60,42,85,40,116,44,128,53,125,57,114,49,85,45,61,47,48,52,45,58,52,65"/>
+<area shape="rect" id="Node000002" href="$cvar_8c.html#a65b55ce35a5bd18e379065651d5d6e15" title=" " alt="" coords="234,29,387,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,64,220,54,221,59,163,69"/>
+<area shape="rect" id="Node001072" href="$gl__backend_8c.html#a897a83101fb978aec99bbb3c37c4e78c" title=" " alt="" coords="212,103,409,128"/>
+<area shape="poly" id="edge4_Node000001_Node001072" title=" " alt="" coords="165,89,218,98,217,103,164,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="274,31,266,21,270,11,286,5,311,3,342,7,354,16,351,20,340,11,311,8,287,10,274,15,271,20,278,27"/>
+<area shape="poly" id="edge5_Node001072_Node001072" title=" " alt="" coords="274,104,266,94,270,84,286,78,311,76,342,80,354,89,351,93,340,85,311,81,287,83,274,88,271,94,278,101"/>
+</map>

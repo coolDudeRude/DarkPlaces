@@ -1,0 +1,21 @@
+<map id="LoadFont_f" name="LoadFont_f">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,99,180"/>
+<area shape="poly" id="edge13_Node000001_Node000001" title=" " alt="" coords="29,156,24,146,27,137,36,130,52,128,70,131,78,140,75,143,68,136,52,133,38,135,31,140,30,146,34,153"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#a977f9318008de123876b168dfa86ad22" title=" " alt="" coords="162,29,213,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="64,152,145,72,157,61,161,65,148,76,67,156"/>
+<area shape="rect" id="Node000003" href="$console_8c.html#a2696300802453d9333e9f52e5fae15bc" title="A Con_Printf that only shows up if the &quot;developer&quot; cvar is set." alt="" coords="276,131,375,156"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="70,152,104,132,146,115,180,111,214,112,277,124,276,129,214,117,180,116,147,121,106,137,73,157"/>
+<area shape="rect" id="Node000016" href="$console_8c.html#a49b71fe9a87e57a440e07af4a869a9f6" title="Prints to all appropriate console targets." alt="" coords="281,229,370,255"/>
+<area shape="poly" id="edge5_Node000001_Node000016" title=" " alt="" coords="100,177,268,224,266,229,99,183"/>
+<area shape="rect" id="Node001351" href="$gl__draw_8c.html#aefe763bbb1f025cedf6f6d4cc3568f69" title=" " alt="" coords="149,280,226,305"/>
+<area shape="poly" id="edge7_Node000001_Node001351" title=" " alt="" coords="69,178,164,269,161,272,65,182"/>
+<area shape="rect" id="Node001352" href="$gl__draw_8c.html#ad358cf8731e0e458af3101ac47ffff20" title=" " alt="" coords="147,155,228,180"/>
+<area shape="poly" id="edge10_Node000001_Node001352" title=" " alt="" coords="99,165,133,165,133,170,99,170"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="164,30,160,21,162,11,172,5,187,3,206,6,214,14,210,18,203,11,187,8,174,10,167,14,165,20,169,28"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="302,132,297,122,300,113,309,106,325,104,344,107,352,116,348,119,341,112,325,109,311,111,304,116,303,122,307,129"/>
+<area shape="poly" id="edge6_Node000016_Node000016" title=" " alt="" coords="302,230,297,221,300,211,309,205,325,203,344,206,352,214,348,218,341,211,325,208,311,210,304,215,303,220,307,228"/>
+<area shape="poly" id="edge8_Node001351_Node000016" title=" " alt="" coords="222,277,276,257,278,262,224,282"/>
+<area shape="poly" id="edge9_Node001351_Node001351" title=" " alt="" coords="164,281,160,272,162,262,172,256,187,253,206,257,214,265,210,269,203,261,187,259,174,261,167,265,165,271,169,279"/>
+<area shape="poly" id="edge11_Node001352_Node000003" title=" " alt="" coords="228,158,262,152,263,157,229,163"/>
+<area shape="poly" id="edge12_Node001352_Node001352" title=" " alt="" coords="164,156,160,146,162,137,172,130,187,128,206,131,214,140,210,143,203,136,187,133,174,135,167,140,165,146,169,153"/>
+</map>

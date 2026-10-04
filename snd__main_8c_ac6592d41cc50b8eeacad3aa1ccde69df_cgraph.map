@@ -1,0 +1,11 @@
+<map id="S_Play_f" name="S_Play_f">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,83,55"/>
+<area shape="poly" id="edge6_Node000001_Node000001" title=" " alt="" coords="18,31,13,21,16,11,26,5,44,3,65,6,74,15,70,19,63,11,44,8,28,10,20,15,18,20,23,28"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#a977f9318008de123876b168dfa86ad22" title=" " alt="" coords="309,29,360,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,33,130,27,196,24,262,27,296,32,295,37,261,33,196,29,131,33,83,38"/>
+<area shape="rect" id="Node000003" href="$snd__main_8c.html#ab17d33ab842887e23285119f1207df26" title=" " alt="" coords="131,67,261,92"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="84,49,131,61,130,66,82,54"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="311,30,306,21,309,11,319,5,335,3,354,6,362,15,358,18,351,11,335,8,320,10,313,15,311,20,316,28"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="243,64,295,50,297,55,244,69"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="172,68,167,58,170,49,180,42,196,40,215,44,224,52,220,56,213,48,196,45,182,47,174,52,173,58,177,65"/>
+</map>

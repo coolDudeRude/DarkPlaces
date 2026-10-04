@@ -1,0 +1,29 @@
+<map id="S_LoadSound" name="S_LoadSound">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,254,113,279"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="26,255,18,245,22,235,36,229,59,227,88,231,99,240,96,244,86,236,59,232,37,234,26,239,24,244,30,252"/>
+<area shape="rect" id="Node000002" href="$snd__mem_8c.html#a460ce1acb5d1d0b811054380160ae0b9" title="If &quot;buffer&quot; is NULL, the function allocates one buffer of &quot;sampleframes&quot; sample frames itself (if &quot;sa..." alt="" coords="416,70,580,95"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="59,253,65,208,81,146,94,113,111,82,133,54,160,31,198,12,239,4,281,4,324,10,403,33,464,61,462,66,401,38,323,15,281,9,240,9,200,17,163,35,137,57,115,85,99,115,86,148,70,209,64,253"/>
+<area shape="rect" id="Node000003" href="$snd__sdl_8c.html#a96800683856c885e79a150b26c8481bd" title="Returns the number of sample frames consumed since the sound started." alt="" coords="179,70,351,95"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="62,252,74,222,94,182,123,140,160,104,169,98,171,103,163,108,127,143,99,184,79,224,67,254"/>
+<area shape="rect" id="Node000004" href="$snd__sdl_8c.html#a75070ee43f4a421d33b8e7f24eb72d44" title="Create &quot;snd_renderbuffer&quot;, attempting to use the chosen sound format, but accepting if the driver wan..." alt="" coords="216,143,313,168"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="70,252,107,215,132,194,160,177,202,162,204,167,162,182,135,199,111,218,74,255"/>
+<area shape="rect" id="Node000115" href="$snd__sdl_8c.html#ae0b4915809820517c43115cab7b78235" title="Get the exclusive lock on &quot;snd_renderbuffer&quot;." alt="" coords="169,216,360,242"/>
+<area shape="poly" id="edge9_Node000001_Node000115" title=" " alt="" coords="113,254,181,241,182,247,114,259"/>
+<area shape="rect" id="Node001347" href="$snd__sdl_8c.html#a232f4a3f5ef0b60245984db4981205ec" title="if the sound system can generate events, send them" alt="" coords="177,290,353,315"/>
+<area shape="poly" id="edge11_Node000001_Node001347" title=" " alt="" coords="114,273,179,284,178,290,113,278"/>
+<area shape="rect" id="Node001348" href="$snd__sdl_8c.html#abd6aef3b99a16ac8098a00e22a9d3c70" title="Stop the sound card, delete &quot;snd_renderbuffer&quot; and free its other resources." alt="" coords="195,363,335,388"/>
+<area shape="poly" id="edge13_Node000001_Node001348" title=" " alt="" coords="82,277,163,324,224,355,222,359,160,329,79,281"/>
+<area shape="rect" id="Node001349" href="$snd__sdl_8c.html#a1cf4840b573c7c8a4b1409eeaec0a4f7" title="Submit the contents of &quot;snd_renderbuffer&quot; to the sound card." alt="" coords="203,436,326,462"/>
+<area shape="poly" id="edge15_Node000001_Node001349" title=" " alt="" coords="70,278,106,334,132,367,163,397,188,415,216,428,213,433,186,419,160,402,128,371,101,337,65,281"/>
+<area shape="rect" id="Node000116" href="$snd__sdl_8c.html#af93d75cf8eafe12c6acd43b2b510bc16" title="Release the exclusive lock on &quot;snd_renderbuffer&quot;." alt="" coords="161,510,368,535"/>
+<area shape="poly" id="edge17_Node000001_Node000116" title=" " alt="" coords="66,278,77,315,96,366,125,421,163,471,185,488,210,502,208,506,182,493,159,475,120,424,91,368,72,317,61,280"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="460,71,452,61,456,51,472,45,498,43,531,47,543,56,540,60,529,52,498,48,473,50,460,55,457,60,464,68"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="231,71,224,61,227,51,241,45,265,43,293,47,305,56,301,60,291,52,265,48,243,50,231,55,229,60,235,68"/>
+<area shape="poly" id="edge7_Node000004_Node000002" title=" " alt="" coords="305,140,443,97,444,102,307,145"/>
+<area shape="poly" id="edge8_Node000004_Node000004" title=" " alt="" coords="231,144,224,135,227,125,241,118,265,116,293,120,305,129,301,133,291,125,265,122,243,124,231,128,229,134,235,141"/>
+<area shape="poly" id="edge10_Node000115_Node000115" title=" " alt="" coords="231,218,224,208,227,198,241,192,265,190,293,193,305,202,301,207,291,198,265,195,243,197,231,202,229,207,235,214"/>
+<area shape="poly" id="edge12_Node001347_Node001347" title=" " alt="" coords="231,291,224,281,227,271,241,265,265,263,293,267,305,276,301,280,291,272,265,268,243,270,231,275,229,280,235,288"/>
+<area shape="poly" id="edge14_Node001348_Node001348" title=" " alt="" coords="231,364,224,355,227,345,241,338,265,336,293,340,305,349,301,353,291,345,265,342,243,344,231,348,229,354,235,361"/>
+<area shape="poly" id="edge16_Node001349_Node001349" title=" " alt="" coords="231,438,224,428,227,418,241,412,265,410,293,413,305,422,301,427,291,418,265,415,243,417,231,422,229,427,235,434"/>
+<area shape="poly" id="edge18_Node000116_Node000116" title=" " alt="" coords="231,511,224,501,227,491,241,485,265,483,293,487,305,496,301,500,291,492,265,488,243,490,231,495,229,500,235,508"/>
+</map>

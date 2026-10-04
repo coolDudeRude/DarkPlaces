@@ -1,0 +1,20 @@
+<map id="VM_CL_te_explosion2" name="VM_CL_te_explosion2">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,169,180"/>
+<area shape="poly" id="edge12_Node000001_Node000001" title=" " alt="" coords="50,156,42,146,47,136,62,130,87,128,119,132,131,141,128,145,117,137,87,133,63,135,50,140,48,146,54,153"/>
+<area shape="rect" id="Node000002" href="$cl__main_8c.html#a7146da0ac71b5c324880f55a64c76f57" title=" " alt="" coords="244,29,388,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,152,150,113,216,72,252,57,254,62,219,76,153,118,105,157"/>
+<area shape="rect" id="Node000003" href="$cl__collision_8c.html#ac7dbc515a87649cf46e59ac91ba1803f" title=" " alt="" coords="463,55,648,80"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="116,152,162,133,217,115,336,90,449,75,449,80,337,96,218,121,164,138,118,157"/>
+<area shape="rect" id="Node000009" href="$cl__particles_8c.html#a5a97191b914e0b08acd7ada551bc35df" title=" " alt="" coords="234,155,398,180"/>
+<area shape="poly" id="edge6_Node000001_Node000009" title=" " alt="" coords="170,165,220,165,220,170,170,170"/>
+<area shape="rect" id="Node000327" href="$matrixlib_8c.html#a5bd9dc17773c5e84269f7a32f56251a1" title=" " alt="" coords="217,228,415,253"/>
+<area shape="poly" id="edge8_Node000001_Node000327" title=" " alt="" coords="129,178,263,221,262,226,127,183"/>
+<area shape="rect" id="Node000481" href="$snd__main_8c.html#a418d13b1c4fe19c2ef0ed171ae339426" title="S_StartSound returns the channel index, or &#45;1 if an error occurred." alt="" coords="262,301,370,327"/>
+<area shape="poly" id="edge10_Node000001_Node000481" title=" " alt="" coords="106,178,155,218,219,262,275,293,273,298,216,267,152,222,102,182"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="279,31,271,21,275,11,291,5,316,3,348,7,360,16,357,20,346,11,316,8,292,10,279,15,276,20,283,27"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="389,47,449,53,449,59,388,52"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="517,56,508,46,513,36,529,30,555,28,589,32,601,41,598,46,587,37,555,33,530,35,516,40,514,46,521,53"/>
+<area shape="poly" id="edge7_Node000009_Node000009" title=" " alt="" coords="279,156,271,146,275,136,291,130,316,128,348,132,360,141,357,145,346,137,316,133,292,135,279,140,276,146,283,153"/>
+<area shape="poly" id="edge9_Node000327_Node000327" title=" " alt="" coords="279,230,271,220,275,210,291,204,316,201,348,205,360,215,357,219,346,210,316,207,292,209,279,214,276,219,283,226"/>
+<area shape="poly" id="edge11_Node000481_Node000481" title=" " alt="" coords="279,303,271,293,275,283,291,277,316,275,348,279,360,288,357,292,346,283,316,280,292,282,279,287,276,292,283,299"/>
+</map>

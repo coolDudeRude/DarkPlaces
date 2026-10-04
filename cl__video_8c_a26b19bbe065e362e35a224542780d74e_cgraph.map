@@ -1,0 +1,10 @@
+<map id="cl_video_shutdown" name="cl_video_shutdown">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,152,92"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="47,68,40,58,44,48,57,42,79,40,105,44,116,52,113,56,103,48,79,45,58,47,48,52,45,58,51,65"/>
+<area shape="rect" id="Node000002" href="$gl__textures_8c.html#a114f2477dc7b969704fce4025b2a4b1b" title=" " alt="" coords="200,29,343,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="144,64,191,55,192,60,145,69"/>
+<area shape="rect" id="Node001351" href="$cl__video_8c.html#ae5226bf05137d5e1bc7c0e2dc9bc7f7e" title=" " alt="" coords="214,103,329,128"/>
+<area shape="poly" id="edge4_Node000001_Node001351" title=" " alt="" coords="147,89,201,99,200,105,146,95"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="240,31,233,21,236,11,250,5,271,3,298,6,309,15,305,19,296,11,271,8,251,10,240,15,238,20,244,28"/>
+<area shape="poly" id="edge5_Node001351_Node001351" title=" " alt="" coords="240,104,233,94,236,84,250,78,271,76,298,80,309,88,305,92,296,84,271,81,251,83,240,88,238,94,244,101"/>
+</map>

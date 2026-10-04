@@ -1,0 +1,16 @@
+<map id="Collision_TraceBrushTriangleFloat" name="Collision_TraceBrushTriangleFloat">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,159,212,199"/>
+<area shape="poly" id="edge9_Node000001_Node000001" title=" " alt="" coords="60,159,57,149,65,140,82,134,109,132,139,135,156,142,154,147,138,140,109,137,83,139,68,144,62,150,65,157"/>
+<area shape="rect" id="Node000002" href="$collision_8c.html#a589a2107e0fa37008316fafc7587f128" title=" " alt="" coords="278,29,469,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,156,190,117,259,79,277,71,279,76,261,84,193,122,137,161"/>
+<area shape="rect" id="Node000003" href="$collision_8c.html#add7bb206ef738e5fcea77f04823f387e" title=" " alt="" coords="260,117,487,157"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="212,160,246,155,247,160,212,165"/>
+<area shape="rect" id="Node001355" href="$collision_8c.html#a44072ba22d1683621623fc930a2bdc16" title=" " alt="" coords="278,206,469,231"/>
+<area shape="poly" id="edge5_Node000001_Node001355" title=" " alt="" coords="212,192,276,201,275,207,212,197"/>
+<area shape="rect" id="Node000252" href="$collision_8c.html#ab616204b21a7499e8677ac245550bb0d" title=" " alt="" coords="277,280,470,320"/>
+<area shape="poly" id="edge7_Node000001_Node000252" title=" " alt="" coords="154,196,317,272,315,277,152,201"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="324,30,321,20,329,10,347,5,373,3,404,5,421,13,418,18,403,11,373,8,348,10,332,15,327,21,329,28"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="324,118,321,108,329,98,347,93,373,91,404,93,421,101,418,106,403,99,373,96,348,98,332,103,327,109,329,116"/>
+<area shape="poly" id="edge6_Node001355_Node001355" title=" " alt="" coords="331,208,321,198,326,188,344,181,373,179,411,183,422,188,425,194,421,197,418,192,410,189,373,185,345,187,330,192,327,197,335,204"/>
+<area shape="poly" id="edge8_Node000252_Node000252" title=" " alt="" coords="324,280,321,270,329,261,347,255,373,253,404,256,421,263,418,268,403,261,373,259,348,261,332,265,327,271,329,279"/>
+</map>

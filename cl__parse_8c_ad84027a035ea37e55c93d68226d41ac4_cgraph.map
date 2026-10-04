@@ -1,0 +1,19 @@
+<map id="CL_ParseStartSoundPacket" name="CL_ParseStartSoundPacket">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,176,199,201"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="63,178,54,168,59,158,75,152,102,149,136,153,146,158,150,164,145,167,142,162,135,158,102,155,76,157,62,162,59,167,67,174"/>
+<area shape="rect" id="Node000002" href="$cl__main_8c.html#ae89ed7cc68bd0464ac7c43827d5b9cbc" title=" " alt="" coords="275,29,417,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,174,166,120,204,90,245,64,261,57,263,62,248,68,207,94,170,124,116,178"/>
+<area shape="rect" id="Node001349" href="$csprogs_8c.html#aa305ba5ecd0afe7ae9153d57d473531d" title=" " alt="" coords="267,103,425,128"/>
+<area shape="poly" id="edge4_Node000001_Node001349" title=" " alt="" coords="137,173,246,137,275,129,276,134,247,142,139,178"/>
+<area shape="rect" id="Node000015" href="$console_8c.html#a49b71fe9a87e57a440e07af4a869a9f6" title="Prints to all appropriate console targets." alt="" coords="301,176,391,201"/>
+<area shape="poly" id="edge6_Node000001_Node000015" title=" " alt="" coords="199,186,287,186,287,191,199,191"/>
+<area shape="rect" id="Node001038" href="$com__msg_8c.html#a223e14655e300422dbc0bb1d5640199d" title=" " alt="" coords="279,249,413,275"/>
+<area shape="poly" id="edge8_Node000001_Node001038" title=" " alt="" coords="146,199,290,243,289,248,145,204"/>
+<area shape="rect" id="Node000181" href="$snd__main_8c.html#ad56de949b850b4f9ea9b419e5ba6b553" title=" " alt="" coords="247,323,445,363"/>
+<area shape="poly" id="edge10_Node000001_Node000181" title=" " alt="" coords="123,199,248,284,298,314,296,319,245,288,120,204"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="307,31,298,21,303,11,319,5,346,3,380,7,390,11,394,17,389,20,386,15,379,12,346,8,320,10,306,15,303,20,311,27"/>
+<area shape="poly" id="edge5_Node001349_Node001349" title=" " alt="" coords="307,104,298,94,303,84,319,78,346,76,380,80,390,85,394,90,389,93,386,89,379,85,346,81,320,83,306,88,303,94,311,101"/>
+<area shape="poly" id="edge7_Node000015_Node000015" title=" " alt="" coords="307,178,298,168,303,158,319,152,346,149,380,153,390,158,394,164,389,167,386,162,379,158,346,155,320,157,306,162,303,167,311,174"/>
+<area shape="poly" id="edge9_Node001038_Node001038" title=" " alt="" coords="307,251,298,241,303,231,319,225,346,223,380,227,390,231,394,237,389,240,386,235,379,232,346,228,320,230,306,235,303,240,311,247"/>
+<area shape="poly" id="edge11_Node000181_Node000181" title=" " alt="" coords="301,324,298,314,305,304,321,299,346,297,374,300,390,307,387,312,373,305,346,302,323,304,308,309,303,315,306,322"/>
+</map>

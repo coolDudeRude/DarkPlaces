@@ -1,0 +1,13 @@
+<map id="Portal_Visibility" name="Portal_Visibility">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,129,128"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="34,104,27,94,31,84,44,78,67,76,96,80,107,89,103,93,93,85,67,81,46,83,34,88,32,94,38,101"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#a1cf9711475097b11dc41f743254ec77e" title="Prints to all appropriate console targets, and adds timestamps." alt="" coords="229,29,313,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,100,176,63,214,52,216,57,178,69,95,105"/>
+<area shape="rect" id="Node000014" href="$console_8c.html#a49b71fe9a87e57a440e07af4a869a9f6" title="Prints to all appropriate console targets." alt="" coords="226,103,315,128"/>
+<area shape="poly" id="edge3_Node000001_Node000014" title=" " alt="" coords="129,113,213,113,213,118,129,118"/>
+<area shape="rect" id="Node001351" href="$portals_8c.html#aaa56b0eb05aa81b5b164e278beef7e76" title=" " alt="" coords="177,177,364,217"/>
+<area shape="poly" id="edge5_Node000001_Node001351" title=" " alt="" coords="101,126,208,169,206,174,99,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="237,31,230,21,234,11,248,5,271,3,299,6,310,16,307,20,297,11,271,8,249,10,238,15,235,20,242,28"/>
+<area shape="poly" id="edge4_Node000014_Node000014" title=" " alt="" coords="237,104,230,94,234,84,248,78,271,76,299,80,310,89,307,93,297,85,271,81,249,83,238,88,235,94,242,101"/>
+<area shape="poly" id="edge6_Node001351_Node001351" title=" " alt="" coords="232,177,230,167,236,158,250,152,271,150,294,153,307,160,305,165,293,158,271,155,251,157,240,162,235,168,238,176"/>
+</map>

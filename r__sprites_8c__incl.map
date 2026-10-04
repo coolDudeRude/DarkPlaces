@@ -1,0 +1,7 @@
+<map id="r_sprites.c" name="r_sprites.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="66,5,155,31"/>
+<area shape="rect" id="Node000002" href="$quakedef_8h.html" title=" " alt="" coords="5,79,99,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,33,72,70,68,67,99,29"/>
+<area shape="rect" id="Node000093" href="$r__shadow_8h.html" title=" " alt="" coords="123,79,218,104"/>
+<area shape="poly" id="edge2_Node000001_Node000093" title=" " alt="" coords="123,29,154,66,150,70,119,33"/>
+</map>

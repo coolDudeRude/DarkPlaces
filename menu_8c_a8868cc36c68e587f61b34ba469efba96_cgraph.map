@@ -1,0 +1,10 @@
+<map id="M_Menu_Quit_f" name="M_Menu_Quit_f">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,128,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="35,68,28,58,31,48,45,42,67,40,93,44,105,52,101,57,91,48,67,45,46,47,35,52,33,58,39,65"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#a977f9318008de123876b168dfa86ad22" title=" " alt="" coords="238,29,289,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,65,224,47,225,52,129,70"/>
+<area shape="rect" id="Node000003" href="$menu_8c.html#a7e280928454b46d5baca5526102fc055" title=" " alt="" coords="176,103,351,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="129,88,181,98,180,103,128,93"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="236,34,225,24,226,13,240,5,263,3,295,8,302,15,302,23,296,23,297,17,292,13,263,8,241,10,231,16,230,22,240,30"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="231,104,224,94,228,84,241,78,263,76,290,80,301,88,298,93,288,84,263,81,243,83,232,88,230,94,235,101"/>
+</map>

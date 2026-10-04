@@ -1,0 +1,22 @@
+<map id="PRVM_GlobalWatchpoint_f" name="PRVM_GlobalWatchpoint_f">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,200,180"/>
+<area shape="poly" id="edge10_Node000001_Node000001" title=" " alt="" coords="62,156,53,146,57,136,74,130,103,128,138,132,149,137,152,142,148,145,145,141,137,137,103,133,75,135,61,140,58,146,66,153"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#a977f9318008de123876b168dfa86ad22" title=" " alt="" coords="332,29,383,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,152,174,113,247,72,318,48,319,53,249,76,177,118,122,157"/>
+<area shape="rect" id="Node000003" href="$console_8c.html#a49b71fe9a87e57a440e07af4a869a9f6" title="Prints to all appropriate console targets." alt="" coords="553,155,643,180"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="131,152,184,132,247,115,309,106,357,103,406,106,467,115,516,129,560,146,558,151,515,134,466,121,405,111,357,108,309,111,249,121,186,137,133,157"/>
+<area shape="rect" id="Node001351" href="$prvm__edict_8c.html#a8e0ed6694761d617ff94437802a513bd" title="for console commands (prints error if name unknown and returns NULL, prints error if prog not loaded ..." alt="" coords="248,228,467,253"/>
+<area shape="poly" id="edge5_Node000001_Node001351" title=" " alt="" coords="149,178,300,222,298,227,147,183"/>
+<area shape="rect" id="Node001352" href="$prvm__edict_8c.html#a6448b804a9c92e6f86c4d53aa0786caa" title=" " alt="" coords="515,253,681,279"/>
+<area shape="poly" id="edge11_Node000001_Node001352" title=" " alt="" coords="119,178,172,223,209,246,249,263,315,278,383,283,448,283,507,278,507,283,448,288,382,289,314,283,247,269,206,251,169,227,115,182"/>
+<area shape="rect" id="Node001252" href="$prvm__edict_8c.html#afa91ea818cd11ac14c521f6893cf873e" title=" " alt="" coords="261,155,453,180"/>
+<area shape="poly" id="edge12_Node000001_Node001252" title=" " alt="" coords="200,165,247,165,247,170,200,170"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="330,37,313,26,311,14,327,6,357,3,384,5,400,11,405,20,397,30,393,27,400,20,397,15,383,10,357,8,329,11,316,17,317,23,333,33"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="559,156,551,146,555,136,571,130,598,128,632,132,645,141,641,146,630,137,598,133,572,135,559,140,556,146,563,153"/>
+<area shape="poly" id="edge6_Node001351_Node000003" title=" " alt="" coords="399,225,542,181,543,187,401,230"/>
+<area shape="poly" id="edge7_Node001351_Node001351" title=" " alt="" coords="318,230,310,220,314,210,330,204,357,201,391,205,404,215,401,219,389,210,357,207,332,209,318,214,315,219,322,226"/>
+<area shape="poly" id="edge8_Node001351_Node001352" title=" " alt="" coords="467,250,501,253,501,258,467,255"/>
+<area shape="poly" id="edge9_Node001352_Node001352" title=" " alt="" coords="559,255,551,245,555,235,571,229,598,227,632,231,645,240,641,244,630,235,598,232,572,234,559,239,556,244,563,251"/>
+<area shape="poly" id="edge13_Node001252_Node000003" title=" " alt="" coords="453,165,540,165,540,170,453,170"/>
+<area shape="poly" id="edge14_Node001252_Node001252" title=" " alt="" coords="318,156,310,146,314,136,330,130,357,128,391,132,404,141,401,146,389,137,357,133,332,135,318,140,315,146,322,153"/>
+</map>

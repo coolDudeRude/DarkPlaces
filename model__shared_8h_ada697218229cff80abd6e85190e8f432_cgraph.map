@@ -1,0 +1,7 @@
+<map id="Mod_UnloadCustomMaterial" name="Mod_UnloadCustomMaterial">
+<area shape="rect" id="Node000001" title="Removes all shaderpasses from material, and optionally deletes the textures in the skinframes." alt="" coords="5,29,212,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="66,31,57,21,62,11,79,5,109,3,146,7,156,12,160,18,155,20,153,16,145,12,109,8,81,10,66,15,63,20,70,27"/>
+<area shape="rect" id="Node000002" href="$gl__rmain_8c.html#ab57d3b15b1bdb498f4b0173fa69e9ccf" title=" " alt="" coords="260,29,480,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="212,39,247,39,247,45,212,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="328,31,319,21,323,11,341,5,370,3,407,7,418,12,421,18,417,20,414,16,406,12,370,8,342,10,327,15,324,20,332,27"/>
+</map>

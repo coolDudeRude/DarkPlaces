@@ -1,0 +1,10 @@
+<map id="R_UpdateFog" name="R_UpdateFog">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,113,92"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="27,68,20,58,24,48,37,42,59,40,86,44,97,52,94,57,84,48,59,45,39,47,28,52,26,58,31,65"/>
+<area shape="rect" id="Node000002" href="$gl__rmain_8c.html#adfb6975bcca6aca461150e84b3895454" title=" " alt="" coords="161,29,347,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,66,174,55,175,60,114,72"/>
+<area shape="rect" id="Node001349" href="$gl__rmain_8c.html#abbc565cc79b5d144c53ba4a4a81353e2" title=" " alt="" coords="183,103,325,128"/>
+<area shape="poly" id="edge3_Node000001_Node001349" title=" " alt="" coords="114,87,172,98,171,103,113,92"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="222,31,215,21,219,11,232,5,254,3,281,6,292,15,289,19,279,11,254,8,233,10,222,15,220,20,226,28"/>
+<area shape="poly" id="edge4_Node001349_Node001349" title=" " alt="" coords="222,104,215,94,219,84,232,78,254,76,281,80,292,88,289,93,279,84,254,81,233,83,222,88,220,94,226,101"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="R_Shadow_DrawWorldShadow_ShadowMap" name="R_Shadow_DrawWorldShadow_ShadowMap">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,137,224,177"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="69,137,66,127,73,118,90,112,115,110,143,113,159,120,157,125,142,118,115,115,91,117,76,122,71,128,74,136"/>
+<area shape="rect" id="Node000002" href="$gl__backend_8c.html#a28f12ab6551743428797e62bf183ebde" title=" " alt="" coords="313,29,413,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,134,201,99,271,64,299,54,301,59,273,68,204,103,147,139"/>
+<area shape="rect" id="Node000003" href="$gl__backend_8c.html#a5fd11a8a3e5cbb27690e870134b36675" title=" " alt="" coords="306,103,421,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="224,136,292,124,293,130,225,141"/>
+<area shape="rect" id="Node000401" href="$gl__backend_8c.html#a160faabf0f2b8616f192c5d3046ac477" title=" " alt="" coords="272,177,455,217"/>
+<area shape="poly" id="edge5_Node000001_Node000401" title=" " alt="" coords="225,172,259,177,258,182,224,177"/>
+<area shape="rect" id="Node000355" href="$gl__rmain_8c.html#ab91218d4fb985f2c4ffc9622a4e28fe2" title=" " alt="" coords="272,265,455,291"/>
+<area shape="poly" id="edge8_Node000001_Node000355" title=" " alt="" coords="158,174,325,257,322,261,155,179"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="323,31,314,21,319,11,336,5,363,3,398,7,408,11,412,17,408,20,405,15,397,12,363,8,337,10,323,15,320,20,327,27"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="323,104,314,94,319,84,336,78,363,76,398,80,408,85,412,90,408,93,405,89,397,85,363,81,337,83,323,88,320,94,327,101"/>
+<area shape="poly" id="edge6_Node000401_Node000401" title=" " alt="" coords="317,177,314,167,322,158,338,152,363,150,392,153,408,160,406,165,391,158,363,155,339,157,325,162,320,168,322,176"/>
+<area shape="poly" id="edge9_Node000355_Node000355" title=" " alt="" coords="323,267,314,257,319,247,336,241,363,239,398,243,408,247,412,253,408,256,405,251,397,248,363,244,337,246,323,251,320,256,327,263"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="Sbar_DrawInventory" name="Sbar_DrawInventory">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,140,160,165"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="49,142,42,132,46,122,60,116,83,113,111,117,122,126,119,130,109,122,83,119,61,121,50,125,47,131,54,138"/>
+<area shape="rect" id="Node000002" href="$common_8c.html#ae36050083f45e395189fee6aa45fbb0c" title="Returns the number of printed characters, excluding the final &#39;\0&#39; or returns &#45;1 if the buffer isn&#39;t ..." alt="" coords="241,29,329,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,138,145,102,207,64,228,55,230,60,209,68,148,106,101,142"/>
+<area shape="rect" id="Node000005" href="$sbar_8c.html#a539347ae3932de38cccfbc4f29677772" title=" " alt="" coords="211,103,359,128"/>
+<area shape="poly" id="edge3_Node000001_Node000005" title=" " alt="" coords="152,137,202,128,203,133,153,143"/>
+<area shape="rect" id="Node000825" href="$sbar_8c.html#ac4106c2d1659cb2c3bb74702330ba327" title=" " alt="" coords="208,176,363,201"/>
+<area shape="poly" id="edge5_Node000001_Node000825" title=" " alt="" coords="155,163,201,171,200,176,154,168"/>
+<area shape="rect" id="Node000826" href="$sbar_8c.html#a79655664d108bc65d0f6c23fdbcd3acc" title=" " alt="" coords="230,249,341,275"/>
+<area shape="poly" id="edge8_Node000001_Node000826" title=" " alt="" coords="109,163,250,241,248,245,106,168"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="252,31,245,21,249,11,262,5,285,3,314,6,325,16,321,20,311,11,285,8,264,10,252,15,250,20,256,28"/>
+<area shape="poly" id="edge4_Node000005_Node000005" title=" " alt="" coords="252,104,245,94,249,84,262,78,285,76,314,80,325,89,321,93,311,85,285,81,264,83,252,88,250,94,256,101"/>
+<area shape="poly" id="edge6_Node000825_Node000825" title=" " alt="" coords="252,178,245,168,249,158,262,152,285,149,314,153,325,162,321,166,311,158,285,155,264,157,252,161,250,167,256,174"/>
+<area shape="poly" id="edge9_Node000826_Node000826" title=" " alt="" coords="252,251,245,241,249,231,262,225,285,223,314,226,325,236,321,240,311,231,285,228,264,230,252,235,250,240,256,248"/>
+</map>

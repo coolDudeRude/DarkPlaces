@@ -1,0 +1,13 @@
+<map id="Mod_Skeletal_BuildTransforms" name="Mod_Skeletal_BuildTransforms">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,111,227,136"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="73,112,63,102,68,92,86,86,116,84,155,88,165,93,169,99,164,102,162,97,153,93,116,89,87,91,71,96,68,102,76,109"/>
+<area shape="rect" id="Node000002" href="$matrixlib_8c.html#a67226df4c9cfba23908883e2a96d8792" title=" " alt="" coords="275,29,497,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,108,274,65,310,55,311,60,275,70,150,113"/>
+<area shape="rect" id="Node000003" href="$model__alias_8c.html#a11c529dd1a0b6b9a5ad2e6606bae45c3" title=" " alt="" coords="275,103,497,143"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="227,121,261,121,261,126,227,126"/>
+<area shape="rect" id="Node000004" href="$mathlib_8c.html#a9585f01d076a6e7ba394542c30dce373" title=" " alt="" coords="309,192,463,217"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="160,133,331,185,329,191,158,139"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="343,31,333,21,338,11,356,5,386,3,425,7,435,12,439,18,434,20,432,16,423,12,386,8,357,10,341,15,338,20,346,27"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="336,104,333,94,341,84,359,79,386,77,417,79,434,87,432,92,416,85,386,82,360,84,344,89,338,95,341,102"/>
+<area shape="poly" id="edge7_Node000004_Node000004" title=" " alt="" coords="343,194,333,184,338,174,356,167,386,165,425,169,435,174,439,180,434,183,432,178,423,175,386,171,357,173,341,178,338,183,346,190"/>
+</map>

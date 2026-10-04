@@ -1,0 +1,10 @@
+<map id="gl_draw_newmap" name="gl_draw_newmap">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,141,92"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="40,68,32,58,36,48,50,42,73,40,102,44,113,53,110,57,100,49,73,45,51,47,40,52,38,58,44,65"/>
+<area shape="rect" id="Node000002" href="$ft2_8c.html#a030f289cdedd8f9269062ea4bd3cbc7a" title=" " alt="" coords="224,29,335,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,64,210,52,211,57,142,70"/>
+<area shape="rect" id="Node000003" href="$gl__rmain_8c.html#ac068333f6656190ddd5836765acdffe0" title=" " alt="" coords="189,103,369,128"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="142,89,193,98,192,103,141,94"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="246,31,238,21,242,11,256,5,279,3,308,6,319,15,316,20,306,11,279,8,257,10,246,15,244,20,250,28"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="246,104,238,94,242,84,256,78,279,76,308,80,319,89,316,93,306,85,279,81,257,83,246,88,244,94,250,101"/>
+</map>

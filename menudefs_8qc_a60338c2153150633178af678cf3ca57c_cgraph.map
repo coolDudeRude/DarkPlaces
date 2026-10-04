@@ -1,0 +1,8 @@
+<map id="spawn" name="spawn">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,69,55"/>
+<area shape="poly" id="edge4_Node000001_Node000001" title=" " alt="" coords="18,30,14,21,16,12,24,5,37,3,53,6,60,14,55,18,50,11,37,8,26,10,21,14,20,20,23,28"/>
+<area shape="rect" id="Node000002" href="$csprogsdefs_8qc.html#acbb54a239d76062465dccbc6a6c6e464" title=" " alt="" coords="117,29,177,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="70,48,104,48,104,53,70,53"/>
+<area shape="poly" id="edge3_Node000002_Node000001" title=" " alt="" coords="117,37,83,36,83,30,117,31"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="128,30,124,21,126,12,134,5,147,3,163,6,170,14,165,18,160,11,147,8,136,10,131,14,130,20,133,28"/>
+</map>

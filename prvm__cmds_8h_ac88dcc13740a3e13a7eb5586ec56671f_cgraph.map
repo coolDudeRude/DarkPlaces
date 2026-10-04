@@ -1,0 +1,13 @@
+<map id="VM_buf_copy" name="VM_buf_copy">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,118,115,143"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="29,119,22,110,26,100,39,94,60,91,86,95,97,104,94,108,84,100,60,97,40,99,29,103,27,109,33,116"/>
+<area shape="rect" id="Node000002" href="$zone_8c.html#ac3c570c2a60e19b44ed16e7e0ba844fa" title=" " alt="" coords="163,29,336,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,115,162,79,179,72,181,77,164,84,87,120"/>
+<area shape="rect" id="Node000003" href="$menudefs_8qc.html#a274680f571a231ddf29421b93d434bfa" title=" " alt="" coords="220,118,279,143"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="115,128,206,128,206,133,115,133"/>
+<area shape="rect" id="Node000004" href="$prvm__cmds_8c.html#a839f28438a1ca0de7c2d772295e1763a" title=" " alt="" coords="198,191,301,217"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="95,141,203,184,202,189,93,146"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="213,30,211,20,217,11,230,5,249,3,272,6,284,13,281,17,270,11,249,8,231,10,221,15,217,21,219,28"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="218,119,211,110,215,100,228,94,249,91,275,95,286,104,283,108,273,100,249,97,229,99,219,103,217,109,222,116"/>
+<area shape="poly" id="edge7_Node000004_Node000004" title=" " alt="" coords="218,193,211,183,215,173,228,167,249,165,275,168,286,177,283,181,273,173,249,170,229,172,219,177,217,182,222,190"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="LoadWAL_GetMetadata" name="LoadWAL_GetMetadata">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,179,55"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="63,31,57,21,60,11,72,5,92,3,116,6,126,15,123,19,114,11,92,8,73,10,64,15,62,20,67,28"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#a1cf9711475097b11dc41f743254ec77e" title="Prints to all appropriate console targets, and adds timestamps." alt="" coords="227,29,311,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,39,213,39,213,45,179,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="239,31,233,21,236,11,249,5,269,3,293,6,303,15,300,19,291,11,269,8,250,10,240,15,238,20,244,28"/>
+</map>

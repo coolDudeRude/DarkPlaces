@@ -1,0 +1,7 @@
+<map id="IN_BestWeapon_Register" name="IN_BestWeapon_Register">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,191,55"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="67,31,61,21,64,11,77,5,98,3,123,6,134,15,131,19,121,11,98,8,79,10,68,15,66,20,72,28"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#a49b71fe9a87e57a440e07af4a869a9f6" title="Prints to all appropriate console targets." alt="" coords="239,29,328,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,39,225,39,225,45,191,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="253,31,246,21,250,11,262,5,283,3,309,6,319,15,316,19,307,11,283,8,264,10,254,15,252,20,257,28"/>
+</map>

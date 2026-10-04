@@ -1,0 +1,13 @@
+<map id="CL_ParseTrailParticles" name="CL_ParseTrailParticles">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,168,128"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="54,104,47,94,50,84,64,78,87,76,115,80,126,89,122,93,112,85,87,81,65,83,54,88,52,94,58,101"/>
+<area shape="rect" id="Node000002" href="$cl__main_8c.html#ae89ed7cc68bd0464ac7c43827d5b9cbc" title=" " alt="" coords="216,29,359,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,100,215,63,234,57,236,62,217,69,121,105"/>
+<area shape="rect" id="Node001152" href="$cl__particles_8c.html#a1118bc3a4040530d1ef0f43ad4e61ff0" title=" " alt="" coords="227,103,347,128"/>
+<area shape="poly" id="edge4_Node000001_Node001152" title=" " alt="" coords="169,113,213,113,213,118,169,118"/>
+<area shape="rect" id="Node001038" href="$com__msg_8c.html#a223e14655e300422dbc0bb1d5640199d" title=" " alt="" coords="221,176,354,201"/>
+<area shape="poly" id="edge6_Node000001_Node001038" title=" " alt="" coords="123,126,240,169,238,174,122,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="254,31,247,21,251,11,265,5,287,3,315,6,326,16,323,20,313,11,287,8,266,10,255,15,253,20,259,28"/>
+<area shape="poly" id="edge5_Node001152_Node001152" title=" " alt="" coords="254,104,247,94,251,84,265,78,287,76,315,80,326,89,323,93,313,85,287,81,266,83,255,88,253,94,259,101"/>
+<area shape="poly" id="edge7_Node001038_Node001038" title=" " alt="" coords="254,177,247,168,251,158,265,152,287,149,315,153,326,162,323,166,313,158,287,155,266,157,255,161,253,167,259,174"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="CL_SpawnDecalParticleForPoint" name="CL_SpawnDecalParticleForPoint">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,71,199,111"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="57,71,55,61,62,52,78,46,102,44,130,47,145,54,143,59,128,52,102,49,79,51,65,56,60,62,62,70"/>
+<area shape="rect" id="Node000002" href="$cl__particles_8c.html#a758794662c823b251decedee12b2467d" title=" " alt="" coords="247,29,440,69"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="198,72,233,66,233,71,199,77"/>
+<area shape="rect" id="Node000004" href="$cl__collision_8c.html#a3844376c9cc74935d902373d216acc75" title=" " alt="" coords="290,118,397,143"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="199,104,277,117,276,122,198,109"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="299,30,296,20,303,10,319,5,343,3,371,6,386,13,384,18,370,11,343,8,320,10,306,15,301,21,304,28"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="304,120,296,110,300,100,316,94,343,91,377,95,390,105,387,109,375,100,343,97,318,99,304,104,301,109,308,116"/>
+</map>

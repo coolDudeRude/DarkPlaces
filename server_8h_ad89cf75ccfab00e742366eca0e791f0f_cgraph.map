@@ -1,0 +1,19 @@
+<map id="SV_ParticleEffectIndex" name="SV_ParticleEffectIndex">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,176,172,201"/>
+<area shape="poly" id="edge11_Node000001_Node000001" title=" " alt="" coords="53,178,45,168,49,158,64,152,89,149,119,153,132,162,128,166,117,158,89,155,65,157,52,162,50,167,57,174"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#ae3e9d36eda7886f5fe58e5201291dd78" title=" " alt="" coords="287,29,337,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,174,146,121,180,90,219,64,245,52,272,45,274,50,247,57,221,68,183,94,150,124,102,177"/>
+<area shape="rect" id="Node000003" href="$common_8c.html#acc99aea15e3d929ef5cfac822ee7040d" title=" " alt="" coords="220,103,404,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="120,173,219,137,245,129,246,134,221,142,122,178"/>
+<area shape="rect" id="Node000004" href="$console_8c.html#a49b71fe9a87e57a440e07af4a869a9f6" title="Prints to all appropriate console targets." alt="" coords="267,176,357,201"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="172,186,253,186,253,191,172,191"/>
+<area shape="rect" id="Node000024" href="$common_8c.html#ae36050083f45e395189fee6aa45fbb0c" title="Returns the number of printed characters, excluding the final &#39;\0&#39; or returns &#45;1 if the buffer isn&#39;t ..." alt="" coords="268,249,356,275"/>
+<area shape="poly" id="edge7_Node000001_Node000024" title=" " alt="" coords="129,199,260,242,259,247,128,204"/>
+<area shape="rect" id="Node000172" href="$fs_8c.html#a46b9b5ad3cc14f77ae63016505163128" title=" " alt="" coords="263,323,361,348"/>
+<area shape="poly" id="edge9_Node000001_Node000172" title=" " alt="" coords="107,199,157,238,221,284,274,314,271,319,219,288,154,243,104,204"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="285,36,270,25,270,14,284,5,312,3,336,5,350,10,356,19,351,28,347,26,351,19,347,14,334,10,312,8,286,11,274,16,275,23,288,32"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="276,104,268,94,272,84,287,78,312,76,343,80,355,89,352,93,341,85,312,81,288,83,276,88,273,94,280,101"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="276,178,268,168,272,158,287,152,312,149,343,153,355,162,352,166,341,158,312,155,288,157,276,162,273,167,280,174"/>
+<area shape="poly" id="edge8_Node000024_Node000024" title=" " alt="" coords="276,251,268,241,272,231,287,225,312,223,343,226,355,235,352,240,341,231,312,228,288,230,276,235,273,240,280,248"/>
+<area shape="poly" id="edge10_Node000172_Node000172" title=" " alt="" coords="276,324,268,314,272,304,287,298,312,296,343,300,355,309,352,313,341,305,312,301,288,303,276,308,273,314,280,321"/>
+</map>

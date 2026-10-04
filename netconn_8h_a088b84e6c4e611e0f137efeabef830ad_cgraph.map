@@ -1,0 +1,7 @@
+<map id="NetConn_Open" name="NetConn_Open">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,124,55"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="32,31,25,21,28,11,42,5,65,3,93,6,104,16,100,20,90,11,65,8,43,10,32,15,30,20,36,28"/>
+<area shape="rect" id="Node000002" href="$lhnet_8c.html#a191c91d25271eed39a5eb76e2d8e5dde" title="Returns the number of bytes written to *string excluding the \0 terminator." alt="" coords="172,29,357,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,39,159,39,159,45,124,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="232,31,225,21,228,11,242,5,265,3,293,6,304,16,300,20,290,11,265,8,243,10,232,15,230,20,236,28"/>
+</map>

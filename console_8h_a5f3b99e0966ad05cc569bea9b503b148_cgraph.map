@@ -1,0 +1,16 @@
+<map id="Log_Init" name="Log_Init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,140,79,165"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="14,141,8,132,12,122,23,116,42,113,65,117,74,125,71,129,62,122,42,119,25,121,16,125,14,131,19,138"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#afd9699f7f4b58a97d95e3c4f21d9ad68" title=" " alt="" coords="164,29,252,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="50,138,81,101,102,81,125,64,150,52,152,57,128,68,105,85,85,105,55,141"/>
+<area shape="rect" id="Node001351" href="$console_8c.html#aae090d8b9b4c2d4462e5f5236dea8601" title="call this once per frame to send out replies to rcon streaming clients" alt="" coords="127,103,289,128"/>
+<area shape="poly" id="edge3_Node000001_Node001351" title=" " alt="" coords="78,142,137,129,138,134,79,147"/>
+<area shape="rect" id="Node000206" href="$console_8c.html#afd8f8b9bd0352435b1a96b4e77b965e3" title=" " alt="" coords="165,176,251,201"/>
+<area shape="poly" id="edge6_Node000001_Node000206" title=" " alt="" coords="79,158,152,174,151,179,78,163"/>
+<area shape="rect" id="Node001352" href="$console_8c.html#aaad0c94b53acc9313ceef2bed27bc745" title=" " alt="" coords="167,249,249,275"/>
+<area shape="poly" id="edge8_Node000001_Node001352" title=" " alt="" coords="62,163,128,210,175,240,172,245,125,215,59,168"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="180,31,174,21,178,11,189,5,208,3,231,6,240,15,237,19,228,11,208,8,191,10,182,15,180,20,185,28"/>
+<area shape="poly" id="edge4_Node001351_Node001351" title=" " alt="" coords="180,104,174,94,178,85,189,78,208,76,231,79,240,88,237,92,228,84,208,81,191,83,182,88,180,94,185,101"/>
+<area shape="poly" id="edge7_Node000206_Node000206" title=" " alt="" coords="180,177,174,168,178,158,189,152,208,149,231,153,240,161,237,165,228,158,208,155,191,157,182,161,180,167,185,174"/>
+<area shape="poly" id="edge9_Node001352_Node001352" title=" " alt="" coords="180,251,174,241,178,231,189,225,208,223,231,226,240,235,237,239,228,231,208,228,191,230,182,235,180,240,185,248"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="convex_builder_state_t" name="convex_builder_state_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="137,295,310,320"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="125,5,176,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,40,77,71,35,111,20,133,10,156,9,180,18,203,47,236,84,261,125,280,164,292,163,297,123,285,82,266,44,240,13,205,4,180,5,155,15,131,31,108,74,67,117,36"/>
+<area shape="rect" id="Node000004" href="$structconvex__corner__t.html" title=" " alt="" coords="86,170,215,195"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="153,45,153,170,148,170,148,45"/>
+<area shape="rect" id="Node000005" href="$structconvex__face__t.html" title=" " alt="" coords="239,170,355,195"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="172,39,288,168,284,172,168,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="379,170,418,195"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="384,208,356,241,320,273,294,287,268,297,266,292,292,282,317,268,353,237,380,205"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="158,208,167,238,183,269,207,292,204,296,179,272,162,240,153,209"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="285,209,233,296,228,293,280,206"/>
+</map>

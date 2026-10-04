@@ -1,0 +1,7 @@
+<map id="CDAudio_GetPosition" name="CDAudio_GetPosition">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,165,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="51,31,43,21,47,11,62,5,85,3,115,6,126,15,123,20,113,11,85,8,63,10,51,15,49,20,55,28"/>
+<area shape="rect" id="Node000002" href="$snd__main_8c.html#a631b7d084a07f69da86723f585890712" title=" " alt="" coords="213,29,379,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="166,39,200,39,200,45,166,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="261,31,254,21,258,11,272,5,296,3,325,6,337,15,334,20,323,11,296,8,274,10,262,15,259,20,266,28"/>
+</map>

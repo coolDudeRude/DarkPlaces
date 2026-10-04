@@ -1,0 +1,16 @@
+<map id="VM_substring" name="VM_substring">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,140,116,165"/>
+<area shape="poly" id="edge9_Node000001_Node000001" title=" " alt="" coords="30,141,24,132,27,122,40,116,61,113,86,117,97,126,93,130,84,122,61,119,41,121,31,125,29,131,34,138"/>
+<area shape="rect" id="Node000002" href="$prvm__edict_8c.html#a1d2244b6253cecef732afeb0bf1d393f" title="Takes an strlen (not a buffer size)." alt="" coords="164,29,325,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,138,110,101,163,64,177,57,179,62,165,68,114,105,76,142"/>
+<area shape="rect" id="Node000900" href="$utf8lib_8c.html#a278996c25827af792ebbe5cd70a389eb" title="Get the number of bytes used in a string to represent an amount of characters." alt="" coords="197,103,292,128"/>
+<area shape="poly" id="edge3_Node000001_Node000900" title=" " alt="" coords="116,139,183,125,184,130,117,144"/>
+<area shape="rect" id="Node001351" href="$utf8lib_8c.html#a653af208a61aa5fff984be701a42189a" title="Get the byte&#45;index for a character&#45;index." alt="" coords="197,176,292,201"/>
+<area shape="poly" id="edge5_Node000001_Node001351" title=" " alt="" coords="117,161,184,174,183,179,116,166"/>
+<area shape="rect" id="Node001352" href="$utf8lib_8c.html#a468d17233b1ae82a82513c8c97596f6d" title="Get the number of characters in an UTF&#45;8 string." alt="" coords="203,249,286,275"/>
+<area shape="poly" id="edge7_Node000001_Node001352" title=" " alt="" coords="85,163,212,240,209,245,82,168"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="214,31,208,21,211,11,224,5,245,3,270,6,281,15,277,19,268,11,245,8,225,10,215,15,213,20,218,28"/>
+<area shape="poly" id="edge4_Node000900_Node000900" title=" " alt="" coords="214,104,208,94,211,85,224,78,245,76,270,80,281,88,277,92,268,84,245,81,225,83,215,88,213,94,218,101"/>
+<area shape="poly" id="edge6_Node001351_Node001351" title=" " alt="" coords="214,177,208,168,211,158,224,152,245,149,270,153,281,162,277,166,268,158,245,155,225,157,215,161,213,167,218,174"/>
+<area shape="poly" id="edge8_Node001352_Node001352" title=" " alt="" coords="214,251,208,241,211,231,224,225,245,223,270,226,281,235,277,239,268,231,245,228,225,230,215,235,213,240,218,248"/>
+</map>

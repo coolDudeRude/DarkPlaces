@@ -1,0 +1,14 @@
+<map id="LoadTGA_BGRA" name="LoadTGA_BGRA">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,129,105"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="38,81,32,72,35,62,47,56,67,53,92,57,102,66,98,70,89,62,67,59,49,61,39,65,37,71,42,78"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#a1cf9711475097b11dc41f743254ec77e" title="Prints to all appropriate console targets, and adds timestamps." alt="" coords="203,29,287,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,77,189,55,190,60,113,82"/>
+<area shape="rect" id="Node000014" href="$console_8c.html#a49b71fe9a87e57a440e07af4a869a9f6" title="Prints to all appropriate console targets." alt="" coords="360,117,449,143"/>
+<area shape="poly" id="edge3_Node000001_Node000014" title=" " alt="" coords="130,96,312,115,347,120,346,125,312,121,129,101"/>
+<area shape="rect" id="Node001349" href="$image_8c.html#a62d487eb8c6fd65c66e833ac150b8486" title=" " alt="" coords="177,155,312,180"/>
+<area shape="poly" id="edge6_Node000001_Node001349" title=" " alt="" coords="100,103,202,147,200,152,98,108"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="218,31,212,21,215,11,226,5,245,3,267,6,276,15,273,19,264,11,245,8,228,10,219,15,217,20,222,28"/>
+<area shape="poly" id="edge4_Node000014_Node000014" title=" " alt="" coords="378,119,372,109,375,99,386,93,405,91,427,94,436,103,433,107,424,99,405,96,388,98,379,103,377,108,382,116"/>
+<area shape="poly" id="edge7_Node001349_Node000014" title=" " alt="" coords="299,152,346,141,347,146,300,157"/>
+<area shape="poly" id="edge8_Node001349_Node001349" title=" " alt="" coords="218,156,212,146,215,137,226,130,245,128,267,131,276,140,273,144,264,136,245,133,228,135,219,140,217,146,222,153"/>
+</map>

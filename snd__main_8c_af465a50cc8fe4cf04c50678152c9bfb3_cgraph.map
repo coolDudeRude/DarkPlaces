@@ -1,0 +1,22 @@
+<map id="S_PlaySfxOnChannel" name="S_PlaySfxOnChannel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,213,163,239"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="49,215,41,205,45,195,60,189,84,187,114,190,126,199,123,204,112,195,84,192,61,194,49,199,46,204,53,212"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#a2696300802453d9333e9f52e5fae15bc" title="A Con_Printf that only shows up if the &quot;developer&quot; cvar is set." alt="" coords="251,29,349,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,212,106,181,133,141,167,99,209,64,237,51,239,56,212,68,171,103,137,144,111,184,94,214"/>
+<area shape="rect" id="Node000015" href="$console_8c.html#a49b71fe9a87e57a440e07af4a869a9f6" title="Prints to all appropriate console targets." alt="" coords="255,103,345,128"/>
+<area shape="poly" id="edge3_Node000001_Node000015" title=" " alt="" coords="99,211,146,175,210,137,241,125,243,130,212,142,149,179,102,215"/>
+<area shape="rect" id="Node000496" href="$snd__main_8c.html#ad535acb572368de09bae1e49dbb42686" title=" " alt="" coords="225,176,375,201"/>
+<area shape="poly" id="edge6_Node000001_Node000496" title=" " alt="" coords="158,211,212,201,213,206,159,216"/>
+<area shape="rect" id="Node000497" href="$snd__main_8c.html#a37d4ed14b0b2cfb37ac5e35c9699138e" title=" " alt="" coords="220,249,380,275"/>
+<area shape="poly" id="edge8_Node000001_Node000497" title=" " alt="" coords="161,236,210,244,209,250,160,241"/>
+<area shape="rect" id="Node000109" href="$snd__main_8c.html#a829fb82c54111157041a75fc9ec44cf7" title=" " alt="" coords="241,323,359,348"/>
+<area shape="poly" id="edge10_Node000001_Node000109" title=" " alt="" coords="111,236,263,314,261,319,109,241"/>
+<area shape="rect" id="Node000501" href="$snd__main_8c.html#ab06bc1585b60813b0e1d4626094dfcf7" title=" " alt="" coords="211,396,389,421"/>
+<area shape="poly" id="edge12_Node000001_Node000501" title=" " alt="" coords="97,237,144,293,177,326,212,357,260,388,258,392,209,361,173,330,140,296,93,241"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="265,31,257,21,261,11,276,5,300,3,330,6,342,15,339,20,328,11,300,8,277,10,265,15,262,20,269,28"/>
+<area shape="poly" id="edge4_Node000015_Node000015" title=" " alt="" coords="265,104,257,94,261,84,276,78,300,76,330,80,342,89,339,93,328,85,300,81,277,83,265,88,262,94,269,101"/>
+<area shape="poly" id="edge7_Node000496_Node000496" title=" " alt="" coords="265,178,257,168,261,158,276,152,300,149,330,153,342,162,339,166,328,158,300,155,277,157,265,162,262,167,269,174"/>
+<area shape="poly" id="edge9_Node000497_Node000497" title=" " alt="" coords="265,251,257,241,261,231,276,225,300,223,330,226,342,235,339,240,328,231,300,228,277,230,265,235,262,240,269,248"/>
+<area shape="poly" id="edge11_Node000109_Node000109" title=" " alt="" coords="265,324,257,314,261,304,276,298,300,296,330,300,342,309,339,313,328,305,300,301,277,303,265,308,262,314,269,321"/>
+<area shape="poly" id="edge13_Node000501_Node000501" title=" " alt="" coords="265,398,257,388,261,378,276,372,300,369,330,373,342,382,339,386,328,378,300,375,277,377,265,382,262,387,269,394"/>
+</map>

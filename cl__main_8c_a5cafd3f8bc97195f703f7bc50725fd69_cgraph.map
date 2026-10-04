@@ -1,0 +1,10 @@
+<map id="CL_Locs_FindLocationName" name="CL_Locs_FindLocationName">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,208,92"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="70,68,62,58,66,48,81,42,107,40,139,44,151,53,147,57,137,49,107,45,82,47,70,52,67,58,74,65"/>
+<area shape="rect" id="Node000002" href="$cl__main_8c.html#a8f1d7babd556f88269c3345379328e9f" title=" " alt="" coords="256,29,415,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="185,64,243,54,244,60,186,69"/>
+<area shape="rect" id="Node000003" href="$common_8c.html#ae36050083f45e395189fee6aa45fbb0c" title="Returns the number of printed characters, excluding the final &#39;\0&#39; or returns &#45;1 if the buffer isn&#39;t ..." alt="" coords="291,103,379,128"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="188,89,278,104,277,109,187,95"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="298,31,290,21,295,11,310,5,335,3,367,7,379,16,376,20,365,11,335,8,311,10,298,15,296,20,302,27"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="298,104,290,94,295,84,310,78,335,76,367,80,379,89,376,93,365,85,335,81,311,83,298,88,296,94,302,101"/>
+</map>

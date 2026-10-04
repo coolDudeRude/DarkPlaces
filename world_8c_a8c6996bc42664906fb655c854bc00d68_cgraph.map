@@ -1,0 +1,7 @@
+<map id="World_UnlinkEdict" name="World_UnlinkEdict">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,145,55"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="44,31,37,21,41,11,54,5,75,3,101,6,112,15,109,19,99,11,75,8,55,10,45,15,43,20,48,28"/>
+<area shape="rect" id="Node000002" href="$world_8c.html#a95f75574fa39e432a744f8a0d575fdbb" title=" " alt="" coords="193,29,340,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,39,179,39,179,45,146,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="235,31,229,21,232,11,245,5,267,3,293,6,304,15,300,19,291,11,267,8,247,10,236,15,234,20,240,28"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="q3shaderinfo_layer_alphagen_t" name="q3shaderinfo_layer_alphagen_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="93,121,239,161"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,116,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="68,43,78,70,93,96,123,119,120,123,89,99,73,72,63,45"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="141,5,191,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,45,169,121,163,121,163,45"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="263,5,301,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="280,45,271,72,255,99,239,113,221,124,218,119,236,109,251,96,266,70,275,43"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="Font_GetKerningForMap" name="Font_GetKerningForMap">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,183,128"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="63,104,56,94,60,84,73,78,94,76,120,80,131,88,128,92,118,84,94,81,74,83,63,88,61,94,67,101"/>
+<area shape="rect" id="Node000002" href="$console_8c.html#a49b71fe9a87e57a440e07af4a869a9f6" title="Prints to all appropriate console targets." alt="" coords="239,29,328,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,100,236,57,237,62,129,105"/>
+<area shape="rect" id="Node000311" href="$ft2_8c.html#a757db6176a654508e45661be26f2719f" title=" " alt="" coords="231,103,336,128"/>
+<area shape="poly" id="edge4_Node000001_Node000311" title=" " alt="" coords="183,113,217,113,217,118,183,118"/>
+<area shape="rect" id="Node000312" href="$ft2_8c.html#a5c8bba8c7e825322064a08890cf6a00a" title=" " alt="" coords="232,176,335,201"/>
+<area shape="poly" id="edge6_Node000001_Node000312" title=" " alt="" coords="129,126,237,168,236,173,127,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="252,31,245,21,249,11,262,5,283,3,309,6,320,15,317,19,307,11,283,8,263,10,253,15,251,20,256,28"/>
+<area shape="poly" id="edge5_Node000311_Node000311" title=" " alt="" coords="252,104,245,94,249,84,262,78,283,76,309,80,320,88,317,92,307,84,283,81,263,83,253,88,251,94,256,101"/>
+<area shape="poly" id="edge7_Node000312_Node000312" title=" " alt="" coords="252,177,245,168,249,158,262,152,283,149,309,153,320,162,317,166,307,158,283,155,263,157,253,161,251,167,256,174"/>
+</map>

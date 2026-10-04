@@ -1,0 +1,11 @@
+<map id="_Mem_CheckSentinelsGlobal" name="_Mem_CheckSentinelsGlobal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,216,80"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="72,56,64,46,68,36,84,30,111,28,144,32,157,41,153,46,142,37,111,33,85,35,72,40,69,46,76,53"/>
+<area shape="rect" id="Node000002" href="$zone_8c.html#a31a40f11eecadc54c307b4abcb868970" title=" " alt="" coords="264,29,433,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,53,250,50,250,55,217,59"/>
+<area shape="rect" id="Node000003" href="$sys__shared_8c.html#a2fe6e82a2dd55741246a156d74cc7dab" title="Causes the entire program to exit ASAP." alt="" coords="481,55,564,80"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="216,65,468,65,468,70,216,70"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="320,31,314,21,317,11,329,5,349,3,373,6,383,15,379,19,370,11,349,8,330,10,321,15,319,20,324,28"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="434,52,468,57,467,62,433,57"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="494,56,488,46,491,37,503,30,523,28,547,32,557,40,553,44,544,36,523,33,504,35,495,40,493,46,498,53"/>
+</map>

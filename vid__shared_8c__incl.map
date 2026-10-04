@@ -1,0 +1,9 @@
+<map id="vid_shared.c" name="vid_shared.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="113,5,217,31"/>
+<area shape="rect" id="Node000002" href="$quakedef_8h.html" title=" " alt="" coords="5,79,99,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,33,83,74,80,69,146,28"/>
+<area shape="rect" id="Node000093" href="$cdaudio_8h.html" title=" " alt="" coords="123,79,208,104"/>
+<area shape="poly" id="edge2_Node000001_Node000093" title=" " alt="" coords="168,31,168,65,163,65,163,31"/>
+<area shape="rect" id="Node000094" href="$image_8h.html" title=" " alt="" coords="232,79,307,104"/>
+<area shape="poly" id="edge3_Node000001_Node000094" title=" " alt="" coords="184,28,242,68,239,73,181,33"/>
+</map>

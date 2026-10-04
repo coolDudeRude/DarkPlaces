@@ -1,0 +1,14 @@
+<map id="CL_ForwardToServer_f" name="CL_ForwardToServer_f">
+<area shape="rect" id="Node000001" title="adds the current command line as a clc_stringcmd to the client message." alt="" coords="5,80,171,105"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="54,82,47,72,51,62,65,56,88,53,117,57,128,66,125,70,114,62,88,59,66,61,55,65,52,71,58,78"/>
+<area shape="rect" id="Node000002" href="$cl__cmd_8c.html#acdf279939cd5cee4b9b31a4182ff4308" title="adds the string as a clc_stringcmd to the client message." alt="" coords="219,29,372,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,77,229,55,230,61,142,82"/>
+<area shape="rect" id="Node000005" href="$common_8c.html#ae36050083f45e395189fee6aa45fbb0c" title="Returns the number of printed characters, excluding the final &#39;\0&#39; or returns &#45;1 if the buffer isn&#39;t ..." alt="" coords="420,55,508,80"/>
+<area shape="poly" id="edge8_Node000001_Node000005" title=" " alt="" coords="171,84,406,69,406,74,171,90"/>
+<area shape="rect" id="Node000071" href="$menudefs_8qc.html#a977f9318008de123876b168dfa86ad22" title=" " alt="" coords="270,155,321,180"/>
+<area shape="poly" id="edge6_Node000001_Node000071" title=" " alt="" coords="125,103,258,151,256,156,124,108"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="267,31,261,21,264,11,276,5,295,3,318,6,328,15,325,19,316,11,295,8,278,10,269,15,267,20,272,28"/>
+<area shape="poly" id="edge3_Node000002_Node000005" title=" " alt="" coords="373,51,407,56,406,61,372,56"/>
+<area shape="poly" id="edge4_Node000005_Node000005" title=" " alt="" coords="436,56,430,46,433,37,445,30,464,28,487,31,497,40,493,44,485,36,464,33,446,35,437,40,435,46,440,53"/>
+<area shape="poly" id="edge7_Node000071_Node000071" title=" " alt="" coords="268,156,261,147,264,137,276,130,295,128,319,132,328,141,325,145,316,136,295,133,278,135,268,140,267,146,272,153"/>
+</map>

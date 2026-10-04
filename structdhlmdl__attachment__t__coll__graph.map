@@ -1,0 +1,9 @@
+<map id="dhlmdl_attachment_t" name="dhlmdl_attachment_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="49,121,210,147"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,64,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="40,44,48,70,62,96,77,109,96,119,93,124,74,113,58,99,43,72,35,45"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="96,5,163,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="132,45,132,121,127,121,127,45"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="187,5,261,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="215,44,199,72,178,99,149,123,146,119,174,95,194,69,210,42"/>
+</map>

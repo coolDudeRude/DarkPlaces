@@ -1,0 +1,13 @@
+<map id="u8_strpad" name="u8_strpad">
+<area shape="rect" id="Node000001" title="Pads a utf&#45;8 string." alt="" coords="5,103,92,128"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="25,104,20,94,23,85,33,78,49,76,68,80,76,88,72,92,65,84,49,81,34,83,27,88,25,94,30,101"/>
+<area shape="rect" id="Node000002" href="$common_8c.html#ae36050083f45e395189fee6aa45fbb0c" title="Returns the number of printed characters, excluding the final &#39;\0&#39; or returns &#45;1 if the buffer isn&#39;t ..." alt="" coords="143,29,231,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,100,139,64,148,59,150,63,141,68,74,105"/>
+<area shape="rect" id="Node000005" href="$utf8lib_8c.html#a278996c25827af792ebbe5cd70a389eb" title="Get the number of bytes used in a string to represent an amount of characters." alt="" coords="140,103,235,128"/>
+<area shape="poly" id="edge3_Node000001_Node000005" title=" " alt="" coords="92,113,127,113,127,118,92,118"/>
+<area shape="rect" id="Node000008" href="$utf8lib_8c.html#a84fdd7534fae2c53670dc5c13f16bf30" title="Get the number of characters in a part of an UTF&#45;8 string." alt="" coords="142,176,233,201"/>
+<area shape="poly" id="edge5_Node000001_Node000008" title=" " alt="" coords="75,126,151,167,149,172,72,130"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="164,30,159,21,161,11,171,5,187,3,207,6,215,15,211,18,204,11,187,8,173,10,166,15,164,20,168,28"/>
+<area shape="poly" id="edge4_Node000005_Node000005" title=" " alt="" coords="164,104,159,94,161,85,171,78,187,76,207,80,215,88,211,92,204,84,187,81,173,83,166,88,164,94,168,101"/>
+<area shape="poly" id="edge6_Node000008_Node000008" title=" " alt="" coords="164,177,159,168,161,158,171,152,187,149,207,153,215,161,211,165,204,158,187,155,173,157,166,161,164,167,168,175"/>
+</map>

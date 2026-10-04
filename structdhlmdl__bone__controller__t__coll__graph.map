@@ -1,0 +1,7 @@
+<map id="dhlmdl_bone_controller_t" name="dhlmdl_bone_controller_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,161,192,187"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="24,5,91,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="57,44,57,89,60,113,68,136,86,160,82,163,63,139,55,114,52,89,52,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="115,5,165,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="137,44,113,138,105,162,100,160,108,137,132,43"/>
+</map>

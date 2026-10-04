@@ -1,0 +1,7 @@
+<map id="episode_t" name="episode_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="44,121,129,147"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,56,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="28,44,27,70,34,96,45,109,60,119,57,123,42,113,30,99,22,71,23,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="123,5,162,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="138,45,116,99,99,122,95,119,111,96,133,43"/>
+</map>

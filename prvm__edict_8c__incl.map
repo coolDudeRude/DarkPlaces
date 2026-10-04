@@ -1,0 +1,18 @@
+<map id="prvm_edict.c" name="prvm_edict.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="125,5,231,31"/>
+<area shape="rect" id="Node000002" href="$quakedef_8h.html" title=" " alt="" coords="98,152,191,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,32,153,139,148,138,173,31"/>
+<area shape="rect" id="Node000082" href="$progsvm_8h.html" title=" " alt="" coords="22,225,113,251"/>
+<area shape="poly" id="edge5_Node000001_Node000082" title=" " alt="" coords="125,26,96,32,67,43,40,58,19,80,11,96,8,113,15,150,32,185,51,213,47,216,27,187,10,151,3,113,6,95,14,77,37,54,65,38,95,27,124,21"/>
+<area shape="rect" id="Node000085" href="$prvm__offsets_8h.html" title=" " alt="" coords="104,299,223,324"/>
+<area shape="poly" id="edge10_Node000001_Node000085" title=" " alt="" coords="190,29,216,68,245,123,256,155,262,188,260,221,250,252,230,277,205,294,202,290,226,273,245,249,255,220,256,188,251,156,240,126,212,70,185,33"/>
+<area shape="rect" id="Node000090" href="$csprogs_8h.html" title=" " alt="" coords="151,225,235,251"/>
+<area shape="poly" id="edge6_Node000001_Node000090" title=" " alt="" coords="184,30,200,93,206,135,206,178,201,212,195,211,201,177,200,135,195,94,179,31"/>
+<area shape="rect" id="Node000093" href="$prvm__cmds_8h.html" title=" " alt="" coords="29,79,140,104"/>
+<area shape="poly" id="edge7_Node000001_Node000093" title=" " alt="" coords="165,33,112,72,109,68,161,29"/>
+<area shape="poly" id="edge2_Node000002_Node000082" title=" " alt="" coords="134,179,92,218,88,214,130,175"/>
+<area shape="poly" id="edge4_Node000002_Node000090" title=" " alt="" coords="155,176,179,213,175,216,150,179"/>
+<area shape="poly" id="edge3_Node000082_Node000085" title=" " alt="" coords="84,249,138,288,135,292,81,253"/>
+<area shape="poly" id="edge8_Node000093_Node000002" title=" " alt="" coords="97,103,128,140,124,143,92,106"/>
+<area shape="poly" id="edge9_Node000093_Node000082" title=" " alt="" coords="86,105,73,212,68,211,81,104"/>
+</map>

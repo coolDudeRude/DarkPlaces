@@ -1,0 +1,13 @@
+<map id="R_Shadow_PrepareModelShadows" name="R_Shadow_PrepareModelShadows">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,249,128"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="86,104,76,94,81,84,98,78,127,76,164,80,174,85,178,90,174,93,171,89,162,85,127,81,100,83,85,88,82,94,89,101"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#accccfae161879454243b3a8695a9bf3b" title=" " alt="" coords="362,29,413,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,100,297,63,348,49,349,54,298,69,172,105"/>
+<area shape="rect" id="Node000003" href="$mathlib_8c.html#a492f2a8698bdd39461dc8560cced2db1" title=" " alt="" coords="342,103,433,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="249,113,328,113,328,118,249,118"/>
+<area shape="rect" id="Node000004" href="$gl__rmain_8c.html#a2ebd69dd33cef88cb5280d6a31e0a5d6" title="get the skeletal data or cached animated mesh data for an entity (optionally with normals and tangent..." alt="" coords="297,176,477,201"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="174,126,329,170,327,175,173,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="361,38,340,27,336,21,338,14,354,6,387,3,417,5,434,11,438,22,427,32,424,28,433,21,430,15,416,10,387,8,356,11,342,17,342,20,344,23,363,33"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="346,104,336,94,341,84,358,78,387,76,424,80,434,85,438,90,434,93,431,89,422,85,387,81,360,83,345,88,342,94,349,101"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="346,178,336,168,341,158,358,151,387,149,424,153,434,158,438,164,434,167,431,162,422,158,387,155,360,157,345,162,342,167,349,174"/>
+</map>

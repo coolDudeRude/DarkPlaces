@@ -1,0 +1,7 @@
+<map id="PHYS_UnstickEntityReturnOffset" name="PHYS_UnstickEntityReturnOffset">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,199,69"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="59,30,56,20,63,10,78,5,102,3,129,6,144,13,141,18,128,11,102,8,80,10,66,15,61,21,64,28"/>
+<area shape="rect" id="Node000002" href="$phys_8c.html#ae3ce04cdfd27ee47b8aa0c61999b11c7" title=" " alt="" coords="247,37,425,62"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,47,233,47,233,52,199,52"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="298,38,290,28,294,18,310,12,336,10,369,14,381,23,378,28,367,19,336,15,311,17,298,22,295,28,302,35"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="FS_AddGameHierarchy" name="FS_AddGameHierarchy">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,176,92"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="55,68,48,58,52,48,66,42,91,40,121,44,133,53,129,57,119,49,91,45,68,47,55,52,53,58,59,65"/>
+<area shape="rect" id="Node000002" href="$fs_8c.html#a8e2264e6610c8bb6d9420157706e40d0" title=" " alt="" coords="224,29,392,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,64,220,54,221,60,166,69"/>
+<area shape="rect" id="Node000046" href="$common_8c.html#a4a8220fa88226bf9cf39b12a051a20d7" title=" " alt="" coords="289,103,327,128"/>
+<area shape="poly" id="edge4_Node000001_Node000046" title=" " alt="" coords="168,89,275,107,274,113,167,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="273,31,265,21,269,11,284,5,308,3,338,6,350,15,347,20,336,11,308,8,285,10,273,15,270,20,277,28"/>
+<area shape="poly" id="edge5_Node000046_Node000046" title=" " alt="" coords="287,112,269,101,266,88,280,79,308,76,333,78,348,85,351,95,342,105,338,102,346,94,344,88,332,83,308,81,282,84,271,90,273,98,290,107"/>
+</map>

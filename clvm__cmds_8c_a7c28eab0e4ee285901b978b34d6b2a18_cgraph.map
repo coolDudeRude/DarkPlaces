@@ -1,0 +1,25 @@
+<map id="VM_CL_ReadPicture" name="VM_CL_ReadPicture">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,249,156,275"/>
+<area shape="poly" id="edge15_Node000001_Node000001" title=" " alt="" coords="46,251,39,241,43,231,57,225,81,223,110,226,122,235,118,240,108,231,81,228,58,230,46,235,44,240,50,248"/>
+<area shape="rect" id="Node000002" href="$gl__draw_8c.html#a924bb151d47e7e82d9690f2b6537247d" title=" " alt="" coords="209,29,373,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,248,98,212,122,162,157,109,178,85,202,64,210,59,213,63,206,68,182,89,161,112,127,165,103,214,89,250"/>
+<area shape="rect" id="Node000298" href="$gl__draw_8c.html#af86c2b624887b3cb7b94531be8ab324b" title=" " alt="" coords="221,103,361,128"/>
+<area shape="poly" id="edge3_Node000001_Node000298" title=" " alt="" coords="89,247,134,194,166,163,203,137,215,131,218,135,205,142,169,167,138,198,93,251"/>
+<area shape="rect" id="Node000320" href="$gl__draw_8c.html#a5ca44c80b6d3008618eb534abbd056b7" title=" " alt="" coords="236,176,347,201"/>
+<area shape="poly" id="edge5_Node000001_Node000320" title=" " alt="" coords="110,247,203,210,227,203,228,208,205,215,112,252"/>
+<area shape="rect" id="Node000197" href="$jpeg_8c.html#a26b23b0df745c232193435bd9d6f81c0" title=" " alt="" coords="204,249,379,275"/>
+<area shape="poly" id="edge7_Node000001_Node000197" title=" " alt="" coords="157,259,191,259,191,265,157,265"/>
+<area shape="rect" id="Node000994" href="$com__msg_8c.html#a4dad1f08fe43f599ea024f527edac678" title=" " alt="" coords="227,323,356,348"/>
+<area shape="poly" id="edge9_Node000001_Node000994" title=" " alt="" coords="119,272,242,316,240,321,117,277"/>
+<area shape="rect" id="Node001167" href="$com__msg_8c.html#abba916836e191410aa1ca246125bf7eb" title="Same as MSG_ReadString except it returns the number of bytes written to *string excluding the \0 term..." alt="" coords="213,396,370,421"/>
+<area shape="poly" id="edge11_Node000001_Node001167" title=" " alt="" coords="98,273,145,312,205,357,255,387,252,392,203,362,142,316,95,277"/>
+<area shape="rect" id="Node001100" href="$prvm__edict_8c.html#a1d2244b6253cecef732afeb0bf1d393f" title="Takes an strlen (not a buffer size)." alt="" coords="211,469,372,495"/>
+<area shape="poly" id="edge13_Node000001_Node001100" title=" " alt="" coords="91,274,134,345,167,390,206,431,250,461,247,465,202,435,163,393,130,348,86,276"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="257,31,249,21,253,11,268,5,291,3,321,6,332,15,329,20,319,11,291,8,269,10,257,15,255,20,261,28"/>
+<area shape="poly" id="edge4_Node000298_Node000298" title=" " alt="" coords="257,104,249,94,253,84,268,78,291,76,321,80,332,89,329,93,319,85,291,81,269,83,257,88,255,94,261,101"/>
+<area shape="poly" id="edge6_Node000320_Node000320" title=" " alt="" coords="257,178,249,168,253,158,268,152,291,149,321,153,332,162,329,166,319,158,291,155,269,157,257,161,255,167,261,174"/>
+<area shape="poly" id="edge8_Node000197_Node000197" title=" " alt="" coords="257,251,249,241,253,231,268,225,291,223,321,226,332,235,329,240,319,231,291,228,269,230,257,235,255,240,261,248"/>
+<area shape="poly" id="edge10_Node000994_Node000994" title=" " alt="" coords="257,324,249,314,253,304,268,298,291,296,321,300,332,309,329,313,319,305,291,301,269,303,257,308,255,314,261,321"/>
+<area shape="poly" id="edge12_Node001167_Node001167" title=" " alt="" coords="257,398,249,388,253,378,268,372,291,369,321,373,332,382,329,386,319,378,291,375,269,377,257,381,255,387,261,394"/>
+<area shape="poly" id="edge14_Node001100_Node001100" title=" " alt="" coords="257,471,249,461,253,451,268,445,291,443,321,446,332,455,329,460,319,451,291,448,269,450,257,455,255,460,261,468"/>
+</map>

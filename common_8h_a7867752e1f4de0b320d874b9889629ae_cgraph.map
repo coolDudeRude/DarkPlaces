@@ -1,0 +1,7 @@
+<map id="MSG_WriteAngle8i" name="MSG_WriteAngle8i">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,148,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="47,31,40,21,44,11,56,5,77,3,102,6,112,15,109,19,99,11,77,8,58,10,48,15,45,20,51,28"/>
+<area shape="rect" id="Node000002" href="$com__msg_8c.html#a7e32b0a419941b93644ba097bb64af96" title=" " alt="" coords="196,29,320,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="148,39,182,39,182,45,148,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="228,31,222,21,225,11,237,5,258,3,283,6,293,15,290,19,281,11,258,8,239,10,229,15,227,20,232,28"/>
+</map>

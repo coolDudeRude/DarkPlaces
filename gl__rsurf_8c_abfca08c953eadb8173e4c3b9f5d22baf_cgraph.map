@@ -1,0 +1,7 @@
+<map id="R_StainNode" name="R_StainNode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,111,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="37,30,32,21,35,11,44,5,58,3,75,6,83,14,79,18,72,11,58,8,46,10,39,14,38,20,42,28"/>
+<area shape="rect" id="Node000002" href="$menudefs_8qc.html#a83f4d3f317a80e82e6b16ea61ea5efc3" title=" " alt="" coords="159,29,205,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="111,39,145,39,145,45,111,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="161,30,156,21,159,11,168,5,182,3,199,6,207,14,203,18,196,11,182,8,170,10,163,14,162,20,166,28"/>
+</map>

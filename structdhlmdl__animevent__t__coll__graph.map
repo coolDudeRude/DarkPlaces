@@ -1,0 +1,7 @@
+<map id="dhlmdl_animevent_t" name="dhlmdl_animevent_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,141,161,167"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="7,5,74,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="38,44,36,80,39,98,44,116,53,129,65,139,62,143,49,132,40,119,33,100,31,80,33,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="98,5,157,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="123,45,101,118,91,142,86,140,95,116,118,43"/>
+</map>

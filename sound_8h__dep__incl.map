@@ -1,0 +1,16 @@
+<map id="sound.h" name="sound.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="238,5,311,31"/>
+<area shape="rect" id="Node000002" href="$cd__shared_8c.html" title=" " alt="" coords="5,152,104,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,27,117,46,69,62,52,71,41,80,34,97,35,116,50,151,45,153,30,117,29,96,36,77,49,66,67,57,116,41,224,22"/>
+<area shape="rect" id="Node000003" href="$quakedef_8h.html" title=" " alt="" coords="51,79,144,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="234,38,127,81,125,76,232,33"/>
+<area shape="rect" id="Node000106" href="$snd__mem_8c.html" title=" " alt="" coords="169,79,266,104"/>
+<area shape="poly" id="edge4_Node000001_Node000106" title=" " alt="" coords="259,43,229,80,225,77,255,40"/>
+<area shape="rect" id="Node000107" href="$snd__ogg_8c.html" title=" " alt="" coords="290,79,377,104"/>
+<area shape="poly" id="edge5_Node000001_Node000107" title=" " alt="" coords="295,40,326,77,322,80,291,43"/>
+<area shape="rect" id="Node000108" href="$snd__wav_8c.html" title=" " alt="" coords="401,79,490,104"/>
+<area shape="poly" id="edge6_Node000001_Node000108" title=" " alt="" coords="316,33,418,76,416,81,314,38"/>
+<area shape="rect" id="Node000109" href="$snd__xmp_8c.html" title=" " alt="" coords="514,79,606,104"/>
+<area shape="poly" id="edge7_Node000001_Node000109" title=" " alt="" coords="325,29,515,76,513,81,324,34"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="86,117,64,153,59,151,81,114"/>
+</map>

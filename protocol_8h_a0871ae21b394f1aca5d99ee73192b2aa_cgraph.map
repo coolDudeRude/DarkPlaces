@@ -1,0 +1,10 @@
+<map id="EntityFrame_WriteFrame" name="EntityFrame_WriteFrame">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,71,189,96"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="58,72,49,62,54,52,70,46,97,44,132,48,141,53,145,58,141,61,138,57,130,53,97,49,71,51,57,56,55,62,62,69"/>
+<area shape="rect" id="Node000002" href="$cl__ents_8c.html#affa564faab3c4b253fdb36159dc2dc86" title=" " alt="" coords="237,29,443,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,68,251,54,252,60,173,73"/>
+<area shape="rect" id="Node001351" href="$cl__ents_8c.html#ab225c57764bfa418563d817b77ed7952" title=" " alt="" coords="241,103,439,143"/>
+<area shape="poly" id="edge3_Node000001_Node001351" title=" " alt="" coords="176,93,228,102,227,107,175,99"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="301,31,292,21,297,11,313,5,340,3,374,7,384,11,388,17,383,20,380,15,373,12,340,8,314,10,300,15,297,20,305,27"/>
+<area shape="poly" id="edge4_Node001351_Node001351" title=" " alt="" coords="295,104,292,94,299,84,315,79,340,77,368,80,384,87,381,92,367,85,340,82,317,84,302,89,297,95,300,102"/>
+</map>

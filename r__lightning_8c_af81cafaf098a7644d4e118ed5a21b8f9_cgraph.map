@@ -1,0 +1,7 @@
+<map id="r_lightningbeams_newmap" name="r_lightningbeams_newmap">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,204,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="66,31,58,21,62,11,78,5,105,3,138,7,151,16,147,20,136,11,105,8,79,10,66,15,63,20,70,27"/>
+<area shape="rect" id="Node000002" href="$gl__rmain_8c.html#ac068333f6656190ddd5836765acdffe0" title=" " alt="" coords="252,29,432,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="204,39,238,39,238,45,204,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="303,31,295,21,299,11,315,5,342,3,375,7,388,16,385,20,373,11,342,8,317,10,303,15,300,20,307,27"/>
+</map>
